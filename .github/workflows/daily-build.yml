@@ -88,7 +88,10 @@ jobs:
         if: steps.findscript.outputs.script != ''
         run: |
           mkdir -p feed
-          python build_rss_feed.py
+          python build_rss_feed.py \
+            --episodes-dir episodes \
+            --feed-out feed/podcast.xml \
+            --base-url "https://dcaputo-cyber.github.io/My-Morning-Docket-Firecrown"
 
       - name: Commit generated files
         if: steps.findscript.outputs.script != ''
