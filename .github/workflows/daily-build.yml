@@ -1,14 +1,5 @@
 name: Morning Docket — Build on Script Push
 
-# Triggers whenever a new script lands in scripts/episodes/.
-# That push normally comes from Cowork (or a Cowork scheduled task),
-# which is powered by Firecrown's Claude Team plan — so no API key
-# or API billing is required.
-#
-# Optional: also runs every weekday at 09:00 UTC as a safety net,
-# in case the script push hasn't happened yet (the job will no-op
-# if there's no new script for today).
-
 on:
   push:
     paths:
@@ -47,7 +38,6 @@ jobs:
       - name: Find today's script
         id: findscript
         run: |
-          # Prefer today's dated script; fall back to newest script file.
           today_file="scripts/episodes/episode-${{ steps.date.outputs.today }}-script.txt"
           if [ -f "$today_file" ]; then
             echo "script=$today_file" >> "$GITHUB_OUTPUT"
@@ -73,7 +63,6 @@ jobs:
         id: episode
         run: |
           base=$(basename "${{ steps.findscript.outputs.script }}")
-          # Expect episode-YYYY-MM-DD-script.txt
           date=$(echo "$base" | grep -oE "[0-9]{4}-[0-9]{2}-[0-9]{2}" | head -n 1)
           if [ -z "$date" ]; then date="${{ steps.date.outputs.today }}"; fi
           echo "date=$date" >> "$GITHUB_OUTPUT"
@@ -92,5 +81,20 @@ jobs:
         run: |
           mkdir -p episodes
           python generate_episode_audio.py \
-              --script  "${{ steps.findscript.outputs.script }}" \
-              --out     "episodes/morning-d
+            --script "${{ steps.findscript.outputs.script }}" \
+            --out "episodes/morning-docket-${{ steps.episode.outputs.date }}.mp3"
+
+      - name: Rebuild podcast feed
+        if: steps.findscript.outputs.script != ''
+        run: |
+          mkdir -p feed
+          python build_rss_feed.py
+
+      - name: Commit generated files
+        if: steps.findscript.outputs.script != ''
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add episodes/ feed/
+          git commit -m "Build episode ${{ steps.episode.outputs.date }}" || echo "No changes to commit"
+          git push
