@@ -1,0 +1,96 @@
+name: Morning Docket — Build on Script Push
+
+# Triggers whenever a new script lands in scripts/episodes/.
+# That push normally comes from Cowork (or a Cowork scheduled task),
+# which is powered by Firecrown's Claude Team plan — so no API key
+# or API billing is required.
+#
+# Optional: also runs every weekday at 09:00 UTC as a safety net,
+# in case the script push hasn't happened yet (the job will no-op
+# if there's no new script for today).
+
+on:
+  push:
+    paths:
+      - "scripts/episodes/*.txt"
+  schedule:
+    - cron: "0 9 * * 1-5"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  build-episode:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install ffmpeg
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+
+      - name: Install Python deps
+        run: |
+          pip install --upgrade pip
+          pip install edge-tts pydub mutagen
+
+      - name: Compute today's date
+        id: date
+        run: echo "today=$(date -u +%Y-%m-%d)" >> "$GITHUB_OUTPUT"
+
+      - name: Find today's script
+        id: findscript
+        run: |
+          # Prefer today's dated script; fall back to newest script file.
+          today_file="scripts/episodes/episode-${{ steps.date.outputs.today }}-script.txt"
+          if [ -f "$today_file" ]; then
+            echo "script=$today_file" >> "$GITHUB_OUTPUT"
+          else
+            latest=$(ls -t scripts/episodes/*.txt 2>/dev/null | head -n 1 || true)
+            if [ -z "$latest" ]; then
+              echo "No script found. Nothing to build."
+              echo "script=" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+            echo "Using latest script: $latest"
+            echo "script=$latest" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Skip if no script available
+        if: steps.findscript.outputs.script == ''
+        run: |
+          echo "::notice::No script to build — skipping."
+          exit 0
+
+      - name: Derive episode date from script filename
+        if: steps.findscript.outputs.script != ''
+        id: episode
+        run: |
+          base=$(basename "${{ steps.findscript.outputs.script }}")
+          # Expect episode-YYYY-MM-DD-script.txt
+          date=$(echo "$base" | grep -oE "[0-9]{4}-[0-9]{2}-[0-9]{2}" | head -n 1)
+          if [ -z "$date" ]; then date="${{ steps.date.outputs.today }}"; fi
+          echo "date=$date" >> "$GITHUB_OUTPUT"
+
+      - name: Skip if this episode already built
+        if: steps.findscript.outputs.script != ''
+        run: |
+          existing="episodes/morning-docket-${{ steps.episode.outputs.date }}.mp3"
+          if [ -f "$existing" ]; then
+            echo "::notice::$existing already exists — skipping."
+            exit 0
+          fi
+
+      - name: Generate MP3 with edge-tts (free)
+        if: steps.findscript.outputs.script != ''
+        run: |
+          mkdir -p episodes
+          python generate_episode_audio.py \
+              --script  "${{ steps.findscript.outputs.script }}" \
+              --out     "episodes/morning-d
