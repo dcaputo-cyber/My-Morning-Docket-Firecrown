@@ -1,0 +1,5 @@
+cd morning-docket-a7f3k2
+unzip /path/to/morning-docket-repo.zip -d .
+git add .
+git commit -m "Initial Morning Docket setup"
+git push
