@@ -25,6 +25,10 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Sync with latest main
+        run: |
+          git pull --rebase origin main
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -93,11 +97,6 @@ jobs:
             --title "Morning Docket" \
             --author "Darren Caputo" \
             --image-url "https://dcaputo-cyber.github.io/My-Morning-Docket-Firecrown/cover.png"
-
-      - name: Pull latest main before commit
-        if: steps.findscript.outputs.script != ''
-        run: |
-          git pull --rebase origin main
 
       - name: Commit generated files
         if: steps.findscript.outputs.script != ''
