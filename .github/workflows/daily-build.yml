@@ -5,6 +5,7 @@ on:
     paths:
       - "scripts/episodes/*.txt"
       - "generate_episode_audio.py"
+      - "build_rss_feed.py"
       - ".github/workflows/daily-build.yml"
   schedule:
     - cron: "0 9 * * 1-5"
@@ -90,7 +91,7 @@ jobs:
           python build_rss_feed.py \
             --episodes-dir episodes \
             --feed-out feed/podcast.xml \
-            --base-url "https://dcaputo-cyber.github.io/My-Morning-Docket-Firecrown"
+            --base-url "https://dcaputo-cyber.github.io/My-Morning-Docket-Firecrown/episodes"
 
       - name: Commit generated files
         if: steps.findscript.outputs.script != ''
