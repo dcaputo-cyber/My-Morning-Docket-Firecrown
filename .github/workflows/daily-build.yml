@@ -9,9 +9,12 @@ on:
       - "cover.png"
       - ".github/workflows/daily-build.yml"
       - ".gitignore"
-  schedule:
-    - cron: "0 21 * * 1-5"
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      episode_date:
+        description: "Optional episode date to build (YYYY-MM-DD)"
+        required: false
+        type: string
 
 permissions:
   contents: write
@@ -23,11 +26,7 @@ jobs:
       - name: Check out repo
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0
-
-      - name: Sync with latest main
-        run: |
-          git pull --rebase origin main
+          fetch-depth: 2
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -42,29 +41,53 @@ jobs:
           pip install --upgrade pip
           pip install edge-tts pydub mutagen
 
-      - name: Find newest script
-        id: findscript
+      - name: Determine script to build
+        id: pickscript
+        shell: bash
         run: |
+          set -euo pipefail
+
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ -n "${{ github.event.inputs.episode_date }}" ]; then
+            target="scripts/episodes/episode-${{ github.event.inputs.episode_date }}-script.txt"
+            if [ ! -f "$target" ]; then
+              echo "Requested script not found: $target"
+              exit 1
+            fi
+            echo "Using manually requested script: $target"
+            echo "script=$target" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          if [ "${{ github.event_name }}" = "push" ]; then
+            changed=$(git diff --name-only HEAD^ HEAD | grep '^scripts/episodes/.*\.txt$' | tail -n 1 || true)
+            if [ -n "$changed" ]; then
+              echo "Using pushed script: $changed"
+              echo "script=$changed" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
+          fi
+
           latest=$(ls -t scripts/episodes/episode-*-script.txt 2>/dev/null | head -n 1 || true)
           if [ -z "$latest" ]; then
             echo "No script found. Nothing to build."
             echo "script=" >> "$GITHUB_OUTPUT"
             exit 0
           fi
-          echo "Using latest script: $latest"
+          echo "Using latest fallback script: $latest"
           echo "script=$latest" >> "$GITHUB_OUTPUT"
 
       - name: Skip if no script available
-        if: steps.findscript.outputs.script == ''
+        if: steps.pickscript.outputs.script == ''
         run: |
           echo "::notice::No script to build — skipping."
           exit 0
 
       - name: Derive episode date from script filename
-        if: steps.findscript.outputs.script != ''
         id: episode
+        shell: bash
         run: |
-          base=$(basename "${{ steps.findscript.outputs.script }}")
+          set -euo pipefail
+          base=$(basename "${{ steps.pickscript.outputs.script }}")
           date=$(echo "$base" | grep -oE "[0-9]{4}-[0-9]{2}-[0-9]{2}" | head -n 1)
           if [ -z "$date" ]; then
             echo "Could not derive episode date from filename: $base"
@@ -72,22 +95,19 @@ jobs:
           fi
           echo "date=$date" >> "$GITHUB_OUTPUT"
 
-      - name: Generate MP3 with edge-tts (free)
-        if: steps.findscript.outputs.script != ''
+      - name: Generate MP3 with edge-tts
         run: |
           mkdir -p episodes
           python -u generate_episode_audio.py \
-            --script "${{ steps.findscript.outputs.script }}" \
+            --script "${{ steps.pickscript.outputs.script }}" \
             --out "episodes/morning-docket-${{ steps.episode.outputs.date }}.mp3"
 
       - name: Verify MP3 exists
-        if: steps.findscript.outputs.script != ''
         run: |
-          ls -la episodes
           test -f "episodes/morning-docket-${{ steps.episode.outputs.date }}.mp3"
+          ls -la episodes
 
       - name: Rebuild podcast feed
-        if: steps.findscript.outputs.script != ''
         run: |
           mkdir -p feed
           python build_rss_feed.py \
@@ -99,7 +119,6 @@ jobs:
             --image-url "https://dcaputo-cyber.github.io/My-Morning-Docket-Firecrown/cover.png"
 
       - name: Commit generated files
-        if: steps.findscript.outputs.script != ''
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
