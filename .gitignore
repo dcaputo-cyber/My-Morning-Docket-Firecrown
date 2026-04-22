@@ -4,3 +4,4 @@ __pycache__/
 .DS_Store
 .episode_chunks/
 .morning-docket-*-chunks/
+episodes/.morning-docket-*_chunks/
