@@ -4,10 +4,10 @@
      xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Morning Docket</title>
-    <link>https://dcaputo-cyber.github.io/My-Morning-Docket-Firecrown</link>
+    <link>https://dcaputo-cyber.github.io/My-Morning-Docket-Firecrown/episodes</link>
     <description>A daily 25-30 minute audio briefing for the general counsel of a media company. Privacy, IP, ad tech, publishing, corporate governance, legal tech, business AI, and the industry angles that matter.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Apr 2026 01:18:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 01:45:05 +0000</lastBuildDate>
     <itunes:author>Darren Caputo</itunes:author>
     <itunes:owner>
       <itunes:name>Darren Caputo</itunes:name>
@@ -20,9 +20,9 @@
       <title>Morning Docket — 2026-04-21</title>
       <description>Today's briefing for 2026-04-21.</description>
       <pubDate>Tue, 21 Apr 2026 05:00:00 +0000</pubDate>
-      <enclosure url="https://dcaputo-cyber.github.io/My-Morning-Docket-Firecrown/morning-docket-2026-04-21.mp3" length="21442221" type="audio/mpeg"/>
-      <guid isPermaLink="false">morning-docket-2026-04-21</guid>
-      <itunes:duration>00:22:20</itunes:duration>
+      <enclosure url="https://dcaputo-cyber.github.io/My-Morning-Docket-Firecrown/episodes/morning-docket-2026-04-21.mp3" length="21341613" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://dcaputo-cyber.github.io/My-Morning-Docket-Firecrown/episodes/morning-docket-2026-04-21.mp3</guid>
+      <itunes:duration>00:22:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
   </channel>
