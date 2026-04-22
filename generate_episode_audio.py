@@ -5,44 +5,7 @@ Converts a text script (with [BRACKETED] stage directions and `---` separators
 automatically stripped) into a single MP3.
 
 Default provider is Microsoft edge-tts: free, high-quality neural voice,
-no API key required. OpenAI and ElevenLabs are available as optional
-paid providers.
-
-USAGE
------
-1) Install deps in a venv:
-       python3 -m venv .venv && source .venv/bin/activate
-       pip install edge-tts pydub
-       # Also install ffmpeg on your system:
-       #   macOS:   brew install ffmpeg
-       #   Ubuntu:  sudo apt-get install ffmpeg
-       #   Windows: choco install ffmpeg
-
-2) Run with the free default (edge-tts, no key required):
-       python generate_episode_audio.py \
-           --script episode-2026-04-21-script.txt \
-           --out   morning-docket-2026-04-21.mp3
-
-   Or specify a voice:
-       python generate_episode_audio.py ... --voice en-US-AndrewMultilingualNeural
-
-PROVIDERS
----------
-edge-tts   (default, FREE)  — Microsoft neural voices via Edge's TTS endpoint.
-openai     (paid)           — tts-1-hd, ~$0.03/1k chars (~$0.57 per episode).
-elevenlabs (paid)           — eleven_multilingual_v2, ~$0.18/1k chars.
-
-VOICE RECOMMENDATIONS
----------------------
-edge-tts (NPR-ish, measured):
-    en-US-AndrewMultilingualNeural   (default — broadcast, natural cadence)
-    en-US-BrianMultilingualNeural    (warmer, slightly younger)
-    en-US-GuyNeural                  (classic news-anchor)
-    en-US-DavisNeural                (polished, confident)
-    en-US-TonyNeural                 (deeper, documentary-style)
-
-OpenAI:  onyx (default), ash, sage
-ElevenLabs: use a voice_id from your ElevenLabs account
+no API key required.
 """
 
 import argparse
@@ -52,8 +15,6 @@ import re
 import sys
 from pathlib import Path
 
-
-# --- Script cleaning ---------------------------------------------------------
 
 def clean_script(raw: str) -> str:
     """Strip stage directions, headers, and separators."""
@@ -78,8 +39,6 @@ def clean_script(raw: str) -> str:
     text = re.sub(r"\n{3,}", "\n\n", text).strip()
     return text
 
-
-# --- Chunking (paid APIs cap per-request chars; edge-tts handles long) -------
 
 def chunk_text(text: str, max_chars: int = 3500) -> list[str]:
     paragraphs = [p.strip() for p in text.split("\n\n") if p.strip()]
@@ -111,15 +70,11 @@ def chunk_text(text: str, max_chars: int = 3500) -> list[str]:
     return chunks
 
 
-# --- Providers ---------------------------------------------------------------
-
 def synthesize_edge(chunks: list[str], voice: str, out_dir: Path) -> list[Path]:
-    """Microsoft edge-tts — free, no API key."""
     import edge_tts
 
     async def _do_chunk(i: int, chunk: str, p: Path) -> None:
         print(f"  [edge-tts] chunk {i+1}/{len(chunks)} ({len(chunk)} chars) -> {p.name}")
-        # rate="-5%" makes the delivery slightly slower for an NPR cadence
         communicate = edge_tts.Communicate(chunk, voice, rate="-5%")
         await communicate.save(str(p))
 
@@ -134,48 +89,9 @@ def synthesize_edge(chunks: list[str], voice: str, out_dir: Path) -> list[Path]:
     return asyncio.run(_run())
 
 
-def synthesize_openai(chunks: list[str], voice: str, out_dir: Path) -> list[Path]:
-    from openai import OpenAI
-    client = OpenAI()
-    paths: list[Path] = []
-    for i, chunk in enumerate(chunks):
-        p = out_dir / f"chunk_{i:03d}.mp3"
-        print(f"  [OpenAI] chunk {i+1}/{len(chunks)} ({len(chunk)} chars) -> {p.name}")
-        with client.audio.speech.with_streaming_response.create(
-            model="tts-1-hd",
-            voice=voice,
-            input=chunk,
-            response_format="mp3",
-        ) as r:
-            r.stream_to_file(p)
-        paths.append(p)
-    return paths
-
-
-def synthesize_elevenlabs(chunks: list[str], voice_id: str, out_dir: Path) -> list[Path]:
-    from elevenlabs.client import ElevenLabs
-    client = ElevenLabs(api_key=os.environ["ELEVENLABS_API_KEY"])
-    paths: list[Path] = []
-    for i, chunk in enumerate(chunks):
-        p = out_dir / f"chunk_{i:03d}.mp3"
-        print(f"  [ElevenLabs] chunk {i+1}/{len(chunks)} ({len(chunk)} chars) -> {p.name}")
-        audio = client.text_to_speech.convert(
-            voice_id=voice_id,
-            model_id="eleven_multilingual_v2",
-            text=chunk,
-            output_format="mp3_44100_128",
-        )
-        with open(p, "wb") as f:
-            for part in audio:
-                f.write(part)
-        paths.append(p)
-    return paths
-
-
-# --- Concatenate -------------------------------------------------------------
-
 def concat_mp3s(parts: list[Path], out_path: Path) -> None:
     from pydub import AudioSegment
+
     combined = AudioSegment.empty()
     gap = AudioSegment.silent(duration=350)
     for p in parts:
@@ -183,23 +99,53 @@ def concat_mp3s(parts: list[Path], out_path: Path) -> None:
     combined.export(out_path, format="mp3", bitrate="128k")
 
 
-# --- Main --------------------------------------------------------------------
+DEFAULT_VOICE = "en-US-AndrewMultilingualNeural"
 
-DEFAULT_VOICES = {
-    "edge": "en-US-AndrewMultilingualNeural",
-    "openai": "onyx",
-    "elevenlabs": "pNInz6obpgDQGcFmaJgB",  # "Adam"
-}
 
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--script", required=True, help="Path to the script .txt")
     ap.add_argument("--out", required=True, help="Path for the final MP3")
-    ap.add_argument("--provider", choices=("edge", "openai", "elevenlabs"),
-                    default="edge", help="(default: edge — free, no API key)")
-    ap.add_argument("--voice", default=None,
-                    help="Voice name/id. If omitted, uses a provider default.")
+    ap.add_argument("--voice", default=DEFAULT_VOICE, help="Edge voice name")
     args = ap.parse_args()
 
-    voice = args.voice or DEFAULT_VOICES[args.provider]
-    scr
+    script_path = Path(args.script)
+    out_path = Path(args.out)
+
+    if not script_path.exists():
+        print(f"ERROR: script not found: {script_path}", file=sys.stderr)
+        return 1
+
+    raw = script_path.read_text(encoding="utf-8")
+    text = clean_script(raw)
+
+    if not text.strip():
+        print("ERROR: cleaned script is empty", file=sys.stderr)
+        return 1
+
+    words = len(text.split())
+    chars = len(text)
+    print(f"Script: {words} words, {chars} chars (~{words/155:.1f} min at 155 wpm)")
+    print(f"Voice: {args.voice}")
+
+    chunks = chunk_text(text)
+    print(f"Split into {len(chunks)} chunks.")
+
+    work_dir = out_path.parent / f".{out_path.stem}_chunks"
+    work_dir.mkdir(parents=True, exist_ok=True)
+
+    parts = synthesize_edge(chunks, args.voice, work_dir)
+
+    print(f"Concatenating {len(parts)} chunks -> {out_path}")
+    concat_mp3s(parts, out_path)
+
+    if out_path.exists():
+        print(f"Done. {out_path}")
+        return 0
+
+    print(f"ERROR: output not created: {out_path}", file=sys.stderr)
+    return 1
+
+
+if __name__ == "__main__":
+    sys.exit(main())
