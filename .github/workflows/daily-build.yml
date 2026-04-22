@@ -6,6 +6,7 @@ on:
       - "scripts/episodes/*.txt"
       - "generate_episode_audio.py"
       - "build_rss_feed.py"
+      - "cover.png"
       - ".github/workflows/daily-build.yml"
   schedule:
     - cron: "0 9 * * 1-5"
@@ -91,7 +92,10 @@ jobs:
           python build_rss_feed.py \
             --episodes-dir episodes \
             --feed-out feed/podcast.xml \
-            --base-url "https://dcaputo-cyber.github.io/My-Morning-Docket-Firecrown/episodes"
+            --base-url "https://dcaputo-cyber.github.io/My-Morning-Docket-Firecrown/episodes" \
+            --title "Morning Docket" \
+            --author "Darren Caputo" \
+            --image-url "https://dcaputo-cyber.github.io/My-Morning-Docket-Firecrown/cover.png"
 
       - name: Commit generated files
         if: steps.findscript.outputs.script != ''
