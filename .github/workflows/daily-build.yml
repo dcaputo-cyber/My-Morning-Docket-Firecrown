@@ -4,6 +4,8 @@ on:
   push:
     paths:
       - "scripts/episodes/*.txt"
+      - "generate_episode_audio.py"
+      - ".github/workflows/daily-build.yml"
   schedule:
     - cron: "0 9 * * 1-5"
   workflow_dispatch: {}
@@ -71,21 +73,15 @@ jobs:
         if: steps.findscript.outputs.script != ''
         run: |
           mkdir -p episodes
-          python generate_episode_audio.py \
+          python -u generate_episode_audio.py \
             --script "${{ steps.findscript.outputs.script }}" \
             --out "episodes/morning-docket-${{ steps.episode.outputs.date }}.mp3"
 
-      - name: Show episodes directory after generation
+      - name: Verify MP3 exists
         if: steps.findscript.outputs.script != ''
         run: |
-          pwd
-          ls -la
-          echo ""
-          echo "Episodes directory:"
-          ls -la episodes || true
-          echo ""
-          echo "Find mp3 files:"
-          find . -name "*.mp3" -maxdepth 3
+          ls -la episodes
+          test -f "episodes/morning-docket-${{ steps.episode.outputs.date }}.mp3"
 
       - name: Rebuild podcast feed
         if: steps.findscript.outputs.script != ''
@@ -95,17 +91,6 @@ jobs:
             --episodes-dir episodes \
             --feed-out feed/podcast.xml \
             --base-url "https://dcaputo-cyber.github.io/My-Morning-Docket-Firecrown"
-
-      - name: Show git status before commit
-        if: steps.findscript.outputs.script != ''
-        run: |
-          git status --short
-          echo ""
-          echo "Episodes directory before commit:"
-          ls -la episodes || true
-          echo ""
-          echo "Feed directory before commit:"
-          ls -la feed || true
 
       - name: Commit generated files
         if: steps.findscript.outputs.script != ''
