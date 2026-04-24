@@ -39,22 +39,45 @@ jobs:
         id: date
         run: echo "today=$(date -u +%Y-%m-%d)" >> "$GITHUB_OUTPUT"
 
-      - name: Find today's script
+      - name: Find the next episode's script
         id: findscript
         run: |
-          today_file="scripts/episodes/episode-${{ steps.date.outputs.today }}-script.txt"
-          if [ -f "$today_file" ]; then
-            echo "script=$today_file" >> "$GITHUB_OUTPUT"
-          else
-            latest=$(ls -t scripts/episodes/*.txt 2>/dev/null | head -n 1 || true)
-            if [ -z "$latest" ]; then
-              echo "No script found. Nothing to build."
-              echo "script=" >> "$GITHUB_OUTPUT"
-              exit 0
+          # Episode filenames are dated for the intended LISTEN date (usually
+          # the next weekday). Scripts are generated the afternoon BEFORE the
+          # listen date, so at trigger time UTC "today" is typically one day
+          # behind the script date. Always build the NEAREST future-dated
+          # script (smallest date >= UTC today). This handles:
+          #   - Afternoon-before push (today=Apr 22, script=Apr 23) -> picks 04-23
+          #   - Morning-of scheduled cron (today=Apr 23, script=Apr 23) -> picks 04-23
+          #   - Multiple future scripts queued -> builds the earliest one first
+          today="${{ steps.date.outputs.today }}"
+          next=""
+          next_date=""
+          for f in scripts/episodes/episode-*-script.txt; do
+            [ -f "$f" ] || continue
+            d=$(basename "$f" | grep -oE "[0-9]{4}-[0-9]{2}-[0-9]{2}" | head -n 1)
+            [ -z "$d" ] && continue
+            # Skip scripts whose listen date is strictly in the past.
+            if [ "$d" \< "$today" ]; then
+              continue
             fi
-            echo "Using latest script: $latest"
-            echo "script=$latest" >> "$GITHUB_OUTPUT"
+            if [ -z "$next_date" ] || [ "$d" \< "$next_date" ]; then
+              next_date="$d"
+              next="$f"
+            fi
+          done
+          if [ -z "$next" ]; then
+            # No future-dated script — fall back to the most recently modified
+            # script so manual workflow_dispatch still does something sensible.
+            next=$(ls -t scripts/episodes/*.txt 2>/dev/null | head -n 1 || true)
           fi
+          if [ -z "$next" ]; then
+            echo "No script found. Nothing to build."
+            echo "script=" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          echo "Using script: $next"
+          echo "script=$next" >> "$GITHUB_OUTPUT"
 
       - name: Skip if no script available
         if: steps.findscript.outputs.script == ''

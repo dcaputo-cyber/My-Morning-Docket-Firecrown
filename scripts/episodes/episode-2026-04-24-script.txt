@@ -1,0 +1,114 @@
+MORNING DOCKET — Friday, April 24, 2026
+A daily brief for the general counsel of a media company.
+Produced by Darren Caputo.
+
+---
+
+[SHOW OPEN]
+
+Welcome to Morning Docket — a daily legal briefing for the general counsel of a modern media company. Produced by Darren Caputo.
+
+[COLD OPEN]
+
+The amended Children's Online Privacy Protection Rule hit its compliance deadline two days ago, quietly, while most of the in-house privacy community was still reading through the FTC's ad-agency consent order. The House Energy and Commerce Committee has introduced the first serious federal preemption bill of this Congress, and the Association of National Advertisers backed it the same day. Nineteen states now have active, enforceable comprehensive privacy laws on the books. And in Brussels, the European Board for Digital Services has begun sketching the shape of the DSA's second enforcement wave. A Friday full of developments that were easy to miss.
+
+[INTRO]
+
+Good morning. This is Morning Docket. Today is Friday, April twenty-fourth, 2026. Apologies for the missed briefing yesterday — we're back on schedule. The agenda is dense this morning. We'll open with a headline roundup across privacy, children's online privacy, federal legislation, the DSA, and a freight-economy update. Then a deep dive into two stories that arrived in the same week and cannot be understood separately — the arrival of the amended COPPA Rule's compliance deadline on Wednesday, and the introduction of the SECURE Data Act on the same day. Together those two developments tell you something about where federal privacy law is going. After that, GC Bench, a brief note on generative AI procurement. Then the industry angle, with a freight and rail update. And we close with the watch list — four items this time, because the calendar is full.
+
+Let's get into it.
+
+[HEADLINE ROUNDUP]
+
+First up: COPPA. The amendments to the Federal Trade Commission's Children's Online Privacy Protection Rule hit their compliance deadline on Wednesday, April twenty-second. Background, briefly. The amended rule was published in April of 2025, became effective on June twenty-third, 2025, and gave regulated operators a one-year implementation window that just closed. Three changes are material for a media operation. One: the definition of personal information now includes biometric identifiers — voice recognition, face recognition, gait, hand geometry. Two: operators of child-directed services must now obtain separate, verifiable parental consent before disclosing a child's personal information to a third party for any purpose not, quote, integral to the operator's service. That formulation is new, and it will be litigated. Three: every covered operator must maintain a written information security program and a written data retention policy. These are documentation requirements. They are also discovery requirements in any future enforcement matter. If you operate any property that is directed to children under thirteen — even portions of a property — your documentation should be dated on or before April twenty-second. If it is not, that is this week's work.
+
+Second: federal privacy legislation. On Wednesday, April twenty-second, the House Energy and Commerce Committee announced the introduction of the Securing and Establishing Consumer Uniform Rights and Enforcement over Data Act — the SECURE Data Act. Same day, the Association of National Advertisers issued a formal endorsement, framed around a number I'll flag because you will hear it cited in every piece of coverage: twenty-nine million American jobs supported by the advertising economy. The SECURE Data Act would, if enacted, replace the state-by-state patchwork with a single federal standard. Preemption is explicit. Private right of action is absent. Enforcement is vested in the FTC and, in a bounded way, state attorneys general. This is the most serious preemption vehicle since the American Data Privacy and Protection Act collapsed in 2022. It is, in its current form, closer to what the ad-industry trade groups have wanted for five years than anything that has come before it. I'll spend more time on this in the deep dive, alongside the COPPA story, because the two are linked.
+
+Third: state enforcement. As of January first, 2026, three more states — Indiana, Kentucky, and Rhode Island — joined the active enforcement map, bringing the total to nineteen states with comprehensive consumer privacy laws in effect. That is more than half of the American population. The California Privacy Protection Agency's largest-ever settlement, one-point-three-five million dollars against Tractor Supply Company in October of 2025, was exceeded in February of this year by the Disney and ABC matter at two-point-seven-five million, which I covered on Wednesday. Texas secured a settlement of over one billion dollars against a major technology company under the Texas Data Privacy and Security Act — the Google settlement we've referenced previously. Looking ahead, the commentary from the major privacy practices suggests that Colorado, Connecticut, Maryland, Minnesota, Oregon, and New Jersey will emerge as the next active enforcers. If you are running a compliance program that treats California as the ceiling, that program is no longer fit for purpose. California is the median.
+
+Fourth: the European Board for Digital Services. On April fifteenth, the Board convened in Brussels for its eighteenth meeting. Two outputs worth flagging. One: the Board submitted its views on the Commission's preliminary findings in pending cases against TikTok and four pornographic platforms, specifically on the protection-of-minors provisions. Those views are persuasive, not binding, but the Board's posture matters. Two: the Board outlined the supervisory measures competent authorities are taking at the national level, in coordination with the Commission's enforcement against the Very Large Online Platforms. The second enforcement wave of the DSA, which we've flagged before, begins in Q2 — meaning within the next two months. That wave extends many obligations that previously applied only to VLOPs to a much broader set of entities. Penalties under the DSA can reach six percent of global annual turnover. If you operate any EU-facing property that could, under any reading, be characterized as an intermediary service — and at the scale of a Firecrown portfolio operating in the EU via reader access and advertising, you can — the DSA second-wave scoping analysis is this month's legal-engineering project, not next month's.
+
+Fifth: freight. The trucking spot market remains elevated. The National Truckload Index is holding in the low three-dollar range nationally, off the April fourth all-time highs I reported Wednesday but still at multi-year peaks. Flatbed has eased slightly from the three-ninety-five peak but remains structurally tight. The more interesting data point this week is intermodal. Domestic intermodal spot rates — excluding fuel — are running at roughly a dollar thirty-nine a mile, down five percent from a year ago. That is the only segment of the freight economy still in a meaningful rate slump. Domestic intermodal volumes, by contrast, are up around three percent year over year, which is the classic pattern of volume recovery preceding rate recovery by six to twelve months. If you advise Trains or FreightWaves advertisers, the rate divergence is the editorial hook this quarter. The FreightWaves State of the Industry white paper for April, released this month in affiliation with Ryder, is the single best primary source for the full dataset.
+
+Sixth and final headline: the SEC. No new rulemaking this week, but the Division of Corporation Finance is now processing the comments received on the Regulation S-K review, which closed on April thirteenth. Chairman Atkins has not announced a proposed-rule schedule. The consensus among securities practitioners I talk to is a late-Q2 or early-Q3 proposed rule, with the highest-profile items being executive compensation disclosure under Item 402 and the rationalization of overlapping disclosure requirements. If you advise on any public-company work, or on any capital-markets transaction this year, your mental model of the Reg S-K landscape should be provisional. The final shape is coming into focus but is not yet drawn.
+
+[DEEP DIVE]
+
+Now to what I think is the most important through-line of this week. Two stories, arriving on the same day, telling you something about where American privacy law is going.
+
+Story one: the amended COPPA Rule's compliance deadline arrived Wednesday. Story two: the SECURE Data Act was introduced, with ANA endorsement, the same Wednesday.
+
+Those are not unrelated events, and the order in which they happened matters.
+
+Let me unpack the first one properly, because it is going to drive FTC enforcement priorities for the next eighteen months.
+
+The amended COPPA Rule is, at its core, an answer to a question the Commission has been asked for a decade: what do you do when the business model of child-directed and mixed-audience digital services depends, structurally, on sharing personal information with third parties — advertising partners, analytics vendors, social-login providers? The 2025 amendments impose a new consent architecture on that sharing. Verifiable parental consent is already the COPPA baseline. But now, under § 312.5(a)(2) of the amended Rule, operators must obtain a separate verifiable parental consent before disclosing personal information to third parties, unless the disclosure is integral to the service. The word integral is where the action is. The Commission's commentary in the final rule gives examples on both sides. A payment processor handling a transaction the parent initiated — integral. Passing data to an advertising network to enable behavioral targeting — not integral. The gray area in between is where the enforcement will happen.
+
+Alongside the consent architecture, the amended Rule now requires a written information security program and a written data retention policy. This is what privacy practitioners call the New York State Department of Financial Services template applied to children's data. Not just technical and organizational measures — documented, named, assigned, and auditable. The FTC has made clear, including in the safe-harbor program updates that took effect earlier, that it expects to review these programs as part of compliance matters.
+
+The amendments also expanded the definition of personal information to include biometric identifiers. If any property you operate uses voice analysis for audio authentication, or facial analysis for age estimation, or any biometric trigger in a child-directed context, the documentation burden under the amended Rule is substantial.
+
+Two concrete consequences for an in-house GC at a publisher.
+
+One. Audit every property in your portfolio against the Rule's directed-to-children and mixed-audience tests. The amended Rule retains the traditional factors — subject matter, visual content, use of animated characters, music, presence of child celebrities, age of models, language, and so on. But the amended Rule also requires operators to document their analysis. Undocumented conclusions are a much weaker defensive posture than documented ones. If any property you operate could, under any reasonable reading, be directed to children or could have a meaningful child audience, your Rule 312.2 analysis should exist, be dated, and be signed by counsel.
+
+Two. Re-paper your third-party data-sharing agreements for any child-directed or mixed-audience property. The amended Rule pushes liability upstream. Operators are responsible for ensuring that downstream disclosures comply. Your DPA template with an ad network, an analytics vendor, or a social-sign-in provider needs to reflect the new COPPA architecture. If your DPA templates were last revised before April of 2025, they need another pass.
+
+Now, the second story. The SECURE Data Act.
+
+The SECURE Data Act is a federal comprehensive privacy bill. It is also, and this is the frame the in-house community should use, a federal preemption vehicle. If enacted, it would supplant state privacy laws in the areas the federal law covers. California's CPRA, Texas's TDPSA, Colorado, Connecticut, Oregon, Virginia, and the rest of the nineteen-state landscape would be substantially narrowed or preempted. Private right of action is absent, which is the drafting choice that has blocked every federal privacy bill since 2018. Enforcement is vested in the FTC and in state attorneys general, bounded to the federal standard.
+
+The ANA's endorsement the same day is a coordinated move. The ad industry has wanted this bill — with this shape — for five years. The twenty-nine-million-jobs number, which ANA has been circulating for a decade, is the framing device. The White House has not signaled a position. The Senate has not yet introduced a companion bill.
+
+Here is where the timing matters. Children's privacy is the most politically unified issue in the digital regulatory space. Republicans, Democrats, parents, pediatricians, and most of the advocacy organizations agree on the premise that children deserve special protection. COPPA is the vehicle for that consensus. The amended COPPA Rule just hit compliance this week. The FTC's enforcement capacity on children's privacy is, frankly, stronger than it has ever been.
+
+So what happens if the SECURE Data Act advances? The children's-privacy question is almost certainly carved out. No serious federal preemption bill is going to preempt COPPA — the Rule is still under the FTC's authority, and Congress has for fifteen years treated COPPA as protected. Which means the federal preemption landscape, if enacted, looks something like this: general consumer privacy preempted, children's privacy untouched, the state consumer-protection laws relevant to children's privacy likely preserved, health data under HIPAA preserved, financial data under GLBA preserved, and state attorneys general retaining jurisdiction over the carved-out categories.
+
+If you are a publisher running properties that touch all four of those categories — which most media operations do — the complexity doesn't go down under a federal bill. It changes shape. You trade one kind of patchwork for another. The states are not going to get out of the privacy business. They will narrow their focus to what remains within their jurisdiction.
+
+Four practical things for an in-house GC to do this quarter.
+
+One. Submit comment on the SECURE Data Act. The committee process will produce a mark-up within sixty to ninety days, and the comment window is now. Publisher voices have been, historically, under-represented in federal privacy policy relative to platforms and ad agencies. That imbalance costs the industry on the margin.
+
+Two. Keep your state compliance machinery operational. The temptation, when a federal preemption bill is introduced, is to slow the state compliance work. Do not. There is a real possibility that the SECURE Data Act fails and leaves the state landscape untouched. There is an equally real possibility that it passes but takes effect on an eighteen-month or twenty-four-month runway. In either case, you need your state program running at full capacity. Any slowdown is a mistake.
+
+Three. Assume the children's privacy regime will intensify, not moderate. The COPPA Rule amendments are only one vector. State children's privacy laws — California's Age-Appropriate Design Code, the comparable bills in Maryland, New York, and elsewhere — are already in effect or coming online. Federal preemption, even if it happens, will likely leave them in place. If you operate any child-directed or mixed-audience property, your compliance spend on that property is going up, not down, regardless of what happens to the SECURE Data Act.
+
+Four. Audit your audience data practices for biometric identifiers. The amended COPPA Rule expanded the definition of personal information to include biometric identifiers. Several state laws — Illinois BIPA foremost among them — already did. If any Firecrown property uses voice recognition, facial analysis, or any other biometric processing, you should know precisely where, under what legal basis, with what consent architecture, and with what retention policy. This is the kind of audit that an in-house team can conduct without outside counsel for the first pass. Do it.
+
+[GC BENCH]
+
+On the legal-tech side this week, one brief item.
+
+The emerging pattern across in-house AI procurement conversations that I'm hearing is that general counsel are being asked to sign off on an increasing number of AI-powered tools that were bought by another department — marketing, product, engineering — without legal review. Sales, HR, customer service, content operations — each of these has standalone AI budgets now, and many are buying tools that process personal data. The 2025 pattern of centralized AI governance has, in 2026, already started to fragment. Whether that is sustainable is an open question.
+
+One practical response: institute a default rule that any AI tool processing personal data or customer content requires a one-page legal intake form before procurement, with a seventy-two-hour turnaround commitment from the legal team. If you cannot review in seventy-two hours, the tool proceeds subject to a documented risk. That trade-off surfaces the true cost of legal review and forces prioritization. It also creates a paper trail, which is worth more than any single veto.
+
+[INDUSTRY ANGLE]
+
+Freight, briefly. The April State of the Industry white paper from FreightWaves, in affiliation with Ryder, is the authoritative primary source on the full picture this month. The headline is the one I've been consistent on: spot rates are elevated, contract rates are catching up more slowly, domestic intermodal volumes are recovering ahead of intermodal rates. If you advise the FreightWaves or Trains commercial teams, that divergence — volumes up three percent, rates down five percent — is the hook for the Q2 content calendar.
+
+Rail. The AAR's week-ending April eleventh numbers continue to show carload growth leading intermodal. Year to date through fourteen weeks, carloads are up four percent. That is the Trains story for the spring.
+
+Aviation. No further movement on the Mental Health in Aviation Act since the Senate Commerce Committee advance on April fourteenth, but I note that the House companion bill is expected to see committee activity in May. If that progresses, FAA rulemaking becomes a concrete H2 2026 item. Editorial should prepare.
+
+Marine. A note on the maritime side, because it has been under-covered on this show. Global maritime trade data released this month shows slight softening on the international container front, with domestic coastal and inland waterway volumes more stable. Boating and Sailing's readership cares about fuel costs and port congestion. The current fuel price environment, and the easing of the Port of Los Angeles wait times to pre-pandemic norms, is the relevant editorial frame.
+
+[CLOSING BRIEF]
+
+Four items on the watch list for the next four to six weeks.
+
+One. May eighth. The New York City DCWP virtual hearing on the proposed municipal Click-to-Cancel rule. Comments close just before.
+
+Two. May fourteenth. The rescheduled Bartz versus Anthropic fairness hearing, San Francisco, two p.m. Pacific. Judge Martínez-Olguín has the objections in hand. The outcome shapes the AI training-data market for the next twelve months.
+
+Three. June nineteenth. The UK Data Use and Access Act Section 103 complaints-handling deadline. Fifty-six days from today. If you are operating without a documented UK complaints workflow, that is first-thing-Monday work.
+
+Four. Late Q2 or early Q3. The SEC's proposed Regulation S-K rule, and, separately, the first committee mark-up of the SECURE Data Act. Both of those dates are uncertain, but both are within the next ninety days on the most plausible schedules. Your corporate governance calendar and your privacy legislative tracker are both about to get busy.
+
+[SIGNOFF]
+
+That's Morning Docket for Friday, April twenty-fourth. We'll be back Monday with what Judge Alsup's preliminary schedule looks like in the opt-out individual suits, and what the ANA's comment letter on SECURE Data actually argues. Until then, enjoy the drive. Drive safely. And remember: the federal regulators are writing rules, the states are enforcing them, the cities are adding their own, and the Europeans are watching. Read your patchwork.
+
+---
+END OF EPISODE.
