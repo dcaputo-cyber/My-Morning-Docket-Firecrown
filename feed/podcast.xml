@@ -7,7 +7,7 @@
     <link>https://dcaputo-cyber.github.io/My-Morning-Docket-Firecrown/episodes</link>
     <description>A daily 25-30 minute audio briefing for the general counsel of a media company. Privacy, IP, ad tech, publishing, corporate governance, legal tech, business AI, and the industry angles that matter.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 May 2026 14:08:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 20:16:18 +0000</lastBuildDate>
     <itunes:author>Darren Caputo</itunes:author>
     <itunes:owner>
       <itunes:name>Darren Caputo</itunes:name>
@@ -23,12 +23,30 @@
     </image>
 
     <item>
+      <title>Morning Docket — 2026-05-06</title>
+      <description>Today's briefing for 2026-05-06.</description>
+      <pubDate>Wed, 06 May 2026 05:00:00 +0000</pubDate>
+      <enclosure url="https://dcaputo-cyber.github.io/My-Morning-Docket-Firecrown/episodes/morning-docket-2026-05-06.mp3" length="26386605" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://dcaputo-cyber.github.io/My-Morning-Docket-Firecrown/episodes/morning-docket-2026-05-06.mp3</guid>
+      <itunes:duration>00:27:29</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Morning Docket — 2026-05-05</title>
+      <description>Today's briefing for 2026-05-05.</description>
+      <pubDate>Tue, 05 May 2026 05:00:00 +0000</pubDate>
+      <enclosure url="https://dcaputo-cyber.github.io/My-Morning-Docket-Firecrown/episodes/morning-docket-2026-05-05.mp3" length="22978989" type="audio/mpeg"/>
+      <guid isPermaLink="true">https://dcaputo-cyber.github.io/My-Morning-Docket-Firecrown/episodes/morning-docket-2026-05-05.mp3</guid>
+      <itunes:duration>00:23:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Morning Docket — 2026-05-04</title>
       <description>Today's briefing for 2026-05-04.</description>
       <pubDate>Mon, 04 May 2026 05:00:00 +0000</pubDate>
-      <enclosure url="https://dcaputo-cyber.github.io/My-Morning-Docket-Firecrown/episodes/morning-docket-2026-05-04.mp3" length="26629677" type="audio/mpeg"/>
+      <enclosure url="https://dcaputo-cyber.github.io/My-Morning-Docket-Firecrown/episodes/morning-docket-2026-05-04.mp3" length="28279341" type="audio/mpeg"/>
       <guid isPermaLink="true">https://dcaputo-cyber.github.io/My-Morning-Docket-Firecrown/episodes/morning-docket-2026-05-04.mp3</guid>
-      <itunes:duration>00:27:44</itunes:duration>
+      <itunes:duration>00:29:27</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
