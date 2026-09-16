@@ -50,11 +50,11 @@ jobs:
 
       - name: Determine today's date (Eastern)
         id: today
-        if: github.event_name == 'schedule'
+        if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && github.event.inputs.episode_date == '')
         run: echo "date=$(TZ=America/New_York date +%F)" >> "$GITHUB_OUTPUT"
 
       - name: Write today's script via Anthropic API
-        if: github.event_name == 'schedule'
+        if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && github.event.inputs.episode_date == '')
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
@@ -77,6 +77,15 @@ jobs:
             echo "Using manually requested script: $target"
             echo "script=$target" >> "$GITHUB_OUTPUT"
             exit 0
+          fi
+
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ -n "${{ steps.today.outputs.date }}" ]; then
+            target="scripts/episodes/episode-${{ steps.today.outputs.date }}-script.txt"
+            if [ -f "$target" ]; then
+              echo "Using freshly generated script: $target"
+              echo "script=$target" >> "$GITHUB_OUTPUT"
+              exit 0
+            fi
           fi
 
           if [ "${{ github.event_name }}" = "push" ]; then
