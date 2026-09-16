@@ -1,4 +1,4 @@
-name: Morning Docket â Build on Script Push
+name: Morning Docket -- Build on Script Push
 
 on:
   push:
@@ -101,7 +101,7 @@ jobs:
       - name: Skip if no script available
         if: steps.pickscript.outputs.script == ''
         run: |
-          echo "::notice::No script to build â skipping."
+                    echo "::notice::No script to build -- skipping."
           exit 0
 
       - name: Derive episode date from script filename
