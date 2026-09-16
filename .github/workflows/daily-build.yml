@@ -1,4 +1,4 @@
-name: Morning Docket — Build on Script Push
+name: Morning Docket â Build on Script Push
 
 on:
   push:
@@ -9,6 +9,8 @@ on:
       - "cover.png"
       - ".github/workflows/daily-build.yml"
       - ".gitignore"
+  schedule:
+    - cron: "15 8 * * 1-5"
   workflow_dispatch:
     inputs:
       episode_date:
@@ -44,7 +46,21 @@ jobs:
       - name: Install Python deps
         run: |
           pip install --upgrade pip
-          pip install edge-tts pydub mutagen
+          pip install edge-tts pydub mutagen anthropic
+
+      - name: Determine today's date (Eastern)
+        id: today
+        if: github.event_name == 'schedule'
+        run: echo "date=$(TZ=America/New_York date +%F)" >> "$GITHUB_OUTPUT"
+
+      - name: Write today's script via Anthropic API
+        if: github.event_name == 'schedule'
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          python write_daily_script.py \
+            --date "${{ steps.today.outputs.date }}" \
+            --out "scripts/episodes/episode-${{ steps.today.outputs.date }}-script.txt"
 
       - name: Determine script to build
         id: pickscript
@@ -85,7 +101,7 @@ jobs:
       - name: Skip if no script available
         if: steps.pickscript.outputs.script == ''
         run: |
-          echo "::notice::No script to build — skipping."
+          echo "::notice::No script to build â skipping."
           exit 0
 
       - name: Derive episode date from script filename
@@ -135,7 +151,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add episodes/ feed/
+          git add episodes/ feed/ scripts/episodes/
 
           echo "Current git status:"
           git status --short
