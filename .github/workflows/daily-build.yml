@@ -101,7 +101,7 @@ jobs:
       - name: Skip if no script available
         if: steps.pickscript.outputs.script == ''
         run: |
-                    echo "::notice::No script to build -- skipping."
+          echo "::notice::No script to build -- skipping."
           exit 0
 
       - name: Derive episode date from script filename
