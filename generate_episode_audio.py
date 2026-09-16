@@ -25,7 +25,7 @@ import edge_tts
 from pydub import AudioSegment
 
 
-DEFAULT_VOICE = "en-US-AriaNeural"
+DEFAULT_VOICE = "en-AU-WilliamMultilingualNeural"
 DEFAULT_RATE = "+0%"
 DEFAULT_VOLUME = "+0%"
 DEFAULT_MAX_CHARS = 2800
