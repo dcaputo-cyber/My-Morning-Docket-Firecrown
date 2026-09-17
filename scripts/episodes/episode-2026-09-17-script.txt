@@ -1,0 +1,291 @@
+MORNING DOCKET — Thursday, September 17, 2026
+A daily brief for the general counsel of a media company.
+
+Now I have comprehensive research. Let me write the Morning Docket script.
+
+[COLD OPEN]
+
+Two weeks ago, Microsoft and OpenAI walked into a federal courthouse in Manhattan and asked a judge to end a copyright case involving ten point eight million news articles. Yesterday, a fresh set of regional newspapers filed lawsuit number one hundred and forty-three against the same defendants. Meanwhile, the freight market is calling itself fragile, jet fuel just hit one hundred and seventy-one dollars a barrel, and the FTC quietly walked back a health-app breach policy on a Tuesday in September. The law does not pause. Neither does this show.
+
+[INTRO]
+
+Good morning. It is Thursday, September seventeenth, twenty twenty-six. I am your Morning Docket, produced for Barrister Darren Caputo, General Counsel at Firecrown. This morning we have six headline items covering the Microsoft and OpenAI summary-judgment crossfire, the FTC's health-app breach policy rescission, CalPrivacy's escalating enforcement posture, the UK ICO's expanded powers under the Data Use and Access Act, a freight market inflection read from FreightWaves and SONAR, and transpacific ocean rate conditions that touch your Spacestore supply chain. Then a deep dive on the AI copyright litigation and what it means specifically for media companies that both publish content and license it. After that, the GC Bench on the in-house legal AI adoption story, and we close with three items on the watch list. Let us get into it.
+
+[HEADLINE ROUNDUP]
+
+First item. 
+
+All three filings in the consolidated AI copyright multidistrict litigation are dated September fourth, twenty twenty-six. OpenAI, Microsoft, and the news publisher plaintiffs each filed cross-motions for summary judgment in the Southern District of New York.
+
+ 
+
+In its motion, the New York Times argued that OpenAI and Microsoft copied its works at scale to build commercial substitutes, which it contends violates the law.
+
+ OpenAI and Microsoft countered on two grounds: fair use and implied license for content they crawled before publishers updated their robots-dot-txt files. 
+
+As of October twenty twenty-five, the books case was consolidated with the news organizations' case, and the book-related components are now being considered alongside the Times-led news action.
+
+ Then, as if to underline the stakes, 
+
+more newspapers filed suit yesterday, September sixteenth. It is copyright lawsuit number one hundred and forty-three against AI companies, filed in the Southern District of New York, where it will likely be assigned to Judge Stein in the MDL and then stayed pending the resolution of summary judgment motions.
+
+ We will spend the deep dive on this litigation entirely.
+
+Second item. The FTC rescinded a policy this week and not many people noticed. 
+
+On September ninth, the Federal Trade Commission rescinded its twenty twenty-one policy statement on breaches by health apps and other connected devices. That policy statement had purported to apply the FTC's Health Breach Notification Rule to health apps and connected devices that collect consumer health information.
+
+ 
+
+The FTC said it had determined that the statement provided minimal benefit and had been superseded by rulemaking, and the commission said the withdrawal also aligns with White House guidance to pursue a deregulatory agenda and avoid unnecessary use of subregulatory guidance.
+
+ The practical read: the underlying Health Breach Notification Rule, updated in twenty twenty-four, still applies. The policy statement was the interpretive wrapper around that rule. If your digital media properties have wellness, health tracking, or fitness data in their stack — think audience data integrations — the Rule still covers you. The guidance telling you how enforcement would approach it is gone. That is not a green light. It is ambiguity.
+
+Third item. CalPrivacy's enforcement machine shows no sign of downshifting. 
+
+By early twenty twenty-six, the agency reported more than one hundred active investigations running simultaneously.
+
+ And the agency made clear in March that remediation before being contacted is no longer a shield. 
+
+The March twenty twenty-six PlayOn Sports settlement established that prior remediation is no longer a penalty shield.
+
+ 
+
+In March, CalPrivacy announced a one point one million dollar decision against PlayOn Sports, a media company that sells digital tickets to high school events. According to CalPrivacy, high school students were required to agree to the use of tracking technology without a meaningful way to opt out. This enforcement action represented CalPrivacy's first foray into enforcing the CCPA expressly on behalf of minors.
+
+ For a media holding company with brands that attract youth audiences — event ticketing, aviation enthusiasts who are students, online sailing content — the PlayOn Sports decision is a direct analog. The tracking-on-consent-wall model is now confirmed to carry enforcement risk.
+
+
+
+CalPrivacy's enforcement apparatus has expanded to include a new Audits Division, automated website scanning, and a nine-state Consortium of Privacy Regulators.
+
+ One California investigation can now expand to eight additional states simultaneously. That changes the litigation risk calculus for any multi-brand holding structure.
+
+Fourth item. The UK picture. 
+
+It has been a year since the Data Use and Access Act gained Royal Assent, and June nineteenth, twenty twenty-six marked the Act's full commencement. It is a significant milestone for UK organizations and the public.
+
+ The ICO now has materially expanded powers. 
+
+Among the new powers is the ability to compel a witness to attend an interview and to request reports of approved persons. The ICO's new draft enforcement procedural guidance sets out the process it will follow when using these powers.
+
+ And the financial stakes went up. 
+
+The DUAA gives the ICO the power to issue fines of up to seventeen point five million pounds or four percent of global turnover under the Privacy and Electronic Communications Regulations.
+
+ For Firecrown brands with any UK audience touchpoint — and the portfolio has them — PECR is now a GDPR-scale financial exposure. That is a material change from the old five hundred thousand pound cap.
+
+Fifth item. The SEC's Regulation S-K overhaul. 
+
+On January thirteenth, twenty twenty-six, the SEC announced plans to conduct a comprehensive review of Regulation S-K, the central framework governing non-financial disclosure requirements for public companies. SEC Chairman Paul Atkins emphasized that the current breadth of S-K has resulted in disclosures that often include significant amounts of immaterial information, which may obscure material facts relevant to investors.
+
+ The review is moving. 
+
+The SEC's next step will likely be a formal rulemaking proposal in twenty twenty-six, with new rules not likely to be effective until the twenty twenty-seven proxy season.
+
+ For a private holding company like Firecrown, this matters one degree removed: it affects the disclosure practices of your publicly traded peers and vendors, and it signals where governance benchmarks are heading. The SEC's direction under Atkins is toward materiality-first, leaner disclosure. 
+
+Companies should continue to focus on AI-related risks in their periodic reports, including regulatory, operational, competitive, cybersecurity, ethical, and third-party risks, and should assess the material impact of AI on business outlook and performance and update risk factors accordingly.
+
+
+
+Sixth item, before we head to the deep dive. 
+
+A gathering of shippers in New York this week, brought together by FreightWaves' sister company SONAR, gave Craig Fuller and Zach Strickland a chance to assess a market they described as fragile. Unlike the earlier State of Freight readings in the first part of twenty twenty-six, they were measuring a market that was not moving higher in leaps and bounds.
+
+ 
+
+The SONAR Tender Rejection Index has moved down from its recent peaks before taking a sharp upward move in the days leading up to the New York event.
+
+ 
+
+Fuller asked Strickland whether the recent decline to an STRI of less than fourteen percent, after being above seventeen percent in June, was the pause before the storm.
+
+ We will come back to freight in the industry angle segment, but the label matters: fragile. It is not collapsing, but it is not stable either.
+
+[DEEP DIVE]
+
+Today's deep dive: In re OpenAI Copyright Infringement Litigation and what it means for media companies that both create content and operate digital platforms.
+
+Let us start with the landscape. 
+
+All parties in the consolidated AI copyright infringement cases against OpenAI and Microsoft in New York's Southern District filed motions for summary judgment.
+
+ 
+
+The entire docket, now known as In Re Open AI Inc. Copyright Infringement Litigation, case number one twenty-five MD zero three one four three, is being heard in the Southern District of New York.
+
+ There are two tracks: books and news. 
+
+The books track is led by the Authors Guild and named plaintiffs including David Baldacci, John Grisham, George R.R. Martin, and Jodi Picoult, first brought in late twenty twenty-three.
+
+ The news track is led by the New York Times and includes, through consolidation, publications far smaller than the Times.
+
+What are the legal arguments? On the defense side, 
+
+Microsoft and OpenAI told the federal judge that their use of copyrighted materials to develop large language models constitutes fair use, and that AI model outputs transform the ingested information enough to shield them from liability for infringement.
+
+ OpenAI made a second argument specific to the Browse function: that copies taken before publishers updated their robots-dot-txt files were impliedly licensed. 
+
+Copies taken before the block, the defendants argue, were impliedly licensed under Field v. Google.
+
+
+
+On the plaintiffs' side, the argument is market harm. 
+
+The plaintiffs argue that the copying of books was nontransformative. Not only was the secretive copying done for the purpose of developing a competing commercial product, they allege, it also meant authors and publishers had no opportunity to earn revenue from AI training licenses.
+
+ The economic argument is sharp: 
+
+the Times spends close to two billion dollars a year producing about half a million works.
+
+ The implied substitution risk is not about verbatim reproduction. It is about functional displacement.
+
+There is a real evidentiary divide developing in the courts. 
+
+In twenty twenty-five, we saw the earliest rulings on the fair-use arguments about AI training in cases involving Meta and Anthropic. In twenty twenty-six, courts are being asked to decide AI training cases involving OpenAI and Google. A judicial consensus is developing that training a general-purpose AI model is highly transformative, a factor favoring the finding of fair use.
+
+ But training is only part of the fight. 
+
+Other issues are the subject of sharp disagreements between courts, and twenty twenty-six is unlikely to bring final answers to copyright questions on AI training. New cases, like Disney's case against Midjourney, are beginning to turn the emphasis from the initial acquisition of training data to claims about the propensity of models to create outputs that are claimed to be infringing.
+
+
+
+And licensing is accelerating as the pragmatic backstop. 
+
+Licensing is accelerating and emerging as a potential solution. The Disney-OpenAI agreement shows a trend toward formal licensing of copyrighted material for generative AI use, setting the stage for how entertainment companies monetize IP in AI-driven platforms. Such arrangements may become the industry standard for using copyrighted content in AI training in order to avoid costly and uncertain litigation.
+
+
+
+Now let us make this concrete for Firecrown. Your portfolio includes FreightWaves, Trains dot com, FLYING, Boating and Sailing, and Spacestore. Those brands produce original journalism, analysis, and specialist editorial content. You are, in the language of this litigation, a publisher plaintiff class member — even if Firecrown is not a named party.
+
+Three specific exposures. First, the crawl question. 
+
+Common Crawl supplies paywalled content to AI companies despite publisher objections, and news publishers have already targeted Common Crawl, describing it as an AI training data back door.
+
+ If your brand content sits behind a paywall without a properly updated and enforced robots-dot-txt, or without a block on Common Crawl specifically, you may already be in the training data. Audit that now.
+
+Second, the output substitution risk is particularly acute for data-driven journalism. FreightWaves and SONAR produce proprietary freight market intelligence. 
+
+The emerging standard is a market-competition standard: when AI outputs compete with the market for training data, courts are finding infringement.
+
+ The freight intelligence product is precisely the kind of output-competitive content that the court's fourth fair-use factor would scrutinize most carefully.
+
+Third, the licensing opportunity is real and time-sensitive. 
+
+Forbes has launched a dynamic AI paywall as it ramps up post-search commercial diversification, and USA Today's parent is reformatting content to attract more AI licensing deals.
+
+ The window for favorable licensing terms is open while summary judgment is pending. Once the court rules — either way — the leverage shifts.
+
+Three concrete actions for your desk. One: run a content audit across all Firecrown brands. Confirm robots-dot-txt is current, Common Crawl is blocked, and your paywall logs document what has and has not been accessible. Document this now because the timeline of access matters to both the implied license defense and your own potential claims. Two: initiate a licensing posture review. Determine which content assets — SONAR data, FreightWaves analysis, specialist magazine archives — represent the highest licensing value and build a term sheet template before you need it. The market for AI training licenses is active. Three: update your IP risk section in any board governance materials. The SDNY court's summary judgment briefing schedule runs through early November. A ruling could come in Q1 twenty twenty-seven. That is a board-reportable event.
+
+[GC BENCH]
+
+The GC Bench. Legal technology and AI tools for in-house teams.
+
+The adoption number you need: 
+
+in-house generative AI usage is now at eighty-seven percent, nearly double the forty-four percent from a year prior, according to the twenty twenty-six General Counsel Report from FTI Consulting and Relativity.
+
+ But adoption and utility are different things. 
+
+Generative AI use in corporate law departments more than doubled in a year, from twenty-three to fifty-two percent, per the ACC survey. Yet the Bloomberg Law State of Practice twenty twenty-six survey found only twenty-three percent of in-house lawyers use AI tools daily. Plenty of teams have a seat. Far fewer have a tool they depend on.
+
+
+
+The product category is bifurcating. 
+
+General-purpose AI providers are entering legal specifically. Anthropic launched Claude for Legal and OpenAI announced Codex for Legal, both positioning as general-purpose AI with a legal mode.
+
+ Against them, purpose-built in-house platforms are competing on citation discipline and workflow depth. 
+
+In-house legal teams have adopted AI faster than outside law firms, and the gap is now large enough to influence how legal services are purchased and delivered.
+
+
+
+The practical filter for a GC at a media holding company. 
+
+Sending work to outside counsel solves the capacity problem but creates a spend problem and moves institutional knowledge outside the organization. Neither option scales with the pace the business now moves at, which is why in-house leaders are turning to AI.
+
+ For a generalist GC covering privacy, IP, ad tech, employment, and M-and-A governance across six-plus brands, the highest-value use cases are contract review and regulatory monitoring — not drafting. The drafting tools are maturing. The regulatory scan tools, particularly those that can flag CCPA and DUAA compliance gaps against actual website behavior, are where the operational leverage sits right now.
+
+One caution on the enterprise controls question. 
+
+Generic AI tools like Claude and ChatGPT are flexible and affordable, and attorneys use them unsanctioned. Enterprise controls have to be in place before any client data touches them.
+
+ If Firecrown does not yet have a formal AI use policy for the legal function, that is the first document to draft — before any tool procurement.
+
+[INDUSTRY ANGLE]
+
+The industry angle. Freight, aviation, and ocean shipping, with a word on what each signal means for the Firecrown portfolio.
+
+Freight first. 
+
+The freight market has been sending mixed signals for months, but one trend stands out clearly as we move deeper into twenty twenty-six: trucking spot rates have staged a meaningful recovery, while intermodal rates remain stubbornly anchored near cycle lows.
+
+ But as of this week, the language shifted. 
+
+A gathering of shippers in New York brought together by SONAR gave Craig Fuller and Zach Strickland the chance to describe a market they called fragile.
+
+ 
+
+That term fragile reflects the STRI's recent volatility. Although tender rejection rates climbed starting in November twenty twenty-five, Strickland noted the sharp price spike is nowhere near the COVID toilet-paper spike, but the trajectory is uneven.
+
+ For FreightWaves and SONAR, a fragile market is a high-value market for intelligence. Subscribers need data most when conditions are least predictable. That is a commercial signal worth tracking internally.
+
+Aviation. The numbers are not comfortable for carriers. 
+
+Jet fuel has become the single most powerful variable in airline economics again: the global average price hit one hundred seventy-one dollars per barrel in the first week of September, up nine percent in one week and roughly fifty-seven percent above year-ago levels, forcing carriers like Ryanair to trim growth plans purely to shrink unhedged winter fuel exposure.
+
+ 
+
+Demand is holding up far better than feared. July twenty twenty-six global passenger traffic grew zero point two percent year on year despite war-driven capacity cuts in the Middle East, while air cargo posted a stronger three point nine percent increase, with freighters gaining share from belly capacity.
+
+ For FLYING magazine's editorial and advertising model, this is a nuanced picture. General aviation is insulated from airline economics, but fuel cost sensitivity is a shared reader concern. That is content, not just context.
+
+Ocean freight. 
+
+Drewry's World Container Index remained stable at four thousand four hundred seventy-six dollars per forty-foot container as of September tenth.
+
+ 
+
+Shanghai to Los Angeles rates climbed to seven thousand one hundred eighty-five dollars per FEU, while carriers have pulled approximately twenty percent of capacity through blank sailings to support rate levels.
+
+ 
+
+The first week of September marked the final countdown to a full-scale trade war between the US and Canada. Canadian importers prepared for matching fifteen to fifty percent counter-tariffs on twenty-seven point six billion dollars of American goods, and new US policies now cover fifty-four percent of all American goods imports.
+
+ For Spacestore's e-commerce supply chain, this is a cost-of-goods signal. If Spacestore sources any product from Asia for US-side fulfillment, the transpacific rate environment and blank sailing discipline are direct landed-cost variables right now.
+
+[CLOSING BRIEF]
+
+Three things on the watch list.
+
+First, the SDNY summary judgment briefing in In re OpenAI. 
+
+Opposition briefs are due in early October, and reply briefs are due in early November.
+
+ The October brief will likely be the first time we see the full evidentiary record from the publishers on market harm. That document is worth reading carefully for any media GC. A ruling in either direction is a board-reportable event for Firecrown.
+
+Second, the CalPrivacy Audits Division. 
+
+CalPrivacy's Executive Director confirmed that compliance audits are expected in twenty twenty-six as the agency builds out its newly created Audits Division. The division will monitor compliance through both announced and unannounced audits.
+
+ 
+
+Enforcement targets are chosen for industry-wide signaling value, not company size.
+
+ Media companies with youth-adjacent audiences and digital ticketing or event functions sit squarely in the profile of recent enforcement targets. That is not an abstract risk.
+
+Third, the UK adequacy question. 
+
+If the EU concludes that the UK no longer provides essentially equivalent protection for personal data, the consequences for cross-border data flows would be severe. Businesses should track this closely.
+
+ The DUAA's changes to automated decision-making, cookie rules, and the ICO's own governance structure are all under EU adequacy scrutiny. For any Firecrown brand serving UK audiences and relying on transatlantic data flows, this is a quiet risk with a potentially loud resolution.
+
+[SIGNOFF]
+
+That is Morning Docket for Thursday, September seventeenth, twenty twenty-six. The script runs a touch under thirty minutes in the chair. Three things to carry into the building today: audit your crawl permissions across every Firecrown brand before the October opposition briefs land in New York; get your AI use policy drafted for the legal function before a tool gets procured around you; and watch SONAR's Tender Rejection Index — when Craig Fuller calls something fragile at a shipper conference, he tends to be early, not wrong.
+
+Have a good commute, Darren. Tomorrow's brief is already in research.
+END OF EPISODE.
