@@ -9,8 +9,6 @@ on:
       - "cover.png"
       - ".github/workflows/daily-build.yml"
       - ".gitignore"
-  schedule:
-    - cron: "15 8 * * 1-5"
   workflow_dispatch:
     inputs:
       episode_date:
