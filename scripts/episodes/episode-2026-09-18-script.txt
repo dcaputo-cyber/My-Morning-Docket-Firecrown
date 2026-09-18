@@ -1,0 +1,279 @@
+MORNING DOCKET — Friday, September 18, 2026
+A daily brief for the general counsel of a media company.
+
+Now I have sufficient research across all the required topic areas. Let me write the script.
+
+[COLD OPEN]
+
+A federal judge in Manhattan is sitting on the most consequential copyright motion in the history of the internet. Publishers on one side, OpenAI and Microsoft on the other, and for the first time, the United States government has stepped into the room — backing the machines. Meanwhile, twelve blocks from the ICO's current London offices, a clock is ticking: in twelve days, Britain's data protection regulator will cease to exist in its current form. And in New York, Craig Fuller and Zach Strickland stood in front of a room of shippers at JFK Airport this week and used one word to describe the American trucking market. Fragile. That word threads through more of what we are covering today than you might expect.
+
+[INTRO]
+
+Good morning. It is Friday, September 18, 2026. I am Morning Docket. This briefing is built for general counsel at media and publishing companies operating at the intersection of content, data, logistics, and law.
+
+Today we have six things on the headline roundup, including the DOJ's extraordinary intervention in the OpenAI copyright litigation, the confirmed date for the ICO's transformation into the Information Commission, and what the Digiday Publishing Summit in Miami just told us about where the money is going. Our deep dive goes inside the summary judgment fight in In re OpenAI, and why the outcome matters specifically to a company like Firecrown. The GC Bench covers a new benchmark for in-house legal AI tools that should inform your platform decisions this fall. The industry angle reads the freight market data out of SONAR this week. And we close with three items on the watch list. Let's get into it.
+
+[HEADLINE ROUNDUP]
+
+First up: the summary judgment collision in the publisher-AI copyright war.
+
+
+
+On September 4th, OpenAI, Microsoft, and a group of five news organizations each moved for summary judgment in the consolidated copyright proceedings before Judge Sidney Stein in the Southern District of New York.
+
+ The filings set up a direct confrontation on the fair use question. 
+
+Microsoft and OpenAI told the court they should be absolved of all copyright claims, arguing that their use of copyrighted materials to develop large language models constitutes fair use, and that AI model outputs transform the ingested information enough to shield them from liability.
+
+ The publishers — led by the Times — 
+
+argued that OpenAI and Microsoft copied their works at scale to build commercial substitutes, which they believe violates the law.
+
+
+
+Then came the government. 
+
+In September 2026, the U.S. Department of Justice filed a brief supporting OpenAI, stating that it generally rejected the argument that training AI models on copyrighted text constitutes copyright infringement. According to Reuters, it was the first time that the U.S. government has taken a position on copyright litigation about the use of copyrighted materials to train AI.
+
+ That is a significant moment. It does not decide the case, but it signals where the executive branch wants the law to land. We will unpack all of this in the deep dive.
+
+Second item: The ICO is twelve days from ceasing to exist as a corporation sole.
+
+
+
+The Government has confirmed the ICO will become the Information Commission on September 30th, 2026. This transition is a result of the Data Use and Access Act 2025, which makes changes to the governance structure of the organization while maintaining existing regulatory functions and responsibilities.
+
+ 
+
+From September 30th, the functions that currently rest with one individual — the Information Commissioner — will transfer to the Information Commission, a body corporate with non-executive and executive members, and with collective responsibility for decision making.
+
+ 
+
+Almost nothing operational changes, on the regulator's own account. Existing functions and responsibilities carry over intact, so the obligations on UK organizations, the breach reporting duties, and the enforcement powers all survive the rebrand untouched.
+
+ If your brands have a UK audience — and Firecrown properties do through their international digital reach — the practical message is: same enforcement appetite, new governance architecture. The PECR fine cap of seventeen and a half million pounds remains in place.
+
+Third: California's privacy enforcement machine is running hot.
+
+
+
+By early 2026, the California Privacy Protection Agency reported more than one hundred active investigations running simultaneously.
+
+ The enforcement pattern emerging from those actions is consistent: the agency is targeting opt-out friction, not just opt-out absence. 
+
+In March 2026, CalPrivacy announced a three hundred seventy-five thousand dollar decision against Ford Motor Company, finding that the automaker created unnecessary friction by improperly processing consumer requests to opt out of the sale or sharing of personal information. In particular, Ford used a standardized form for all CCPA requests, including the right to opt-out, and then required consumers to respond to a follow-up email to verify their identity. While companies can require verification for certain CCPA requests, including the rights to know, correct, and delete, the CCPA does not provide a similar verification process for opting out of data selling or sharing.
+
+ The Ford case is directly applicable to any media company running a unified privacy portal. Separate your opt-out workflows from your verification-required workflows. Those are different legal lanes.
+
+Fourth: The FTC's brand safety settlement is still reshaping the advertising market.
+
+
+
+Three major advertising agencies reached a proposed settlement with the Federal Trade Commission and eight states in April 2026, over allegations they violated antitrust law by coordinating boycotts of conservative media outlets and online platforms, including X.
+
+ 
+
+According to the complaint, major ad agencies Publicis Groupe, WPP, and Dentsu adopted common brand safety standards rather than competing independently. The arrangement allowed the agencies to speak as a single entity in the advertising marketplace, and the firms allegedly coordinated those standards through trade groups, including efforts to establish shared thresholds for acceptable content.
+
+ 
+
+The proposed settlement also prohibits the holding companies from using blacklists, whitelists, or other means of differentiating between media publishers, unless those lists were developed at the express direction of a particular client.
+
+ For a niche media publisher — and Firecrown's brands are exactly that — this matters because the structural constraints placed on agency brand-safety standards could loosen ad access to specialized inventory. But the compliance regime around how your own advertising partners make placement decisions has also just become significantly more visible to regulators.
+
+Fifth: The Digiday Publishing Summit just wrapped in Miami, and the signal from the room is sobering.
+
+
+
+Publishers know the old playbook is breaking. Search traffic is shrinking, AI platforms are increasingly intermediating audiences, and the mass-traffic, programmatic advertising model that powered much of the digital publishing ecosystem is losing steam. What is far less clear is what comes next, or how publishers ensure they get paid fairly in the process.
+
+ 
+
+AI licensing deals may seem like opportunities to make up for some of the revenue lost from monetizing a smaller audience base, but the deals remain opaque and uneven.
+
+ 
+
+The conversations will carry forward what was discussed at the last summit in Vail: publishers are redefining revenue in the AI era, through a mixture of subscriptions, AI content licensing, video production, and ad revenue operations.
+
+ Reuters told the summit it is using a machine-learning dynamic paywall that estimates ad revenue potential per user to decide who sees a paywall and when. That is sophisticated first-party data deployment. Most specialty publishers are not there yet.
+
+Sixth: In-house generative AI adoption just crossed eighty-seven percent.
+
+
+
+The 2026 General Counsel Report from FTI Consulting and Relativity puts in-house generative AI usage at 87 percent — nearly double the 44 percent from a year prior.
+
+ The gap between adoption and daily dependence remains wide, though. 
+
+Generative AI use in corporate law departments more than doubled in a year, from 23 percent to 52 percent per the ACC survey, yet the Bloomberg Law State of Practice 2026 survey found only 23 percent of in-house lawyers use AI tools daily. Plenty of teams have a seat; far fewer have a tool they depend on.
+
+ We will come back to what that gap means operationally in the GC Bench.
+
+[DEEP DIVE]
+
+We are going to spend the next ten minutes inside the OpenAI copyright litigation, specifically the summary judgment posture as of this week, because the outcome will structurally define what a media and publishing company can do with its content library for the next decade.
+
+The litigation is captioned In re: OpenAI, Inc. Copyright Infringement Litigation, consolidated before Judge Sidney Stein in the Southern District of New York. It is multi-district litigation that has pulled in claims from the New York Times and other major news organizations, as well as a parallel set of claims from book authors through the Authors Guild. 
+
+US copyright lawsuits against AI companies reached 140 cases by September 2026, up sharply from 45 in June 2025.
+
+
+
+The summary judgment motions filed on September 4th lay out the full architecture of the dispute with unusual clarity, because both sides are now asking the judge to rule as a matter of law — meaning they believe the undisputed facts favor them. Let us take each side's core theory.
+
+OpenAI and Microsoft are arguing, in brief, that pretraining on copyrighted material is fair use, and that the Browse function — the web-access capability that retrieved publisher content at runtime — involved copies made under implied license when publishers had not yet updated their robots.txt files to block the crawler. 
+
+The companies argue their use of copyrighted materials to develop large language models constitutes fair use, and that AI model outputs transform the ingested information enough to shield them from liability for infringement.
+
+ The transformation argument draws on a line of cases holding that a secondary use can qualify as fair use when it serves a different function than the original — indexing, commentary, critique, research.
+
+The publishers are arguing the opposite on all four fair use factors, and they are pressing a specific and commercially significant argument on damages: 
+
+the publishers seek judgment on liability for copying at five stages, rejection of the fair use defense, partial judgment on three elements of the DMCA claim, and a ruling that statutory damages run per article rather than per issue.
+
+ If statutory damages run per article and not per publication issue, the exposure to OpenAI compounds by orders of magnitude.
+
+Then came the DOJ brief. 
+
+The Department of Justice stated that it generally rejected the argument that training AI models on copyrighted text constitutes copyright infringement. According to Reuters, it was the first time that the United States government had taken a position on copyright litigation about the use of copyrighted materials to train AI.
+
+ This is not dispositive. Courts are not bound by government amicus positions. But it matters for two reasons: it signals executive branch policy, and it may shape how a future appellate panel reads the record.
+
+For context on where the broader case law sits right now: the Bartz v. Anthropic litigation, which involved training on lawfully acquired books, produced a ruling that 
+
+companies training AI on copyrighted works may be able to rely on fair use when those works they are using are lawfully acquired.
+
+ But the same litigation drew a hard line: 
+
+the court ruled that AI training on copyrighted books constitutes fair use, but storing pirated copies does not.
+
+ 
+
+Judge Araceli Martínez-Olguín granted final approval to the one-point-five-billion-dollar Bartz v. Anthropic settlement on July 20th, 2026. It is the largest recorded settlement of a US copyright case.
+
+
+
+The emerging market-competition standard matters for Firecrown directly. 
+
+The AI copyright landscape in 2026 is resolving around a market-competition standard: when AI outputs compete with the market for training data, courts are finding infringement.
+
+ That framework has a specific implication for specialized content. FreightWaves freight market analysis, FLYING magazine aviation coverage, Trains.com rail journalism — these are not mass-market content that gets commoditized in an AI response. They are specialized, subscription-grade intelligence products. If an AI model can answer a reader's niche freight market question by drawing on FreightWaves' proprietary SONAR-informed reporting — and answer it well enough that the reader has no reason to subscribe — that is the market-competition argument in its strongest form.
+
+A second issue directly before Judge Stein is the Common Crawl problem. 
+
+Common Crawl supplies paywalled content to AI companies despite publisher objections, and in April 2026, news publishers sent a demand letter to Common Crawl over unauthorized use of member content.
+
+ If you have subscription content that has been scraped through Common Crawl's archive, that pipeline is a separate cause of action from the AI company's own crawling. Your robots.txt settings — and the dates on which you deployed them — are evidentiary facts in this litigation environment.
+
+So what should an in-house general counsel of a niche media company actually do with all of this right now?
+
+Three concrete actions. First, commission a content audit by category: which of your titles produce content that is genuinely market-competitive with AI-generated answers, and which produce content that an AI can approximate from general training data? The answer determines your litigation posture and your licensing negotiation leverage. FreightWaves' SONAR-driven analysis and FLYING magazine's technical reviews are very different cases. Second, review your Common Crawl exposure this week. Run your domains through the Common Crawl index check, confirm your robots.txt files are blocking the CCBot user agent, and document the date you deployed that block. That date could matter. Third, brief your CEO on the DOJ amicus position before the next board meeting. The government's stance is not final, but it signals where federal IP enforcement is leaning. Your board should understand that the regulatory and judicial winds are not uniformly in the publisher's favor, and your content licensing strategy — including any agreements you may be exploring with AI platforms — should account for that possibility.
+
+[GC BENCH]
+
+In the GC Bench this week, we are looking at the practical state of the legal AI tools market for in-house teams, because the adoption numbers we cited in the headline roundup demand a follow-up question: not whether to adopt, but which platform, and how to evaluate it without burning six months on a pilot.
+
+
+
+The in-house legal AI market moved faster in the first half of 2026 than in all of 2025.
+
+ 
+
+Three shifts define the current market. Microsoft entered legal-specific review. On April 30, 2026, Microsoft launched a Word Legal Agent that runs playbook clause-by-clause review and tracked-change redlines inside Word.
+
+
+
+The platform benchmark worth knowing: 
+
+GC AI's May 2026 benchmark scored one hundred in-house legal tasks judged by attorneys with eighty-plus combined years of practice. GC AI scored 86.8 percent, ChatGPT running on GPT-5.5 scored 79.8 percent, Claude on Opus 4.7 scored 68.4 percent, and Gemini 3.1 Pro scored 57.5 percent.
+
+ Those are not marketing numbers — they are attorney-scored task completions on real in-house work product categories.
+
+The practical observation for a small, generalist in-house legal team at a media holding company: 
+
+if you are in-house counsel, a fractional GC, or a CLO, with one or two of you holding up a whole legal function, your question is not which tool raised the most money. It is which tool survives your Monday queue, when you have no buying team, no long pilot, and no consultant to expense.
+
+
+
+Two warnings. First, the citation discipline problem is not solved by the popular general-purpose tools. 
+
+When ChatGPT and Claude launched, in-house lawyers tested them on real work: vendor MSAs, redlines, and regulatory questions. The experiments produced a consistent finding: consumer AI runs fast on horizontal tasks but lacks citation discipline, confidentiality posture, and the legal-specific guardrails that privileged client work demands.
+
+ Second, the Model Context Protocol — MCP — is becoming the integration standard. 
+
+MCP is becoming the integration standard. The Model Context Protocol defines how legal AI platforms plug into the rest of the legal stack. Platforms with published MCP support integrate more cleanly with a firm's or department's existing CLM, document management system, and e-billing tools.
+
+ Ask every vendor whether they support MCP before you sign.
+
+For a Firecrown-scale legal department specifically: a single-seat general-purpose AI with enterprise controls is a reasonable starting point. But the moment you need the tool to hold a playbook against a vendor NDA, run a CCPA opt-out compliance check against your consent management platform documentation, or draft a DUAA data subject request acknowledgment letter — you want something purpose-built with citation trails you can stand behind.
+
+[INDUSTRY ANGLE]
+
+The freight angle this week is unusually direct, because Craig Fuller and Zach Strickland delivered their read of the SONAR data live at the SONAR/Cass Shippers Forum at JFK Airport on Monday, and the headline they chose was one word.
+
+
+
+At the SONAR/Cass Shippers Forum in New York on September 15th, FreightWaves' Zach Strickland and Craig Fuller told shippers gathered at JFK that recent stability in tender rejections is masking real fragility underneath.
+
+ 
+
+The SONAR Tender Rejection Index climbed above 17 percent in June, dropped below 14 percent in the weeks since, then jumped roughly 75 basis points in a single week — a swing Strickland said undercuts any read of a settled market.
+
+
+
+
+
+Strickland said "this market is so fragile, even though we're having these periods of stability." The decline in recent months has likely been driven in part by a switch to moving more freight over intermodal rail services.
+
+ 
+
+Fuller cautioned against reading fragile as automatically bad. He said the volatility traces to capacity tightness rather than a demand collapse — a different kind of fragility than the pandemic-era chaos shippers remember.
+
+
+
+Diesel is adding pressure from a separate direction. 
+
+Diesel prices surged to six dollars and twenty-six cents per gallon to start the week of September 16th, a thirty-three cent jump in a single week from five dollars and ninety-four cents on September 8th, according to FreightWaves' Diesel Transaction Spot index. The spike puts diesel 15 percent above last month's five dollars and forty-five cents per gallon and 68 percent higher than the three dollars and seventy-two cents recorded at the same point last year, compressing carrier margins even as freight volumes begin to recover.
+
+
+
+
+
+The freight market is showing its first signs of year-over-year growth in 42 months.
+
+ That is the bullish read. The diesel spike complicates it.
+
+On the aviation and ocean side: 
+
+the international market heading into Q4 is dealing with diverging transpacific and Asia-Europe ocean peak season trends, typhoon-driven port congestion and its impact on spot rates, and Panama Canal restrictions that are shaping outlooks for the rest of the year.
+
+ 
+
+The airfreight industry is entering a phase where speed alone will not guarantee success. After a turbulent 2025 shaped by geopolitical tensions, shifting trade policies, and unpredictable demand, the sector is adjusting to steadier growth. But the story this year is about precision, strategy, and adding value rather than volume.
+
+
+
+For SONAR subscribers and FreightWaves readers, the Q4 setup is: watch tender rejections, watch diesel weekly, and track intermodal lane pricing as shippers continue migrating freight off trucks and onto rail when the economics support it. That modal shift dynamic is one the FLYING and Trains.com editorial teams are well positioned to cover from the infrastructure side.
+
+[CLOSING BRIEF]
+
+Three things to keep on the watch list heading into next week.
+
+First: Judge Stein's summary judgment schedule in the OpenAI litigation. No ruling date has been set, but opposition briefs are due in the coming weeks. The moment the court signals a hearing date, the media IP world will move. Your content licensing posture and any AI platform discussions you are having need to be resolved before that ruling, not after it.
+
+Second: The Information Commission officially takes over from the ICO on September 30th — twelve days from today. 
+
+The PECR fine cap rose from five hundred thousand pounds to seventeen and a half million, aligned with UK GDPR maxima, and all controllers must operate a formal complaints procedure for data subjects, with a thirty-day acknowledgement obligation.
+
+ If Firecrown's UK-audience properties do not yet have a compliant data subject complaints procedure, that is a two-week window. Take it seriously.
+
+Third: The California Privacy Protection Agency's enforcement posture. 
+
+The clearest statement yet in enforcement posture is this: if a business can link devices and services to a consumer for advertising or measurement, regulators expect it to be able to link those same devices and services to the consumer's privacy elections — and to do so comprehensively.
+
+ That principle applies to every media brand running a consent management platform alongside an ad stack. The question is not whether your CMP works in isolation. It is whether your CMP and your ad server are talking to each other in real time. For Q4 campaign planning, that is an audit item, not a legal memo item.
+
+[SIGNOFF]
+
+That is Morning Docket for Friday, September 18th, 2026. Have a focused commute and a clear-headed week. We will be back Monday morning.
+END OF EPISODE.
