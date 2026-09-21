@@ -1,0 +1,255 @@
+MORNING DOCKET — Monday, September 21, 2026
+A daily brief for the general counsel of a media company.
+
+Now I have enough research to write the full Morning Docket script. Let me compile it.
+
+[COLD OPEN]
+
+Three things landed on corporate legal desks over the last ten days that, taken together, define the operating environment for any media company with an audience, an ad stack, and a data footprint. The Department of Justice stepped into the New York Times copyright case against OpenAI and told the court that training large language models on copyrighted text is fair use. The FTC finalized its notice that data-driven personalized pricing without clear disclosure is now an enforcement priority. And the body that oversees data protection in the United Kingdom confirmed it will restructure itself in nine days. Any one of those items would warrant a Monday briefing. All three together make it a week to pay attention.
+
+[INTRO]
+
+Good morning. It is Monday, September twenty-first, twenty twenty-six. I am your Morning Docket, produced for Barrister Darren Caputo, General Counsel at Firecrown. We are running through five headline items across privacy, ad tech, IP, and corporate governance. Then a deep dive on the FTC's personalized pricing enforcement statement and what it means specifically for media and e-commerce businesses. After that, the GC Bench with where legal AI sits heading into Q4. An industry angle on freight, where Craig Fuller and Zach Strickland stood in front of shippers at JFK last Monday and used the word fragile. And we close with three items on your watch list heading into the week. Let's get into it.
+
+[HEADLINE ROUNDUP]
+
+First. The Department of Justice and AI copyright. On September first, the Justice Department filed a Statement of Interest in the consolidated copyright litigation against OpenAI and Microsoft in the Southern District of New York. 
+
+The filing asked the court to hold that training large language models on copyrighted written works qualifies as fair use, arguing that a ruling against the AI developers would distort copyright doctrine, slow domestic innovation, and weaken United States competitiveness and national security.
+
+ That is a significant development. 
+
+The DOJ filing materially changes the arguments before the court by urging a fair-use view of training-stage copying and tying that position to innovation and national security. It does not decide the case, establish that every dataset was lawfully acquired, or resolve questions about model outputs and market substitution.
+
+ For Firecrown and every other content publisher, the operative phrase in that last sentence is "model outputs." Even if the government's position ultimately prevails on training, the question of whether outputs substitute for the original market remains entirely open. 
+
+US copyright lawsuits against AI companies have reached one hundred forty cases by September twenty twenty-six, up sharply from forty-five in June twenty twenty-five.
+
+ That number tells you the field is not resolving — it is expanding. And separately, 
+
+the Anthropic settlement fund of one point five billion dollars received final approval in July, with an extraordinarily high claims rate of ninety-one point three percent of eligible works, with a first per-work payment expected by November.
+
+ Rights holders are watching that number.
+
+Second. CalPrivacy escalates data broker enforcement into advertising tech. California's privacy regulator has moved through a sustained enforcement arc this summer that should be live on the radar of any publishing company monetizing audience data through ad tech partners. 
+
+On August eleventh, CalPrivacy announced its first enforcement action against a data broker under the CCPA, fining Iowa-based LocateSmarter one hundred sixteen thousand, four hundred ninety dollars for failing to register under the Delete Act and for requiring consumers to provide Social Security numbers to exercise opt-out rights.
+
+ 
+
+Days later, CalPrivacy announced a second action against Cybba, imposing a fifty-two thousand four hundred dollar fine for failure to register, demonstrating what the agency called a "steady drumbeat" of enforcement.
+
+ Cybba's business is directly relevant to media companies: 
+
+it is a company whose services include using consumer purchasing behavior and other data to support targeted advertising.
+
+ That is ad retargeting infrastructure. If your demand-side platform or any audience extension partner qualifies as a data broker under California law and is not registered with CalPrivacy, that exposure runs to you as the publisher who deployed the code. 
+
+By early twenty twenty-six, CalPrivacy reported more than one hundred active investigations running simultaneously.
+
+ The denominator is large. The question is whether you are in it.
+
+Third. The FTC's personalized pricing enforcement statement. This gets its own deep dive later, so I will be brief here. 
+
+On August nineteenth, the FTC invited public comment on a proposed enforcement policy statement concerning personalized pricing — the use of personal data to set prices according to the amount that a company believes an individual consumer is willing to spend.
+
+ 
+
+The Commission extended the comment period by seven days. The new deadline is September twenty-fifth, twenty twenty-six.
+
+ That is this Thursday. If Firecrown or any Firecrown brand uses behavioral data to offer differentiated subscription prices — think dynamic paywalls or loyalty-tier pricing informed by engagement signals — this statement is directly relevant. More in the deep dive.
+
+Fourth. The SEC sends three rulemaking proposals to the White House for regulatory review. 
+
+The Securities and Exchange Commission submitted three draft proposed rules to the White House's Office of Information and Regulatory Affairs — executive compensation disclosure reform, proxy solicitation modernization, and the rescission of Rule fourteen-a-eight's federal regulation of shareholder proposals.
+
+ That third item deserves to be read carefully. 
+
+The title — "Rescission of Rule fourteen-a-eight's Federal Regulation of Shareholder Proposals" — signals a possible fundamental reconsideration of the federal shareholder proposal framework rather than incremental amendments.
+
+ 
+
+All three proposals carry an October twenty twenty-six target date on the SEC's Regulatory Flexibility Agenda, so public companies should prepare for significant proxy season and disclosure changes this fall.
+
+ For a private company like Firecrown, the direct compliance exposure is limited. But the executive compensation reform matters for benchmarking and any future capital events, and the proxy changes affect any portfolio company or minority investment where board-level governance is in play.
+
+Fifth. The UK's ICO is about to change its name and its structure. 
+
+The UK Government has confirmed the Information Commissioner's Office will transition to the Information Commission on September thirtieth, twenty twenty-six, a result of the Data Use and Access Act twenty twenty-five, which makes changes to the governance structure of the organization while maintaining existing regulatory functions and responsibilities.
+
+ 
+
+This milestone follows the appointment in July of seven Non-Executive Members who will assume roles on the new Information Commission Board on September thirtieth.
+
+ The branding changes; the enforcement posture does not. The PECR fine cap, which is the regime that governs marketing emails and cookie consent, 
+
+rose from five hundred thousand pounds to seventeen point five million pounds under the Data Use and Access Act.
+
+ For any Firecrown brand with a UK audience — and FLYING and Boating and Sailing both have meaningful UK readership — that PECR exposure is now on the same scale as UK GDPR. That is a material change to your risk profile in that market.
+
+[DEEP DIVE]
+
+The FTC's personalized pricing enforcement statement, and what it means for media and e-commerce.
+
+Let me set the landscape. 
+
+On August nineteenth, the Federal Trade Commission released a proposed enforcement policy statement concerning the use of consumers' personal data to set personalized prices. Where consumers reasonably expect prices not to vary based on personal data, the statement asserts that businesses should clearly and conspicuously disclose that a price is personalized, the basis for the personalization, and the types of data used to determine pricing.
+
+
+
+
+
+FTC Chairman Andrew Ferguson put it plainly: "When consumers see a listed price, they expect it to be the same price that everyone else sees, not the retailer's estimate of how much they are willing to pay based on their personal data."
+
+
+
+Let's be precise about what the FTC is and is not doing here. 
+
+The FTC has stated it does not have the legal authority to ban personalized pricing in all circumstances, but that businesses that fail to tell consumers how their personal data is being used to set a price may be in violation of the FTC Act and other laws it enforces.
+
+ So the baseline is disclosure, not prohibition. 
+
+The proposal says businesses may violate Section five of the FTC Act if they do not clearly explain when a price is personalized, why it is personalized, and what data is used.
+
+
+
+Now let's translate that to Firecrown's portfolio specifically. FreightWaves operates on a subscription model. Its pricing tiers are public and defined. That is not the risky structure here. The risk surface is in the e-commerce operation — Spacestore — and in any subscription offer or renewal flow across any brand where the presented price reflects behavioral signals: how many times someone has visited a paywall, how long they have been a subscriber, what their purchase history suggests about price sensitivity. 
+
+The FTC's summary notes there is growing public concern that modern data collection and processing capabilities can allow businesses to set personalized prices based on analysis of consumers' personal data and resulting conclusions — such as estimates of how much an individual consumer is willing to pay. Although personalized pricing is a long-established norm in some markets, it is not in many others.
+
+
+
+Media subscriptions fall into the "not established" category in consumers' minds. If a reader goes to Trains.com, sees a subscription offer for nineteen ninety-nine a month, and a different reader with a higher lifetime-value score sees the same product at twenty-four ninety-nine, and neither of them knows the difference exists, that gap is exactly what this statement targets.
+
+
+
+Undisclosed personalized pricing is now an FTC enforcement priority. Businesses that use personal data to set individualized prices without clear disclosure risk Section five deception or unfairness claims. The federal baseline is disclosure, not prohibition.
+
+
+
+There is a second layer here that matters for a media company with advertising revenue. Dynamic CPM pricing — setting the rate card for programmatic ad inventory based on contextual or audience data signals — is not directly addressed by this statement. The statement's language focuses on consumer-facing prices. But the direction of travel is instructive. The FTC and state attorneys general are building a framework in which the use of personal data to create asymmetric commercial outcomes — whether in subscriptions, in retail pricing, or potentially in ad targeting that shapes what content a person sees and at what price — requires transparency. That is the regulatory logic. It does not stop at checkout.
+
+
+
+Regulators at both the state and federal levels are closely evaluating companies' practices in personalized pricing and are utilizing both specific statutes and their general consumer protection authority.
+
+ California is worth watching separately. 
+
+The California Attorney General's office is examining how existing law, in particular the CCPA, intersects with personalized pricing activity.
+
+ That creates a potential double-exposure: federal FTC action and a California enforcement action based on the same practice.
+
+Three concrete actions for an in-house general counsel at a media holding company. First, run an inventory of every subscription pricing flow across all brands. Ask the product and engineering teams specifically: does the price displayed to a new subscriber reflect any individual-level behavioral or demographic data signals? If the answer is yes, or if you do not know, that is your first remediation item. Second, review your privacy policies against the FTC's three-part disclosure standard: does a price vary by individual, why does it vary, and what data drives it. Existing CCPA disclosures about selling and sharing data are not a substitute for this. They are overlapping obligations, not the same obligation. Third, submit a comment or at minimum monitor what goes into the September twenty-fifth record at the FTC. 
+
+The FTC has opened Docket FTC-twenty twenty-six dash ten fifty-seven to receive public comments.
+
+ Trade associations representing subscription media are likely submitting. You should know what those comments say before any enforcement action crystallizes around a definition you had no input into shaping.
+
+[GC BENCH]
+
+Legal technology and AI tools for in-house counsel.
+
+The headline statistic for Q3: 
+
+in-house AI adoption has crossed eighty-seven percent. The twenty twenty-six General Counsel Report from FTI Consulting and Relativity puts in-house generative AI usage at eighty-seven percent, nearly double the forty-four percent from a year prior.
+
+ This is no longer a leading-edge adoption story. It is a management story. The question for any GC is not whether the team is using AI — they almost certainly are — but whether they are using it inside a governed framework or outside one.
+
+
+
+According to the twenty twenty-six ACC Chief Legal Officers Survey, fifty-two percent of US in-house counsel started using generative AI tools in twenty twenty-five, more than double the year before.
+
+ That means a meaningful share of unsanctioned use has been normalized into daily workflow before legal ops teams put guardrails around it.
+
+
+
+The twenty twenty-six ACC Generative AI survey of six hundred fifty-seven in-house legal professionals found the biggest reported benefits are efficiency gains in drafting, at seventy-three percent, and legal research, at fifty-three percent.
+
+
+
+On the tooling side, the market is consolidating around purpose-built in-house platforms. 
+
+The in-house legal AI market moved faster in the first half of twenty twenty-six than in all of twenty twenty-five. One of the notable shifts: Microsoft launched a Word Legal Agent on April thirtieth that runs playbook clause-by-clause review and tracked-change redlines inside Word.
+
+ That is a significant distribution event. If your team is already running Microsoft three-sixty-five, the Word Legal Agent is now inside the stack. The practical question is whether it meets the data governance standard for privileged work. Generic cloud AI — the version you get without enterprise controls explicitly configured — should not be touching confidential matter information. 
+
+The general guidance in the industry is that general-purpose AI tools in default configurations should not be used with confidential matter information.
+
+
+
+For a lean in-house team covering multiple brands across multiple jurisdictions, the near-term ROI is in contract review and regulatory monitoring — not full drafting. Encode your standard playbooks, run NDA and vendor agreement review through the AI layer, and keep a human closing the loop on every output before it goes to the other side. That is the practical configuration, and it maps to where the liability questions are currently settled.
+
+[INDUSTRY ANGLE]
+
+Freight, rail, and aviation, through the lens of the businesses Firecrown covers and owns.
+
+Craig Fuller and Zach Strickland stood in front of a room of shippers at the TWA Hotel at JFK on September fifteenth — six days ago — and described the current trucking market with one word: fragile. 
+
+At the SONAR/Cass Shippers Forum, Fuller and Strickland told shippers that recent stability in tender rejections is masking real fragility underneath. The SONAR Tender Rejection Index climbed above seventeen percent in June, dropped below fourteen percent in the weeks since, then jumped roughly seventy-five basis points in a single week — a swing Strickland said undercuts any read of a settled market.
+
+
+
+
+
+Fuller cautioned against reading "fragile" as automatically bad. The volatility traces to capacity tightness rather than a demand collapse — a different kind of fragility than the pandemic-era chaos shippers remember.
+
+
+
+What is interesting about that framing for FreightWaves as a media property is that the capacity story, not the demand story, is driving the narrative. 
+
+The freight market is showing its first signs of year-over-year growth in forty-two months.
+
+ 
+
+The August twenty twenty-six Cass Freight Index shows shipments up two point one percent year-over-year — the first annual gain since January twenty twenty-three, and the end of a forty-two-month downturn.
+
+ That is genuinely meaningful data for a platform whose business model depends in part on the market needing high-frequency intelligence. A recovering freight market with volatile tender rejection rates is a SONAR use case, not an environment that depresses it.
+
+
+
+ACT Research's August outlook put July dry van spot rates up forty-seven percent year over year, describing the cycle as supply-driven, with capacity, not demand, as the binding constraint. FTR forecasts twenty twenty-seven truckload contract rates rising seventeen percent and spot rates thirty-five percent, with the market staying favorable for carriers throughout its two-year forecast horizon.
+
+
+
+On the aviation side, 
+
+jet fuel has become the single most powerful variable in airline economics again: the global average price hit one hundred seventy-one dollars and one cent per barrel in the first week of September, up nine percent in one week and roughly fifty-seven percent above year-ago levels, forcing carriers like Ryanair to trim growth plans purely to shrink unhedged winter fuel exposure.
+
+ For FLYING magazine's audience — general aviation pilots and enthusiasts — the secondary effect is on avgas and jet-A pricing at the FBO level, which feeds directly into the cost stories and operational content the brand covers. 
+
+Demand is holding up far better than feared. July global passenger traffic grew zero point two percent year on year despite war-driven capacity cuts in the Middle East, while air cargo posted a stronger three point nine percent increase, with freighters gaining share from belly capacity.
+
+
+
+On the marine side, which is relevant to Boating and Sailing: 
+
+a single technical fault at the UK's NATS air navigation service on September eighth wiped out more than one thousand flights, while the Anak Krakatau eruption closed eight Indonesian airports and stranded over two hundred seventy thousand passengers within four days.
+
+ Operational resilience — the vulnerability of transport infrastructure to single points of failure — is the editorial thread running through aviation, marine, and freight right now. That is a coherent framing for the multi-modal audience Firecrown serves.
+
+[CLOSING BRIEF]
+
+Three items on the watch list for the week of September twenty-first.
+
+One. The FTC personalized pricing comment deadline closes Thursday, September twenty-fifth. 
+
+Businesses with a stake in the FTC's framework should consider whether to comment before that deadline. Given the pace of state legislative activity, companies should also evaluate their exposure under applicable state laws, several of which go beyond disclosure to outright prohibition.
+
+ If you have a subscription pricing architecture that uses behavioral data, this week is the week to begin the internal audit.
+
+Two. The UK Information Commission formally stands up on September thirtieth — nine days from today. 
+
+The ICO transitions to the Information Commission on September thirtieth, a result of the Data Use and Access Act twenty twenty-five, which makes changes to the governance structure while maintaining existing regulatory functions and responsibilities.
+
+ For any Firecrown brand with UK-based subscribers or that uses UK-audience advertising data, confirm that your data protection complaints process complies with the post-DUAA requirements that have been in force since June. The new board members are arriving with a mandate to use the sharper enforcement tools the Act gave them.
+
+Three. The SEC's executive compensation and proxy reform packages are at OIRA with an October target date. 
+
+All three proposals carry an October twenty twenty-six target date on the SEC's Regulatory Flexibility Agenda, so public companies should prepare for significant proxy season and disclosure changes this fall.
+
+ For a private company this is background noise for now, but if any of Firecrown's capital structure involves investors with public-company governance expectations — board composition, compensation benchmarking, shareholder proposal rights — the direction of travel on Rule fourteen-a-eight matters. The SEC's proposed title is "Rescission," not "Amendment." That is a substantive signal about how far the Commission intends to go.
+
+[SIGNOFF]
+
+That is your Morning Docket for Monday, September twenty-first. The week ahead is compressed but consequential. The FTC comment window closes Thursday. The UK regulator restructures next Tuesday. And the freight market's first year-over-year shipment growth in three and a half years is fragile enough that the analysts who track it most closely are reaching for that exact word in front of rooms full of shippers. Stay calibrated. Have a strong week.
+END OF EPISODE.
