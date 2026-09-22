@@ -1,0 +1,247 @@
+MORNING DOCKET — Tuesday, September 22, 2026
+A daily brief for the general counsel of a media company.
+
+Now I have sufficient research to write today's Morning Docket script. Let me compile everything into the required format.
+
+[COLD OPEN]
+
+The Department of Justice walked into a Southern District of New York courtroom on September first and told Judge Sidney Stein that training large language models on copyrighted works is fair use. For every publisher, every media company, and every general counsel who has been watching the AI copyright wars, that filing changed the shape of the battlefield. Meanwhile, eight days from now, the body that has regulated UK data protection since the Blair government — the Information Commissioner's Office — legally stops being a corporation sole and becomes a board-governed statutory body. Two tectonic shifts, nine days apart. It is Tuesday, September twenty-second, twenty twenty-six. This is Morning Docket.
+
+[INTRO]
+
+Good morning, Darren. The week opens with a dense agenda across nearly every topic on your docket. We have a major federal advertising enforcement action still reverberating from late August, a governance transition at the UK's privacy regulator that takes effect in eight days, freight market data pointing toward a fragile but real Q4 tightening, and new research confirming what most of us have suspected: eighty-seven percent of general counsel are now using AI in their departments. We will go deep this morning on the DOJ's AI training intervention and what it means for a media company that is both a content producer and a data publisher. After that, the GC Bench covers where legal technology is landing in the in-house context, and the industry angle takes a reading on freight, aviation fuel, and the signals SONAR is sending about the market heading into fall shipping season. Let us start with the headlines.
+
+[HEADLINE ROUNDUP]
+
+First. The FTC and twenty-two state attorneys general sued Amazon on August thirty-first over what they allege is a seven-year scheme to secretly inflate advertising auction prices. The complaint, filed in the Western District of Washington, alleges that Amazon overrode the results of its own second-price auctions with higher internally generated rates across three products: Sponsored Products, Sponsored Brands, and Sponsored Display.
+
+
+
+The lawsuit argues Amazon may have reaped more than twenty billion dollars from advertisers by using what the complaint calls hidden surcharges, dating back to a change in its auction rules that took effect in 2019.
+
+ 
+
+Regulators said Amazon misled one-point-two million advertisers, including more than five hundred thousand small and medium businesses, by inflating prices for sponsored listings.
+
+ Amazon has called the lawsuit misguided and says its practices lower advertiser costs. The significance for Firecrown: every brand in your portfolio that runs sponsored placements on Amazon, including Spacestore, is potentially a member of the affected advertiser class. And more broadly, the suit signals that the FTC under Chairman Andrew Ferguson is willing to take on the mechanics of digital ad auctions at the platform level — which has implications for how ad tech transparency obligations may evolve across the ecosystem.
+
+Second. The California Privacy Protection Agency has more than one hundred active privacy investigations running simultaneously. 
+
+By early 2026, the agency reported more than one hundred active investigations running simultaneously.
+
+ The CPPA's enforcement posture in 2026 is materially more aggressive than it was twelve months ago, and the agency's precedents are worth reviewing for a media publisher. 
+
+In March 2026, CalPrivacy announced a one-point-one-million-dollar decision against PlayOn Sports, a media company that sells digital tickets to certain high school events. According to CalPrivacy, high school students were required to agree to the use of tracking technology and collection of personal information without a meaningful way to opt out. That enforcement action represented CalPrivacy's first foray into enforcing the CCPA expressly on behalf of minors, describing the high school students as a, quote, uniquely vulnerable population.
+
+ If any Firecrown property has content that reaches under-eighteen audiences — and aviation and rail enthusiast media certainly does attract young readers — that ruling should inform how you structure data collection consent on those properties today.
+
+Third. A governance change of genuine structural significance is eight days away in the United Kingdom. 
+
+On September tenth, the government made the Data Use and Access Act 2025 Commencement Number Nine Regulations, SI 2026/1015. Regulation 2 of that instrument appoints September thirtieth, 2026 as the day on which sections 117, 118, and 119 of the Data Use and Access Act come into force. Those three provisions carry out the governance reform that Parliament wrote into the Act: replacing the office of Information Commissioner, a corporation sole held by one person, with the Information Commission, a body corporate with collective decision-making.
+
+ 
+
+From September thirtieth, the Information Commissioner's Office moves from a one-person legal structure to a board-led body corporate, the Information Commission, though the ICO says it will keep its familiar name.
+
+ For your UK operations, this is not merely organizational tidying. The new board structure is expected to bring sharper governance to enforcement prioritization. 
+
+The PECR fine cap has already risen from five hundred thousand pounds to seventeen-point-five million, aligned with UK GDPR maxima
+
+, and the regulator now has powers to compel witness attendance and require technical reports. Monitor the new board's first public statements closely — they will signal enforcement priorities for the next several years.
+
+Fourth. The FTC also finalized consent orders in late August with a media company and two marketing firms over what the commission called deceptive AI advertising claims. 
+
+On August twenty-seventh, the FTC announced that it had finalized consent orders with a media company and two marketing firms. The May 2026 complaints alleged that the defendants claimed to offer an AI-powered Active Listening service to small businesses that could target ads based on consumers' real-time conversations captured from smart devices.
+
+ This is the second wave of Operation AI Comply enforcement, 
+
+the FTC's initiative launched in 2024. Since its inception, the agency has brought more than a dozen actions targeting inflated or unsubstantiated claims about AI capabilities.
+
+ The lesson for any media business selling AI-enhanced advertising products — and that includes data-driven audience targeting sold by specialized publishers — is precise: capability claims for AI products must be grounded in evidence. Anything marketed as AI-powered needs to perform as described. Your sales and marketing teams need to see this enforcement wave as a compliance matter, not just a PR matter.
+
+Fifth. On the SEC and corporate governance front. 
+
+The SEC Division of Corporation Finance is conducting a comprehensive review of Regulation S-K, and Chairman Paul Atkins has indicated that the current disclosure regime elicits significant volumes of immaterial information. As such, it appears the agency will seriously consider revisions to reduce disclosure requirements.
+
+ This is a meaningful signal for any private company that may be considering a public transaction or that has public reporting obligations. The review is directionally toward deregulation rather than expansion. But even as the top-line framework may be pared back, 
+
+companies should continue to focus on AI-related risks in their periodic reports, including regulatory, operational, competitive, cybersecurity, ethical, and third-party risks, and should assess the material impact of AI on the company's business outlook and performance and update their risk factors and other disclosures if necessary.
+
+ In other words: less form, same substance, especially on AI.
+
+Sixth. The publishing industry's subscription model conversation took a concrete turn at the Digiday Publishing Summit this month. 
+
+Reuters is detailing how the publisher is delicately balancing its push into a subscription business while continuing to grow its advertising business. And USA Today Media's president is discussing investment opportunities ranging from AI product development to subscription offerings.
+
+ 
+
+The thesis is that attracting high-quality users, building direct relationships with them, and using first-party data to make those audiences more valuable — both as potential subscribers and to advertisers — creates a model where subscriptions and advertising don't have to compete for the same audience.
+
+ For specialized vertical publishers like FreightWaves, FLYING, or Trains.com, that thesis maps cleanly onto an existing audience profile. The question is whether first-party data infrastructure is in place to make the model perform.
+
+[DEEP DIVE]
+
+We are going to spend the next ten minutes on the DOJ's September first statement of interest in the OpenAI consolidated copyright litigation, and what it means for a company sitting in Firecrown's exact position: a media holding company that produces original content and also, as a publisher, has an interest in how that content is used by AI systems.
+
+Here is the factual foundation. 
+
+On September first, the Department of Justice filed a Statement of Interest in the Southern District of New York, asking the court to hold that training large language models on copyrighted written works qualifies as fair use. The filing lands in the consolidated copyright litigation against OpenAI and Microsoft, and it goes further than the parties themselves have, arguing that a ruling against the AI developers would distort copyright doctrine, slow domestic innovation, and weaken United States competitiveness and national security.
+
+
+
+
+
+The litigation encompasses not only The New York Times' December 2023 suit against OpenAI and Microsoft, but every publisher, outlet, and author currently in litigation under the MDL's umbrella.
+
+
+
+Before we assess the implications, a critical point of precision. 
+
+For counsel, avoid the shortcut that the DOJ says training is legal. The narrower and supportable statement is that the DOJ advocates fair use for the training-stage copying question in this litigation.
+
+ That is not a judicial holding. It is the executive branch's stated position in active litigation, and it is subject to change if the administration changes. Judge Stein still has to rule.
+
+What the filing does do is shift the negotiating terrain. 
+
+For creators, the strategic picture after September first has clarified, even if it has not improved. The court-based avenue for compensation remains open, but it now runs against the executive branch's declared position and through a judiciary being shaped by a president who has made domestic AI dominance an explicit policy priority. The more tractable routes are legislative and contractual.
+
+
+
+
+
+Congress has not yet passed legislation addressing AI training and copyright — a gap the Copyright Office's May 2025 report explicitly identified as a policy question for Congress to resolve.
+
+
+
+Now, what does this mean specifically for Firecrown? You are managing both sides of the ledger simultaneously.
+
+On the content producer side: FreightWaves publishes proprietary market intelligence. FLYING publishes original reporting and technical analysis. Trains.com and Boating and Sailing produce specialty editorial that is difficult to replicate from public data. Each of those bodies of work has value as training data, and the DOJ's position — that training-stage copying is transformative — does not eliminate the licensing market, it arguably incentivizes it. 
+
+AI companies now face direct incentives to negotiate licensing deals. A settled licensing relationship is cheaper and more predictable than litigation risk, particularly when courts are beginning to examine these questions closely.
+
+ That means Firecrown should not read the DOJ brief as a reason to stand down. It should read it as a reason to get ahead of the licensing conversation.
+
+
+
+For a publisher, the practical advice is to preserve separate evidence about source acquisition, permissions, licensing, retention, and observed outputs.
+
+ If any AI developer has been scraping FreightWaves content, Trains.com editorial, or FLYING features without a licensing arrangement, document that now. The litigation will eventually produce discovery, and well-organized evidence of scraping without permission is the basis for negotiating leverage even if the fair use question ultimately goes to the developers.
+
+On the AI-product side: Firecrown, through SONAR and related data products, is in some respects both a publisher and a data company. To the extent that SONAR or any Firecrown entity trains models on data — including licensed third-party data — 
+
+it matters to record how the provider or customer obtained the works, how copies were prepared, what training or retrieval process used them, what the resulting model retains, and how the buyer uses the output.
+
+ That documentation framework is your compliance posture regardless of how the litigation resolves.
+
+The third dimension is your vendor relationships. If you use any AI tools internally — for editorial assistance, contract review, market analysis — and those tools were trained on data whose provenance is uncertain, the DOJ filing does not insulate you from downstream liability. The filing addresses training-stage copying by the developer; it says nothing about contractual representations, licensing warranties, or indemnification from your SaaS vendors.
+
+Three concrete actions for this week. First: have your IP team audit each Firecrown brand's published archive to understand what content exists, whether any license or terms of service prohibit AI training, and whether your existing agreements with hosting platforms or syndication partners inadvertently grant training rights. Second: ask any AI vendor you currently use to provide written confirmation of how their training datasets were assembled and what indemnification, if any, they offer for copyright claims arising from output. If they cannot answer the first question, that is itself a risk signal. Third: brief Craig Fuller and the executive team on the DOJ's position in plain language. The instinct may be to treat this as good news for AI generally. The nuanced read — and the legally defensible posture — is that it accelerates the timeline for licensing rather than eliminating the need for it.
+
+[GC BENCH]
+
+The GC Bench this morning is about where AI adoption in the in-house legal function actually stands, and what the governance gap looks like.
+
+
+
+The General Counsel Report from FTI Consulting and Relativity found that eighty-seven percent of general counsel reported their teams using generative AI in 2026, up from forty-four percent a year earlier and twenty percent two years before that.
+
+ That is not a gradual adoption curve. That is a near-vertical line. And it creates a governance problem that is landing squarely on the general counsel's desk.
+
+
+
+Research from the Diligent Institute and Corporate Board Member found that sixty-six percent of directors use AI for board work, while only twenty-two percent report having AI governance processes in place.
+
+ The math on that gap is uncomfortable. Two-thirds of boards are using AI tools, and fewer than a quarter have rules governing how they do it. That is a fiduciary exposure that no general counsel wants to be on the wrong side of when something goes wrong.
+
+The practical dimension for an in-house team of Firecrown's size: 
+
+in 2026, general counsels are beginning to engage more deeply with their legal tech strategy, invigorate the legal ops function with greater authority, and push their professionals to use purpose-built legal AI.
+
+ The platforms fragmenting this market are worth knowing by category. 
+
+A Big Law generalist platform is built for the workflow of an AmLaw 100 firm: litigation, mergers and acquisitions, regulatory, and cross-practice research at the partner-and-associate scale. The category leaders write for the AmLaw buyer first and the corporate legal department second. Harvey and Legora are the leading platforms in this category.
+
+ For a lean in-house team managing a portfolio of media brands, those tools may have more capability than you need and more cost than you want.
+
+The practical filter for a holding company GC: look for platforms that support contract review, regulatory monitoring, and vendor management across multiple brands simultaneously without requiring a separate instance for each entity. The test is not which platform has the most features. It is which platform your team will actually use, and which one has defensible data isolation so that FLYING's contracts are not accessible to a query about FreightWaves' supplier agreements.
+
+One risk note from the bench: 
+
+courts have established that controlled testing environments, log reconstruction, and clear governance are essential for legal teams analyzing and responding to AI evaluation incidents.
+
+ Before you deploy any AI tool for legal work, establish the logging baseline. If an AI-assisted memo or contract review ever becomes relevant in litigation, you need to be able to reconstruct what the tool produced, what the supervising attorney reviewed, and what changes were made. Document the human judgment layer. That is your professional responsibility protection.
+
+[INDUSTRY ANGLE]
+
+The freight, aviation, and marine angle this morning, starting with the data that matters most to FreightWaves and SONAR.
+
+
+
+The monthly FreightWaves State of Freight discussion has migrated to FreightWaves Today, but a gathering of shippers in New York brought together by sister company SONAR heard Craig Fuller and Zach Strickland describe a market they called fragile. Unlike earlier State of Freight sessions in the first part of 2026, Fuller and Strickland this time were measuring a market that was not moving higher in leaps and bounds. The SONAR Tender Rejection Index moved down from recent peaks before taking a sharp upward move in the days leading up to the event at the TWA Hotel at JFK Airport.
+
+
+
+That characterization — fragile, but tightening — aligns with the broader data. 
+
+The Cass Truckload Linehaul Index reached one-fifty-two-point-nine in July, up eight-point-six percent year over year and two-point-three percent month over month. ACT Research projects the index to continue higher through Q4 as new contract executions from the July bid cycle flow into the calculation and spot market tightening amplifies linehaul benchmarks heading into fall negotiations.
+
+
+
+Diesel is the complicating variable heading into Q4. 
+
+National diesel closed August at five-fifty-nine per gallon. California is at seven-twenty-two.
+
+ For any carrier operating in or out of California — which is relevant to FreightWaves' West Coast coverage base — that fuel cost differential is not abstract. It is a margin compressor on every run.
+
+
+
+September 2026 may behave differently from a traditional year because much of the normal import peak was pulled forward into June, July, and August as retailers moved merchandise ahead of tariff changes and other trade uncertainty.
+
+ That front-loaded peak shipping season means carriers and shippers are navigating a somewhat irregular demand curve as we enter Q4.
+
+SONAR also noted earlier this year that the freight recession, which stretched from 2022 through much of 2025, is broadly considered over. 
+
+The April 2026 State of Freight webinar delivered a clear consensus from Craig Fuller and Zach Strickland: the freight recession is over.
+
+ The question now is the pace and durability of recovery. The SONAR data suggests recovery is real but rate-driven by supply exit rather than demand growth — and that is a distinction with implications for how shippers plan contracts.
+
+On aviation. Jet fuel is the single most powerful variable in airline economics right now. 
+
+The global average price hit one-seventy-one dollars and one cent per barrel in the first week of September, up nine percent in one week and roughly fifty-seven percent above year-ago levels, forcing carriers like Ryanair to trim growth plans purely to shrink unhedged winter fuel exposure.
+
+ For the FLYING audience, that signals a tightening of network expansion plans by budget carriers, which affects aircraft utilization and potentially the used aircraft market that enthusiast readers closely follow.
+
+
+
+July 2026 global passenger traffic grew zero-point-two percent year on year despite war-driven capacity cuts in the Middle East, while air cargo posted a stronger three-point-nine percent increase, with freighters gaining share from belly capacity.
+
+ That freighter-versus-belly dynamic is worth watching. If geopolitical disruption persists, dedicated freighter operators benefit while passenger airline cargo revenue contracts — and that has implications for the freight-aviation crossover stories that FreightWaves covers.
+
+
+
+A single technical fault at the UK's NATS on September eighth wiped out more than a thousand flights, while the Anak Krakatau eruption closed eight Indonesian airports and stranded over two hundred seventy thousand passengers within four days.
+
+ Operational resilience — both for airlines and for publishers covering aviation — is increasingly a board-level conversation, not an operational one.
+
+[CLOSING BRIEF]
+
+Three things on the watch list for the coming days.
+
+One. The OpenAI MDL in Judge Stein's courtroom. The DOJ filed September first. The next critical date is the court's response to summary judgment motions from the defendants. If the court accepts the DOJ's framing and treats training-stage copying as presumptively transformative, publishers lose their strongest litigation leverage and the licensing market becomes the only viable forum for compensation. Watch the docket. Firecrown's content licensing posture should be reviewed before that ruling lands.
+
+Two. The ICO governance transition on September thirtieth. 
+
+The government has confirmed the Information Commissioner's Office will transition to the Information Commission on September thirtieth, 2026. This transition is a result of the Data Use and Access Act 2025, which makes changes to the governance structure of the organisation, while maintaining existing regulatory functions and responsibilities.
+
+ The new board's composition and initial enforcement statements will signal whether the Information Commission pursues a more aggressive or more innovation-permissive posture. UK media operations should monitor this closely and ensure their complaints procedures are fully operational under the DUAA framework. The formal complaints handling deadline was June 2026. If that process has not been fully implemented across UK-facing properties, that needs to be remedied immediately.
+
+Three. The FTC's Amazon advertising lawsuit. 
+
+The FTC, joined by twenty-two state attorneys general, filed a sweeping lawsuit against Amazon, alleging that the e-commerce giant secretly manipulated its advertising auction system to extract more than twenty billion dollars from approximately one-point-two million advertisers over six years.
+
+ The first procedural hearings in that case will establish whether the FTC can sustain its core theory — that second-price auction misrepresentation constitutes a deceptive practice under Section 5 — and the answer to that question has implications for how every major digital advertising platform discloses auction mechanics. For any Firecrown brand that runs programmatic advertising, this litigation is a reason to review what disclosures your ad tech partners make to you about how inventory is priced.
+
+[SIGNOFF]
+
+That is Morning Docket for Tuesday, September twenty-second. The research is in the citations; the judgment is yours. We will be back tomorrow with any developments from the Digiday Publishing Summit, updated SONAR freight data, and a closer look at the SEC's Regulation S-K review and what a simplified disclosure regime might mean for media holding companies evaluating capital market options. Have a good commute.
+END OF EPISODE.
