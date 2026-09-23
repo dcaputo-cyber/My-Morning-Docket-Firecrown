@@ -1,0 +1,287 @@
+MORNING DOCKET — Wednesday, September 23, 2026
+A daily brief for the general counsel of a media company.
+
+Now I have comprehensive research across all the listener's topic areas. Let me write the Morning Docket script.
+
+[COLD OPEN]
+
+The United Kingdom's Information Commissioner's Office will cease to exist as a legal entity in seven days. On the thirtieth of September, it becomes the Information Commission, a board-governed body corporate, completing the governance overhaul baked into the Data Use and Access Act. Meanwhile, on this side of the Atlantic, the Department of Justice just told a federal court that training large language models on copyrighted text is fair use, and framed the outcome as a question of national security. Two different regulators, two different postures on data and AI, both with direct consequences for a media company operating in both markets. That's the shape of your Wednesday.
+
+[INTRO]
+
+Good morning. It is Wednesday, the twenty-third of September, twenty twenty-six. I'm your Morning Docket producer, and for the next twenty-five minutes or so, we're working through everything that moved this week across privacy, ad tech, intellectual property, publishing economics, legal technology, and the freight and aviation markets. The deep dive today is the DOJ's Statement of Interest in the OpenAI copyright litigation, which landed on September first and is still rippling through every editorial, licensing, and AI product discussion in this industry. The GC Bench covers OpenAI's Astra for Law, announced last Wednesday, and what it actually means if you're a solo or near-solo in-house team. And the industry angle today is the trucking market, which Craig Fuller and Zach Strickland called "fragile" at a shipper forum in New York last week, and a cargo aviation story that has regulatory implications worth watching. Let's get into it.
+
+[HEADLINE ROUNDUP]
+
+First item. The FTC's proposed enforcement policy statement on personalized pricing is at the comment wire today. The original comment deadline was September eighteenth. 
+
+The Commission extended the comment period by seven days, making the new deadline September twenty-fifth, twenty twenty-six.
+
+ This is not a rule. 
+
+The statement, opened for comment on August nineteenth, addresses personalized pricing, which the FTC defines as the use of personal data to set prices according to the amount a company believes an individual consumer is willing to spend.
+
+ 
+
+The proposal says businesses may violate Section Five of the FTC Act if they do not clearly explain when a price is personalized, why it is personalized, and what data is used.
+
+ For a media company, this matters at several layers. Your subscription platform almost certainly uses behavioral data to present pricing. Your e-commerce brands at Spacestore do the same. 
+
+The California attorney general's office is separately examining how existing CCPA law intersects with this type of pricing activity.
+
+ 
+
+The bottom line from practitioners is this: personalized pricing is not off limits, but undisclosed personalization is becoming harder to defend at both the federal and state levels.
+
+ If your pricing tools use first-party behavioral data and your privacy policy does not say so explicitly, that gap just became a compliance gap. Today is the day to flag that review internally.
+
+Second item. CalPrivacy, the renamed California Privacy Protection Agency, continues to put multi-million-dollar numbers on the board. 
+
+The General Motors settlement in May of this year reached twelve point seven five million dollars, now the largest CCPA penalty in California history and the first major CCPA data-minimization case. Disney's two point seven five million dollar opt-out settlement and PlayOn's one point one million dollar student-privacy order show that multi-million-dollar fines are no longer unusual.
+
+ More consequentially for operating teams: 
+
+in twenty twenty-six, CalPrivacy's enforcement focus has shifted from notice-of-violation sweeps to systemic, well-funded investigations of opt-out friction, GPC processing, connected-vehicle data, and youth-data handling.
+
+ 
+
+By early twenty twenty-six, the agency reported more than one hundred active investigations running simultaneously.
+
+ The pattern in every settled case is the same as it was in the Tractor Supply matter from last September: 
+
+the issues are properly effectuating opt-out of sale and share for cookies, enabling browser privacy control signals to automatically convey and implement those opt-outs, and having the right contracts in place with service providers, contractors, and third parties.
+
+ If you have not run a GPC propagation test across your portfolio of brands in the last ninety days, that should be on this week's list.
+
+Third item. The UK regulatory clock is ticking audibly. 
+
+On September tenth, the government made the Data Use and Access Act twenty twenty-five Commencement No. Nine Regulations, which appoint September thirtieth as the day sections one seventeen, one eighteen, and one nineteen of the Act come into force, carrying out the governance reform that replaces the office of Information Commissioner with the Information Commission, a body corporate with collective decision-making.
+
+ 
+
+From September thirtieth, the ICO moves from a one-person legal structure to a board-led body corporate, though the ICO says it will keep its familiar name.
+
+ The underlying enforcement powers are already live. 
+
+The PECR fine cap rose from five hundred thousand pounds to seventeen point five million, aligned with UK GDPR maxima.
+
+ For Firecrown's UK-facing operations, any digital advertising, cookie consent, or direct marketing activity that wasn't compliant under the old regime is now exposed to significantly larger penalties under a newly structured regulator. The governance change does not reset the clock on existing liability.
+
+Fourth item. 
+
+US copyright lawsuits against AI companies hit one hundred forty on September first, twenty twenty-six, up from forty-five at the end of June twenty twenty-five, based on the case map maintained by law professor Edward Lee.
+
+ That trajectory matters because it tells you the plaintiff class is growing faster than any individual case is resolving. The most commercially significant settlement in this space: 
+
+the Bartz v. Anthropic class action, covering authors whose works were used for AI training, received final approval of its one point five billion dollar settlement fund on July twentieth, twenty twenty-six, with a first per-work payment due in November.
+
+ The settlement math is informative for any publisher thinking about licensing negotiations with AI developers. We will unpack the DOJ's intervention in the OpenAI case in the deep dive. Stay with me.
+
+Fifth item. On publishing economics, the data continues to point in one direction. 
+
+With traffic from search and social more volatile, subscriptions are being positioned as the stabilizing core of some news publishers' businesses. Subscription and membership remain the biggest revenue focus at seventy-six percent for publishers, ahead of display at sixty-eight percent and native advertising at sixty-four percent, according to the Reuters Institute's recent report on journalism trends in twenty twenty-six.
+
+ But the more nuanced story is how publishers are defending average revenue per user. 
+
+The backbone of subscription growth is packaging up other verticals, newsletters, and premium briefings to raise average revenue per user and reduce churn.
+
+ That is the exact strategic model Firecrown brands are positioned to execute across FreightWaves, FLYING, Trains.com, and Boating and Sailing: vertically deep content, premium access tiers, and event-attached community. The risk to watch is that 
+
+for many news organisations, old business models are continuing to deteriorate faster than newer digital revenue streams are able to grow.
+
+ Scale-based advertising economics are not coming back. The bet has to be on direct reader relationships, and the legal infrastructure supporting those relationships, specifically subscription terms, auto-renewal disclosures, and cancellation mechanics, has to be airtight given FTC negative-option enforcement posture.
+
+Sixth item, briefly. The FTC finalized consent orders with three companies regarding deceptive AI advertising claims. 
+
+On August twenty-seventh, the FTC announced it had finalized consent orders with a media company and two marketing firms, resolving alleged violations of the FTC Act.
+
+ 
+
+The May twenty twenty-six complaints alleged the defendants claimed to offer an artificial intelligence-powered
+
+ product without adequate substantiation. The agency's Operation AI Comply initiative is ongoing. 
+
+Launched in twenty twenty-four, it has brought more than a dozen actions targeting inflated or unsubstantiated claims about AI capabilities, a pattern of enforcement that continued into twenty twenty-five and early twenty twenty-six.
+
+ If any Firecrown brand is marketing an AI-powered tool or feature, claims need substantiation documentation now, not after a complaint.
+
+[DEEP DIVE]
+
+Now the deep dive. The Department of Justice statement of interest in the OpenAI copyright litigation, and what it means for a media company that both publishes original content and evaluates AI tools built on that content.
+
+On September first, 
+
+the Department of Justice filed a Statement of Interest in the Southern District of New York asking the court to hold that training large language models on copyrighted written works qualifies as fair use.
+
+ 
+
+The filing lands in the consolidated copyright litigation against OpenAI and Microsoft, and it goes further than the parties themselves have, arguing that a ruling against the AI developers would distort copyright doctrine, slow domestic innovation, and weaken United States competitiveness and national security.
+
+
+
+Let's be precise about what this filing does and does not do. 
+
+The DOJ filing materially changes the arguments before the court by urging a fair-use view of training-stage copying and tying that position to innovation and national security. It does not decide the case, establish that every dataset was lawfully acquired or stored, or resolve questions about model outputs and market substitution.
+
+ 
+
+The filing advocates a fair-use position for training-stage copying while leaving acquisition, storage, and output questions distinct, with the court's ruling still pending.
+
+
+
+Why does this framing matter for Firecrown? Two reasons. First, as a publisher, you are a potential plaintiff class member in consolidated litigation that now has the federal government intervening against your legal position. Second, as a company evaluating or deploying AI tools built on foundation models, the DOJ's framing actually benefits you operationally, if and when the court adopts it.
+
+The precedential backdrop is important. 
+
+In Thomson Reuters v. Ross, the court rejected a fair use defense for the use of copyrighted works to train an AI legal search tool, holding that Ross was using copyrighted headnotes to create a competing legal research product, which was not transformative, and that Ross's tool served as a market substitute, with the court noting the effect on a potential market for AI training data.
+
+ That ruling was a win for rights holders. The DOJ is now asking a different court to go the other direction on substantially similar facts, but in a different industry context.
+
+
+
+In January of this year, Judge Sidney Stein in the Southern District of New York affirmed an order requiring OpenAI to produce twenty million de-identified ChatGPT conversation logs, with plaintiffs having originally sought one hundred twenty million.
+
+ Discovery is still running. The case is not close to resolution.
+
+For the Bartz v. Anthropic settlement, 
+
+notable developments came in August and September twenty twenty-five when the case was certified as a class action and preliminary approval of a one point five billion dollar settlement was announced.
+
+ 
+
+Final approval came July twentieth, twenty twenty-six, with a first per-work payment due on or before November of this year.
+
+ That payment is now the market reference point for how AI developers price content liability exposure. One point five billion dollars across a class of nearly half a million eligible works produces an average payment that is not going to replace a licensing stream for any serious publisher.
+
+What should a general counsel at a media holding company take from this? Three concrete actions.
+
+First, audit your content licensing posture. If FreightWaves, FLYING, Trains.com, or any other Firecrown brand has content that has been scraped and used in AI training, you are a potential class member in the consolidated OpenAI MDL or in future actions. Know which works are registered with the Copyright Office. Registered works carry enhanced statutory damages. Unregistered works do not. The registration window matters.
+
+Second, for any AI vendor contracts you are reviewing or renewing, add explicit representations about training data provenance. The DOJ framing protects large foundation model developers at the training stage. It does not extend to downstream vendors who fine-tune on your content without authorization. Distinguish those layers in your vendor agreements.
+
+Third, pay attention to the fourth factor in the fair use analysis: market substitution. The DOJ argument on training-stage copying is stronger when the AI output does not substitute for the original. If an AI product built on Firecrown content produces freight market analysis that competes with SONAR or FreightWaves editorial, that substitution argument collapses in your favor. Document any instances of substitutive output now, before you need them in litigation.
+
+The DOJ's entry into this case is significant. It is not dispositive. The court still decides.
+
+[GC BENCH]
+
+GC Bench. Legal technology and AI for the in-house practitioner.
+
+The headline this week is OpenAI's Astra for Law, announced September seventeenth. 
+
+OpenAI introduced Astra for Law as a new foundation for law firms and legal technology companies to build AI products and workflows around their expertise. It combines GPT-6 Astra, OpenAI's latest and most powerful model, with settings, tools, and context tailored for professional legal work.
+
+ 
+
+Astra for Law pairs GPT-6 Astra with instructions for legal analysis and writing, settings for thorough work, and a new Legal Search Index. The index searches U.S. case law, statutes, regulations, court rules, and administrative decisions across more than two hundred thirty million URLs, with sources added daily.
+
+
+
+The launch includes 
+
+twenty-six partner-built plugins that connect ChatGPT to tools law firms already use, including iManage, Intapp, DeepJudge, Relativity, Clio, and Thomson Reuters HighQ.
+
+ 
+
+Law firms including Latham and Watkins, Ropes and Gray, Cooley, and Sullivan and Cromwell are already early adopters.
+
+
+
+Here is the practical filter for an in-house team. 
+
+Astra for Law will initially be offered to selected firms through Trusted Access in ChatGPT and Codex.
+
+ 
+
+It is initially available to selected law firms through Trusted Access in ChatGPT and Codex. General direct access for corporate legal departments is not described.
+
+ That matters. The initial channel is large law firms, not in-house teams. If your outside counsel at an Am Law 200 firm is getting access, that changes your expectation on how they bill research time, and it should change your outside counsel rate and value conversation.
+
+The in-house market is moving separately. 
+
+The twenty twenty-six General Counsel Report from FTI Consulting and Relativity puts in-house generative AI usage at eighty-seven percent, nearly double the forty-four percent from a year prior.
+
+ 
+
+The twenty twenty-six ACC Generative AI survey of six hundred fifty-seven in-house legal professionals found the biggest reported benefits are efficiency gains in drafting at seventy-three percent and legal research at fifty-three percent.
+
+
+
+For a lean in-house team like Firecrown's, the question is not whether to use AI. It is which tool earns a line on your stack. 
+
+In the In-House Legal Bench published in May twenty twenty-six, GC AI passed eighty-six point eight percent of one hundred in-house legal tasks, ahead of ChatGPT at seventy-nine point eight percent, Claude at sixty-eight point four percent, and Gemini at fifty-seven point five percent.
+
+ Purpose-built in-house tools currently outperform horizontal models on in-house-specific work. That gap will narrow as Astra for Law reaches corporate legal departments, but the system prompt, document grounding, and verification architecture around the model matter as much as the model itself.
+
+One watch item for next week: GC AI has integrated as a plugin in the Astra for Law launch ecosystem. 
+
+GC AI is participating in the Astra for Law launch and will bring its legal intelligence to ChatGPT through a GC AI ChatGPT Plugin.
+
+ That integration means the competitive boundary between horizontal and vertical legal AI tools is becoming more porous. Watch for pricing pressure and consolidation in this space over the next two quarters.
+
+[INDUSTRY ANGLE]
+
+Industry angle. Freight, rail, and aviation.
+
+At the SONAR and Cass Information Systems Shippers Forum in New York on September fifteenth, 
+
+FreightWaves' Zach Strickland and Craig Fuller told shippers gathered at JFK that recent stability in tender rejections is masking real fragility underneath.
+
+ 
+
+The SONAR Tender Rejection Index climbed above seventeen percent in June, dropped below fourteen percent in the weeks since, then jumped roughly seventy-five basis points in a single week, a swing Strickland said undercuts any read of a settled market.
+
+ 
+
+Fuller asked Strickland whether the recent decline was "the pause before the storm."
+
+ The answer, in effect, was yes, conditionally. 
+
+Fuller characterized the market this way: capacity is so tight that any disruption could cause a significant increase in rejections and a significant tightness in capacity, with trucks not showing up.
+
+
+
+That assessment is consequential for Firecrown's content strategy on FreightWaves and SONAR. A fragile market heading into Q4 peak season is a story. Rate volatility is a story. The Dalilah Law, a Senate bill that 
+
+if enacted, would trigger a sharp, immediate contraction in trucking capacity and potentially ignite a trucking super cycle with overnight rate surges amid severely tight supply,
+
+ is a story FreightWaves readers need tracked weekly.
+
+On aviation cargo. The accident and its aftermath. 
+
+Amazon said on September thirteenth that it has suspended its partnership with 21 Air after one of the cargo carrier's planes loaded with Amazon packages careened off a Miami runway on September sixth and killed five people. The Boeing 767 came in fast and barreled roughly thirteen hundred feet past the end of the runway and smashed into a van. All five people who died were in the van.
+
+ 
+
+Preliminary details have raised questions regarding the aircraft's landing speed as it overran the runway, and federal investigators are examining how the flight crew handled the landing.
+
+
+
+The capacity implications are modest in the short term. 
+
+According to analysts, 21 Air represented eight of the one hundred six freighter aircraft in Amazon's controlled network as of the end of August. With one aircraft destroyed in the Miami crash, Amazon is effectively taking seven aircraft out of its network while the suspension remains in place.
+
+ But the strategic implication is larger. 
+
+The crash and subsequent suspension could prompt Amazon to revisit how much control it wants over the operation of its air fleet. Amazon already owns some aircraft, introducing its first factory-built Boeing 767 freighter last month as part of a move that includes three new seven sixty-seven three hundred Fs.
+
+ That is a structural shift in the Amazon Air network model, from contracted operations toward owned capacity, and it is the FLYING magazine and FreightWaves intersection story of the month. For an NTSB investigation into a cargo carrier, this is also a story with a long tail.
+
+[CLOSING BRIEF]
+
+Closing brief. Three things on the watch list.
+
+One. The DOJ's Statement of Interest in the OpenAI MDL has been filed. What has not happened is a court ruling. Watch for the Southern District of New York's response to motions for summary judgment in the consolidated litigation over the next sixty to ninety days. That ruling, whenever it comes, will be the most consequential IP event for media publishers since the Sega and Google Books decisions. If the court adopts the DOJ's training-stage fair use framing, your licensing leverage with AI developers narrows. If it rejects it, your leverage expands considerably.
+
+Two. The UK's Information Commission stands up on September thirtieth. 
+
+Seven non-executive board members were named in July twenty twenty-six to sit on the Information Commission Board, and the ICO says the new board arrangements take effect on September thirtieth.
+
+ The regulator's name stays the same informally. Its legal structure, decision-making model, and enforcement posture do not. Any UK data subject complaint or regulatory inquiry filed after September thirtieth goes to a body with board-level collective accountability and enhanced fining powers. If you have open ICO matters or pending PECR questions related to any Firecrown UK digital property, close them before Tuesday.
+
+Three. The FTC's personalized pricing comment period closes today, September twenty-fifth. The next step is finalization of the policy statement. Watch for it to arrive before the end of Q4, likely with specific disclosure language requirements. At that point, you have a contractual review obligation across every Firecrown subscription platform that uses behavioral data to price or tier offers. Get your vendor inventory current now so you are not chasing that review under deadline.
+
+[SIGNOFF]
+
+That is Morning Docket for Wednesday, September twenty-third. We will be back tomorrow with any overnight developments on the NTSB's preliminary factual report on the Miami cargo crash, and I will be watching for any court filings in the OpenAI MDL. Stay measured out there, Darren. Have a good commute.
+END OF EPISODE.
