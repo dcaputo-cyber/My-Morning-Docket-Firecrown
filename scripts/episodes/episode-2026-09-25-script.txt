@@ -1,0 +1,271 @@
+MORNING DOCKET — Friday, September 25, 2026
+A daily brief for the general counsel of a media company.
+
+Now I have all the information I need to write the Morning Docket script. Let me compile it.
+
+[COLD OPEN]
+
+Two things happened yesterday that belong in the same sentence. The Federal Trade Commission published an advance notice of proposed rulemaking asking whether social media platforms and search engines should be legally required to stop their own ad-optimization tools from delivering impersonation scams to consumers. And this morning, across the Atlantic, the United Kingdom's Information Commissioner's Office ceases to exist as a corporation sole. As of tomorrow, September 30th, it becomes the Information Commission — a statutory board with collective decision-making and the same sharp enforcement teeth. Two regulators. Two restructuring moves. Both aimed squarely at the infrastructure of digital advertising and data. Welcome to your Friday.
+
+[INTRO]
+
+Good morning. It is Friday, September 25, 2026. I'm your host on Morning Docket, the daily legal briefing built for Barrister Darren Caputo, General Counsel at Firecrown. Today's program is dense. We have six headline items including two breaking developments from the past twenty-four hours. The deep dive goes into the Manhattan federal courthouse, where the most consequential copyright litigation of the AI era is now at summary judgment. We have a GC Bench on legal AI adoption data that should inform your next procurement decision. An industry angle on what FreightWaves and SONAR are calling a fragile trucking market. And a closing watch list that has the FTC's personalized pricing deadline, the ICO governance changeover, and the state of ocean rates heading into China's Golden Week. Let us begin.
+
+[HEADLINE ROUNDUP]
+
+First item. The FTC moved yesterday — literally yesterday, September 24th — on a topic that every ad-supported publisher needs to understand immediately. 
+
+The Commission announced it is considering whether to update its Rule on Impersonation of Government and Businesses, or take other action to prevent online platforms from engaging in ad-optimization practices that may be furthering impersonation scams.
+
+ 
+
+In an Advance Notice of Proposed Rulemaking, the FTC is seeking comment on the extent to which ad-optimization tools and services offered by social media, search engines, and other digital marketplace platforms further efforts by scammers to impersonate legitimate businesses and government agencies using online ads.
+
+ 
+
+The ANPRM seeks public comment on potential new obligations for social media, search engines, and digital marketplace platforms to prevent fraudulent ads from reaching consumers.
+
+ For a media holding company that relies on programmatic advertising revenue, this matters doubly. If rulemaking progresses, platforms will face new compliance costs that will almost certainly be passed downstream. And the FTC's willingness to expand its impersonation rule framework is a signal that the commission is prepared to treat ad-optimization as a regulated activity, not merely a business practice.
+
+Second item. Also from the FTC, and today marks its public comment deadline — the Commission's proposed enforcement policy statement on personalized pricing closes at midnight tonight. 
+
+The FTC announced it is seeking public comment on an enforcement policy statement regarding personalized pricing, which is the use of personal data to set prices according to the amount that a company believes an individual consumer is willing to spend. FTC Chairman Andrew Ferguson said, "When consumers see a listed price, they expect it to be the same price that everyone else sees, not the retailer's estimate of how much they are willing to pay based on their personal data."
+
+ 
+
+The proposal says businesses may violate Section 5 of the FTC Act if they do not clearly explain when a price is personalized, why it is personalized, and what data is used.
+
+ For a publisher running dynamic subscription pricing — testing introductory rates, stepping up renewals, varying prices by device or user history — this proposal is highly relevant. The federal baseline, as written, is disclosure rather than prohibition. But several states have already gone further. New Jersey, for instance, enacted the Fair Price Protection Act, which outright prohibits using personal data to vary prices for certain consumer goods. Watch how this final policy statement reads when it comes out.
+
+Third item. The UK's data protection landscape changes structurally in five days. 
+
+On September 10th, the government made the Data Use and Access Act 2025 Commencement Number 9 Regulations 2026, which appoints September 30th, 2026 as the day on which the provisions that replace the office of Information Commissioner with the Information Commission come into force. Those three provisions carry out the governance reform that Parliament wrote into the Data Use and Access Act 2025: replacing the office of Information Commissioner, a corporation sole held by one person, with the Information Commission, a body corporate with collective decision-making.
+
+ 
+
+This milestone follows the announcement in July of the seven Non-Executive Members who have been appointed to the new Information Commission Board, who will assume their new roles on September 30th. The organization will continue to be known as the ICO.
+
+ For Firecrown's UK-facing brands, the practical question is continuity. 
+
+The commencement regulations' saving provision treats anything in progress with the Information Commissioner immediately before September 30th as continuing, undisturbed, with the Information Commission afterwards.
+
+ But the regulatory posture will evolve. A board makes different decisions than a sole commissioner. Watch the first public statements from the new board carefully.
+
+Fourth item. California's privacy enforcement machine continues to run at full speed. 
+
+By early 2026, CalPrivacy reported more than one hundred active investigations running simultaneously.
+
+ The agency's enforcement approach is now producing a second wave of case law after the Tractor Supply and Ford settlements earlier this year. 
+
+In March 2026, CalPrivacy announced a three hundred seventy-five thousand dollar decision against Ford Motor Company, finding that the automaker created unnecessary friction by improperly processing consumer requests to opt out of the sale or sharing of personal information. Ford used a standardized form for all CCPA requests, including the right to opt out, and then required consumers to respond to a follow-up email to verify their identity. The CCPA does not provide a similar verification process for opting out of data selling or sharing.
+
+ The takeaway for any media company using standardized privacy request workflows: opt-out verification is legally distinct from deletion verification. Do not treat them the same way. 
+
+The March 2026 PlayOn Sports settlement also included a mandatory risk assessment as a remedial condition, confirming that the agency treats risk assessments as an active enforcement tool, not a future obligation.
+
+
+
+Fifth item. On the AI training copyright front, the litigation universe just became substantially more complex for publishers. 
+
+OpenAI, Microsoft, and a group of five news organizations each moved for summary judgment on September 4th, 2026, in the consolidated copyright proceedings before Judge Sidney Stein in the Southern District of New York. The filings, docketed in the multidistrict litigation numbered 25-md-3143, ask the court to resolve central questions of liability and fair use before any jury is empanelled.
+
+ Three days earlier, the government weighed in. 
+
+In a Statement of Interest filed September 1st, 2026, in the consolidated OpenAI copyright litigation, the DOJ argued in favor of a broad application of fair use, asserting that a contrary ruling would hand a competitive advantage to foreign rivals and choke off scientific progress.
+
+ 
+
+The twenty-page filing argues that training is extraordinarily transformative.
+
+ But that statement carries no binding authority — 
+
+a statement of interest is filed under Section 517 of Title 28 of the US Code and carries no binding authority. The presiding judge, Sidney Stein, will decide the fair use question independently.
+
+ And the publisher coalition is growing. 
+
+Twenty-six publishers reportedly joined a coalition against OpenAI and Microsoft on September 16th, with the total reportedly passing five hundred fifty outlets.
+
+
+
+Sixth item. The Google ad tech story settled into a new chapter this month. A federal judge ruled against Google on antitrust grounds in the ad tech stack case but chose behavioral remedies rather than forced divestiture. 
+
+The core antitrust finding is that Google used its ownership of all three layers — buy-side, sell-side, and the auction itself — to advantage itself in ways that distorted the auction against independent publishers and advertisers.
+
+ 
+
+Judge Brinkema instead opted for behavioral remedies: rules Google must follow, without changing who owns what.
+
+ For publishers who have been hoping that the ad tech case would reset the structural power dynamics in programmatic advertising, this is sobering news. The conduct was found unlawful. The remedy stops short of changing the architecture.
+
+[DEEP DIVE]
+
+The Manhattan summary judgment filings in the OpenAI copyright litigation deserve a full unpacking, because the decision Judge Stein eventually renders — expected in coming months on whether to send the case to trial — will set the operating framework for how any publisher licenses, or fails to license, its archive.
+
+Let us start with what was actually filed. 
+
+OpenAI counted twenty-four verbatim reproductions in twenty million chat logs. The publishers counted ten point eight million articles taken.
+
+ Those two numbers tell you everything about why this is so hard. The parties are not merely arguing about the law. They are arguing about what the evidence shows, and they are describing the same technical system in incompatible factual terms.
+
+The DOJ's intervention shifted the political landscape of the case without shifting the legal one. 
+
+The filing argues that training large language models on copyrighted text generally qualifies as fair use and warns that restricting this practice would harm scientific progress, economic competitiveness, and national security. The Justice Department's roughly twenty-page filing frames training LLMs as extraordinarily transformative. The brief cautions that requiring licenses for training data would impede scientific advancement, weaken U.S. economic competitiveness, and raise national-security concerns.
+
+
+
+However, there is a critical legal distinction that the DOJ filing itself draws. 
+
+Document 316 advocates fair use for training-stage copying, while acquisition, storage, and output questions remain separate, and the court has not adopted the position. The United States has taken a position on one part of the dispute: it argues that copying written works to train an AI model can be fair use. The filing is advocacy, not a ruling, and it separates training from acquisition, storage, and output questions.
+
+
+
+That distinction matters enormously for a media company in Firecrown's position. The DOJ is arguing about the training stage. The publishers' strongest arguments are about outputs that substitute for the original work — about what comes out of the model, not just what went in. 
+
+A ruling in favor of OpenAI and Microsoft would serve as a massive blow to the publishing industry, potentially undermining its ability to control and monetize how content is scraped and used by AI giants. In its motion for summary judgment, the Times argued OpenAI and Microsoft copied its works at scale to build commercial substitutes, which it believes violates the law.
+
+
+
+And then there is the parallel development that has not received enough attention: Microsoft and OpenAI also filed separate summary judgment motions on September 4th. 
+
+Microsoft and OpenAI told a New York federal judge that they should be absolved of all copyright claims brought by book and news publishers for allegedly training their AI models on protected works. The companies' use of copyrighted materials to develop large language models constitutes fair use, and their AI model outputs transform the ingested information enough to shield them from liability, they told the court in separate motions for summary judgment.
+
+
+
+The publishers' response brief, filed September 17th, runs ninety-two pages. 
+
+News publishers filed a ninety-two-page brief asking a judge to reject OpenAI and Microsoft's fair use defense in the New York copyright case.
+
+ The publishers are leaning on internal executive communications as evidence of commercial intent — that OpenAI and Microsoft understood they were building competitive substitutes for the journalism they were ingesting.
+
+What should Firecrown's general counsel take from this? Three concrete actions.
+
+First, audit your current AI licensing posture. 
+
+As of early September 2026, no single US decision makes all generative AI training lawful or unlawful.
+
+ That means your content archives sit in a legal grey zone. Document every licensing agreement you have with AI vendors. If you have none, that is a negotiating position, not just an oversight.
+
+Second, separate your evidence trail. 
+
+For a publisher, preserve separate evidence about source acquisition, permissions, licensing, retention, and observed outputs.
+
+ The litigation is turning on how courts weigh the four fair use factors against specific factual records. Your records need to be ready to support the argument that your content has independent market value that AI-generated outputs substitute, not complement.
+
+Third, watch the Google AI Overviews litigation in parallel. 
+
+AI Overviews have been correlated with a fifty-eight percent reduction in click-through rates to the websites whose content those summaries are built on.
+
+ 
+
+A third of publishers surveyed say they will block AI Overviews once the tools to do so become available.
+
+ The opt-out mechanics, the antitrust argument, and the copyright argument are all converging. How Judge Stein rules on the OpenAI summary judgment will inform every publisher's litigation calculus for the next two years.
+
+[GC BENCH]
+
+Legal technology adoption data from the past sixty days gives us a clear picture of where in-house legal teams actually stand. 
+
+Generative AI use in corporate law departments jumped from twenty-three percent to fifty-two percent in a single year, per the ACC survey. The FTI Consulting and Relativity General Counsel Report puts the number higher still: eighty-seven percent of general counsel report AI use within their teams, up from forty-four percent the year before, with summarization and clause identification the most common applications.
+
+
+
+But there is a sharp gap between adoption and dependency. 
+
+The Wolters Kluwer Future Ready Lawyer 2026 report found more than ninety percent of lawyers already use at least one AI tool, yet the Bloomberg Law State of Practice 2026 survey found only twenty-three percent of in-house lawyers use AI tools daily.
+
+ The gap between having a seat and depending on the tool is precisely the gap that separates legal teams that are saving time from those that spent money and changed nothing.
+
+
+
+The 2026 ACC Chief Legal Officers Survey found that forty-seven percent of CLOs say their CEO now expects them to build expertise in technology and AI, and sixty-three percent expect to keep team headcount flat — so the tool is meant to add capacity, not cut heads.
+
+
+
+On the product side, the market moved significantly in the first half of this year. 
+
+The in-house legal AI market moved faster in the first half of 2026 than in all of 2025. Three shifts matter for evaluating the landscape: Microsoft entered legal-specific review. On April 30th, 2026, Microsoft launched a Word Legal Agent that runs playbook clause-by-clause review and tracked-change redlines inside Word.
+
+ For a lean in-house team at Firecrown, that Microsoft integration point matters practically — it meets lawyers where they already work.
+
+The practical filter for any GC evaluating these tools: match the platform to the task category, not the funding round. 
+
+In April 2026, Legora raised a Series D to six hundred million dollars. Harvey was tagged at eleven billion dollars. Robin AI cut about fifty roles.
+
+ The valuations tell you about investor sentiment. They tell you nothing about whether the tool handles a licensing review for a media brand correctly. Pilot on a single high-volume workflow — vendor NDA review is the canonical starting point — measure time-to-completion and error rate, then expand.
+
+[INDUSTRY ANGLE]
+
+The freight market from FreightWaves and SONAR this week deserves careful reading, because the word being used by Craig Fuller and Zach Strickland is not cyclical and it is not recovering — it is fragile.
+
+
+
+The monthly FreightWaves State of Freight webinar has migrated to FreightWaves Today, but a gathering of shippers in New York brought together by SONAR got a chance to hear Craig Fuller and Zach Strickland opine on a market they described as fragile. Unlike earlier State of Freight webinars in the first part of 2026, Fuller and Strickland this time were measuring a market that was not moving higher in leaps and bounds.
+
+
+
+
+
+The SONAR Tender Rejection Index climbed above seventeen percent in June, dropped below fourteen percent in the weeks since, then jumped roughly seventy-five basis points in a single week — a swing Strickland said undercuts any read of a settled market. "This market is so fragile, even though we're having these periods of stability," Strickland said. "That tells me that this market is not in a stable position."
+
+
+
+Fuller offered important context. 
+
+He cautioned against reading fragile as automatically bad. The volatility traces to capacity tightness rather than a demand collapse — a different kind of fragility than the pandemic-era chaos shippers remember.
+
+
+
+And the cost pressure is real. 
+
+Diesel prices surged to six dollars and twenty-six cents per gallon to start the week of September 16th, a thirty-three cent jump in a single week, according to FreightWaves' Diesel Transaction Spot index — a figure that updates daily and has already climbed above the Department of Energy's latest weekly read. The spike puts diesel fifteen percent above last month and sixty-eight percent higher than the same point last year, compressing carrier margins even as freight volumes begin to recover.
+
+
+
+On the ocean side: 
+
+Drewry's World Container Index shows Shanghai to Los Angeles rates climbing to seven thousand one hundred eighty-five dollars per FEU, while carriers have pulled approximately twenty percent of capacity through blank sailings to support rate levels. US East Coast rates remain firmer than US West Coast rates due to reduced capacity and ongoing Panama Canal draft and weight restrictions.
+
+
+
+In aviation, the fuel cost story is the defining variable. 
+
+Jet fuel has become the single most powerful variable in airline economics again: the global average price hit one hundred seventy-one dollars per barrel in the first week of September, up nine percent in one week and roughly fifty-seven percent above year-ago levels, forcing carriers like Ryanair to trim growth plans purely to shrink unhedged winter fuel exposure.
+
+ 
+
+Higher fuel costs are compressing earnings while rising fares increase passenger costs, creating pressure on demand and customer sentiment. June traffic totaled eighty-seven and a half million passengers, down from the June 2024 record, signaling softer volume at a time when airlines are relying on pricing to sustain revenue.
+
+ For FLYING magazine's audience and Firecrown's aviation-adjacent advertising base, the story heading into Q4 is premium products holding up, while unit economics tighten at every level of the aircraft.
+
+On a note specific to Firecrown's data infrastructure: 
+
+the Department of Transportation selected SONAR to help it monitor the safety, security, and economic viability of the freight market. The US Department of Transportation has officially signed on as a customer of SONAR to harness high-frequency freight market data.
+
+ That DOT relationship validates SONAR's role as an institutional data standard — which has implications for SONAR's credibility as evidence in regulatory proceedings and as a benchmark in commercial contracts.
+
+[CLOSING BRIEF]
+
+Three items on the watch list for the week ahead.
+
+First: the FTC personalized pricing comment period officially closes today. If you have not reviewed the proposed enforcement policy statement against your subscription pricing practices — including how you step up renewal rates, vary introductory offers by device, or use behavioral data to set paywall pricing — do that this weekend. The final policy statement, when issued, will likely arrive without further public comment. You want to have done this analysis before, not after.
+
+Second: the ICO governance changeover takes effect Tuesday, September 30th. 
+
+The ICO is entering this period with sharpened enforcement tools, a track record of record fines in 2025, and new statutory powers that give it reach it did not previously have.
+
+ 
+
+PECR penalties now align with UK GDPR levels at seventeen and a half million pounds or four percent of global turnover.
+
+ For Firecrown's UK-audience brands — Trains.com, FLYING, Boating and Sailing — this is a material enforcement threshold. Review your PECR cookie and marketing email posture before Q4 campaign planning is locked.
+
+Third: the OpenAI summary judgment ruling from Judge Stein is the most consequential pending decision in media law, and it could arrive before year end. 
+
+Judge Stein is expected to rule in the coming months on whether the case, or key portions of it, should move to trial next year.
+
+ A ruling on the training-stage fair use question — even a partial one — will immediately affect licensing negotiations, content access agreements, and how you structure any AI product development at Firecrown. Keep your outside copyright counsel on standby for a quick-turn analysis the day that ruling drops.
+
+[SIGNOFF]
+
+That is your Morning Docket for Friday, September 25th, 2026. We are produced for Barrister Darren Caputo and the legal team at Firecrown. Have a considered weekend. We will be back Monday morning.
+END OF EPISODE.
