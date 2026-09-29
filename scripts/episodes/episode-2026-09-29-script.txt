@@ -1,0 +1,247 @@
+MORNING DOCKET — Tuesday, September 29, 2026
+A daily brief for the general counsel of a media company.
+
+I'll research all these topic areas simultaneously before writing the script.
+
+Good, I have strong results. Let me now search for a few more specific recent items to sharpen the script.
+
+I now have comprehensive, well-sourced research across all topic areas. Let me write the complete Morning Docket script.
+
+[COLD OPEN]
+
+Yesterday, something happened that almost never occurs in federal courts: the United States government filed a brief not to defend its own interest, but to defend the interest of private AI companies against the publishers suing them. And as of this morning — Monday, September 28, 2026 — a coalition led by the New York Times fired back, asking the judge to give that government brief no weight at all. The fight over who owns the words that trained the machines is entering a new phase. The government has picked a side. Now the publishers have answered. And for every media company holding intellectual property, this week's filings may matter more than any contract clause you will sign this quarter.
+
+[INTRO]
+
+Good morning. It is Tuesday, September 29, 2026. I'm your host on Morning Docket. Today's briefing runs through six areas: the AI copyright MDL and its just-filed publisher rebuttal, the FTC's new personalized pricing enforcement statement and its direct relevance to ad tech and subscription operations, the ICO's formal transformation into the Information Commission — which happens today, the last trading day of September — what SONAR data is telling the freight market heading into the fourth quarter, the legal tech AI adoption numbers that should inform how you build your department this fall, and one governance item about Regulation S-K that the SEC has been quietly advancing all year. Let's get into it.
+
+[HEADLINE ROUNDUP]
+
+First headline. Publishers counter the DOJ on AI training fair use.
+
+As recently as yesterday afternoon, news organizations including the New York Times, the Daily News, and affiliated outlets filed a formal response to the Justice Department's September 1st Statement of Interest in the consolidated OpenAI copyright MDL pending in the Southern District of New York before Judge Sidney Stein. 
+
+News publishers fired back at the Trump administration Monday, asking a federal judge to disregard the government's brief in support of OpenAI's argument that training its AI models on publishers' copyrighted works constitutes fair use. The Times, the Daily News, and other publishers asked the court to "give the DOJ's statement no weight at all," adding that the AI industry would not be financially burdened if it had to pay for the works it allegedly copied.
+
+ This came just over three weeks after 
+
+the U.S. Department of Justice filed a twenty-page Statement of Interest in the consolidated litigation, urging the court to find that training large language models on copyrighted written works constitutes fair use under Section 107 of the Copyright Act. The filing, made September 1st, advises the court to treat model training — as distinct from the use of AI to generate outputs — as a highly transformative fair use under current law.
+
+ For context: 
+
+Microsoft and OpenAI argued in separate motions for summary judgment that their companies' use of copyrighted materials to develop large language models constitutes fair use, and that AI model outputs transform the ingested information enough to shield them from liability for infringement.
+
+ 
+
+As of late September 2026, no settlements have been reached in any of the consolidated cases.
+
+ Judge Stein retains full discretion. For Firecrown and any media holding company, this MDL is not a spectator sport. The training-versus-output distinction the DOJ is drawing may eventually define whether your archived content has licensing value or becomes, in the government's phrase, simply raw material for transformation.
+
+Second headline. The FTC's personalized pricing statement comment period closes tomorrow.
+
+This is a live compliance signal. 
+
+On August 19, 2026, the FTC announced a proposed enforcement policy statement addressing personalized pricing, which it describes as the use of personal data to set prices at the amount that a company believes an individual consumer is willing to spend.
+
+ 
+
+The FTC is proposing that companies engaging in personalized pricing must offer clear and conspicuous disclosure, including the type of data used to generate the price offered to the consumer. According to the statement, the FTC will deploy enforcement resources against companies that do not follow its disclosure standards.
+
+ The comment period, extended by seven days, closed yesterday, September 25th. 
+
+The FTC's proposed statement follows a wave of state legislative activity targeting personalized and algorithmic pricing practices. Most recently, New Jersey enacted the Fair Price Protection Act, which prohibits the use of personal data to determine or vary prices for groceries and certain household goods.
+
+ Here is why this matters in particular to Firecrown: if your subscription conversion flow, your e-commerce pricing at Spacestore, or your advertising yield optimization uses any reader behavioral data to set or modulate prices, you now have a federal agency telling you that non-disclosure of that practice may be deceptive under Section 5 of the FTC Act. Watch for the enforcement policy to be finalized. The comment record will shape how aggressive the final language becomes.
+
+Third headline. The UK ICO ceases to exist today — in name.
+
+
+
+The government has confirmed the Information Commissioner's Office will transition to the Information Commission on September 30, 2026. This transition is a result of the Data Use and Access Act 2025, which makes changes to the governance structure of the organization while maintaining existing regulatory functions and responsibilities.
+
+ 
+
+Those provisions carry out the governance reform Parliament wrote into the Data Use and Access Act 2025: replacing the office of Information Commissioner, a corporation sole held by one person, with the Information Commission, a body corporate with collective decision-making.
+
+ 
+
+Unlike the ICO, which was a corporation sole with authority vested in the Information Commissioner personally, the Information Commission will be a body corporate governed by a board comprising a Chair, a CEO, and seven non-executive members. Paul Arnold has been appointed as the first CEO on an interim basis.
+
+ From a practical standpoint, 
+
+anything in progress with the Information Commissioner immediately before September 30, 2026 is treated as continuing, undisturbed, with the Information Commission afterwards.
+
+ The enforcement tools themselves did not change today. What changed is the governance model. The regulator that will be scrutinizing any UK data processing by Firecrown's brands now operates more like a board than a single appointee. That makes its decisions more institutionally durable and potentially harder to predict or influence through a single point of contact.
+
+Fourth headline. CalPrivacy is actively auditing. The General Motors settlement set a new ceiling.
+
+
+
+In 2026, CalPrivacy's enforcement focus has shifted from notice-of-violation sweeps to systemic, well-funded investigations of opt-out friction, Global Privacy Control processing, connected-vehicle data, and youth-data handling. The General Motors twelve-point-seven-five million dollar settlement in May 2026 is now the largest CCPA penalty in California history and the first major CCPA data-minimization case. Disney's two-point-seven-five million dollar opt-out settlement and PlayOn's one-point-one million dollar student-privacy order show that multi-million-dollar fines are no longer unusual.
+
+ 
+
+CalPrivacy's Executive Director Tom Kemp confirmed in a recent interview that the agency expects to conduct CCPA compliance audits in 2026 as it builds out its newly created Audits Division. The Audits Division will monitor whether businesses, service providers, and contractors are complying with the CCPA and related laws through both announced and unannounced audits.
+
+ For a media company like Firecrown that operates audience analytics, behavioral tracking, and third-party advertising across multiple digital brands, the opt-out signal issue is the most immediate exposure. Global Privacy Control is the operative standard. If your ad tech stack does not automatically honor GPC signals end-to-end across every advertising and analytics partner, you have a compliance gap that the agency is actively targeting.
+
+Fifth headline. Google organic search traffic to publishers fell by one-third last year.
+
+This is the structural context behind every subscription conversation happening at publishing summits right now. 
+
+Shifts in AI-driven search behavior are forcing publishers to rethink how they turn audience discovery into direct relationships and recurring revenue. As AI-generated answers increasingly keep users on search platforms and within answer engines, publishers are already seeing fewer readers click through to their sites. Google traffic from organic search to more than two thousand five hundred sites was down by a third globally last year, according to Chartbeat data cited in the Reuters Institute Journalism and Technology Trends and Predictions 2026 report.
+
+ 
+
+Subscription and membership remain the biggest revenue focus — cited by seventy-six percent of publishers — ahead of both display and native advertising, according to the same Reuters Institute report.
+
+ This is the operating environment for FreightWaves, FLYING, Boating and Sailing, and Trains.com. The brands that have the strongest direct reader relationships — registered users, newsletter subscribers, community members — are the ones insulated from what is effectively an ongoing erosion of the open web referral model. The legal implication: as you push harder into direct subscription, the FTC's negative-option and automatic-renewal enforcement priorities become immediate, not theoretical.
+
+Sixth and final headline. The DOJ's OpenAI brief reportedly bypassed career attorneys.
+
+A brief note worth filing because it signals something about institutional credibility. 
+
+Unlike many Statements of Interest, no career antitrust attorneys signed the September 1st filing alongside senior DOJ officials. Publishers have criticized the claims in the filing, including the idea that enforcing copyright laws would threaten America's AI dominance over foreign rivals.
+
+ That absence of career attorney signatures is unusual enough that multiple outlets reported it as significant. Judge Stein, presiding over the MDL, will weigh the document as advocacy, not as binding authority. But the politics around this filing — the Trump administration explicitly aligning with the tech industry against the press — creates a legislative dynamic that publishers should watch. 
+
+The non-binding statement signals that writers, journalists, and creators seeking AI training compensation may need to pursue relief from Congress or at the licensing table, not from a judge.
+
+
+
+[DEEP DIVE]
+
+Today's deep dive is on the AI training copyright MDL and what it means operationally for a GC at a media and publishing company. I want to go beyond the headlines.
+
+Here is the structural picture. 
+
+Judge Sidney Stein is overseeing multidistrict proceedings that consolidate several generative AI training disputes into a single courtroom. His rulings on fair use thresholds could set binding precedent for how copyright law applies to machine learning.
+
+ Inside that MDL, you have at minimum three distinct populations of plaintiff: news publishers led by the Times, book authors and trade publishers, and general periodicals. Firecrown sits in the general periodicals universe, but FreightWaves — as a data and journalism hybrid with proprietary content — may have specific characteristics worth examining separately.
+
+The DOJ's September 1st filing makes a three-part argument. First, that LLM training is transformative because the purpose of copying — building an intelligent, interactive model — differs in kind from the purpose of the copied work. Second, that national security and AI competitiveness justify a permissive fair-use finding. Third, and critically, that its fair-use argument applies only to the training stage and deliberately does not cover acquisition, storage, or output questions. 
+
+The DOJ filing materially changes the arguments before the court by urging a fair-use view of training-stage copying and tying that position to innovation and national security. It does not decide the case, establish that every dataset was lawfully acquired or stored, or resolve questions about model outputs and market substitution.
+
+
+
+Now here is the complexity publishers seized on immediately. 
+
+News outlets including the New York Times filed a response saying the DOJ's legal analysis that training AI models on unlicensed content is fair use contradicts that of the US Copyright Office and lacks evidentiary context.
+
+ 
+
+The brief further accuses the federal government of ignoring completely the feasibility of licensing to accomplish the department's claimed objectives, despite the White House's previous guidance that such licensing markets should be encouraged.
+
+ That is a pointed legal argument. The publishers are essentially saying: your own prior administration told us licensing was the preferred market solution. Now you are telling the court licensing is unnecessary. That internal government inconsistency may carry some weight with the judge.
+
+The licensing market dynamic is the most important part of this story for you as GC. 
+
+The Disney-OpenAI agreement shows a trend toward formal licensing of copyrighted material for generative AI use, setting the stage for how entertainment companies monetize IP in AI-driven platforms. Such arrangements may become the industry standard for using copyrighted content in AI training in order to avoid costly and uncertain litigation.
+
+ Firecrown's brands — particularly FreightWaves, which generates proprietary freight market content with significant data specificity — are exactly the kind of content that is most valuable for enterprise AI fine-tuning, not general LLM pretraining. That distinction matters. A freight-logistics AI trained on SONAR-contextual journalism has different market dynamics than an LLM scraped from the open web.
+
+There is also one settled case that provides a financial benchmark. 
+
+The largest copyright payout yet came not from a court ruling but from a settlement negotiated under the shadow of litigation: on July 20, 2026, a federal judge in the Northern District of California granted Anthropic's one-point-five-billion-dollar settlement approval — the largest copyright class action settlement in U.S. history — covering approximately four hundred eighty thousand works that Anthropic had downloaded from pirate libraries.
+
+ That settlement was about sourcing from pirate libraries. It tells you that the provenance of training data — how it was acquired, whether it was licensed, whether it came from legitimate repositories or shadow libraries — is going to be as important as the fair-use analysis itself.
+
+Here are three concrete actions for you as in-house GC at Firecrown.
+
+Action one: Conduct a content inventory audit specifically focused on AI licensing opportunity. Before you can negotiate, license, or litigate, you need to know exactly what content across all your brands is commercially valuable for AI training purposes. That means identifying which content is proprietary, which is licensed-in from third parties with no sub-licensing rights, and which was created under work-for-hire arrangements where the company holds the copyright without ambiguity. FreightWaves' original reporting and SONAR commentary should be treated as category-one assets. Do this before the MDL produces a ruling, because any ruling will accelerate inbound licensing inquiries from AI companies.
+
+Action two: Audit how your brands' content is currently being indexed and scraped. Check whether your robots.txt files, your Terms of Service, and your AI bot disallow directives are actually current, consistently applied, and auditable. Judges have noted that content which was technically accessible under prior site configurations may affect the market-substitution analysis. Your ability to demonstrate that you attempted to gate your content from unauthorized training has evidentiary value regardless of how the fair-use question ultimately resolves.
+
+Action three: Establish a licensing term sheet template for AI training use. You do not need a final deal to have a framework ready. Define the acceptable uses, the compensation floor, the audit rights, and the confidentiality requirements. When an AI company approaches one of your brands for a licensing conversation — and that conversation is coming — you want the legal department to have a response-ready commercial template, not to be starting from scratch in real time while a business development team is already negotiating.
+
+[GC BENCH]
+
+The GC Bench today. Legal technology and what the adoption numbers mean for how you staff and buy.
+
+The headline number from the FTI Consulting and Relativity 2026 General Counsel Report: 
+
+in-house AI adoption crossed eighty-seven percent. The report puts in-house generative AI usage at eighty-seven percent, nearly double the forty-four percent from a year prior.
+
+ But there is a harder number underneath that one. 
+
+The Bloomberg Law State of Practice 2026 survey of seven hundred sixty practitioners found that only twenty-three percent of in-house lawyers use AI tools daily. Plenty of teams have a seat; far fewer have a tool they depend on.
+
+
+
+That gap — between adoption and dependency — is the operational reality. Eighty-seven percent of departments have tested something. Twenty-three percent have integrated it into daily workflow. The difference is usually about specificity of use case. 
+
+Generative AI for legal has moved from frontier technology to operating layer. In-house teams write contracts, draft memos, run research, and counsel their business partners inside it every day. The decision every GC faces in 2026 is which platform to pick and how fast to roll it out.
+
+
+
+On the market side, there was significant movement earlier this year. 
+
+In April 2026, Legora raised a Series D to six hundred million dollars. Harvey was tagged at eleven billion dollars.
+
+ Microsoft entered legal-specific review with a Word Legal Agent launched in late April. The consolidation pressure is real: well-funded platforms are expanding their surface area while mid-tier players are cutting. For a legal department of Firecrown's size — where you are likely a small team covering significant functional breadth across media, IP, privacy, contracts, governance, and corporate — the practical question is not which platform won the funding race but which workflow is your highest-leverage target.
+
+Privacy compliance monitoring is the most direct ROI opportunity for your situation. Given the CCPA audit exposure, the DUAA implementation, the FTC personalized pricing statement, and the active MDL — all of which require watching regulatory dockets, tracking enforcement actions, and updating internal policies — a platform that can run regulatory scans against your specific brand portfolio and flag changes in real time is worth evaluating this quarter, not next year.
+
+[INDUSTRY ANGLE]
+
+The industry angle today. Freight signals heading into Q4, and what the SONAR data means.
+
+
+
+The monthly FreightWaves State of Freight event has migrated to FreightWaves Today, but a gathering of shippers in New York brought together by its sister company SONAR gave Craig Fuller and Zach Strickland a chance to assess a market they described as fragile. Unlike earlier State of Freight webinars in the first part of 2026, Fuller and Strickland this time were measuring a market that was not moving higher in leaps and bounds. To the contrary, the SONAR Tender Rejection Index has moved down from recent peaks before taking a sharp upward move in the days leading up to the event at the TWA Hotel at JFK Airport.
+
+
+
+The data underneath that fragile characterization: 
+
+the Outbound Tender Rejection Index held at approximately thirteen-point-forty-five percent as of September 10th, remaining significantly above the same period in prior years and signaling a still-tight truckload market even as rates pulled back from a Labor Day-driven surge. Strickland noted that the Labor Day bump in rejection rates was more pronounced than in any of the previous three years.
+
+ At the same time, 
+
+the SONAR Tender Volume Index has been softer since mid-July, a trend Strickland attributed partly to modal conversion as shippers shifted long-haul moves to intermodal and rail, with East Coast rail increasingly absorbing that volume. A component of economic softness may also be a factor, though current trough levels still sit above the comparable period last year.
+
+
+
+
+
+Spot rates at three dollars and thirty-four cents per mile are twenty-one percent above last year's levels and still within range of the all-time record Fuller cited at roughly three dollars and fifty-five cents per mile set in late 2021. Fuller characterized the current dip as normal seasonal behavior rather than a structural softening.
+
+
+
+The Q4 setup carries meaningful risk. 
+
+Lean inventory levels add urgency to the demand outlook heading into Q4. Strickland warned that tight inventories entering a period of uncertain holiday demand could force carriers into expedited trucking moves, particularly as intermodal becomes less fungible with trucking later in the year.
+
+ And on the import side, 
+
+U.S. container imports reached the third-highest monthly total on record at two-point-six million TEUs in August, up three-point-eight percent from July and three-point-three percent year-over-year.
+
+ Import volumes at near-record levels combined with lean domestic inventories and capacity that has not meaningfully expanded is a setup for a tighter Q4 than the surface softness of tender volumes might suggest. FreightWaves and SONAR are the primary instruments to watch for how this plays out, week by week, through November.
+
+[CLOSING BRIEF]
+
+Three items on the watch list.
+
+First. Judge Stein's response to the publisher rebuttal brief in the OpenAI MDL. 
+
+The judge retains full discretion over how much weight to assign the DOJ's filing.
+
+ Any procedural order he issues — scheduling a hearing, requesting supplemental briefing, or signaling how he will treat the government's arguments — will tell you a great deal about the trajectory of the case before any ruling on the merits. Watch the Southern District of New York docket, MDL number 25-md-3143.
+
+Second. The Information Commission's first formal actions. 
+
+The new Information Commission has enforcement powers including the ability to compel witness attendance and issue fines of up to seventeen-point-five million pounds or four percent of global turnover.
+
+ The governance transition that took effect today does not change the investigative pipeline already in motion — open matters continue without interruption — but the first enforcement actions issued under the new board structure will signal how the collective decision-making model affects regulatory temperament. If you have any active ICO correspondence or pending data protection inquiries on the UK side of Firecrown's operations, note that your counterpart has now changed institutional form.
+
+Third. The FTC's online platform impersonation rule review, opened September 24th. 
+
+The Federal Trade Commission announced on September 24th that it is considering whether to update its Rule on Impersonation of Government and Businesses or take other action to prevent online platforms from engaging in practices related to online scams.
+
+ This is a separate track from the personalized pricing statement, and it specifically targets ad optimization tools that have been used by scammers. If the rule is updated and platforms are given compliance obligations for ad-targeting tools, the downstream effect on programmatic advertising — a revenue stream across your brands — could be material.
+
+[SIGNOFF]
+
+That is Morning Docket for Tuesday, September 29, 2026. A transitional day in more than one respect: the ICO becomes the Information Commission, the DOJ's AI copyright intervention faces its first judicial stress test, and the freight market describes itself as fragile heading into what could be a volatile fourth quarter. We will be back tomorrow with any overnight developments in the OpenAI MDL and a look at what the SEC's ongoing Regulation S-K review may mean for private media company governance disclosures. Good morning.
+END OF EPISODE.
