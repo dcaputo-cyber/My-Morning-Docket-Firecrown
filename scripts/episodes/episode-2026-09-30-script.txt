@@ -1,0 +1,283 @@
+MORNING DOCKET — Wednesday, September 30, 2026
+A daily brief for the general counsel of a media company.
+
+Now I have all the information I need. Let me write the full Morning Docket script.
+
+[COLD OPEN]
+
+There are three separate clocks ticking for media lawyers this morning. In Washington, the comment period on the FTC's personalized pricing enforcement statement closed last Thursday, leaving ad-supported publishers with an open question about whether their data-driven subscription offers just became a compliance target. In London, today is the day the Information Commissioner's Office ceases to exist in its current form, replaced by a newly constituted body called the Information Commission. And in New York's Southern District, news publishers filed a brief two days ago pushing back on the Justice Department's argument that feeding their journalism into a language model is fair use. Three different forums. Three different timelines. All of them touching the same nerve for a media holding company.
+
+[INTRO]
+
+Good morning. It is Wednesday, September 30, 2026. This is Morning Docket. I'm your host.
+
+Today's program covers six areas. We open with five headline items: the FTC and twenty-two states versus Amazon over ad auction manipulation; the DOJ's fair use gambit in the OpenAI litigation and the publisher response filed this week; the California Privacy Protection Agency's steady enforcement march and what a March action against a media platform tells you now; the FTC's personalized pricing enforcement statement, whose comment period just expired; and the SEC's disclosure reform package, which moved materially closer to proposed rulemaking this month. After the headlines, the deep dive focuses on today's structural change to UK data regulation, the ICO-to-Information-Commission transition and what it means for a company with UK operations. The GC Bench covers in-house AI tools. And the industry angle comes straight from FreightWaves and SONAR: Craig Fuller and Zach Strickland described the trucking market as fragile at a shippers forum in New York two weeks ago, and new SONAR data adds detail.
+
+Let's begin.
+
+[HEADLINE ROUNDUP]
+
+First item. The FTC's Amazon ad auction complaint.
+
+
+
+On August 31, 2026, the Federal Trade Commission and attorneys general from twenty-two states filed a lawsuit against Amazon, alleging that the company overcharged advertisers in its search advertising auctions for more than seven years.
+
+ 
+
+The complaint alleges that Amazon covertly and significantly raised advertising costs for more than one million brands and sellers, extracting an estimated tens of billions of dollars from advertisers without their knowledge.
+
+ The mechanism alleged is specific. 
+
+Amazon told more than five hundred thousand small and medium-sized businesses that it ran a second-price auction where the winning advertiser would pay just one cent more than the next-highest bid. But the FTC alleges that starting in 2019, Amazon made a surreptitious change without telling advertisers, adding a hidden surcharge that Amazon internally called a soft reserve price, and used what one internal document called an invented auction participant — a fake bidder — to push prices higher than true competition would have produced.
+
+ 
+
+The complaint states that Amazon expected significant backlash if advertisers discovered that the auction was no longer a true second-price system, and concealed these changes for years, allegedly increasing surcharges gradually before major shopping events to hide price inflation.
+
+ 
+
+This is the first major federal lawsuit against Amazon that focuses specifically on its advertising business.
+
+
+
+Why it matters here: Firecrown's brands run advertising. The SONAR platform and FreightWaves carry sponsored content and programmatic inventory. Any publisher relying on auction-based ad tech should note that regulators are now scrutinizing whether advertiser-facing auction descriptions match actual mechanics. That is a third-party vendor transparency question, not just an Amazon question.
+
+Second item. The DOJ and the OpenAI copyright litigation.
+
+
+
+In a Statement of Interest filed September 1, 2026, in the consolidated OpenAI copyright litigation, the DOJ argued in favor of a broad application of fair use, and argued that a contrary ruling would hand a competitive advantage to foreign rivals and choke off scientific progress.
+
+ 
+
+The government's statement addressed the question of whether the use of copyrighted works at the training stage constitutes fair use. In short, the government's position is that training AI models on copyrighted material, in and of itself, does not violate copyright laws.
+
+ The filing goes further than the AI defendants themselves went, and it drew an immediate institutional reaction. 
+
+The Department of Justice's statement of interest supporting OpenAI and Microsoft in the New York Times copyright infringement lawsuit surprised critical agencies like the US Patent and Trademark Office and the Copyright Office.
+
+ And then, two days ago, publishers fired back. 
+
+News outlets including the New York Times filed a response to the DOJ's statement of interest, saying the DOJ's legal analysis that training AI models on unlicensed content is fair use contradicts that of the US Copyright Office and lacks evidentiary context.
+
+
+
+The law here remains genuinely unsettled. 
+
+No US appellate court has ruled on AI training fair use. The Third Circuit heard oral argument on June 11 and, twelve weeks later, has not decided.
+
+ What is settled, from the Bartz versus Anthropic resolution, is the internal distinction the courts are drawing. 
+
+Training an AI model on lawfully acquired copyrighted books can qualify as fair use, but retaining pirated copies of that data, or stripping copyright management information from it, is a separate legal violation that fair use does not excuse.
+
+ For any media company evaluating AI licensing agreements or internal AI tools trained on proprietary editorial archives, that distinction — between the act of training and how you acquired and retained the underlying data — is now the operative risk line.
+
+Third item. CCPA enforcement and what it signals for media.
+
+The California Privacy Protection Agency is running more than one hundred active investigations simultaneously. 
+
+The March 2026 PlayOn Sports settlement established that prior remediation is no longer a penalty shield.
+
+ 
+
+On March 3, the CPPA announced a one-point-one million dollar fine against PlayOn Sports, a youth sports media and technology company.
+
+ The lessons from that case are directly applicable to Firecrown's brands. 
+
+The CPPA's action confirmed that even a single targeted advertising campaign can give rise to regulatory liability, and that directing consumers to opt out with third-party networks rather than providing a first-party opt-out mechanism does not satisfy CCPA requirements.
+
+ There is also a broader pattern the agency is making explicit. 
+
+Recent enforcement matters confirm that regulators are less interested in paper compliance than whether consumer choices actually work across real-world tech stacks, devices, and vendors.
+
+
+
+For Firecrown's portfolio — media brands with newsletter lists, event registrations, and e-commerce through Spacestore — the practical exposure is in whether opt-out signals from third-party tools are actually being honored at the data layer. Review your vendor contracts, and confirm your engineers can demonstrate to an auditor that GPC signals flow through cleanly.
+
+Fourth item. FTC personalized pricing enforcement statement.
+
+
+
+On August 19, the FTC voted two to zero to open comments on a proposed enforcement policy relating to personalized pricing. The proposed statement addresses concerns that businesses are using modern technology and personal data to tailor individual prices for consumers in a manner that does not align with consumer expectations.
+
+ 
+
+The proposal says businesses may violate Section 5 of the FTC Act if they do not clearly explain when a price is personalized, why it is personalized, and what data is used.
+
+ The comment period closed last Thursday, September 25. 
+
+The proposed policy statement does not ban personalized pricing, but it draws a line for transparency and signals aggressive enforcement ahead.
+
+
+
+The connection to media: subscription pricing algorithms that use behavioral data to set personalized paywall offers or renewal rates are precisely the kind of practice this statement targets. 
+
+Simply telling consumers that prices may vary may not be enough. When consumers would not ordinarily expect prices to vary based on their personal information, businesses should clearly explain that the price is personalized, why it is personalized, and what types of consumer data are being used.
+
+ If Firecrown's brands use subscriber behavioral data to optimize subscription pricing tiers, now is the time to document the disclosure logic before the final policy statement is adopted.
+
+Fifth item. SEC Regulation S-K rulemaking.
+
+
+
+On September 1, the Securities and Exchange Commission submitted three rulemaking proposals to the White House Office of Information and Regulatory Affairs, with action targeted for October 2026. Among them: proposed amendments to Item 402 of Regulation S-K that would refocus executive compensation disclosure on information material to investors and eliminate immaterial disclosure requirements.
+
+ A second proposal addresses shareholder proposal mechanics. 
+
+Also slated for October is the rationalization of disclosure practices rulemaking, which encompasses the broader Regulation S-K project. Chairman Atkins has been critical of mission creep in the breadth of public company disclosure, particularly on subjects he views as socially or politically motivated.
+
+ 
+
+Proposing amendments to Regulation S-K in October means we likely would not see actual changes in the disclosure requirements until the middle of 2027 at the earliest.
+
+
+
+Firecrown is a private company, so this does not bind your annual filings. But it matters in two ways: if any Firecrown entity has investment relationships with public company counterparties, and more directly, because the SEC's materiality-first turn sets the tone for what governance documentation private company general counsel should also be modeling. The direction is toward tighter, judgment-based disclosure processes, not more voluminous ones.
+
+[DEEP DIVE]
+
+Today's deep dive is the UK ICO transition, because it happens today.
+
+As of this morning, the Information Commissioner's Office formally ceases to exist as a standalone office and its functions transfer to a new body called the Information Commission. 
+
+The Government confirmed that the ICO will transition to the Information Commission on September 30, 2026, a result of the Data Use and Access Act 2025, which makes changes to the governance structure of the organization.
+
+ The practical continuity detail: 
+
+the ICO updated its communications on September 17, 2026 to confirm it will continue to be known as the ICO.
+
+ So the brand name stays. The legal structure does not.
+
+Let me back up and explain what the Data Use and Access Act has done over the course of 2026, because this is the culmination of a staged rollout. 
+
+The Data Use and Access Act 2025 represents a significant reform to the UK's data protection framework. Most of the remaining data protection provisions came into force on February 5, 2026, bringing major changes to how organisations handle personal data.
+
+ What changed in February? 
+
+A key development was the introduction of a recognised legitimate interests lawful basis for processing personal data. The DUAA also relaxed restrictions on solely automated decision-making, including profiling.
+
+
+
+And new enforcement teeth came with it. 
+
+The Act provides the ICO with new powers, including the ability to compel witnesses to attend interviews, request technical reports, and issue fines of up to seventeen and a half million pounds or four percent of global turnover under the Privacy and Electronic Communications Regulations.
+
+
+
+The governance change happening today is structural. 
+
+The ICO is becoming the Information Commission, with a Chair, Board, and CEO, rather than an individual Information Commissioner.
+
+ This matters because it moves UK data regulation from a single-official accountability model to a corporate-board model. 
+
+These changes form part of the broader DUAA package, which has now fully commenced. Over the past year, the ICO has prioritised practical guidance on the areas most affected by the Act, including complaints handling, direct marketing, recognised legitimate interests, research, and automated decision-making.
+
+
+
+There are also newer guidance streams in motion. The ICO has been consulting on draft guidance on the use of anonymisation and pseudonymisation for research and statistical purposes, and it has been exploring a data protection regulatory sandbox for testing emerging technologies, including AI. That sandbox is directly relevant for any Firecrown brand experimenting with AI-driven editorial tools or personalization engines.
+
+What does this mean for a US media company with UK operations or UK-audience products?
+
+The DUAA's recognised legitimate interests basis now offers a more workable legal ground for some data processing that previously required consent or legitimate interests balancing under the old UK GDPR framework. Profiling for direct marketing, analytics, and some personalisation may be easier to justify under the new structure. However, the enforcement fines ceiling remains high, and the new board structure means the regulator will have more institutional bandwidth to pursue complex multi-party investigations.
+
+For Firecrown specifically: FLYING, Boating and Sailing, and Trains.com all have UK audiences. Spacestore ships internationally. The question for your UK counsel is whether your current lawful basis documentation reflects the February updates on automated decision-making and legitimate interests, and whether your cookie consent framework in UK-facing properties is being tested under the new PECR amendments.
+
+Three concrete actions for this week. One: confirm that your UK-facing consent management platform has been updated to reflect the DUAA amendments, particularly around cookie rules and direct marketing. Two: schedule a review of your legitimate interests assessments for UK data processing — the recognised legitimate interests expansion may allow you to simplify your legal basis documentation. Three: flag to your UK external counsel that the Information Commission's new draft corporate strategy covers 2026 to 2028 and sets the regulatory tone for the next two years. Getting an early read on their stated priorities is worth a call.
+
+[GC BENCH]
+
+Legal technology update.
+
+
+
+In a benchmark test of one hundred in-house tasks, purpose-built in-house AI platform GC AI scored 86.8 percent against ChatGPT at 79.8 percent, Claude at 68.4 percent, and Gemini at 57.5 percent.
+
+ That ranking matters less as a horse race and more as a signal about where the market is going. 
+
+The legal market is pulling away from general-purpose legal AI toward domain-specific AI built for discrete legal subfields. In-house counsel will discover through AI that a large chunk of their workload is operational or business logic, not legal risk assessment.
+
+
+
+The practical filter here is the Buying Legal Conference, which wrapped in New York yesterday, September 29 to 30. 
+
+The conference ran for legal operations and procurement professionals managing outside counsel and technology vendors. Its agenda connected AI accountability with vendor oversight and the economics of legal operations.
+
+ One theme emerging from that event: the accountability question is moving from whether to deploy AI to how you govern its outputs.
+
+
+
+Courts and regulators have made clear that output verification, transparency, and security controls matter more than a tool's novelty or popularity. General counsel will begin to assess AI systems less on convenience and more on whether their design, training, and governance mechanisms support defensible legal workflows.
+
+
+
+For a lean in-house team at a media holding company, the risk is not that you deployed AI. The risk is that you deployed it without an audit trail. If an AI tool drafted a contract provision that created liability, can you reconstruct what the tool was given, what it returned, and what a lawyer reviewed? That documentation discipline is now table stakes.
+
+
+
+A piece published on September 9 in Today's General Counsel examines how controlled testing environments, log reconstruction, and clear governance help legal teams analyze and respond to AI evaluation incidents.
+
+ Worth pulling. Add it to your Q4 reading.
+
+[INDUSTRY ANGLE]
+
+FreightWaves and the freight market.
+
+Two weeks ago, Craig Fuller and Zach Strickland presented to a room of shippers at a SONAR forum at JFK Airport. 
+
+Fuller and Strickland described a market they characterized as fragile. Unlike the earlier State of Freight webinars from the first part of 2026, they were measuring a market that was no longer moving higher in leaps and bounds.
+
+
+
+
+
+Truckload tender rejection rates climbed back to 14.5 percent, which some analysts read as the clearest sign yet that peak season may be arriving. The SONAR update breaks down tender rejections, truckload volumes, diesel prices, and linehaul rates to answer what every carrier and broker is asking: is this market tightening, or just teasing a turn?
+
+ Fuller's read on the carrier side is notably more constructive than the demand-side picture. 
+
+Fuller noted that carriers are doing better this year despite higher fuel prices, because there is more demand and spot market rates are higher.
+
+
+
+On the ocean side, the September freight picture has its own texture. 
+
+September brings a new set of pressures layered on top of an already strained market. Weather-driven congestion at major Chinese ports, low water levels affecting both the Panama Canal and the Rhine and Danube rivers, and the run-up to China's Golden Week and the Mid-Autumn Festival holidays are all pushing rates higher across the transpacific. Capacity out of China remains extremely tight, and carriers are managing supply closely on every lane.
+
+
+
+
+
+Rising costs are changing the way freight moves. As truckload capacity tightens and rates climb, more shippers are turning to intermodal.
+
+ Fuller noted separately that intermodal spot rates have not kept pace with the trucking spot market surge, but that he expects that gap to close as the fourth quarter develops.
+
+The relevance for Firecrown: FreightWaves and SONAR are core products in the portfolio. The market they cover is in a genuinely ambiguous moment — fragile by Fuller and Strickland's own characterization, but with real tightening signals in the rejection rate data. That narrative complexity is exactly the kind of environment where high-frequency data products prove their value to subscribers. A fragile, hard-to-read market is a good market for SONAR.
+
+[CLOSING BRIEF]
+
+Three things on the watch list as we move into October.
+
+First: the SEC's Regulation S-K disclosure rationalization rulemaking. 
+
+The rationalization of disclosure practices rulemaking is slated for October release. It is an ambitious goal given the scope of the project, but the staff is working hard on it.
+
+ Even as a private company, Firecrown should track this because it will define the disclosure norms your public company partners, investors, and potential acquirers will be operating under.
+
+Second: the consolidated OpenAI copyright MDL in the Southern District of New York. 
+
+News outlets including the New York Times filed a response this week to the DOJ's statement of interest, saying the DOJ's legal analysis contradicts the Copyright Office and lacks evidentiary context.
+
+ The court has not yet ruled on summary judgment motions. A decision on fair use at the training stage, whenever it comes, will directly affect how you license your editorial archives for AI products and how you defend your own use of AI tools trained on third-party content.
+
+Third: the Information Commission's new corporate strategy for 2026 to 2028, which will be published in the weeks ahead. 
+
+The new governance structure — a Chair, Board, and CEO — replaces the individual Information Commissioner model.
+
+ Watch the strategic document closely for enforcement priorities. The DUAA gave the regulator new compulsory powers and higher fine ceilings. A new institutional leadership team with a published strategy is a signal about where the next wave of UK enforcement will be directed.
+
+[SIGNOFF]
+
+That is Morning Docket for Wednesday, September 30, 2026. Today the ICO becomes the Information Commission, publishers pushed back on the DOJ in New York, and the freight market is tighter than it looks. Your most actionable item before Friday: pull your UK PECR and cookie consent documentation, and confirm it reflects the DUAA amendments that have been in force since February. If it does not, that is the conversation to have with UK counsel this week, not next month.
+
+Stay informed. Good morning.
+END OF EPISODE.
