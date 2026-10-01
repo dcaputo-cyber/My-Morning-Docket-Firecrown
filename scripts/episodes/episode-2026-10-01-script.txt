@@ -1,0 +1,307 @@
+MORNING DOCKET — Thursday, October 1, 2026
+A daily brief for the general counsel of a media company.
+
+Now I have comprehensive research across all topic areas. Let me write the Morning Docket script.
+
+[COLD OPEN]
+
+A federal appeals court issued the first appellate ruling on AI training and copyright yesterday, and the answer was not the one AI developers were hoping for. The Third Circuit said using someone else's creative work to build a competing AI product is not fair use — full stop. That decision, handed down in Philadelphia on September twenty-ninth, lands the same week California's governor signed a new data deletion bill, Texas fired a warning shot at website tracking demand letters, and the United Kingdom's data regulator completed the most significant governance restructuring in its history. There is a lot moving at once. This is what you need to know.
+
+[INTRO]
+
+Good morning. It is Thursday, October first, twenty twenty-six. I'm your Morning Docket host, and this is your briefing for the general counsel's commute. Today we have six headline items: the Thomson Reuters AI copyright ruling, California's fresh wave of privacy legislation including a notable gubernatorial veto, Meta's new link paywall and what it means for publishers, the FTC's action against ad agencies and its new push on ad-optimization scams, and the UK Information Commission standing up as of yesterday. After the roundup, we go deep on the Third Circuit ruling — because its implications for every media company licensing content or building AI products are real and immediate. Then we turn to the GC Bench for a look at what's happening in legal AI right now, including Harvey's eye-opening margin problem. We close with a freight industry signal that Craig Fuller and Zach Strickland are calling fragile. Let's get into it.
+
+[HEADLINE ROUNDUP]
+
+The first item is the one that will define the AI copyright landscape for the foreseeable future. 
+
+On September thirtieth, the Third Circuit rejected an artificial intelligence company's fair use defense after it trained its AI on a competitor's product, finding the training constituted copyright infringement — and potentially setting a landmark precedent for artificial intelligence.
+
+ Specifically, 
+
+the US Court of Appeals for the Third Circuit sided with Thomson Reuters, owner of the legal research platform Westlaw, in its long-running case against Ross Intelligence, a now-defunct startup that built a rival search tool using Westlaw's editorial summaries.
+
+ 
+
+Because Ross's use of the headnotes was insufficiently transformative and aided in the startup's market competition with Westlaw, fair use did not apply.
+
+ This is the first federal appellate decision to directly answer whether training AI on copyrighted material is fair use. The answer is no, at least where the use is not transformative and directly enables competition with the source. We will spend the deep dive on the full implications for Firecrown and every media company sitting on proprietary content.
+
+Item two. California produced a high-volume week in privacy law. The constructive news first: 
+
+businesses will soon have to honor requests by California residents to delete personal data no matter who originally collected that information. The change takes effect January first, twenty twenty-seven, under Senate Bill nine twenty-three, signed Sunday by Governor Gavin Newsom, which expands deletion rights under the CCPA.
+
+ The less constructive news: 
+
+Newsom vetoed Assembly Bill fifteen forty-two on September twenty-eighth, leaving location, health, and immigration data legally for sale to third parties, including federal immigration agencies.
+
+ The California Privacy Protection Agency had formally supported the bill — 
+
+the Senate voted thirty-one to four and the Assembly voted forty-four to nineteen for the measure, wide margins that sent it to Newsom's desk, and the CPPA's board had voted earlier in the year to formally support it, a step the agency does not take routinely.
+
+ The veto keeps the opt-out model in place. For a media company running audience data operations, the deletion bill is the more operationally immediate obligation: your downstream vendors now need to be able to honor deletion requests for data they received from you.
+
+Item three. 
+
+On September seventeenth, Texas Attorney General Ken Paxton issued a consumer alert warning Texas businesses and nonprofits about a surge in demand letters alleging violations of the California Invasion of Privacy Act — CIPA.
+
+ 
+
+The letters target the use of common website technologies, including cookies, pixels, analytics tools, and search bars.
+
+ Separately, the California legislature sent Governor Newsom a reform bill — Senate Bill six ninety — that would 
+
+amend CIPA by limiting private litigation claims involving pen registers or trap-and-trace devices on internet websites, online applications, and mobile applications, with the limitation applying retroactively to certain pending claims.
+
+ That bill is still on his desk. For a multi-brand publisher running third-party analytics across Trains.com, FLYING, and Boating and Sailing, CIPA exposure from website tracking tools is a live litigation risk regardless of whether your operations are in California.
+
+Item four. 
+
+The UK Information Commissioner's Office moved from a one-person legal structure to a board-led body corporate — the Information Commission — as of yesterday, September thirtieth, under the Data Use and Access Act twenty twenty-five.
+
+ The ICO says it will keep its familiar name. The governance change matters operationally because 
+
+the regulator can now compel witnesses to attend interviews, request technical reports from organisations under investigation, and impose fines of up to seventeen and a half million pounds or four percent of global turnover under the Privacy and Electronic Communications Regulations.
+
+ Simultaneously, 
+
+the ICO published findings from audits of five police forces examining their use of facial recognition technology, making a hundred and seven recommendations covering both compliance and best practice.
+
+ 
+
+Action is needed to ensure there is clear senior oversight, accountability, and training for staff using facial recognition technologies.
+
+ The facial recognition audit is not directly a publishing issue, but the governance standards the new Information Commission is publishing now — around biometric data, automated processing, and accountability documentation — will migrate into media and advertising enforcement. Watch the guidance carefully.
+
+Item five. 
+
+The FTC and twenty-two states sued Amazon, alleging it engaged in deceptive and unfair practices to inflate the prices that brands and sellers paid to advertise on its platform. The complaint alleges that beginning in twenty nineteen, Amazon imposed undisclosed surcharges on its advertising customers participating in auctions for placements on Amazon.com and its mobile app, and specifically alleges Amazon increased advertising prices beyond what it could achieve through a genuine auction.
+
+ Separately, 
+
+the FTC finalized orders requiring Cox Media Group and two other firms to pay nearly one million dollars to settle allegations that they deceived customers by falsely claiming to offer an AI-powered service that could target localized ads based on conversations captured from consumers' smart devices.
+
+ 
+
+The FTC alleged the service actually relied on resold email lists gathered without consent, making the AI capability claims deceptive.
+
+ If your ad sales team or a vendor is making AI-targeting claims, those claims now carry FTC liability risk. Document the basis for every performance claim in your advertising product materials.
+
+Item six. 
+
+Meta's new Meta One subscription plans are being positioned as a collection of premium tools for creators and businesses, but one part of the rollout could have an especially significant effect on digital publishers: the ability to share links to websites from Facebook and Instagram.
+
+ 
+
+This is not a cosmetic subscription tweak — it is a change to the rules of distribution. Where the wave has landed, a link on Facebook has stopped being free for the first time in the platform's history.
+
+ 
+
+After Meta One for Business launched its subscription packages, some page managers report their accounts are being limited to two link posts per month.
+
+ 
+
+Restrictions on links placed in comments can also count toward the allowance, which closes off a workaround that has been widely used by publishers for years.
+
+ For brands like FreightWaves, FLYING, and Boating and Sailing that use Facebook and Instagram as traffic drivers, this is a cost-of-distribution question that belongs in the next budget cycle.
+
+[DEEP DIVE]
+
+Let's spend some real time on the Third Circuit ruling, because it is the most consequential intellectual property development in the AI era so far, and its logic runs directly into Firecrown's editorial and commercial interests.
+
+The case is Thomson Reuters versus Ross Intelligence. 
+
+Thomson Reuters filed suit in twenty twenty, alleging that Ross Intelligence, which competed in the legal research market, copied material from Thomson Reuters' Westlaw platform to train Ross Intelligence's competing AI-based legal search engine.
+
+ 
+
+On September twenty-ninth, the Philadelphia-based Third Circuit upheld Thomson Reuters' victory, rejecting Ross's argument that its use of Westlaw material to build an AI search engine counted as fair use.
+
+
+
+The doctrinal heart of the decision rests on two pillars. First, transformativeness. The court found that Ross's use was not sufficiently transformative — it took Westlaw's editorial judgments and converted them into training data for a product that competed directly in the same market. Second, market substitution. Because Ross's product was designed to replace Westlaw in the legal research market, the use harmed the market for the original work. 
+
+Because Ross's use of the headnotes was insufficiently transformative and aided in the startup's market competition with Westlaw, fair use did not apply.
+
+
+
+Now let's hold that logic up against the publishing industry's current situation. 
+
+In July twenty twenty-six, a federal court granted final approval of the one point five billion dollar settlement in Bartz versus Anthropic.
+
+ That case had a very different fact pattern — training on lawfully acquired books, not material taken from a competitor to directly replicate that competitor's product. 
+
+On September sixteenth, the Ninth Circuit went in the other direction on a related issue: it affirmed dismissal of a DMCA claim in Doe versus GitHub, holding that Copilot does not remove or alter copyright management information from an existing work when it generates code, because it creates a new work rather than reproducing a stored one.
+
+
+
+So you now have three significant AI copyright data points. Bartz: training on lawfully acquired copyrighted books can be fair use, but retaining pirated copies is not. 
+
+Yes, training an AI model on lawfully acquired copyrighted books can qualify as fair use, but retaining pirated copies, or stripping copyright management information from the data, is a separate legal violation that fair use does not excuse.
+
+ Doe versus GitHub: generating output that is a new work does not violate the DMCA's copyright management information provisions. And now Thomson Reuters: training data taken from a competitor to build a directly competing product is copyright infringement, not fair use.
+
+For Firecrown, the implications run in two directions. You are both a content licensor and a potential content licensee.
+
+On the licensor side, FreightWaves, FLYING, Trains.com, and Boating and Sailing produce original editorial content — proprietary data analysis, market commentary, reviews, and journalism. That content is exactly the kind of differentiated, expert-curated material that AI companies are harvesting for training data. The Third Circuit ruling strengthens your hand significantly when an AI company scrapes your content and builds a competing freight intelligence or aviation information product. The market substitution analysis is your friend: if an AI company uses FreightWaves freight data commentary to train a product that competes with FreightWaves' own intelligence products, the court's reasoning maps directly. The question is how well you have documented the scope and originality of your editorial output, and whether your terms of service and robots.txt files make the prohibition on scraping explicit and enforceable.
+
+On the licensee side, if Firecrown or any affiliated entity is using AI tools trained on third-party content, the Ross ruling is a caution. The key question is not whether you used a commercial AI product — it is whether the AI company that trained the model used your competitors' content to build something you then deploy in competition with them. That chain of potential liability now has appellate weight behind it.
+
+
+
+Meanwhile, the United States government filed a Statement of Interest in the New York Times versus OpenAI case, asking the court to reject the argument that training large language models on copyrighted texts is categorically infringing, citing AI competitiveness and national security.
+
+ The DOJ's position is that training-phase copying can be fair use, even if storage and output questions remain open. So you have the executive branch and the Third Circuit pointing in different directions. That tension will produce more litigation, more appeals, and eventually a Supreme Court case. Plan for years of uncertainty.
+
+Three concrete actions for Firecrown's legal team.
+
+One: audit your terms of service across all brands — FreightWaves, FLYING, Trains.com, Boating and Sailing, Spacestore — and ensure they contain explicit prohibitions on scraping for AI training purposes, with language that survives both contract and copyright analysis. Cross-check that your robots.txt configurations are consistent with those terms.
+
+Two: if you do not have a content licensing framework for AI companies already, build one now. The Third Circuit ruling makes your content more valuable to AI developers who want to license rather than litigate. A clean licensing structure lets you monetize that interest and creates a paper trail that distinguishes authorized use from infringement.
+
+Three: review any AI tools your teams use to generate or summarize content, and confirm with outside counsel that the training data provenance of those tools does not create derivative liability. The Ross decision, combined with the Google Gemini publisher class action filed in July, 
+
+by a coalition including Hachette, Cengage, Elsevier, and novelist Scott Turow, alleging that Google used their copyrighted works to train Gemini models without permission and intentionally removed copyright management information embedded in the works,
+
+ means the IP risk surface for media companies is expanding in both directions.
+
+[GC BENCH]
+
+The GC Bench this week focuses on what is happening in legal AI from a product and economics standpoint, because the picture is more complicated than the headline valuations suggest.
+
+
+
+In September twenty twenty-six, Harvey announced that it had raised five hundred and fifty million dollars at a valuation of fifteen point five billion dollars, in a round co-led by Diffusion Capital Partners and Lightspeed Venture Partners.
+
+ That is an enormous number. But the economics beneath it deserve scrutiny. 
+
+The fifteen point six billion dollar legal startup Harvey built its business around training AI models like OpenAI's GPT-4 to do specialized work for lawyers. Recently, however, soaring AI costs have nudged it to rethink its dependence on the AI giants.
+
+ 
+
+After a March update to its AI agents, Harvey's customer usage spiked, but its gross margins dropped sharply — from about fifty percent at the beginning of the year to negative fifty percent by June, according to a person familiar with the matter.
+
+ Negative fifty percent gross margins at a fifteen-billion-dollar valuation is the kind of number that should prompt careful due diligence from any in-house team negotiating a multi-year enterprise contract with Harvey. 
+
+Harvey announced its new model, named Harvey Tenet, was post-trained on the Kimi K3 base from Chinese AI lab Moonshot AI, and claims the system achieves state-of-the-art performance in complex legal tasks.
+
+ 
+
+This development signifies a major shift for Harvey, which had traditionally focused on customizing closed proprietary models from US firms such as Anthropic, OpenAI, and Google. The pivot to open-weight models indicates a strategy aimed at enhancing accuracy while reducing costs.
+
+
+
+Simultaneously, 
+
+on September seventeenth, OpenAI launched Astra for Law, a version of GPT-6 Astra configured for lawyers and the software companies that serve them.
+
+ 
+
+The initial rollout is limited to selected law firms, with OpenAI citing protections for confidential client work.
+
+ 
+
+The platform is built on GPT-6 Astra and paired with an index of US case law, statutes, regulations, and other legal materials, with specialized instructions for legal analysis and writing.
+
+
+
+What does this mean for a solo or small in-house legal team at a media holding company? A few things. First, the legal AI market is consolidating around a small number of infrastructure providers, with OpenAI now competing directly with the platform companies it previously only supported. Second, the margin pressure at Harvey suggests that per-seat or consumption-based pricing from legal AI vendors may shift in ways that are not yet visible in sales conversations. 
+
+In a September seventeenth Legal IT Insider interview, Harvey COO Katie Burke said Harvey offers seat-based pricing with an option for consumption pricing, and that some customers are already moving to that model.
+
+ Third, for a GC doing the work of a larger legal team, the practical question is still fit for daily workflow: contract review, regulatory questions, board memos. 
+
+The most useful legal AI research tools for in-house teams are designed to give the answer first — not a twenty-page memo — with the supporting authority available if needed. GC AI's own study found that their in-house customers reclaim an average of fourteen hours per week.
+
+
+
+The practical filter: before signing any legal AI enterprise agreement, ask for a data processing addendum and data residency terms that satisfy both CCPA and UK GDPR obligations, given that Firecrown has US and UK exposure. Ask whether the vendor trains on your uploaded documents, and get that restriction in writing. And given the margin situation at some of these vendors, negotiate contract terms that give you exit rights if pricing models change materially within the contract period.
+
+[INDUSTRY ANGLE]
+
+Freight, aviation, and ocean shipping, because those markets are the editorial and business heartbeat of several Firecrown brands.
+
+Starting with trucking, where Craig Fuller and Zach Strickland are using one word repeatedly: fragile. 
+
+At a SONAR and Cass Shippers Forum at JFK Airport on September fifteenth, Fuller and Strickland opined on a market they described as fragile.
+
+ 
+
+Unlike earlier State of Freight sessions in the first part of twenty twenty-six, they were measuring a market that was not moving higher in leaps and bounds.
+
+ 
+
+Strickland said: "This market is so fragile, even though we're having these periods of stability."
+
+
+
+The SONAR data tells the story numerically. 
+
+The national Tender Rejection Index climbed to fourteen percent and is holding near a secondary peak that rivals levels seen around Labor Day, with van freight driving the bulk of the pressure.
+
+ 
+
+Van moves account for sixty to seventy percent of all freight tendered in the United States, making even modest rejection-rate increases far more consequential than comparable moves in refrigerated or flatbed.
+
+ 
+
+The SONAR National Truckload Index seven-day average dipped two cents per mile week over week to three dollars and forty-two cents as of September sixteenth, but remains three percent above last month and forty-seven percent above last year's level.
+
+
+
+On the ocean side, the picture is tight and getting tighter as Q4 approaches. 
+
+As of September eleventh, the Shanghai Containerized Freight Index had risen for seven consecutive weeks to three thousand six hundred and sixty-two, just shy of its post-pandemic peak.
+
+ 
+
+Weather-driven congestion at major Chinese ports, low water levels affecting both the Panama Canal and the Rhine and Danube rivers, and the run-up to China's Golden Week holidays are all pushing rates higher across the transpacific and into Oceania.
+
+ 
+
+Shanghai to Los Angeles rates have climbed to seven thousand one hundred and eighty-five dollars per FEU, while approximately twenty percent of capacity has been pulled through blank sailings.
+
+
+
+Air cargo feels the same China Golden Week pressure. 
+
+Quarter-end shipments, China's pre-holiday export rush, and technology-related cargo could reduce departure options at some gateways.
+
+ 
+
+Air freight demand remains up seven percent year over year, with capacity constraints starting to ease slightly compared to previous months.
+
+
+
+For the FLYING and Boating and Sailing editorial teams and for the Spacestore e-commerce business: expect elevated inbound freight costs through at least late October, with particular pressure on transpacific lanes. This is the moment to revisit vendor agreements for any imported inventory and to evaluate whether spot market exposure on air freight for time-sensitive cargo is appropriately hedged.
+
+[CLOSING BRIEF]
+
+Three things on the watch list going into next week.
+
+First, California's remaining AI and privacy bills are still on Governor Newsom's desk. The CIPA litigation reform bill — Senate Bill six ninety — could provide meaningful relief from the surge in website-tracking demand letters that Texas has already flagged. Watch for a signature or veto before October's close. If the reform fails, CIPA exposure stays live for every media brand running analytics on its website.
+
+Second, keep eyes on the SEC's Regulation S-K reform process. 
+
+The Division of Corporation Finance is considering recommending that the commission propose rule amendments to Item 402 of Regulation S-K to rationalize executive compensation disclosure requirements, with a Notice of Proposed Rulemaking planned.
+
+ The broader S-K review is moving toward proposed rulemaking, and 
+
+Chair Atkins has encouraged submission of comments on risk factors, MD&A, cybersecurity and data privacy disclosure, and internal controls over financial reporting.
+
+ For any private media company that might access capital markets or run due diligence processes for acquisition targets, understanding where that materiality standard is heading matters.
+
+Third, the freight market's self-described fragility is a business signal, not just an editorial one. 
+
+The final week of the quarter typically brings a seasonal freight push, but the current van pressure is appearing earlier and more intensely than seasonal patterns would explain.
+
+ 
+
+Historically, October has trended softer after quarter-end before demand begins ramping back up in late October.
+
+ For FreightWaves editorial planning, that trajectory sets the agenda for the next four weeks of SONAR-driven coverage. Watch whether the fragility resolves into a genuine soft patch or tightens further into a Q4 rate spike.
+
+[SIGNOFF]
+
+That is your Morning Docket for Thursday, October first. The Third Circuit's ruling is the one to act on first — it has a clean line to Firecrown's content assets and your AI product strategy. The UK governance change is effective as of yesterday. Everything else has runway. I will be back tomorrow. Have a good commute.
+END OF EPISODE.
