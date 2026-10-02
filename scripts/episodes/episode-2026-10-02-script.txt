@@ -1,0 +1,329 @@
+MORNING DOCKET — Friday, October 2, 2026
+A daily brief for the general counsel of a media company.
+
+Now I have enough material to write a comprehensive, well-sourced Morning Docket script. Let me compose it.
+
+[COLD OPEN]
+
+On Tuesday, the Third Circuit handed down the first federal appellate ruling on AI training and fair use — and the answer, at least on these facts, was an unambiguous no. The same week, the SEC proposed eliminating the eighty-four-year-old shareholder proposal framework, and California's governor signed or allowed to lapse a package of privacy bills that will reshape how media companies handle deletion requests and tracking litigation starting January first. That is a lot of legal ground to cover before your first coffee. Let's get to work.
+
+[INTRO]
+
+It is Friday, October second, twenty twenty-six. This is Morning Docket, your weekly legal intelligence briefing for general counsel at media and publishing companies. I am your host. This morning we are covering six headline items across privacy, ad tech, IP, publishing economics, UK data law, and corporate governance. Our deep dive today is the Thomson Reuters versus Ross Intelligence ruling out of the Third Circuit, because the implications for content businesses like Firecrown are significant and immediate. After that, the GC Bench on the legal tech AI market, a freight and transport industry angle, and three items for your watch list. We have a full brief. Here we go.
+
+[HEADLINE ROUNDUP]
+
+Item one. California signs SB 923, the Expanding Privacy Rights Act, into law, and the CIPA pixel-tracking bill is now effectively enacted.
+
+Governor Gavin Newsom signed a package of privacy measures on September twenty-seventh, with the most consequential being SB 923. 
+
+SB 923 addresses a longstanding limitation in the CCPA's deletion provisions. Under existing law, a consumer may request deletion of personal information collected from the consumer — a phrase that could be interpreted to exclude data a business obtains from third parties. SB 923 expands the deletion right to cover all personal information a business holds about a consumer, regardless of source.
+
+ 
+
+The law takes effect January first, twenty twenty-seven.
+
+
+
+Alongside that, the California Invasion of Privacy Act reform, SB 690, has also moved. 
+
+Lawmakers approved Senate Bill 690, which eliminates the private right of action under the pen-register and trap-and-trace provisions of CIPA for alleged violations arising from website-tracking technologies.
+
+ 
+
+Under SB 690, only the California Attorney General may bring actions for violations of CIPA's pen register provision related to online tracker conduct.
+
+ 
+
+Notably, the bill applies retroactively to certain pending claims in actions commenced during the two years preceding the legislation's operative date, which may affect pending litigation, not just future demand letters.
+
+
+
+For Firecrown, the SB 923 change is the more operationally demanding one. If any of your properties — FreightWaves, FLYING, the e-commerce Spacestore — hold user data acquired through list rentals, data appends, or advertising partners, that data is now within scope of CCPA deletion requests starting next year. Audit your third-party data inputs now.
+
+Item two. The FTC and twenty-two states sue Amazon over a secret ad surcharge scheme estimated to exceed twenty billion dollars.
+
+
+
+The FTC and twenty-two state attorneys general are suing Amazon, alleging it used hidden surcharges since twenty nineteen to overcharge advertisers by more than twenty billion dollars through its ad auction systems.
+
+ 
+
+Under the auction model Amazon described to advertisers, the winning bidder was supposed to pay only one cent more than the second-highest bid. Instead, the complaint alleges Amazon charged Sponsored Products advertisers more than the winning bid nearly eighty percent of the time, effectively converting the process into a first-price auction without disclosing the shift.
+
+ 
+
+Amazon executives played an active role in concealing this behavior, the complaint states, while the company believed that its disclosure could cause what internal documents described as irrevocable damage to advertiser trust.
+
+
+
+The FTC also finalized, separately, consent orders against Cox Media Group and two marketing firms over an allegedly fake AI listening advertising product. 
+
+The FTC finalized orders requiring Cox Media Group and two other firms to pay nearly one million dollars to settle allegations that they deceived customers by falsely claiming to offer an AI-powered service that could target localized ads based on conversations captured from consumers' smart devices.
+
+
+
+Two enforcement actions in one month targeting ad tech deception. If Firecrown is buying programmatic or sponsored-product inventory anywhere near Amazon's auction system, the transparency of that pricing structure is now a live legal question.
+
+Item three. The SEC proposes to eliminate Rule 14a-8, the eighty-four-year-old federal shareholder proposal framework.
+
+
+
+On September sixteenth, the SEC proposed sweeping changes to the federal proxy rules that would eliminate Rule 14a-8's shareholder proposal regime and significantly streamline the mechanics of the proxy process.
+
+ 
+
+The proposal reflects Chairman Atkins's view that Rule 14a-8 exceeds the Commission's statutory authority because it has no authority to determine which matters are proper subjects for a shareholder vote absent authorization from Congress. The rescission would shift the regulation of shareholder proposals from a uniform federal framework to a patchwork of state laws and company-specific bylaw provisions.
+
+
+
+
+
+The proposal is the capstone of the SEC's disengagement from the shareholder proposal process, following the Division of Corporation Finance's November twenty twenty-five announcement that it would not substantively review requests to exclude most shareholder proposals, and its subsequent August twenty twenty-six announcement that it would cease all review of exclusion notices under Rule 14a-8 and no longer issue no-objection responses.
+
+
+
+Firecrown is a private holding company, so Rule 14a-8 does not apply directly. But this development matters for two reasons. First, any portfolio company moving toward a public listing needs to understand that the shareholder engagement landscape may be structurally different by the time they get there. Second, the broader Regulation S-K overhaul that Chairman Atkins launched in January — aimed at materiality-first, trimmed disclosures — is also still moving. 
+
+For public companies, this signals the SEC's shift from prescriptive, line-item requirements toward leaner, materiality-driven disclosure, and disclosure streamlining rulemaking proposals are expected to pare back certain Regulation S-K items and reduce duplicative narrative disclosure.
+
+
+
+Item four. The Third Circuit rules in Thomson Reuters versus Ross Intelligence. AI training on copyrighted material is not fair use — at least on these facts. We will go deep on this in the deep dive segment. Hold that thought.
+
+Item five. The UK's ICO formally becomes the Information Commission as of September thirtieth.
+
+
+
+The Government confirmed the Information Commissioner's Office transitioned to the Information Commission on September thirtieth, twenty twenty-six. This transition is a result of the Data Use and Access Act twenty twenty-five, which makes changes to the governance structure of the organization.
+
+ 
+
+The ICO updated its communication on September seventeenth to confirm it will continue to be known as the ICO, however.
+
+ The rebrand is structural, not cosmetic, and comes with expanded enforcement teeth.
+
+
+
+The DUAA grants the ICO new powers to strengthen its regulatory oversight, including the authority to compel witnesses to attend interviews, require technical reports, and issue substantial fines of up to seventeen-point-five million pounds or four percent of global turnover under the Privacy and Electronic Communications Regulations.
+
+
+
+For Firecrown, the relevant pressure point is cookie compliance. 
+
+PECR penalties now align with UK GDPR levels at seventeen-point-five million pounds or four percent of global turnover, elevating cookie compliance to the same financial risk as data security breaches.
+
+ If FLYING, Boating and Sailing, or any other Firecrown brand has UK readership and is running advertising technology on those UK-facing pages, the cost of a PECR violation just went up materially.
+
+Item six. Publishers pivot to direct audiences and subscription as the post-search era sharpens.
+
+The Digiday Publishing Summit in September produced a clear through-line. 
+
+Publishers are working to reduce their dependence on Google as AI-powered, zero-click search erodes referral traffic and makes search-driven scale less reliable.
+
+ 
+
+Diversification is no longer optional. As traffic-dependent economics weaken, publishers are building more resilient businesses around subscriptions, advertising, video, licensing, and emerging AI revenue opportunities.
+
+
+
+
+
+With traffic from search and social more volatile, subscriptions are being positioned as the stabilizing core of some news publishers' businesses. Subscription and membership remain the biggest revenue focus — seventy-six percent — for publishers, ahead of both display and native advertising, according to the Reuters Institute's recent report on journalism trends in twenty twenty-six.
+
+
+
+Reuters specifically showcased its dynamic paywall at the summit. 
+
+Reuters' dynamic paywall is helping the news organization grow subscriptions without sacrificing ad revenue, using machine learning to determine
+
+ which content to gate and when. That model — machine-learning-driven metering — is increasingly the benchmark. Worth discussing internally whether FreightWaves or FLYING's subscription infrastructure is keeping pace.
+
+[DEEP DIVE]
+
+The Third Circuit rules: AI training on copyrighted material is not fair use.
+
+On September twenty-ninth, the Third Circuit handed down what practitioners are calling a landmark ruling — the first time a federal appeals court has directly answered whether training an AI system on copyrighted material constitutes fair use under the Copyright Act.
+
+
+
+A US appeals court upheld a ruling for information services company Thomson Reuters in its copyright dispute with former legal-research rival Ross Intelligence over Ross's alleged misuse of copyrighted material to train an AI-powered legal search engine. The Philadelphia-based Third Circuit rejected Ross's argument that its search engine made fair use of material from Thomson Reuters' Westlaw platform.
+
+
+
+
+
+The court held that training an artificial intelligence system on a competitor's proprietary, human-curated database — when the product you build does the same commercial job as that database — is copyright infringement, and the claim that the material is just training data will not save you.
+
+
+
+Let me unpack the three key holdings.
+
+First, on copyrightability. 
+
+Westlaw's headnotes — despite being derived from uncopyrightable judicial opinions — contain sufficient originality to merit copyright protection. The editorial choices made by Thomson Reuters's attorney-editors in selecting, framing, and concisely expressing the legal propositions within each case clear the creative spark threshold established by the Supreme Court in Feist Publications versus Rural Telephone Service.
+
+
+
+That reasoning has direct implications for publishing. Curated editorial products — topic taxonomies, structured data schemas, summaries written by staff journalists — may carry more copyright protection than a naive reading of the law suggests. The editorial labor embedded in those products matters.
+
+Second, on the fair use analysis. 
+
+The court held that because Ross's use of the headnotes was insufficiently transformative and aided the startup's market competition with Westlaw, fair use did not apply.
+
+ The transformativeness argument — the idea that training a model produces something entirely new and therefore qualifies as fair use — was rejected at the appellate level for the first time.
+
+Third, and critically, what the ruling does not say. 
+
+The court was explicit that this ruling does not mean all AI training on copyrighted data is illegal. The ruling applies to a specific fact pattern — a non-generative
+
+ search product trained directly on a competitor's curated database to compete in the same market. Generative AI systems, large language models trained on broad internet corpora, face a different analysis. But that distinction is not a safe harbor — it simply means the next case will be decided on its own facts.
+
+Now, what has been piling up around this ruling. 
+
+On September fourth, the Seattle Times and Newsday filed a complaint against OpenAI and Microsoft over the unlicensed use of their news articles to train ChatGPT, Copilot, and Bing Chat products, in addition to making copies of the articles for retrieval-augmented generation processes. On September sixteenth, a group of regional and local news publishers filed a separate complaint against Microsoft and OpenAI over the unauthorized use of publishers' news articles to train ChatGPT models.
+
+
+
+
+
+On September eighteenth, Universal Music Group and Sony Music Entertainment filed a complaint against Suno over the unlicensed use of their sound recordings to train Suno's AI music models, including its version six model.
+
+ The UMG complaint made a particularly pointed argument: 
+
+the plaintiffs' works were not only unlawfully used to train earlier models, but the outputs from those models were also then used to develop the version six model. The complaint argues that training a new model on the outputs of an infringing model does not eliminate the infringement — it launders it.
+
+
+
+That laundering argument is worth flagging separately. If it gains traction, it means that any company building products on outputs of AI systems trained on infringed material may itself face liability, even if it had no direct role in the original training.
+
+Ross's counsel has already signaled an intent to seek further review. 
+
+Yar Chaikovsky of White and Case, which represented Ross during litigation, expressed opposition to the panel's ruling and said Ross will request further judicial review.
+
+ So this may go to the Supreme Court.
+
+Concrete actions for Firecrown as general counsel.
+
+One. Commission an AI training data audit across every AI-assisted product your brands are using or building. If any of those products were trained on, or are being trained on, Firecrown's own editorial content — FreightWaves articles, FLYING reviews, rate data narratives — document the scope and the license chain. If the AI vendor cannot produce a credible answer, that is a red flag.
+
+Two. Review your inbound AI content licensing agreements. The fact that news publishers are now filing suits in multiple jurisdictions means that AI vendors will be under pressure to negotiate licensing deals. The Third Circuit ruling strengthens your hand as a content owner. FreightWaves and FLYING produce original, curated editorial content. That content has value. If an AI company wants access to it, there should be a license and a payment. Make sure your template vendor agreement includes an express prohibition on using Firecrown content for AI model training without separate written consent.
+
+Three. Watch the Bartz versus Anthropic settlement for precedent on damages valuation. 
+
+In July twenty twenty-six, Judge Araceli Martínez-Olguín granted final approval of the one-point-five billion dollar settlement in Bartz versus Anthropic.
+
+ That number — one-point-five billion — is becoming a reference data point for what AI training exposure looks like at scale. If you are ever in a licensing negotiation with an AI company, that settlement is part of your walk-in-the-door research.
+
+[GC BENCH]
+
+Harvey raises five-hundred-fifty million at a fifteen-point-five billion dollar valuation, and the legal AI market accelerates.
+
+
+
+Legal tech startup Harvey is now valued at fifteen-point-six billion dollars after raising five-hundred-fifty million in a new funding round aimed at powering efforts to build its own AI models. The fundraise was co-led by Lightspeed Venture Partners and Diffusion.
+
+ 
+
+In December, the company had been worth eight billion. In March, Harvey closed two hundred million at an eleven billion dollar valuation, which at the time looked like a peak. Six months later it looks like a way station. The company has now raised more than one-point-five-five billion in total and has nearly doubled its value in roughly nine months.
+
+
+
+This matters for an in-house team in a practical way. The valuations tell you where the vendor market is heading — toward consolidation around a small number of well-funded platforms that will look very different in eighteen months. 
+
+Eight-am's twenty twenty-six Legal Industry Report found sixty-nine percent of legal professionals now use generative AI for work, up from thirty-one percent a year earlier. ILTA's twenty twenty-six technology survey of five hundred eight firms puts the share using or exploring it at ninety-four percent.
+
+
+
+
+
+Yet the same data shows only about a third of firms have rolled out legal-specific AI firm-wide, which means plenty of lawyers are pasting client work into tools nobody at their firm has vetted.
+
+ That sentence should concern any general counsel. The governance gap — the space between experimentation and policy — is where privilege and confidentiality risk lives.
+
+For a lean in-house function like Firecrown's, the practical comparison remains: Harvey is priced for large law firms at approximately twelve hundred dollars per lawyer per month with minimum seat requirements, making the smallest realistic deal roughly three hundred thousand dollars a year. Purpose-built in-house platforms like GC AI, priced at five hundred dollars per seat, and Thomson Reuters CoCounsel, built on Westlaw's corpus, offer more accessible entry points. The key evaluation criteria for your context: does it integrate with your existing document environment, does it have a zero-data-retention agreement you can verify, and does it cover both commercial contract review and the regulatory questions — privacy, IP, ad tech — that are your highest-frequency issues.
+
+One watch item from the Harvey news: 
+
+Harvey is moving to reduce its dependency on AI frontier models from Anthropic and OpenAI by fine-tuning open-source models to improve its unit economics. After a March update to its AI agents, Harvey's customer usage spiked but its gross margins dropped sharply, from about fifty percent at the beginning of the year to negative fifty percent by June, according to a person familiar with the matter.
+
+ A legal AI vendor with negative gross margins at that scale is a vendor to watch carefully for pricing changes.
+
+[INDUSTRY ANGLE]
+
+Freight, aviation, and marine: the Q4 setup.
+
+FreightWaves's October twenty twenty-six State of the Industry report, published in partnership with Ryder, provides a useful Q4 entry point. 
+
+Freight demand remains steady but the market is still fragile, with post-Labor Day volatility highlighting how quickly capacity and pricing conditions can shift. Import volumes remain strong, with major US ports reporting near-record container activity as shippers continue to carefully manage inventory levels.
+
+
+
+The trucking market story right now is supply-side, not demand-side. 
+
+As we enter Q4 of twenty twenty-six, overall freight demand remains relatively steady, transportation rates continue to move upward, and truck capacity is still rather limited.
+
+ 
+
+Spot truckload rates have moved above contract rates for the first time since twenty twenty-one, tender rejection rates have climbed to multi-year highs, and carrier exits remain elevated as smaller operators continue to struggle with inflation, fuel costs, and profitability challenges.
+
+ 
+
+Transportation costs are under additional pressure from fuel prices, as diesel reached record highs, increasing operating costs and creating upward pressure on freight rates across modes.
+
+
+
+For SONAR users and FreightWaves readers, the signal worth tracking is route guide failure rates. 
+
+After three years of historically flat conditions from twenty twenty-two through twenty twenty-five, route guide performance has been a sign of the dynamic nature of the truckload market in twenty twenty-six. During the Fourth of July holiday period when spot market pricing peaked, route guide depth and failures also saw the worst performance of the year.
+
+ 
+
+Due to the Labor Day holiday, route guide depth and failures spiked once more, but have been trending downward since.
+
+
+
+On the ocean and air side, the Q4 setup is strained. 
+
+The air cargo sector could benefit from shippers switching from congested ocean transport to air in the fourth quarter. Persistent ocean congestion could result in more air cargo as the peak season progresses because ocean shipping has faced supply chain disruption and demand has not slowed as quickly as expected, meaning the peak of the fourth quarter has been prolonged.
+
+
+
+
+
+Trans-Pacific spot rates for the Shanghai to Los Angeles route climbed to seven thousand one hundred eighty-five dollars per forty-foot equivalent unit, while typhoon activity across Asia has caused significant port congestion, vessel bunching, and schedule disruptions.
+
+ 
+
+The Panama Canal remains open, but with reduced draft allowances and fewer available transit slots.
+
+
+
+For Firecrown, the freight market tightening is an editorial and a product story at FreightWaves. It is also worth flagging to the Spacestore and e-commerce team: inbound freight costs for any physical goods in your inventory are likely to stay elevated through the peak shipping season. That is a margin conversation, not just a news headline.
+
+[CLOSING BRIEF]
+
+Three items on the watch list heading into next week.
+
+First. Governor Newsom's deadline on SB 690 — the CIPA pixel-tracking reform — was September thirtieth. By the time you hear this, the bill's status should be confirmed. If it became law, either by signature or inaction, the retroactivity provision means your legal team should be reviewing any pending CIPA demand letters this week. That retroactive window — two years of covered claims — is consequential.
+
+Second. The Google ad tech remedy. 
+
+Proposed final judgments in the Google ad tech antitrust case were due October second, and the remedy takes effect sixty days after the judge signs the order.
+
+ 
+
+Google has twelve months to open AdX to rival ad servers and twelve to fifteen months to connect AdX and DFP to Prebid.
+
+ For a publishing holding company running ad-supported media brands, the opening of Google's ad stack to outside competition — even incrementally — changes the programmatic calculus. Watch for how header bidding partners start positioning themselves in the next sixty days.
+
+Third. The FTC's advance notice of proposed rulemaking on ad platform responsibility for impersonation scams. 
+
+The FTC took a first step toward crafting regulations that, if enacted, could require online platforms to take steps to combat fraudulent ads by scammers who impersonate businesses and government agencies. The agency is asking for comments on potential rules — including one that would require platforms to verify users' identities before offering optimization tools and services.
+
+ The comment period will shape whether this becomes binding. It is early-stage, but the direction is clear: ad platforms may be required to take on active responsibility for the quality of advertisers they admit. If that obligation lands, it will ripple through every media company that also sells advertising inventory.
+
+[SIGNOFF]
+
+That is Morning Docket for Friday, October second. The Third Circuit's Thomson Reuters ruling is not the last word, but it is the first appellate word — and in a legal landscape that has been running without clear precedent, that matters. Check your content licensing language, lock down your data inventory before SB 923 takes effect, and keep an eye on the Google ad tech remedy timeline. Have a good weekend, Darren. We are back Monday.
+END OF EPISODE.
