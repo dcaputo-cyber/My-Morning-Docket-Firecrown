@@ -1,0 +1,267 @@
+MORNING DOCKET — Monday, October 5, 2026
+A daily brief for the general counsel of a media company.
+
+Now I have comprehensive research. Let me write the script.
+
+[COLD OPEN]
+
+Last Thursday, a federal appeals court handed down what legal scholars are already calling the most consequential copyright ruling of the AI era. The Third Circuit affirmed that using copyrighted material to train artificial intelligence can constitute infringement — the first federal appellate court to address the question directly. On the same day, California's governor had just signed the first statute in the country governing how lawyers themselves may use generative AI. These two developments, landing within days of each other, are not background noise. They are the new operating environment for every media company's legal and commercial strategy, starting this morning.
+
+[INTRO]
+
+Good morning. It is Monday, October fifth, twenty twenty-six. You are listening to Morning Docket. I am your host. This week opens with a dense slate. The Third Circuit's Thomson Reuters decision, fresh CalPrivacy enforcement against data brokers, the FTC's latest multistate pricing action, a publisher coalition pushing a new AI content-tracking standard, the freight market signaling a real tightening at the start of Q4, and California's new lawyer AI statute — all of it with a practical lens for your desk at Firecrown. Let us begin.
+
+[HEADLINE ROUNDUP]
+
+First item: The Third Circuit, Thomson Reuters, and AI training.
+
+
+
+The Third Circuit Court of Appeals has issued the first federal appellate ruling on whether using copyrighted material to train artificial intelligence systems constitutes fair use, examining Thomson Reuters' claim that ROSS Intelligence improperly used Westlaw headnotes to develop a competing legal research product.
+
+ The district court had already found for Thomson Reuters, and the Third Circuit has now affirmed. What the appellate court added — and what matters far more for you than the specific facts — is the framework. 
+
+The recent U.S. appeals court decision in favor of Thomson Reuters against Ross Intelligence has underscored the legal exposure AI companies face when using copyrighted material for training purposes.
+
+ The circuit court did not resolve every generative AI question, but it delivered the clearest appellate statement yet that training on protected works is not automatically excused by fair use. For Firecrown, which licenses proprietary freight data and editorial content across FreightWaves, FLYING, and the boating titles, this ruling strengthens your position in any content-licensing negotiation with AI platform developers. The practical instruction: document every instance in which your published content is accessed by AI crawlers and do not treat existing robot-dot-text instructions as sufficient legal protection.
+
+Second item: SPUR releases Content Telemetry One Point Zero.
+
+
+
+A coalition of media organizations, including the Guardian and the Financial Times — along with the BBC, Sky, The Times of London, European media group MediaHaus, and the AP — has released a new standard for tracking how AI tools use publishers' content.
+
+ The initiative is called SPUR, the Standards for Publisher Usage Rights. 
+
+The standard creates a process to track and report what happens when content is retrieved, grounded, cited, presented, and engaged with by AI tools, and to report that usage back to publishers.
+
+ The coalition has now invited OpenAI, Anthropic, Google, Meta, and Microsoft to participate in a new AI Licensing Advisory Board. 
+
+No AI company has accepted SPUR's invitation. Google gave a non-answer, and the others did not respond; the standard is voluntary and no adoption is established.
+
+ That is the candid state of play. 
+
+SPUR's approach is based around publishers acting together rather than cutting fragmented, one-off AI licensing deals or just waiting for regulators to rescue them. The logic is that no single publisher — even a big brand — can force OpenAI, Google, or any other AI model to accept publisher-friendly terms, but dozens moving in lockstep on blocks, telemetry, and licensing standards might.
+
+ Firecrown should monitor whether its freight, aviation, and marine editorial content is being accessed by AI systems and consider whether joining or aligning with SPUR's technical standard would strengthen your leverage in future licensing conversations.
+
+Third item: CalPrivacy and data broker enforcement — the LocateSmarter and Cybba actions.
+
+
+
+The California Privacy Protection Agency approved a stipulated order requiring LocateSmarter LLC, an Iowa-based data broker, to pay one hundred sixteen thousand four hundred ninety dollars and modify certain business practices after regulators alleged that the company failed to register as a data broker and required consumers to provide excessive personal information, including partial Social Security numbers, to opt out of the sale or sharing of their data.
+
+ 
+
+While modest in dollar value compared to some recent California privacy penalties, the matter is noteworthy because it is CalPrivacy's first enforcement action against a data broker under the CCPA and the first case brought under both the CCPA and the Delete Act.
+
+ 
+
+Days later, CalPrivacy announced a second action against data broker Cybba, Inc., imposing a fifty-two thousand four hundred dollar fine for failure to register under the Delete Act — demonstrating what CalPrivacy called a steady drumbeat of enforcement.
+
+ 
+
+With the launch of California's Delete Request and Opt-Out Platform, and the submission already of over four hundred seventy-five thousand consumer deletion requests, companies that collect and sell personal information should evaluate whether they qualify as data brokers under California law and ensure compliance with both the Delete Act and the CCPA.
+
+ Firecrown's e-commerce operation, Spacestore, and any audience data sales or co-registration arrangements connected to your publishing brands should be audited against the Delete Act registration requirements immediately.
+
+Fourth item: The FTC sues Lens dot com over drip pricing — and what it signals.
+
+
+
+In a joint complaint, the FTC, Utah, and Nevada allege that Lens.com, along with its owner and an affiliated entity, advertise artificially low prices for contact lenses but then charge consumers much higher prices through substantial, mandatory taxes-and-fees charges. Lens.com's hidden fees routinely double the price it advertises, costing consumers hundreds of millions of dollars, the joint complaint alleges.
+
+ 
+
+According to the complaint, Lens.com prominently advertised contact lenses at eye-catching prices in ads and on its website, while claiming that customers would encounter no hidden fees.
+
+ 
+
+The complaint also alleges that the company used deceptive pricing practices in connection with its AutoRefill subscription plan, which automatically charges consumers for recurring shipments of contact lenses.
+
+ The dual subscription and drip-pricing angle is what should focus your attention. If any Firecrown brand — including Spacestore — auto-renews subscribers or uses checkout pricing structures where the final price differs materially from advertised price, this enforcement pattern is a direct warning. The FTC and state attorneys general are coordinating. That coordination is not weakening under the current administration — it is expanding.
+
+Fifth item: The FTC finalized consent orders over AI active-listening advertising claims.
+
+
+
+The FTC finalized consent orders totaling roughly nine hundred thirty thousand dollars with a media company and two marketing firms that had advertised an AI-powered active-listening service, claiming it could target ads based on consumers' real-time conversations captured from smart devices, with consumer consent.
+
+ 
+
+The orders confirm that claims about what your AI can do are still just advertising claims — the active-listening orders show the FTC will treat exaggerated or unsubstantiated AI capability claims as deceptive like any other.
+
+ The message for any Firecrown brand using or promoting AI-powered advertising products: capability claims in sales materials and media kits must reflect what the technology actually delivers, not its aspirational roadmap.
+
+Sixth item: California signs SB Five Seventy-Four — the first-in-the-nation statute governing lawyer AI use.
+
+
+
+Governor Gavin Newsom signed Senate Bill Five Seventy-Four on September thirtieth, codifying attorneys' professional accountability duties when using AI tools, establishing a statutory framework for attorneys' use of generative artificial intelligence.
+
+ 
+
+Effective January first, twenty twenty-seven, the law imposes duties concerning confidentiality, AI output verification, court disclosure, and citation verification. The statute's premise is professional accountability: AI may assist counsel, but responsibility for the legal work remains with the attorney.
+
+ If your outside counsel or any law firm retained by Firecrown uses AI tools to draft filings in California courts, this statute now creates statutory liability, not just ethics exposure. Ask your panel firms for their AI usage and verification protocols before year end.
+
+[DEEP DIVE]
+
+Topic: The Thomson Reuters Third Circuit ruling and what it means for a media holding company operating proprietary content databases.
+
+Let us slow down on this. The Third Circuit opinion lands at an unusual moment — simultaneous with a wave of AI copyright settlements, a publisher coalition launching a content-tracking standard, and Google quietly testing pay-per-value licensing arrangements with publishers. Understanding the legal architecture is essential before deciding what to do with it.
+
+The facts of Thomson Reuters are worth restating precisely, because the facts constrain how far the ruling travels. 
+
+Thomson Reuters sued an AI-driven competitor for use of its Westlaw headnotes and key numbers in training its own platform. Importantly, Ross Intelligence's platform is not a generative AI model, but rather an AI-driven case search tool. The court granted summary judgment in favor of Thomson Reuters, finding that the headnotes were original and protected and that Ross Intelligence's use of the headnotes to train its AI legal research tool was not fair use.
+
+ The Third Circuit has now upheld that result.
+
+Here is the nuance that matters for your planning. The court ruled on an intermediate, non-generative AI use case — a company training a search tool on a competitor's proprietary database. The ruling does not automatically sweep in all generative AI training on all published content. But 
+
+a pair of judges have validated fair-use defenses for using works to train AI, at least in the circumstances at issue in each case — while one California federal judge said copying from pirate sites is not fair, and another added that he doubted training inherently passes muster.
+
+ The Third Circuit's decision is now the highest-authority appellate word, and it cuts against broad fair use claims.
+
+The litigation map includes additional data points relevant to a media company. 
+
+A group of authors sued Anthropic in a class action alleging that Anthropic illegally copied their books. After significant briefing, the court ruled that AI training on copyrighted books constitutes fair use, but storing pirated copies does not. After that ruling, the case settled for one point five billion dollars, with an estimated payout of approximately three thousand dollars per work.
+
+ The piracy line is hardening. 
+
+A twenty twenty-six lawsuit against Google over Gemini alleges the company removed or altered copyright management information to obscure that the model had been trained on the underlying works, a claim that is legally distinct from ordinary copyright infringement.
+
+ Copyright management information — the metadata embedded in your content — is now a litigation focal point. That is a specific, practical exposure.
+
+For Firecrown and Firecrown-adjacent concerns, here is the relevant commercial and legal picture. FreightWaves publishes proprietary editorial content and SONAR generates indexed freight market data. Trains dot com, FLYING, and the boating and sailing titles carry decades of archived proprietary journalism. The Spacestore has product descriptions and e-commerce content. Each of these categories has different copyright profiles.
+
+The SPUR development is the industry's collective response to exactly this legal uncertainty. 
+
+SPUR's central argument is that publishers need more than the ability to block AI crawlers. They need visibility into what happens after AI systems access their content.
+
+ 
+
+The framework breaks AI content use into five measurable events: content retrieved, grounded, cited, displayed, and engaged.
+
+ Even if no major AI company has adopted the standard yet, building your internal documentation around those five categories now creates the evidentiary record you would need in any future licensing negotiation or litigation.
+
+
+
+Google has been quietly testing a Search Console-based program that pays publishers when their content significantly contributes to AI-generated responses across Gemini, AI Overviews, and AI Mode, according to multiple industry sources close to the situation.
+
+ That is not a licensing agreement; it is a monitoring pilot. Do not treat a small Google payment as a release of claims.
+
+Concrete actions for Darren this week. First: commission a content asset audit across all Firecrown brands that maps which titles produce content likely to be used as AI training or retrieval data, and document any existing licensing terms with AI companies. Second: instruct your web team to install server-side logging capable of tracking AI crawler activity by bot signature — this is the evidentiary foundation for any future licensing or enforcement action, and it maps directly to what SPUR is trying to standardize. Third: schedule a conversation with your IP counsel about whether and how to assert copyright management information claims — the specific CMI allegations in the Google Gemini lawsuit provide a litigation template that is distinct from, and potentially more robust than, a straightforward fair use argument. The Third Circuit just told the industry that proprietary data is protectable. The question is whether you have the documentation to prove what is yours.
+
+[GC BENCH]
+
+Legal technology and AI governance developments for in-house counsel.
+
+The big number from the GC desk this week: 
+
+In-house AI adoption crossed eighty-seven percent. The twenty twenty-six General Counsel Report from FTI Consulting and Relativity puts in-house generative AI usage at eighty-seven percent, nearly double the forty-four percent from a year prior.
+
+ Nearly nine in ten in-house legal departments now report using generative AI for some legal work. The variance in quality and safety protocols behind that number is enormous.
+
+
+
+General-purpose AI providers are entering legal. Anthropic launched Claude for Legal, and OpenAI announced Codex for Legal, both positioning as general-purpose AI with a legal mode.
+
+ The distinction between a general-purpose model with a legal configuration and a purpose-built in-house platform matters for your vendor selection logic. 
+
+GC AI, the purpose-built in-house platform, passed eighty-six point eight percent of a hundred standardized tasks. ChatGPT at GPT Five point five came second at seventy-nine point eight percent, Claude Opus came in at sixty-eight point four, and Gemini at fifty-seven point five.
+
+ These numbers are produced by GC AI itself, which is a caveat worth noting, but the directional gap between purpose-built and general-purpose tools on in-house legal tasks is consistent with what practitioners report anecdotally.
+
+On the regulatory side: 
+
+Connecticut SB Five starts phasing in October first, twenty twenty-six
+
+ as part of the state patchwork of AI governance laws now in effect. That law has requirements for high-risk AI system deployers, including risk assessments, disclosures to consumers, and bias mitigation documentation. If any Firecrown brand uses algorithmic content recommendation, dynamic paywall pricing, or automated ad targeting in Connecticut-based user sessions, you should assess whether those use cases trigger the new requirements.
+
+On the SEC disclosure front: 
+
+there is real enforcement liability, an active comment letter campaign, and a peer group where seventy-six percent of S&P Five Hundred companies already disclose AI as a material risk.
+
+ 
+
+The most common deficiency flagged in SEC comment letters — appearing in sixty-one percent of letters — was lack of specificity: boilerplate language describing AI in generic industry terms without reference to the registrant's actual operations, customer base, or risk profile. The second, appearing in thirty percent of letters, was unsupported AI claims — overstated capability assertions without a reasonable basis.
+
+ Firecrown is private, but if you have any financing arrangements, reporting obligations, or future exit scenarios involving public market participants, the disclosure norms now being set by the SEC enforcement apparatus will eventually reach you through counterparty due diligence. Document your AI governance framework now.
+
+[INDUSTRY ANGLE]
+
+Freight, rail, and aviation signals for the week of October fifth.
+
+The SONAR data coming out of FreightWaves heading into this week tells a consistent story: 
+
+domestic intermodal container volumes have reached all-time highs, posting eight percent year-over-year growth on top of consistent multi-year gains, even as the truckload market defies its typical early-October lull with tender rejection rates holding stubbornly near fourteen percent.
+
+
+
+
+
+On the truckload side, the overall tender rejection rate has hovered around fourteen percent — above August levels — and has not retreated despite the calendar flipping to Q4, which historically represents one of the softest freight periods of the entire fourth quarter.
+
+ That fourteen percent rejection rate is structurally significant. 
+
+The national tender rejection index currently sits at approximately thirteen point five percent — a level that never appeared at any point during all of twenty twenty-four, even during last year's peak season.
+
+
+
+The intermodal story is particularly sharp heading into Q4. 
+
+A thirty-four percent cost discount between intermodal contract rates and truckload contract rates is pushing shippers toward rail, according to SONAR data. Truckload contract rates have risen seven point five percent over the past three months while intermodal contract rates have remained essentially flat, up just zero point six percent over the same period — a spread that is fueling volume gains for domestic intermodal operators and the railroads that support them.
+
+ 
+
+For intermodal, the key watch item is how long an eight percent growth rate can continue on infrastructure that cannot easily be expanded — and whether any disruption to rail service could create a significant choke point for domestic freight flows.
+
+
+
+On aviation: 
+
+the global airline industry is on track for a record profit in twenty twenty-six, crossing forty-one billion dollars in net earnings for the first time — but with margins sitting at just three point nine percent, the gap between a strong year and a difficult one is still measured in dollars per seat.
+
+ 
+
+Cost inflation is now a structural feature of the aviation industry. Maintenance costs continue to rise as fleets age, engine reliability issues persist, and shop capacity remains constrained.
+
+ For FLYING magazine and Firecrown's aviation editorial platform, the business aviation and general aviation segments are being squeezed from the cost side even as demand remains elevated — a narrative tension that is producing strong reader engagement with economic content.
+
+
+
+The U.S. airline industry jet fuel price index as of October second was four dollars and thirty-nine cents per gallon.
+
+ That is a number FreightWaves readers and FLYING readers both watch for different reasons, and it is sitting at levels that pressure operators on both sides of the market.
+
+[CLOSING BRIEF]
+
+Three items on the watch list for this week and the next ten days.
+
+One: The Third Circuit's Thomson Reuters ruling hits the broader AI copyright litigation calendar at a critical moment. 
+
+AI companies are encountering a surge in legal challenges over safety, copyright, and liability issues. This wave of litigation involves major industry players like OpenAI, Anthropic, Google, and Meta, who are facing lawsuits related to the use of training data and potential harms caused by their AI products.
+
+ Watch for the Northern District of California's handling of the remaining Kadrey versus Meta claims — 
+
+the court granted a partial motion to dismiss on fair use grounds as for training the large language model, but claims related to alleged reproduction of pirated works during the seeding process remain active.
+
+ That piracy-specific track is the one most likely to produce adverse precedent for any AI company that relied on scraping without rights clearance.
+
+Two: CalPrivacy's registration fee for data brokers has been raised from six thousand to nine thousand five hundred dollars annually, and 
+
+these cases signal a new era of aggressive enforcement with no grace period for compliance.
+
+ The Delete Request and Opt-Out Platform is live, four hundred seventy-five thousand deletion requests have already been submitted, and CalPrivacy has described its posture as a steady drumbeat. Expect the next enforcement actions before the end of this quarter.
+
+Three: 
+
+Keep an eye on the FTC's proposed personalized pricing enforcement policy statement: the public comment window, extended by a week, closed September twenty-fifth, after which the agency could move toward finalizing its position.
+
+ If the FTC finalizes a policy statement on personalized or dynamic pricing, it will directly affect how Firecrown structures dynamic paywall pricing and any algorithmic ad rate-setting across its brands. The comment record will telegraph the agency's direction before any final document is released.
+
+[SIGNOFF]
+
+That is Morning Docket for Monday, October fifth, twenty twenty-six. The Third Circuit ruling, the SPUR standard, California's lawyer AI statute, the CalPrivacy data broker enforcement pattern, and the tightening freight market — taken together, these are not isolated items. They are the same story: the legal and commercial infrastructure of AI-era media is being built in real time, in courts, in regulatory agencies, and in publisher coalitions, and the decisions made in the next ninety days will set terms for years. I will be back tomorrow morning. Have a productive commute.
+END OF EPISODE.
