@@ -1,0 +1,267 @@
+MORNING DOCKET — Tuesday, October 6, 2026
+A daily brief for the general counsel of a media company.
+
+Now I have all the research I need. Let me write the Morning Docket script.
+
+[COLD OPEN]
+
+A federal appeals court just handed down the first circuit-level ruling on whether training an artificial intelligence model on copyrighted material counts as fair use. The answer, at least in this case, was no. That ruling dropped last week in Philadelphia and it lands on a morning when Google is quietly paying publishers fractions of a cent for content that fuels its AI answers, the FTC is asking whether ad platforms should be responsible for the scam ads they optimize, and trucking capacity is tighter than it has been since 2022. There is a lot to unpack. Today is Tuesday, October 6, 2026. This is Morning Docket.
+
+[INTRO]
+
+Good morning, Darren. We have six headline items across privacy, ad tech, IP, publishing economics, and freight, followed by a ten-minute deep dive into the Third Circuit's ROSS Intelligence decision, which has real implications for how you think about the content your brands produce and how you license it to AI platforms. After that, the GC Bench on the legal tech products worth evaluating right now, then the industry angle on freight, then your watch list to close. Let's get into it.
+
+[HEADLINE ROUNDUP]
+
+Item one. The FTC moved on ad fraud last week in a way that matters directly to media publishers. On September 24th, the agency issued an Advance Notice of Proposed Rulemaking — technically an ANPRM — asking whether online platforms' ad-optimization tools should face new regulatory obligations when those tools are used by impersonators to defraud consumers. 
+
+The FTC took a first step toward crafting regulations that could require online platforms to take steps to combat fraudulent ads by scammers who impersonate businesses and government agencies.
+
+ 
+
+The agency said in the notice that these impersonation scams have been amplified by search engine, social media, and other digital marketplace platforms that profit from optimizing online ads for third parties, regardless of whether those third parties are legitimate.
+
+ 
+
+The agency noted that imposter scams consistently ranked among the top consumer fraud categories, with consumers reporting nearly three and a half billion dollars in losses in 2025 alone.
+
+ 
+
+Any resulting rulemaking would proceed under the more substantial Magnuson-Moss procedures and would invite feedback on the Section 230 liability shield. The ANPRM seeks comment on whether to amend the existing rule, propose a new rule, or pursue non-regulatory measures.
+
+ The comment window opens sixty days after Federal Register publication, which puts the deadline in late November. For Firecrown, this is material. If platforms face new verification or screening obligations, that changes how you buy audience-extension ad inventory and how your brands appear alongside platform-optimized content.
+
+Item two. Google's AI publisher payment program has numbers attached to it now, and those numbers are uncomfortable reading. 
+
+Google has been quietly scaling a pay-per-use AI licensing scheme for publishers — but critics say the program looks less like a meaningful payout and more like a legal fig leaf.
+
+ 
+
+The AI contribution pilot provides payments to approximately one hundred digital publishers whose content contributes to AI-generated responses in products like AI Overviews and Gemini, and for several small and mid-size publishers those payments amount to less than one-tenth of one percent of their total advertising revenue.
+
+ 
+
+One publisher that joined early has earned more than one million dollars annually, while another newer participant has received around fifty to sixty thousand dollars, and several smaller publishers have earned less than one thousand dollars over several months.
+
+ 
+
+Publishers in the pilot report opaque payout calculations, with payments fluctuating month to month without Google providing specific reasons for changes in earnings.
+
+ 
+
+Several larger publishers have reportedly declined to participate, hoping instead to negotiate more substantial licensing arrangements.
+
+ That is the strategy your content brands should be modeling. The pilot is a data-collection exercise disguised as compensation.
+
+Item three. California's privacy enforcement machine produced its largest penalty in state history back in May, and the enforcement trend line continues upward as we head into Q4. 
+
+California Attorney General Rob Bonta, together with several county district attorneys and the California Privacy Protection Agency, announced a twelve-point-seven-five-million-dollar settlement with General Motors to resolve allegations that the company sold driving data of hundreds of thousands of California motorists to data brokers without their consent. Regulators characterized it as the largest CCPA penalty in California history and the state's first data minimization enforcement action.
+
+ 
+
+The Los Angeles District Attorney signaled that companies should expect higher penalties in the future, and the enforcement environment is expected to intensify further as California rolls out the Delete Request and Opt-Out Platform, known as DROP, which requires more than five hundred registered data brokers to process centralized consumer deletion and opt-out requests.
+
+ For a multi-brand media company, the lessons from the Q1 actions against Disney, Ford, and PlayOn Sports are the same: your opt-out mechanisms must be technically sound, verifiable, and account-wide. Regulators are examining the implementation, not just the policy text.
+
+Item four. On the UK side. The Data Use and Access Act is fully in force as of June 19th, and the ICO is operating with a materially upgraded enforcement toolkit. 
+
+The UK Data Use and Access Act 2025 became law on June 19, 2025, with the majority of provisions in force from February 5, 2026, and the ICO confirmed on June 19, 2026, that all data protection provisions have now commenced.
+
+ 
+
+Previously, fines for breaches of PECR were limited to five hundred thousand pounds. The DUAA now brings maximum fines under PECR to UK GDPR levels — that is seventeen-point-five million pounds or four percent of global annual turnover. PECR is the instrument that regulates cookies and email marketing, among other things. These changes raise the stakes for non-compliance significantly.
+
+ 
+
+The ICO consulted in late 2025 on new enforcement procedural guidance introducing a structured settlement procedure. The settlement framework offers discounts of up to forty percent for early resolution before a notice of intent, thirty percent after notice of intent, and twenty percent after written representations — mirroring the approach used by the FCA and Ofcom.
+
+ If your brands, including Boating and Sailing or FLYING, have any UK audience and run behavioral advertising or email newsletters under cookie consent, that PECR exposure calculation has changed fundamentally this year.
+
+Item five. Publishers are being forced to reckon with AI as both a competitive threat and a potential licensing partner, but the economics of the latter remain unclear. 
+
+For commercial publishers, paid content — including subscription and membership — will be the most important business focus this year, though there is also renewed interest in native and brand advertising, perhaps because of increased advertising budgets linked to short-form video.
+
+ 
+
+The number of English-language publishers with at least one hundred thousand paying digital subscribers has grown from twenty-four titles in 2020 to sixty-two in 2026. The New York Times, with twelve-point-two-one million digital subscribers, accounts for twenty-three percent of subscriptions across the entire list.
+
+ The gap between the very large and everyone else is widening. Specialty publishers with deep vertical expertise — your aviation, marine, and freight readers — have a structural advantage in subscriber loyalty that broad news titles do not. The challenge is monetizing that loyalty in a world where AI answers are pulling search traffic away before readers reach your paywalls.
+
+Item six. The FTC finalized consent orders on August 27th involving a media company and two marketing firms over what regulators called deceptive AI advertising claims. 
+
+The FTC finalized consent orders totaling roughly nine hundred thirty thousand dollars with a media company and two marketing firms that had advertised an AI-powered "Active Listening" service, claiming it could target ads based on consumers' real-time conversations captured from smart devices.
+
+ This is the third such AI marketing enforcement action in the past two years under Operation AI Comply. The signal is consistent and worth repeating: if your brands publish or distribute advertising that makes capability claims about AI — audience targeting, predictive analytics, content personalization — those claims need substantiation. Marketing copy that was aspirational a year ago is now enforcement-eligible.
+
+[DEEP DIVE]
+
+Now to the ruling that came down just one week ago and that I want you to think about carefully, because it is the first federal appellate decision in the United States on whether training an AI model on copyrighted material can constitute fair use. The short answer from the Third Circuit is: not in this case, and the reasoning matters even where the holding technically does not apply.
+
+The case is Thomson Reuters versus ROSS Intelligence. 
+
+On September 29, 2026, a three-judge Third Circuit panel affirmed a 2025 lower court decision in the matter, a landmark copyright dispute concerning artificial intelligence, the fair use defense, and legal search tools.
+
+ 
+
+ROSS Intelligence used Westlaw headnotes to train an AI product that returned passages from existing judicial opinions and was designed to compete directly with Westlaw. The court concluded that the use was highly commercial and only minimally transformative. It also found harm to both Westlaw's existing legal-research market and a developing market for licensing headnotes as AI-training data.
+
+
+
+
+
+The Third Circuit affirmed that ROSS infringed more than two thousand copyrighted headnote summaries of U.S. case law from Westlaw, and also affirmed the district court's denial of ROSS's fair use defense, marking the first major ruling by a U.S. circuit court on the applicability of fair use defenses to training AI models on copyrighted content.
+
+
+
+That last sentence is the headline. The first circuit-level ruling in the country on AI training and fair use went against the AI developer.
+
+Now, before you call outside counsel to panic about every AI vendor contract in the Firecrown stack, the Third Circuit was careful to draw a box around its holding. 
+
+The Third Circuit's decision marks the first federal appellate ruling on fair use in AI training. But the reach of the opinion is limited because the AI technology at the heart of the case was itself relatively limited: ROSS Intelligence's AI product used training data to identify and return existing judicial passages rather than generate new expression.
+
+ 
+
+When judged against the fair use framework established by the Supreme Court in the 2023 Andy Warhol case, the non-generative legal research AI platform developed by ROSS made a product competing with Westlaw and not a transformative use.
+
+
+
+So the court explicitly distinguished ROSS's non-generative tool from a large language model that generates novel text. That is meaningful. But here is why the ruling still matters for you specifically.
+
+First, the market harm analysis. 
+
+The court found harm to both Westlaw's existing legal-research market and a developing market for licensing headnotes as AI-training data.
+
+ That second part — a developing market for licensing training data — is language that any plaintiff's counsel will now cite in cases involving publishers. If courts recognize that AI training data constitutes an emerging licensing market, then the argument that scraping your editorial content for AI training is not market-harmful becomes much harder to sustain.
+
+Second, the commercial nature of the use. The court placed significant weight on the fact that ROSS copied Westlaw's material not to comment on it, not to criticize it, not to teach about it, but to build a competing commercial product. 
+
+A judicial consensus is developing that training a general-purpose AI model is highly transformative, a factor favoring the finding of fair use
+
+ — that's the contrasting view from Morrison Foerster's analysis of the generative AI cases. But the key word there is general-purpose. The moment an AI vendor is using your specific journalistic content, your SONAR-derived freight data analysis, your FLYING editorial voice, to build a product that competes with your subscription offering, the commercial and competitive analysis tilts toward infringement, not toward fair use.
+
+Third, what is happening in parallel. 
+
+On July 14th, a coalition of publishers and authors — including Hachette, Cengage, Elsevier, and novelist Scott Turow — filed a class action lawsuit against Google, alleging that the company used their copyrighted works to train its Gemini models without permission, and that Google intentionally removed or altered copyright management information embedded in the works to obscure the fact that Gemini had been trained on the material.
+
+ That copyright management information angle — the stripping of metadata — is a separate DMCA theory that runs parallel to the fair use question, and it is gaining traction. 
+
+There is also a complaint in the Southern District of New York against Runway AI for alleged violations of the Digital Millennium Copyright Act, arising from allegations of unlawfully circumventing technological measures to access and scrape copyrighted videos from YouTube.
+
+
+
+So the landscape as of today, October 6th, looks like this. The Third Circuit has handed publishers a circuit-level precedent they can point to. Courts deciding generative AI cases are more likely to find fair use for transformative general-purpose models, but that protection has limits. And the Anthropic settlement — 
+
+Anthropic's practice of retaining pirated digital copies of books was not excused by the fair use finding. That distinction proved expensive.
+
+ How the training data was sourced and stored matters independently of whether the training itself qualifies as fair use.
+
+Three concrete actions for you as GC.
+
+Action one: conduct an audit of the AI tools your editorial teams are already using. Are any of those tools trained on your own archives or on third-party content scraped without license? The ROSS ruling makes clear that commercial purpose and competitive substitution are the key variables. If a vendor's model competes with your content offering, your indemnification clause needs to specifically address copyright infringement arising from training data provenance.
+
+Action two: review your own content's licensing posture. If any of your brands are in Google's AI Contribution Pilot, or if you are considering it, the opaque payment calculation reported this week should give you pause about waiving stronger licensing rights for sub-threshold revenue. The larger publishers declining to participate and seeking direct licensing deals have the right instinct. You are smaller than News Corp, but you have specialized vertical content that is disproportionately valuable to AI training in freight, aviation, and marine. That asymmetry should drive your negotiating strategy.
+
+Action three: update your terms of service and robots.txt governance across all Firecrown brands. In the Google Gemini case, the allegation involves removal of copyright management information. Make sure your content carries embedded metadata, bylines, publication dates, and rights statements that survive scraping. Courts are beginning to treat CMI stripping as an independent violation, and your evidentiary position improves considerably if your original content carried that information before it was removed.
+
+[GC BENCH]
+
+A few minutes on what is moving in legal technology. 
+
+The best legal AI tools for in-house counsel are not the ones with the biggest funding rounds. In April 2026, Legora raised a Series D to six hundred million dollars; the same year, Harvey was tagged at eleven billion dollars, and Robin AI cut about fifty roles.
+
+ Vendor stability matters as much as feature sets when you are selecting a tool your team will depend on daily.
+
+
+
+The in-house counsel AI software landscape in 2026 breaks into four category groups: purpose-built legal AI for in-house counsel, including GC AI, Ivo, and Legalfly; firm-side legal AI including Harvey and Spellbook; dedicated contract review tools like LegalOn, Luminance, and Kira; and general-purpose AI with legal use cases, including ChatGPT Business, Claude for Work, and Microsoft 365 Copilot.
+
+
+
+For a lean generalist GC function running a multi-brand media holding company — which is precisely your situation — the practical question is not which platform has the most impressive demo but which one covers the widest range of daily work: contract review, regulatory research, policy drafting, vendor due diligence. 
+
+GC AI is used by more than twenty-two hundred legal teams across fifty-three countries, including more than two hundred public companies and twenty-five unicorns.
+
+ It is also the only one with a published per-seat price and a self-serve trial, which makes it auditable for a CFO conversation.
+
+Separately, Connecticut's SB 5 has begun phasing in as of October 1st. 
+
+Connecticut SB 5, which covers AI-layoff notice, chatbot disclosures, and employment-AI disclosure requirements, began phasing in from October 1, 2026.
+
+ If any of your brands are making headcount decisions supported by AI-assisted analysis, or running AI-powered customer-facing chatbots accessible to Connecticut residents, check your compliance posture against that new requirement. It is narrower than California's AB 853 but it is in effect now.
+
+[INDUSTRY ANGLE]
+
+The freight market is signaling something your FreightWaves editorial team is covering in real time, but it is worth framing as a legal and commercial risk signal for the holding company.
+
+
+
+As of October 2nd, intermodal hit all-time highs while truckload rejection rates held near fourteen percent, and that matters for every carrier and broker watching Q4. The market update breaks down tender rejections, dry van, reefer, and flatbed spot rates, and the early-October volume drop.
+
+
+
+
+
+Q4 is here and the cost environment is accelerating. FedEx announced its 2027 general rate increase at five-point-nine percent, LTL carriers are moving their general rate increase timelines forward, and fuel costs have continued rising with no structural relief in sight. Smaller truckload carriers are exiting the market under the weight of operating costs that have outpaced revenue, and that capacity is not returning.
+
+
+
+
+
+Intermodal demand continued to strengthen through September, with domestic volumes remaining well above historical averages. While earlier growth this year was primarily driven by shippers pursuing cost savings as diesel prices jumped sharply and quickly, recent demand patterns increasingly reflect tightening trucking conditions and the need for dependable long-haul capacity.
+
+
+
+On the broker liability front, this is directly relevant to the legal risk framework of any company with freight-exposed operations or freight media coverage. 
+
+Just months after the U.S. Supreme Court's landmark decision allowing negligent hiring claims against freight brokers to move forward, the industry received its first major test case, and the result was a staggering six-hundred-and-four-million-dollar verdict. The decision, handed down by a Dallas County, Texas jury on July 23rd, is already being viewed as a watershed moment for freight broker liability and risk management.
+
+ 
+
+In May 2026, the U.S. Supreme Court ruled in Montgomery v. Caribe Transport that federal law doesn't automatically shield freight brokers from state law negligent hiring claims. That decision removed a legal defense many brokers had relied upon for years and opened the door for courts to evaluate whether brokers exercised reasonable care when selecting motor carriers.
+
+
+
+
+
+FreightWaves reporting noted that more than six thousand trucking lawsuits are currently working through the court system, and that at least a third of those statistically would have a broker of record — meaning plaintiffs' attorneys are already amending existing complaints to add broker liability claims.
+
+
+
+That is an industry seismic event. For your FreightWaves and freight editorial coverage, it is a major ongoing story. For any commercial relationships Firecrown has with freight intermediaries — advertisers, event sponsors, data partners — it is a vendor risk signal worth flagging to the CFO.
+
+On air cargo, IATA's picture heading into the peak season is one of demand outpacing capacity. 
+
+The latest IATA air cargo monthly analysis theme is demand outpacing capacity as fuel costs surge.
+
+ 
+
+In 2026, industry cargo volumes are expected to reach seventy-one-point-six million tonnes and revenue is forecast to be one hundred and fifty-eight billion dollars. Cargo yields should remain stable, but are still approximately thirty percent above pre-pandemic levels, despite a broader slowdown in global trade.
+
+ For FLYING's editorial and commercial positioning in aviation business, that demand-capacity gap is a newsworthy signal: more cargo flying, tighter freighter availability, and fuel cost pressure compressing operator margins.
+
+[CLOSING BRIEF]
+
+Three things on your watch list heading into the rest of the week.
+
+First: the FTC ad platform ANPRM comment period. 
+
+Comments are due sixty days after Federal Register publication.
+
+ The notice appeared in the Federal Register on October 1st, which puts the comment deadline in late November. Publishers have standing to comment on this. The Section 230 interaction is unresolved, and the ANPRM explicitly acknowledges that. Your ad tech vendors and revenue partners will be watching this closely. You should be coordinating your position now, not in week eight.
+
+Second: the Third Circuit ROSS opinion in full. 
+
+The opinion itself, written by Judge Tamika Montgomery-Reeves, will not be released in full until the parties propose redactions and the panel decides what to black out.
+
+ The full unsealed text will contain the court's specific reasoning on market harm for training data licensing — that is the passage that will be cited in every publisher-versus-AI-developer negotiation for the next several years. Read it the day it is published.
+
+Third: the ICO's TikTok appeal. 
+
+TikTok's appeal of the ICO's twelve-point-seven-million-pound penalty for processing children's data is listed for hearing in May 2026. Both TikTok and the Clearview AI case will test the boundaries of UK data protection jurisdiction over international technology companies.
+
+ If you are running any audience data practices that touch users under thirteen in the UK — even incidentally, through Boating and Sailing or FLYING's digital properties — the TikTok appeal outcome will sharpen what the ICO is willing to do at scale. The PECR fine ceiling is now seventeen-point-five million pounds. That number changes how you price UK regulatory risk.
+
+[SIGNOFF]
+
+That is Morning Docket for Tuesday, October 6, 2026. The ROSS ruling is the one to print and read this week. The Third Circuit handed publishers a piece of doctrine they can use, but the generative AI cases ahead of us at the district court level will determine whether that doctrine scales. Stay ahead of it. We will be back tomorrow.
+END OF EPISODE.
