@@ -1,0 +1,327 @@
+MORNING DOCKET — Wednesday, October 7, 2026
+A daily brief for the general counsel of a media company.
+
+Now I have enough research to write a comprehensive and accurate Morning Docket script. Let me compile and write it.
+
+[COLD OPEN]
+
+In California, a state regulator is now running what amounts to continuous surveillance of your website's tracking stack. Across the Atlantic, TikTok just dropped its appeal and accepted a twelve-point-seven million pound fine from the UK's data authority over children's privacy failures. And in a federal courthouse in Seattle, Amazon is fighting a lawsuit that describes its own ad executives internally calling their pricing scheme a, quote, clever non-transparent way to charge first price. The common thread this Wednesday morning: platforms, publishers, and media companies are all being told by regulators that the fine print they wrote does not match the technical reality they deployed.
+
+[INTRO]
+
+Good morning. It is Wednesday, October seventh, two thousand twenty-six. This is Morning Docket for Darren Caputo, General Counsel at Firecrown. I'm your host.
+
+Today's program runs across five areas. We'll cover the FTC's metastasizing Amazon ad lawsuit and what it means for any media company buying programmatic inventory. We'll get into the Hachette-Google-Gemini class action and where the courts now stand on AI training and copyright, which matters directly to every publishing brand in the portfolio. We'll look at Meta's decision to put outbound links on Facebook and Instagram behind a subscription paywall — a move announced just three weeks ago that is reshaping publisher distribution economics. The UK's Data Use and Access Act is now fully live, and TikTok's acceptance of its children's data fine this past week sends a message about where the ICO is pointing next. And SONAR's freight data is showing a market that is tightening faster than demand, heading into Q4 with tender rejections holding above fourteen percent.
+
+The deep dive today is on the FTC-Amazon ad surcharge case. And on the GC bench, we'll look at where in-house AI adoption now stands — the headline number may surprise you.
+
+[HEADLINE ROUNDUP]
+
+Item one. The FTC's Amazon advertising lawsuit. Filed August thirty-first, with twenty-two state attorneys general aboard. This one matters to every publisher that spends money on Amazon's Sponsored Products and Sponsored Brands placements.
+
+
+
+The Federal Trade Commission, joined by twenty-two states, sued Amazon, alleging the company spent more than seven years quietly increasing the prices advertisers paid through its online ad auctions.
+
+ The core allegation is structural deception about how the auction itself worked. 
+
+Amazon told more than five hundred thousand small and medium-sized businesses that it ran a second-price auction where the winning advertiser would pay just one cent more than the next-highest bid. But the FTC alleges that starting in twenty-nineteen, Amazon made a surreptitious change without telling advertisers — adding a hidden surcharge that Amazon internally called a soft reserve price, and using what one internal document called an invented auction participant, effectively a fake bidder, to push prices higher than true competition would have produced.
+
+
+
+
+
+The complaint alleges the scheme generated tens of billions of dollars by raising prices on regular shopping days and imposing larger increases during high-traffic events like Prime Day and Black Friday. Notes from a twenty-twenty-four internal meeting, including the head of Amazon Ads and the chief digital economist, reportedly described the strategy as, quote, a clever non-transparent way to charge first price, and an incredibly effective way to drive revenue.
+
+
+
+
+
+FTC Chairman Andrew Ferguson said Amazon's millions of advertising customers were misled into paying significantly higher prices, and that those higher costs were largely passed on to American consumers.
+
+ Amazon called the lawsuit misguided.
+
+For any media company buying Amazon inventory as part of a cross-channel advertising strategy, this case is a reason to audit what you actually paid versus what the second-price promise implied.
+
+Item two. The Hachette-Google-Gemini publisher lawsuit is now in the discovery phase, and it carries a new legal theory that separates it from earlier AI copyright cases.
+
+
+
+On July fourteenth, a coalition including Hachette, Cengage, Elsevier, and novelist Scott Turow filed a class action against Google, alleging the company used their copyrighted works to train its Gemini models without permission. The complaint goes further: it alleges Google intentionally removed or altered copyright management information embedded in the works to obscure the fact that Gemini had been trained on the material.
+
+
+
+
+
+The suit centers on works Google obtained for limited services such as Google Books, Google Play Books, and Google Scholar — services that let Google show searchable snippets or sell e-books. They did not, the plaintiffs argue, allow Google to copy the works to train commercial AI.
+
+
+
+The copyright management information angle is significant. That is a DMCA claim layered on top of the infringement claim, and it carries its own damages exposure. 
+
+While early court decisions in California favored AI companies, ruling that use of copyrighted works for AI training is fair use, the conflict is considered too nuanced for those rulings to establish an inarguable precedent.
+
+ The Google case was filed in the Southern District of New York — a different judicial circuit — which gives the publishers a second bite at a different bench.
+
+For publishers across the Firecrown portfolio, this case is the one to watch most closely in the next eighteen months.
+
+Item three. Meta One — and the effective end of free outbound linking on Facebook and Instagram.
+
+
+
+Meta is tightening the way businesses and publishers can use Facebook to send users to external websites, as the company rolls out new paid professional packages that include higher-volume outbound linking.
+
+ 
+
+Meta is currently in the process of testing a new restriction that limits the number of links a non-paying Facebook Page can post per month to just two. Links in comments contribute to that two-link limit as well.
+
+
+
+The paid tiers step up from there. 
+
+The Advanced tier, at forty-nine ninety-nine per month, allows eight links per month on Facebook and four on Instagram. The Expert tier, at one-forty-nine per month, allows twenty on Facebook and eight on Instagram. The Max tier, at four-ninety-nine per month, offers unlimited links on Facebook and twelve on Instagram.
+
+
+
+
+
+This is not a cosmetic subscription tweak. It is a change to the rules of distribution. Where the limit has been applied, a link on Facebook has stopped being free — for the first time in the platform's history.
+
+
+
+For a portfolio like Firecrown, which publishes across FreightWaves, FLYING, Boating, and Trains.com, and relies on social platforms as a traffic acquisition channel, the incremental cost per page view from Facebook is now a real line item to model.
+
+Item four. TikTok drops its appeal. The UK ICO wins by forfeit.
+
+
+
+On September twenty-fourth, TikTok withdrew its appeals against the Information Commissioner's Office's twelve-point-seven million pound penalty concerning children's personal data. The underlying breaches included inadequate measures to prevent under-thirteens using the platform and failures around transparency and lawful processing of children's data. TikTok also withdrew an appeal concerning an ICO information notice relating to its use of thirteen-to-seventeen-year-olds' data in recommender systems, allowing the ICO's investigation to continue.
+
+
+
+This matters beyond TikTok. 
+
+The Data Use and Access Act granted the ICO new powers including the authority to compel witnesses to attend interviews, require technical reports, and issue substantial fines of up to seventeen-point-five million pounds or four percent of global turnover under PECR.
+
+ The combination of those new compulsion powers and a now-completed twelve-point-seven million pound win against a major platform signals that the ICO is prepared to use its upgraded toolkit against platforms processing children's data at scale. Any Firecrown brand with UK digital readers under sixteen is directly in scope.
+
+Item five. California privacy enforcement is no longer theoretical, and the targets are no longer limited to big tech.
+
+
+
+In California alone, CCPA-related fines in the first half of twenty-twenty-six total over sixteen million dollars. And the targets are not just big tech anymore.
+
+ 
+
+In the first quarter alone, California regulators issued over four million dollars in fines across three enforcement actions — Disney at two-point-seven-five million, PlayOn Sports at one-point-one million, and Ford at three-hundred-seventy-five thousand.
+
+
+
+
+
+Regulators are requiring companies to maintain comprehensive inventories of tracking tools used on their websites and to conduct internal audits and monitoring to ensure that opt-out choices are fully applied across those technologies.
+
+ That last word — across — is where companies keep failing. Honoring an opt-out on one device but not another, honoring it in one ad stack but not a third-party pixel embedded in the footer: those are the gaps that generated the Disney settlement.
+
+
+
+Since January first of twenty-twenty-six, businesses subject to California law must also display whether they honored a Global Privacy Control signal.
+
+ If that display is missing from any Firecrown property, that is a compliance gap today.
+
+Item six. Sinclair and New Media launch The National Press on Substack. Launched literally yesterday, October sixth.
+
+
+
+Sinclair and New Media will launch The National Press, a new subscription digital news brand delivering reports from twelve hundred Sinclair local journalists in over sixty content centers across the country to a national audience. The National Press will launch on Substack with free and paid subscription tiers, and will also distribute programming via YouTube, podcast networks, and social platforms.
+
+
+
+The signal here for a holding company with multiple publishing brands is structural. 
+
+Upmarket subscription-based publishers with strong direct traffic can see a path to long-term profitability, even as those that remain dependent on advertising and print worry about sharp declines in revenue. Subscription and membership remain the biggest revenue focus, at seventy-six percent of publishers surveyed, ahead of both display and native advertising.
+
+ The Sinclair-Substack play is one of the most public endorsements yet of that model from a broadcast television company.
+
+[DEEP DIVE]
+
+The FTC and Amazon. What the ad surcharge case actually means for the industry.
+
+Let me be precise about what this case is and is not. It is not an antitrust case. It is not the existing FTC antitrust monopoly lawsuit against Amazon from twenty-twenty-three, which is still in litigation. This is a consumer protection action under Section Five of the FTC Act, joined by twenty-two state attorneys general — including California, New York, Illinois, and Florida — which gives it both federal and state enforcement teeth simultaneously.
+
+The complaint is filed in the Western District of Washington in Seattle, case number two-twenty-six-cv-zero-three-zero-nine-seven.
+
+The conduct at the center of the case is the claim that Amazon's sponsored advertising auctions — covering Sponsored Products, Sponsored Brands, and Display ads — were represented to buyers as second-price auctions, where the winner pays one cent above the second-highest bid. 
+
+Amazon allegedly used a hidden surcharge that it internally called a soft reserve price, and used what one internal document called an invented auction participant — effectively a fake bidder — to push prices higher. The complaint calls this a shill bid: rather than the price coming from a real competing advertiser, Amazon was manufacturing a higher number for advertisers to beat.
+
+
+
+
+
+The proportion of auctions in which advertisers paid their own full winning bid, rather than a lower competition-set price, increased over time. For Sponsored Products, this figure rose from thirty-to-forty percent in twenty-twenty-one, to about seventy percent in twenty-twenty-two, and approximately eighty percent by twenty-twenty-four.
+
+
+
+
+
+The complaint estimates the scheme likely extracted over twenty billion dollars from roughly one-point-two million U.S. advertisers, including more than five hundred thousand small and medium-sized businesses.
+
+
+
+Now, why does this matter specifically to a media company like Firecrown?
+
+Three reasons.
+
+First, direct exposure. If any Firecrown brand or its Spacestore e-commerce arm has purchased Amazon Sponsored Products or Sponsored Brands inventory in the last seven years, you were among the class of advertisers described in this complaint. You potentially overpaid. Keep records. If a class action civil follow-on develops — and follow-on civil litigation after FTC cases of this scale is not uncommon — documented spend data will be material to any recovery or claim.
+
+Second, industry-wide transparency pressure. 
+
+The FTC and twenty-two states allege Amazon engaged in deceptive and unfair practices that secretly inflated prices in its online search advertising auctions.
+
+ Whatever the outcome of this specific case, the theory of liability — that materially misrepresenting how an auction mechanism works is actionable deception — will now be examined against every major programmatic ad platform. Google, The Trade Desk, and others can expect follow-on scrutiny. Firecrown, as a publisher running ad inventory across its brands, should be thinking about whether its own representations to advertisers about auction mechanics and fill rates are accurate and defensible.
+
+Third, contractual language. If Firecrown enters into any media buying agreements or platform partnerships that include representations about auction pricing or programmatic mechanics, this case is a reason to add representations and warranties around pricing transparency, and to include audit rights. 
+
+The complaint alleges an injunction is needed because the conduct was willful, lasted over seven years, and Amazon still has the means, ability, and incentive to continue.
+
+ That language — willful, sustained, and ongoing — is the FTC signaling it wants structural relief, not just a settlement check.
+
+Three concrete actions for an in-house GC this week.
+
+First: pull your Amazon advertising spend records for the last three years. Identify the total Sponsored Products and Sponsored Brands spend, document it with invoice-level detail, and hold it. If a class action follow-on develops, you will want this immediately available, not reconstructed.
+
+Second: conduct a brief audit of your own advertising platform representations. If any Firecrown brand operates an advertising network, a marketplace, or a publisher-direct buying platform that makes representations to buyers about how pricing or auctions work, task the compliance team to verify those representations against the actual technical implementation. The FTC's core theory here is that the public promise didn't match the technical reality — a formulation that California's CPPA has also deployed in CCPA enforcement this year.
+
+Third: review any programmatic advertising contracts for audit rights. If you are spending material sums on any platform without contractual rights to audit pricing and delivery methodology, that is a gap. At minimum, insert a right-to-audit clause at the next renewal, specifically covering auction mechanics and any reserve pricing applied to your bids.
+
+[GC BENCH]
+
+Legal technology and AI for the in-house function.
+
+The headline number that came out of an FTI Consulting and Relativity survey earlier this year is worth noting. 
+
+In-house generative AI usage is now at eighty-seven percent, nearly double the forty-four percent recorded a year prior.
+
+ That is not a gradual adoption curve. That is a step-change, and it means the conversation has shifted from whether to adopt AI tools to which ones and with what governance.
+
+For a small-to-medium in-house legal function like Firecrown's — broad jurisdiction, multiple brands, e-commerce, IP, employment, privacy — the category that matters most is what the market is calling purpose-built in-house platforms, as distinct from law firm platforms. 
+
+Harvey AI and CoCounsel are primarily designed for law firm attorneys. The in-house-first platforms are built for corporate legal department needs rather than law firm billing and client matter structures.
+
+
+
+
+
+Thomson Reuters has updated its product lineup, with Westlaw Advantage now succeeding Westlaw Precision. CoCounsel plans now include CoCounsel Legal, which comes bundled with Westlaw Advantage, Practical Law, and CoCounsel Essentials.
+
+ That bundling matters for any in-house team that already holds Westlaw seats — the upgrade path to agentic legal research is now a single contract conversation rather than a separate procurement.
+
+On the contract side: 
+
+for most corporate legal teams in twenty-twenty-six, Ironclad is the strongest full contract lifecycle management option, with purpose-built in-house AI generalists filling the research-and-drafting layer.
+
+
+
+One practical filter for a GC evaluating any of these tools: the question is not what the platform can do on a benchmark test. The question is what it does to your review cycle time on the specific contract types that create the most friction — media licensing agreements, data processing addenda, e-commerce platform terms, and advertising insertion orders. Those are the four categories where Firecrown's legal function likely spends disproportionate time, and a pilot should be scoped around those four document types specifically.
+
+One governance note. The ICO's guidance on what counts as automated decision-making under the newly-in-force UK Data Use and Access Act has been updated, 
+
+with Article Twenty-Two of UK GDPR on solely automated decision-making replaced with new Articles Twenty-Two-A through Twenty-Two-D, moving from a prohibition model to a safeguards model.
+
+ That means AI-assisted contract analysis tools that produce recommendations a human then ratifies are now in a different regulatory category under UK law than they were six months ago — potentially more permissible. Worth confirming with UK counsel before expanding any agentic workflow across Firecrown's UK-facing operations.
+
+[INDUSTRY ANGLE]
+
+Freight, aviation, and marine markets heading into Q4.
+
+Let's run the SONAR signals.
+
+
+
+The truckload market is giving mixed signals. Spot rates are rising quickly, but the volume of freight that carriers are actually moving is not.
+
+ 
+
+The Accepted SONAR Truckload Volume Index — the ASTVI — measures the volume of contracted loads that carriers accept. It has fallen nearly three percent over the past week to nine thousand five hundred seventy-four, below its twelve-month average of nine thousand eight hundred seventy-two.
+
+
+
+
+
+Tender rejection rates have surged to roughly fourteen percent — about three times their twenty-twenty-three levels — while truckload volumes over the past three years are up only nine percent. The divergence means carriers are rejecting nearly four times as many loads on roughly the same amount of freight, a dynamic that signals a structural supply problem rather than a demand-driven cycle.
+
+
+
+
+
+Entering Q4, tender rejections are holding above fourteen percent, signaling structural tightening that is not softening before peak demand arrives. Shippers with unprotected spot market exposure should be acting on contract placement now rather than waiting for a Q4 opening that is not materializing.
+
+
+
+For FreightWaves editorial, the story is not just that the freight market is recovering — it is that it is recovering asymmetrically, with carriers holding pricing power while demand hasn't yet fully caught up. 
+
+Spot rates recovered across dry van, reefer, and flatbed in September, contract rates continued climbing, and capacity remained tight. At the same time, freight demand finally produced its first meaningful positive signal in more than three years.
+
+
+
+
+
+Freight demand remains steady but the market is still fragile, with post-Labor Day volatility highlighting how quickly capacity and pricing conditions can shift. Import volumes remain strong, with major U.S. ports reporting near-record container activity as shippers continue carefully managing inventory levels.
+
+
+
+On the ocean side: 
+
+transpacific rates to the U.S. West Coast dipped one-point-three percent to seven thousand four hundred sixty-three dollars per FEU, while East Coast rates edged down eight-tenths of a percent to ten thousand four hundred ninety-seven dollars per FEU.
+
+ 
+
+The Persian Gulf remains the primary exception to the global downward trend, with ongoing regional tensions and Red Sea disruptions continuing to impact vessel availability.
+
+
+
+In air cargo: 
+
+the air cargo industry is preparing for the post-Golden Week peak season, but demand is expected to develop unevenly depending on origin and cargo type.
+
+ 
+
+There are also reports that ocean congestion and tariffs could redirect more Q4 air cargo volume to that mode.
+
+ Airfreight rates edged up in September as the market heads toward its fourth-quarter peak.
+
+For the FLYING and Boating audiences at Firecrown, the macro signal is consistent with what those readers care about: fuel costs are elevated, operating costs across all transport modes are at multi-year highs, and the consumer who owns a general aviation aircraft or a recreational vessel is navigating the same cost pressures as the trucking fleet operator. 
+
+Diesel prices are hitting record highs, driver pay is increasing, and operating costs are up forty to fifty percent since twenty-nineteen.
+
+ That context belongs in the audience intelligence that informs FLYING and Boating's editorial and e-commerce strategies.
+
+[CLOSING BRIEF]
+
+Three items on the watch list for the coming weeks.
+
+First: the FTC's October fourteenth closed commission meeting. 
+
+The FTC has a commission meeting closed to the public on October fourteenth, called for consideration of a nonpublic law enforcement matter. The vote to close the meeting was two-to-zero.
+
+ A closed commission meeting convened by a two-to-zero vote typically means an enforcement action is imminent — not a rulemaking. Given the FTC's current posture on advertising and surveillance marketing, anything touching digital advertising pricing or consumer data would fit the pattern. Watch October fourteenth.
+
+Second: ICO guidance on controllers and processors. 
+
+A public consultation on updated controller and processor detailed guidance is due to launch in October twenty-twenty-six, with the final version expected in spring twenty-twenty-seven.
+
+ For any Firecrown brand with a data processing agreement that currently describes the relationship between the brand and its technology vendors — ad servers, email platforms, analytics tools — that guidance may require a review of how those contracts characterize the data relationship. Start the mapping now so you are not rewriting agreements under a deadline next spring.
+
+Third: the Hachette-Google-Gemini case heading into discovery. 
+
+The plaintiffs, which include Hachette, Cengage, Elsevier, and author Scott Turow, also allege that Google intentionally removed or changed copyright information on the works to conceal that its Gemini models were trained on those materials.
+
+ That DMCA copyright management information claim is the one that could set case law applicable to media publishers far beyond the book industry. The moment a court rules on whether removing or obscuring CMI during AI training is independently actionable, that ruling will apply to every digital publisher whose content gets scraped without permission. Watch the motions practice in the Southern District of New York.
+
+[SIGNOFF]
+
+That is Morning Docket for Wednesday, October seventh, twenty-twenty-six. Today's program was anchored by the FTC's Amazon ad surcharge lawsuit, the Hachette-Google copyright action in New York, Meta's restructuring of publisher access on its platforms, the ICO's expanding enforcement posture under the Data Use and Access Act, and SONAR's signal of a freight market tightening into Q4 ahead of demand.
+
+For Darren Caputo at Firecrown — travel safe, and have a productive Wednesday.
+END OF EPISODE.
