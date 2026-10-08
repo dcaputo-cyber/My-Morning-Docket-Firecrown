@@ -1,0 +1,269 @@
+MORNING DOCKET — Thursday, October 8, 2026
+A daily brief for the general counsel of a media company.
+
+Now I have sufficient research to write a comprehensive Morning Docket script. Let me compile it.
+
+[COLD OPEN]
+
+Two pieces of California law landed on Governor Newsom's desk days apart and point in opposite directions. One narrows the litigation exposure that has plagued every media company operating a website. The other expands the deletion rights consumers hold over data you may never have collected directly. Together, they frame the core tension every general counsel at a digital publisher faces right now: a regulatory environment that gives with one hand and takes with the other, while federal courts are simultaneously rewriting the rules of engagement for artificial intelligence and copyright.
+
+That is where we begin.
+
+[INTRO]
+
+Good morning. It is Thursday, October eighth, twenty twenty-six. I am Morning Docket. Today's briefing covers six areas: California's paired privacy bills and what they actually mean for a media company running ad tech; the Third Circuit's landmark AI training decision and its implications for any publisher licensing content; Apple's Safari blocklist and the urgent problem it is creating for programmatic revenue; the UK Information Commission's newly completed governance overhaul; what the SEC's Regulation S-K review means heading into proxy season; and the freight market signal from SONAR that matters most this week. We also have a full deep dive on the Apple ad tech disruption, a GC Bench segment on the legal AI ROI conversation happening at the board level, and a marine and aviation read for the Firecrown industry verticals. Let us get into it.
+
+[HEADLINE ROUNDUP]
+
+First item. California's privacy session ended September thirtieth with Governor Newsom signing a package of bills. Two are directly relevant to Firecrown and every digital publisher in its orbit.
+
+
+
+Senate Bill 690 amends the California Invasion of Privacy Act to remove the private right of action for violations of Section 638.51, the statute's pen register and trap-and-trace provision.
+
+ That is the provision plaintiffs' lawyers have weaponized against websites that use analytics and advertising pixels, arguing that data collected about a user's browsing session constitutes illegal tracking under a law written in the nineteen sixties. 
+
+While the law takes effect January first, twenty twenty-seven, and applies retroactively for two years, its narrow scope is not expected to significantly reduce abusive CIPA litigation.
+
+ The reason: 
+
+SB 690 does not eliminate website-based wiretapping litigation completely, as plaintiffs may continue pursuing claims under CIPA Sections 631 and 632 and other statutory or common-law theories.
+
+ Governor Newsom acknowledged the gap in his signing message, calling for further reform in the next legislative session. The practical read for in-house counsel: you get partial relief on one claim type, but the litigation machine is not off. Retool cookie consent practices now, because the next plaintiff theory is already being drafted.
+
+The companion bill, Senate Bill 923, moves the other way. 
+
+SB 923 expands deletion rights under the California Consumer Privacy Act to cover third-party-sourced data. Under the CCPA, consumers could previously request deletion of information collected directly from them.
+
+ That distinction is gone. Data you acquired from a data broker, a list provider, or an advertising partner is now within scope of a valid deletion request. For publishers running audience extension programs or supplementing first-party data with purchased segments, this is a compliance obligation that requires immediate inventory.
+
+Second item. The Third Circuit issued the first federal appellate ruling directly addressing copyright and artificial intelligence training, and it landed squarely against the AI side.
+
+
+
+The U.S. Court of Appeals for the Third Circuit issued the first federal appellate decision directly addressing copyright fair use in the AI-training context. On September twenty-ninth, twenty twenty-six, in the long-running battle between Thomson Reuters and the now-defunct startup ROSS Intelligence, the Third Circuit affirmed a district court's decision that ROSS infringed the copyrights in Thomson Reuters's Westlaw headnotes by using them to train an AI-driven legal research tool.
+
+
+
+
+
+The court ruled that the AI developer's utilization of the material was at best minimally transformative, and the judges determined that ROSS's actions could inflict financial harm on both the core Westlaw business and the prospective licensing market for training data.
+
+ That second finding matters enormously for publishers. The existence of a licensing market for training data is now a factor that weighs against fair use, which means every publisher that has been operating or building a content licensing program for AI is in a stronger legal position today than they were a week ago. 
+
+ROSS's counsel indicated the startup will request further judicial review.
+
+ This case is not fully resolved, but the appellate signal is the clearest yet that courts are skeptical of the fair use defense in the AI training context.
+
+Third item. The UK's data protection regulator formally changed its legal structure on September thirtieth, and if you have contracts, policies, or board materials that reference the Information Commissioner's Office, you have a housekeeping task.
+
+
+
+On September thirtieth, the Information Commissioner's Office changed its legal structure and became the Information Commission. The organisation will still be known as the ICO, which now stands for the Information Commission's Office.
+
+ The rebrand is structural, not functional. 
+
+Under new governance arrangements introduced by the Data Use and Access Act 2025, the work of the ICO is now overseen by a new Information Commission Board that brings together a range of skills, expertise and perspectives, with non-executive members formally assuming their roles on September thirtieth.
+
+ 
+
+There is no permanent chair yet. One of the board's first decisions was to appoint Maggie Carver, a former deputy chair of Ofcom, as Deputy Chair. She will carry out the chair's responsibilities until the Department for Digital, Culture, Media and Sport completes its recruitment, which the ICO expects to finish in spring twenty twenty-seven.
+
+ For any Firecrown entity operating in the UK, the ICO's expanded enforcement toolkit, including the power to compel witnesses and issue fines of up to seventeen and a half million pounds under PECR, is fully live.
+
+Fourth item. The SEC's staff issued updated guidance on Schedule 13G shareholder engagement, and the timing matters as the proxy season builds.
+
+
+
+On September second, the Staff of the Division of Corporation Finance published three new Corporation Finance Interpretations updating its guidance on shareholders' eligibility to report beneficial ownership on Schedule 13G. The new interpretations address whether certain forms of shareholder engagement are consistent with the requirement that a Schedule 13G filer certify that the securities were not acquired and are not held for the purpose of changing or influencing the control of the issuer.
+
+
+
+
+
+The updated guidance identifies three categories of engagement that will not, by themselves, cause a shareholder to lose its Schedule 13G eligibility: certain issuer-initiated discussions; certain discussions with persons engaged in a proxy solicitation; and discussions with an issuer to clarify its disclosures or public communications.
+
+ The practical effect for governance teams: companies can now reengage passive institutional shareholders during the offseason without those shareholders fearing they will be forced to refile on the more burdensome Schedule 13D. That creates a window to surface proxy concerns before they become proxy problems. Separately, the SEC this month is moving toward action on its proposed Item 402 executive compensation disclosure reform under Regulation S-K, 
+
+with rulemaking action targeted for October 2026 following a September submission to OIRA.
+
+
+
+Fifth item. SONAR's latest freight data is generating an unusual read. Rates are rising, but not because freight demand is recovering.
+
+
+
+As of October 2026, new trucking capacity is not entering the freight market, even after a full year of elevated tender rejections. SONAR data shows tractors in new for-hire fleets fell to nineteen thousand five hundred and twenty in August, while the SONAR Truckload Rejection Index held near fourteen percent, about three times its twenty twenty-three through twenty twenty-five range.
+
+
+
+
+
+SONAR data shows twenty twenty-six truckload tightness is still being driven by capacity leaving the market, not by more freight.
+
+ 
+
+SONAR is flagging a tight market through early twenty twenty-seven, with rising insurance costs and a narrowing pool of compliant drivers keeping new capacity out.
+
+ For FreightWaves readers, the story here is disciplined capacity, not a demand surge, and that distinction shapes how shippers should negotiate contracts heading into the fourth quarter.
+
+Sixth item. On the ocean side, the shipping market is producing a split signal this week. 
+
+Clarksons Research reported an all-time high for the ClarkSea Index, which averaged forty-six thousand three hundred and eighty-four dollars per day over the third quarter, driven by exceptional disruption-driven rate environments in crude tankers and LPG.
+
+ However, container rates tell a softer story. 
+
+The increase in effective capacity from more vessels taking shorter routes through the Red Sea is contributing to container rates sliding since mid-July on Asia-Europe lanes, with prices dipping two to three percent last week.
+
+ For Firecrown brands covering boating, marine, and global supply chains, the divergence between tanker euphoria and container softness is a storyline worth tracking through the end of the year.
+
+[DEEP DIVE]
+
+Today's deep dive is Apple's Safari ad tech blocklist. This is the story that broke fully into view this week, and it has immediate implications for Firecrown's digital advertising operations across every property.
+
+Here is the sequence of events. 
+
+On September twenty-ninth, it was reported that The Trade Desk can no longer serve ads in Safari on devices running iOS 27, which began rolling out on September fourteenth. In February, Apple added code to WebKit, the open-source engine behind Safari, that lets it block requests to a specific list of domains in normal browsing.
+
+
+
+
+
+Apple added The Trade Desk's adsrvr.org, plus Unified ID 2.0, ID5, LiveRamp, Audigent, and Permutive, to Safari's unconditional block list in iOS 27.
+
+ That list touches the identity spine of the open-web programmatic ecosystem. 
+
+For the first time, Safari is blocking the infrastructure that delivers ads by default, not just the data used to target them. For most publishers, that means the largest independent DSP can no longer serve ads in Safari on iOS 27 and macOS 27.
+
+
+
+The scope concern is significant. 
+
+According to a follow-up report from AdExchanger, Apple has expanded its blocklist to include hundreds of ad tech and data companies, and Apple can now block companies remotely, without an iOS update, potentially without vendors even knowing.
+
+ That remote blocking capability is the part that should concern every legal and commercial team. There is no notice requirement. There is no appeal process Apple has publicized. A vendor can be cut off from the Safari ecosystem silently, and you learn about it when your bid density drops.
+
+
+
+That leaves publishers looking again at a fix they had long put off: running their own ad infrastructure through IAB Tech Lab's Trusted Server. Right now, when someone opens a news site in the Safari browser, the device contacts dozens of ad tech companies directly, sharing data about the reader and asking advertisers to bid on the ad space. Safari can see those contacts and it blocks any company on Apple's list.
+
+
+
+
+
+Trusted Server takes the device out of that loop by moving the ad process off the reader's phone or tablet and onto servers the publisher controls. Apple cannot stop what it cannot see. Its only option would be to block the news site itself, which would break the site for every Safari user.
+
+
+
+
+
+IAB Tech Lab's senior director for privacy and data said there has been a significant influx of publishers reaching out to get a better understanding of Trusted Server, with interest rising sharply in the week after the blocks appeared.
+
+
+
+There is a legal dimension here that sits squarely in the general counsel's lane. The Safari blocklist may face regulatory scrutiny. 
+
+Apple is also an ad seller. When open-web ads lose value, advertiser budgets shift toward walled gardens, including Apple's own ad inventory in the App Store, Maps, and News.
+
+ The competitive dynamic between Apple's own ad business and the independent ad tech ecosystem is exactly the kind of structural concern that has attracted attention from competition authorities in both the US and the EU. The CEO of ID5, whose domain is on the blocklist, has already said publicly that regulators should look at this. Whether they act quickly enough to provide meaningful relief in the near term is a different question.
+
+For a media holding company like Firecrown, the action items break into three tiers. First, this week: pull your traffic split by browser and quantify what percentage of your audience is on Safari across iOS and macOS. That number tells you your revenue exposure. For properties with younger, mobile-first audiences, the percentage could be uncomfortably high. Second, in the next thirty days: have your ad tech team or your programmatic partner walk you through exactly which vendors in your stack appear on the known blocklist. Understand which ones handle identity resolution versus which ones handle actual bid delivery. Third, within ninety days: evaluate whether Trusted Server implementation is appropriate for any of your higher-traffic properties. This is not a simple integration and it has cost, but the alternative is ceding a meaningful portion of your addressable audience to Apple's walled garden with no recourse. The legal team's role is to surface these structural dependencies to the board as a business risk, not just a technology problem.
+
+One additional note. For any Firecrown property serving UK audiences, PECR rules on cookies and tracking are now enforceable under a higher fine ceiling following the DUA Act. Apple's blocklist creates a technical workaround for some of those tracking relationships, but it does not create a legal one. Trusted Server routes ad calls through publisher-controlled infrastructure, but the data governance obligations travel with the data regardless of the technical architecture. UK and EU counsel need to be in that conversation from day one.
+
+[GC BENCH]
+
+The GC Bench segment today is anchored by a data point that came up repeatedly at the ACC Annual Meeting, which concluded Tuesday in Boston, and in research published this week from Legal IT Insider.
+
+
+
+Eighty-seven percent of general counsel now report using AI within their teams. That figure, up from just forty-four percent in twenty twenty-five according to the FTI Consulting and Relativity General Counsel Report released in March, is the clearest signal yet that the debate is over. It is rapidly becoming standard operating infrastructure.
+
+
+
+The question that replaced it is the return-on-investment question, and it is now being asked at the CFO level, not just within legal ops. 
+
+Legal IT Insider published data this week on what senior in-house leaders are prioritizing when it comes to return on investment from AI and whether radical restructuring is warranted.
+
+
+
+The framework that keeps emerging in these conversations separates two things that are often conflated. The first is capacity recovered, which is time lawyers reclaim from first-pass drafting, contract review, and routine research. The second is spend avoided, which is work that stays in-house rather than going to outside counsel. These are different numbers and they require different evidence trails to justify to a CFO. 
+
+The twenty twenty-five ACC benchmarking report puts median outside counsel spend at one-point-one million dollars per legal department. Customer studies for purpose-built in-house legal platforms have reported roughly a fourteen percent reduction in outside counsel spend.
+
+ At the median, that is approximately one hundred and fifty thousand dollars in annual savings. Whether that number holds for a smaller, more focused in-house team like Firecrown's depends on the specific workflow and vendor mix.
+
+
+
+The broader market is also pulling away from general-purpose legal AI toward domain-specific AI built for discrete legal subfields, with more and more clients expecting their lawyers to be using AI and to be transparent about that use.
+
+
+
+The practical action for a general counsel preparing an AI investment conversation with a CFO or board: build the ROI model around three documented metrics. Time saved per lawyer per week, applied to a fully-loaded hourly rate. Outside counsel spend avoided, measured against current invoices rather than estimates. And matter throughput, which shows whether the legal function is absorbing growing demand without adding headcount. Those three numbers, presented together, make the business case durable.
+
+One watch item: 
+
+Connecticut's SB 5 began phasing in from October first, with AI-related layoff notice and frontier-model whistleblower protections now live.
+
+ If Firecrown has employees in Connecticut, and your AI adoption program touches workforce decisions, that statute requires review.
+
+[INDUSTRY ANGLE]
+
+Two signals this week for the Firecrown industry verticals.
+
+On the freight side, FreightWaves published its most detailed analysis yet of why the tight trucking market is not generating the new capacity response that historical cycles would predict. 
+
+Over the three years ending October twenty twenty-six, the SONAR Truckload Volume Index is up nine percent, while the Truckload Rejection Index is up two hundred and sixty-eight percent. At the early-summer twenty twenty-six peak, rejections were up more than three hundred and fifty percent.
+
+ That asymmetry is the story. Demand has grown modestly, but carriers are rejecting freight at a rate that suggests severe capacity constraint, not strong demand.
+
+
+
+English language proficiency enforcement is taking approximately twenty-seven hundred drivers out of service per month, according to SONAR data,
+
+ which is one of several structural factors preventing new carriers from entering the market even when the economics look favorable. For FreightWaves editorial and for SONAR commercial conversations, this is the narrative that explains why shipper rate exposure is likely to remain elevated through the first half of next year.
+
+Also worth noting: 
+
+the US Department of Transportation signed a deal to receive high-frequency freight market data from SONAR to support federal transportation analysis and economic research.
+
+ That partnership, announced back in June, positions SONAR as infrastructure for federal policy analysis. It is a reference-account argument that has meaningful sales and credibility implications for the platform.
+
+On the aviation side, air freight rates remain elevated on key corridors. China to North America air rates fell eighteen percent week over week in the most recent Freightos data, which may reflect a normalization after peak-season pull-forward. For FLYING magazine's readership and advertisers, the business aviation market continues to track general economic conditions closely, and the cargo data provides a useful leading indicator for flight activity patterns.
+
+On the marine side, boating and sailing audiences are operating in a market where 
+
+the ClarkSea Index hit an all-time high, averaging forty-six thousand three hundred and eighty-four dollars per day over the third quarter, driven by exceptional conditions in crude tankers and strong charter conditions across product tankers, containers, bulkers, and car carriers.
+
+ That rate environment for professional and commercial shipping does not translate directly to recreational boating economics, but it does reflect strong underlying demand for vessels and marine services, which supports the advertising market that Boating and Sailing depends on.
+
+[CLOSING BRIEF]
+
+Three items on the watch list before we close.
+
+First. 
+
+AI-generated answers are increasingly keeping users on search platforms and within answer engines, and publishers are already seeing fewer readers click through to their sites. Google traffic from organic search to more than twenty-five hundred sites was down by a third globally last year. Fewer opportunities to reach new audiences make it harder to acquire subscribers, and make the value of existing subscribers soar.
+
+ Publishers are now treating registration walls as a second-tier conversion strategy as AI reshapes the traffic funnel. Firecrown's properties, which serve highly specialized professional audiences, are structurally better positioned than general-interest news sites, but the first-party data imperative has accelerated. Review your registration and consent architecture on every Firecrown brand before the end of the year.
+
+Second. The FTC has a closed commission meeting scheduled for October fourteenth. 
+
+The vote to close the meeting for a law enforcement matter was two to zero.
+
+ The agency has been active across deceptive pricing, subscription billing, and AI capability claims. 
+
+The FTC and states sued Amazon over a secret ad surcharge scheme in August
+
+ and have continued pressing subscription and negative-option enforcement into the fall. Any Firecrown e-commerce property, including Spacestore, should have its subscription terms, cancellation flows, and auto-renewal disclosures reviewed against the FTC's Click-to-Cancel rule requirements before year end.
+
+Third. The Third Circuit's Thomson Reuters ruling will face pressure through en banc petition or Supreme Court interest, and the OpenAI consolidated litigation in the Southern District of New York is producing briefing on nearly parallel questions about the fair use defense and market harm. 
+
+The US Department of Justice has already filed a Statement of Interest arguing that the fair use defense should be available and supporting the AI companies' view that AI training is extraordinarily transformative.
+
+ The DOJ's position creates a federal executive branch counterweight to the Third Circuit's ruling. The tension between those two positions is going to define the next twelve months of AI copyright litigation, and every media company with original content it has not yet licensed for AI training should be mapping that asset inventory now.
+
+[SIGNOFF]
+
+That is Morning Docket for Thursday, October eighth, twenty twenty-six. The Apple Safari story is moving daily and we will update it on Monday. If you have questions about anything covered today, have your team flag it for the next briefing. I am Morning Docket. Travel safe.
+END OF EPISODE.
