@@ -1,0 +1,253 @@
+MORNING DOCKET — Friday, October 9, 2026
+A daily brief for the general counsel of a media company.
+
+Now I have comprehensive research across all the required topic areas. Let me write the script.
+
+[COLD OPEN]
+
+Two things landed on the docket overnight that every media lawyer should read before they finish their coffee. USA Today and nineteen Gannett newspapers filed a federal copyright lawsuit against OpenAI yesterday, demanding more than two hundred fifty million dollars and, in a notably aggressive ask, the destruction of every GPT model trained on their journalism. And separately, the UK's data protection regulator formally ceased to exist — on paper, anyway — replaced by a newly structured board-governed body called the Information Commission. Same initials. Bigger teeth. Different governance. The week that ends today is one of those weeks where the legal landscape around media, privacy, and AI all shifted at once.
+
+[INTRO]
+
+Good morning. It is Friday, October ninth, twenty twenty-six. This is Morning Docket, your weekly legal briefing for Firecrown and its brands. I'm your producer and narrator, and this edition covers the past seven to ten days across the topics that matter to your desk: California's legislative sprint on privacy, the FTC's price-transparency enforcement posture, the Third Circuit's first federal appellate ruling on AI training and fair use, the UK's regulatory restructuring, what the SEC's governance agenda means for a private holding company, a concentrated look at what's happening in the AI legal tech market this week, the freight market data coming out of SONAR, and a quick read on air cargo. Let's get to it.
+
+[HEADLINE ROUNDUP]
+
+First item. California finished its legislative session in late September with a package of privacy bills that media companies need to put in the compliance calendar now. Governor Newsom signed two and vetoed one. 
+
+Senate Bill 923 expands deletion rights under the CCPA to cover third-party-sourced data
+
+, effective January first, twenty twenty-seven. 
+
+Beginning on that date, consumers will be able to request deletion of personal information that a business collected from or about them — a significant expansion from the current language, which only covered data collected directly from the consumer.
+
+ For Firecrown, that matters immediately because audience data your brands obtain through ad-tech vendors, list brokers, or data co-ops now falls inside the deletion window. You will need to trace it and build deletion pipelines into third-party sourced data, not just first-party.
+
+On the other side of the ledger, 
+
+Governor Newsom signed Senate Bill 690 into law, eliminating the private right of action for claims under California Penal Code Section 638.51, which broadly prohibits the installation of pen registers or trap-and-trace devices without a court order. That section had served as a primary vehicle for the wave of wiretapping litigation under the California Invasion of Privacy Act targeting third-party cookies and other advertising technologies on websites.
+
+ 
+
+The law, signed September thirtieth, is operative January first, twenty twenty-seven.
+
+ The retroactivity clause is the key detail for risk: 
+
+the bill applies retroactively to pending claims in actions commenced within two years before its operative date.
+
+ That means existing demand letters and cases may be vulnerable to a defense, but you need outside counsel to assess that lane by lane before year-end.
+
+Second item. USA Today filed its lawsuit against OpenAI yesterday, and it is significant enough that we will discuss the Third Circuit ruling on AI training in the deep dive. The short version for the headline round: 
+
+USA Today and its affiliated newspaper entities sued OpenAI in federal court in New York on October eighth, twenty twenty-six, alleging the company trained its GPT models on hundreds of thousands of their copyrighted articles without authorization, and repackaged their journalism in chatbot outputs that substitute for the originals. The suit seeks damages in excess of two hundred fifty million dollars.
+
+ 
+
+The seventy-nine-page complaint targets seven OpenAI entities and concerns copyrighted material published across nineteen newspapers and news sites. It seeks declaratory and permanent injunctive relief, profits disgorgement, fees, and the exceptionally broad remedy of destroying every GPT and large language model training set incorporating the plaintiffs' content.
+
+ Publisher counsel everywhere will be studying that complaint this weekend.
+
+Third item. The FTC has been active on price transparency all week. 
+
+On October eighth, the Federal Trade Commission announced that Greenway Auto Group has agreed that its price advertisements will prominently include the actual price a consumer must pay for a vehicle, excluding only government taxes and fees.
+
+ That is the automotive lane. But the FTC's posture on search ad pricing is increasingly relevant to anyone who runs e-commerce. 
+
+The Commission, joined by the Utah and Nevada Attorneys General, sued to stop a long-running deceptive pricing scheme run by contact lens retailer Lens dot com on October second.
+
+ The theory is that prices shown in search ads did not match prices at checkout. For Firecrown's Spacestore operation, this is a signal: search ad pricing must flow through to the cart, consistently and accurately. The FTC also closed the week by announcing it is seeking public comment on whether its impersonation rule should be extended to cover 
+
+ad optimization tools that scammers exploit to pose as legitimate businesses and government agencies, noting that consumers reported nearly three and a half billion dollars in losses from imposter scams in twenty twenty-five alone.
+
+ That rulemaking notice matters to ad-tech vendors in your supply chain.
+
+Fourth item. On the UK side, the restructuring of the Information Commissioner's Office took formal effect on September thirtieth. 
+
+On that date, the Information Commissioner's Office changed its legal structure and became the Information Commission. The organization will still be known as the ICO, which now stands for the Information Commission's Office.
+
+ 
+
+The most notable change is not the regulator's name but its governance structure. The ICO currently operated as a corporation-sole, with powers and responsibilities vested in a single Information Commissioner. Those functions have transferred to the Information Commission, comprising a chair, executive and non-executive members with collective responsibility for decision-making.
+
+ There is a wrinkle: 
+
+the Commission had to launch chair-less. Applications for that role closed in mid-August, but an appointment has yet to be made, and Paul Arnold is expected to act as interim chair.
+
+ The enforcement toolkit has expanded materially under the Data Use and Access Act: 
+
+the DUAA grants the ICO new powers to strengthen its regulatory oversight, including the authority to compel witnesses to attend interviews, require technical reports, and issue substantial fines of up to seventeen point five million pounds or four percent of global turnover under PECR.
+
+ For FreightWaves' operations and any Firecrown brand with UK readers in their database, the no-cookie-banner-exception era is firmly over.
+
+Fifth item. The SEC continued its deregulatory march through corporate governance frameworks. Last week's most consequential move was the formal publication of the SEC's proposal to rescind Rule 14a-8. 
+
+On September sixteenth, the Securities and Exchange Commission proposed one of the most consequential changes to the federal proxy framework in decades: the rescission of Exchange Act Rule 14a-8, the shareholder proposal rule.
+
+ 
+
+The proposal would eliminate the SEC's role in the shareholder proposal process, leaving the process entirely to state corporate law.
+
+ This is an abstract corporate governance point for Firecrown as a private company, but it signals the SEC's broader direction under Chairman Atkins: less federal prescription, more deference to state law and private ordering. That posture also affects how cybersecurity and data privacy risk factors will be treated inside the pending Regulation S-K overhaul. 
+
+Chair Atkins has encouraged submission of comments regarding potential modification of other qualitative disclosure requirements, which include risk factors such as cybersecurity and data privacy, management's discussion and analysis, and internal controls over financial reporting.
+
+ Even if Firecrown does not file with the SEC today, any future capital event or partnership will drop you into this disclosure ecosystem.
+
+Sixth item. The freight market. 
+
+As of October twenty twenty-six, new trucking capacity is not entering the freight market, even after a full year of elevated tender rejections. SONAR data shows tractors in new for-hire fleets fell to nineteen thousand five hundred twenty in August.
+
+ 
+
+Over the three years ending October twenty twenty-six, the SONAR Truckload Volume Index is up nine percent, while the SONAR Truckload Rejection Index is up two hundred sixty-eight percent.
+
+ Fuller has characterized the current moment as peak-season tightening entering its critical window. 
+
+Tender rejections peaked around the July Fourth holiday weekend, and Fuller expects peak-season tightening in mid-October through early November as retailers push product into brick-and-mortar supply chains ahead of Black Friday.
+
+ We will say more about what that means for FreightWaves content and SONAR positioning in the industry angle segment.
+
+[DEEP DIVE]
+
+The Third Circuit ruling in Thomson Reuters versus ROSS Intelligence, handed down this past Tuesday, deserves your full attention. It is the first federal appellate court to rule on whether using copyrighted material to train an artificial intelligence system constitutes fair use under United States law. The answer, at least in the facts of this case, was no.
+
+
+
+The Third Circuit Court of Appeals issued the first federal appellate ruling on whether using copyrighted material to train artificial intelligence systems constitutes fair use, examining Thomson Reuters' claim that ROSS Intelligence improperly used Westlaw headnotes to develop a competing legal research product.
+
+ The district court had found for Thomson Reuters on summary judgment, and the Third Circuit affirmed. 
+
+A US appeals court upheld a ruling that AI legal research company ROSS Intelligence's training of its AI model did not amount to fair use. Last week, the court affirmed a ruling that ROSS Intelligence had broken copyright law by training its legal search engine on materials taken from Thomson Reuters' Westlaw legal research platform and database.
+
+
+
+Now, here is what the opinion does and does not decide — and this is the part that matters for Firecrown. The ROSS system was a non-generative AI. It was a legal search engine that returned passages of text. It did not generate new content. The court's analysis therefore concentrated on whether scraping headnotes to train a retrieval engine that would substitute for the original research product was transformative and whether it harmed the market for the original. The court found the substitution effect — meaning, would a lawyer buy fewer Westlaw subscriptions if ROSS worked well — was the dispositive fourth factor, and ROSS lost on it badly.
+
+What the ruling explicitly does not resolve is the question that animates every media company's litigation right now: whether generative AI, which produces new text rather than retrieving passages, would receive different fair use treatment. 
+
+The Third Circuit left generative AI questions unresolved.
+
+ The opinion is careful and narrow. But the directional signal is clear: market substitution is the central fair use battleground, and content companies that can show their journalism is being recapitulated in chatbot outputs have a stronger argument than they did a week ago.
+
+That is exactly the theory USA Today filed yesterday. 
+
+According to the complaint, OpenAI's large language models were trained on copyrighted material scraped from the internet without authorization, regardless of paywalls or other access restrictions, and OpenAI used programs designed to strip away copyright management information indicating the works were protected.
+
+ The complaint is specific about the corpus. 
+
+Content from the plaintiffs' publications comprises more than one hundred sixty thousand entries in WebText, the internal corpus OpenAI built to train GPT-2, including more than eighty-three thousand entries from usatoday.com.
+
+
+
+There is a third piece of context here. 
+
+The next AI and copyright fair use hearing is due to be Concord versus Anthropic, which is currently scheduled for October twenty twenty-six.
+
+ That case involves music publishers, but the fair use analysis will overlap substantially with news publishing. And 
+
+Sony Music and Warner Music filed suit against Anthropic in late August twenty twenty-six, joining the music industry's broader fight over AI training on copyrighted lyrics and recordings.
+
+
+
+The practical picture for Firecrown is this: the ROSS ruling strengthens your position as a rights-holder but does not resolve the generative AI question. The USA Today complaint will take years to reach judgment. In the meantime, the leverage the sector has right now is licensing negotiation. 
+
+Condé Nast's CEO Roger Lynch described Google's AI Overviews as another sort of death blow to search traffic, and said the company now assumes very dramatic continued declines in search traffic, to the point where in a couple of years it is just not a meaningful driver. The company is licensing content to OpenAI and Amazon while building subscriptions and direct audience relationships as its primary growth levers.
+
+ That is the strategy posture most sophisticated publishers are now modeling.
+
+Three concrete actions for your desk. First, audit every Firecrown brand's content archive against the known AI training corpuses that appear in these complaints — WebText, C4, Common Crawl — and document what you find. That documentation is both litigation preparation and licensing leverage. Second, if FreightWaves content or any Firecrown brand's content currently appears in a data licensing agreement with an AI company, review whether the agreement captures generative AI uses or was drafted for a narrower purpose. Many early agreements were. Third, brief your board on the ROSS ruling and the USA Today filing together as a package, because the copyright landscape around your AI strategy has materially shifted this week and that is a governance-level conversation, not just a legal one.
+
+[GC BENCH]
+
+The legal technology story of the week is the AT&T announcement, and it is more consequential for in-house teams than the headline suggests. 
+
+AT&T is collaborating as a flagship in-house legal design partner with OpenAI to build the AI-enabled in-house legal department of the future. Together, the companies will design, build, and evaluate practical legal workflows grounded in real-world experience and attorney oversight. The work will focus on making institutional knowledge easier to access, supporting appropriate routine legal work more efficiently, and giving legal professionals more capacity for ideation, strategy, and advocacy.
+
+
+
+The practical shape of the arrangement matters. 
+
+AT&T has shifted thousands of hours of legal work from outside firms to its in-house team using AI, though it said specific cost savings are hard to estimate. The company also partnered with OpenAI to make more than one hundred years of legal department knowledge easier to access.
+
+ 
+
+AT&T's roughly thirty national law firms could shrink to eighteen to twenty over the next two years.
+
+ That compression of outside counsel panels is the real signal. For a lean in-house operation like Firecrown's, the lesson is not that you need to replicate AT&T's thirty-eight-person LegalEdge team. It is that the gap between what a small in-house team can handle and what it used to require outside firms for is closing faster than most general counsel realize.
+
+Also this week, 
+
+in-house-focused LawVu launched Lens, an AI contract analysis tool that gives lawyers visibility across a company's entire contract portfolio, surfacing risks and obligations before they become problems, as part of the New Zealand-based platform's LegalOS operating system roll-out.
+
+ 
+
+In-house teams can ask questions in plain language and get answers grounded in their own contracts, with citations back to source documents.
+
+ For a holding company managing licensing agreements, brand agreements, vendor contracts, and ad-tech data processing addenda across multiple brands, portfolio-level contract visibility is a genuine operational problem. LawVu Lens is worth evaluating against whatever contract management system you are currently running.
+
+The broader market context: 
+
+in April twenty twenty-six, Legora raised a Series D to six hundred million dollars; Harvey was tagged at eleven billion dollars; and Robin AI cut about fifty roles.
+
+ The legal AI market is consolidating around a smaller number of well-funded players while simultaneously generating new specialized tools at the edges. The practical filter for a GC at a holding company: the most valuable immediate application is contract portfolio visibility and AI-assisted first drafts for routine matters, not exotic litigation tools. Start there.
+
+[INDUSTRY ANGLE]
+
+Two freight and aviation signals worth flagging for FreightWaves audience context and Firecrown editorial planning.
+
+On trucking, the SONAR data this week is telling a structurally interesting story. 
+
+As of October twenty twenty-six, no fresh trucking capacity is flowing into the freight market, despite a full year of heightened tender rejections, according to SONAR. The freight data provider reports that tractors in new for-hire fleets dropped to nineteen thousand five hundred twenty in August.
+
+ 
+
+The national Tender Rejection Index climbed to fourteen percent and is holding near a secondary peak that rivals levels seen around Labor Day, with van freight driving the bulk of the pressure. Van moves account for sixty to seventy percent of all freight tendered in the United States, making even modest rejection-rate increases far more consequential than comparable moves in refrigerated or flatbed.
+
+
+
+Fuller's framing on this cycle is worth noting for editorial context. 
+
+Intermodal hit all-time highs while truckload rejection rates hold near fourteen percent. The SONAR market update broke down tender rejections, dry van, reefer, and flatbed spot rates, and why domestic intermodal keeps taking share.
+
+ The divergence between truckload contract pricing and intermodal remains a central SONAR story heading into Q4. 
+
+Intermodal contract rates are thirty-four percent below truckload contract rates on a door-to-door basis, with truckload contracts up seven and a half percent in three months versus zero point six percent for intermodal.
+
+ That spread is the editorial and data story for FreightWaves readers watching rate negotiations heading into twenty twenty-seven.
+
+On air freight, which touches FLYING's commercial aviation readership and Firecrown's aviation brands more broadly, the post-Golden Week dynamic is worth watching. 
+
+As October begins, the Asia air freight market is entering the traditional fourth-quarter peak, but the pressure is developing unevenly across origins and cargo types. Changes in tariff rules for low-value imports have reduced some e-commerce flows into the United States, while Asia Pacific-to-Europe volumes remain below last year, particularly on e-commerce-heavy lanes. October demand is therefore expected to be driven more by technology, new-product introductions, industrial cargo, and some time-sensitive replenishment.
+
+ The structural constraint remains aircraft availability — 
+
+delayed aircraft deliveries and an aging global freighter fleet continue to restrict supply growth. Passenger-to-freighter conversions provide some relief, but suitable aircraft are increasingly scarce.
+
+
+
+[CLOSING BRIEF]
+
+Three items on the watch list heading into next week.
+
+First, the Concord Music versus Anthropic fair use hearing. 
+
+That hearing is scheduled for October twenty twenty-six.
+
+ Watch the transcript carefully. The music industry's fair use arguments will map directly onto the publishing sector's pending claims, and a court treating AI-generated outputs as market substitutes for original works will significantly advance the entire rights-holder litigation strategy.
+
+Second, the UK Information Commission's first enforcement action under its expanded powers. 
+
+We will be watching whether the new board and new powers, including the power to compel a witness to attend an interview in force since February fifth, lead to tougher action. It is likely to be a while before this shows in published cases, because ICO investigations take a long time to reach a penalty.
+
+ But when the first case lands under the new structure, it will set the tone for the board-governed era. For Firecrown brands with UK audience data, that first case is a calibration event.
+
+Third, the SEC's Rule 14a-8 rescission comment period. 
+
+The public comment period will remain open for sixty days following publication in the Federal Register. Any final rules would likely not take effect until after the twenty twenty-six to twenty twenty-seven proxy season. Public companies should expect to continue operating under current shareholder proposal rules until after their next annual meeting.
+
+ The practical implication for a private company is not immediate, but the SEC's materiality-first posture on disclosure reform is shaping the environment into which any future Firecrown IPO or significant financing would land. The direction of travel is worth understanding now.
+
+[SIGNOFF]
+
+That is Morning Docket for Friday, October ninth. A week dense with first-of-kind legal developments — the first appellate fair use ruling on AI training, a major publisher copyright filing, a UK regulatory restructuring, and California's most significant privacy legislative package since CPRA. If one thread runs through all of it, it is this: the legal environment around media companies' content, their data, and their technology choices is hardening faster than most governance calendars reflect. Adjust accordingly. Have a good weekend. We will be back Monday.
+END OF EPISODE.
