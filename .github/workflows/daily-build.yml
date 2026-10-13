@@ -44,7 +44,7 @@ jobs:
       - name: Install Python deps
         run: |
           pip install --upgrade pip
-          pip install edge-tts pydub mutagen anthropic
+          pip install edge-tts pydub mutagen anthropic piper-tts
 
       - name: Determine today's date (Eastern)
         id: today
