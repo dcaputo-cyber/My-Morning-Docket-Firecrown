@@ -1,0 +1,269 @@
+MORNING DOCKET — Tuesday, October 13, 2026
+A daily brief for the general counsel of a media company.
+
+Now I have comprehensive research. Let me compile the Morning Docket script.
+
+[COLD OPEN]
+
+Two stories broke this past week that every media general counsel should hold together in mind. In Manhattan federal court, USA Today and thirteen affiliate newspapers filed a copyright lawsuit seeking more than two hundred fifty million dollars from OpenAI, accusing it of training ChatGPT on hundreds of thousands of articles without permission. The same week, a federal appeals court issued what analysts are calling the first appellate ruling in the country on whether using copyrighted material as AI training data constitutes fair use. The answer from the Third Circuit: it does not. Whatever side of the licensing table you sit on, the legal ground just shifted.
+
+[INTRO]
+
+Good morning. It is Tuesday, October thirteenth, twenty twenty-six. This is Morning Docket, the daily legal briefing for Firecrown General Counsel Darren Caputo. Today we move through six areas: a fresh California privacy statute that takes direct aim at how media companies handle third-party audience data; the copyright litigation surge against AI developers, including the Third Circuit ruling that is now the circuit court benchmark; where the FTC stands on ad tech and surveillance marketing after its updated five-year strategic plan; a governance checkpoint on the SEC's Regulation S-K reform initiative; a deep dive into the LawVu Lens launch and what the AI contract analysis market now looks like for an in-house team your size; and then the industry read — freight is structurally tight and the Strait of Hormuz is repricing global shipping in real time. Let us begin.
+
+[HEADLINE ROUNDUP]
+
+The first item is California SB 923, the Expanding Privacy Rights Act, signed by Governor Newsom on September twenty-seventh and effective January first, twenty twenty-seven. 
+
+Beginning next year, consumers will be able to request deletion of personal information that a business collected from or about them — a significant expansion from the current CCPA language, which only reaches information collected directly from the consumer.
+
+ 
+
+The new law also requires online-only businesses with direct consumer relationships to provide both an email address and a web form or portal for privacy requests. Previously, an email address alone was sufficient.
+
+ For Firecrown, that is an operational question, not just a policy question. Every one of your brands — FreightWaves, FLYING, Boating and Sailing, Trains dot com — runs some form of audience data practice that ingests third-party enrichment. 
+
+CalPrivacy describes the suppression-list mechanism as allowing businesses to maintain a record so that deleted information is not reintroduced when the business acquires new third-party data.
+
+ That suppression list is now mandatory architecture, not optional. The compliance clock runs to December thirty-first.
+
+Separately, and also worth noting from Governor Newsom's late-September signing sprint, 
+
+SB 690 eliminates the private right of action under the California Invasion of Privacy Act for certain online activities
+
+ — a direct legislative response to the wiretap litigation wave that has been hammering publishers using session-replay and chat tools. 
+
+Partners at privacy-focused law firms have been seeing wiretap claim letters at a volume not seen in nearly a decade.
+
+ SB 690 narrows that exposure for online activities, which is meaningful relief for ad-supported digital publishers.
+
+The second headline is the Third Circuit's ruling in Thomson Reuters versus Ross Intelligence, which published October sixth. 
+
+A United States appeals court upheld the finding that AI legal research company Ross Intelligence broke copyright law by training its legal search engine on materials taken from Thomson Reuters's Westlaw research platform. Courts are now starting to signal that the fair-use defense for AI training may be on thin ice.
+
+ 
+
+Ross Intelligence's internal use of the headnotes as training data was not fair use, even though the tool's outputs did not themselves infringe — and the ruling is reported as the first federal appellate decision on fair use in AI training.
+
+ 
+
+Analysts note why its reach may be limited: Ross copied material before generative AI became widespread, used it to train a non-generative system, and the court found the copying was meant to build a product competing directly with Thomson Reuters.
+
+ So the generative AI cases — OpenAI, Anthropic, Meta — turn on different facts. But an appellate court has now drawn a line, and every content licensor in the country will cite this ruling.
+
+The third headline follows directly from that: the USA Today filing. 
+
+USA Today Co. and affiliated newspaper publishers sued OpenAI in federal court in Manhattan, alleging copyright infringement by using their journalism to train AI models without authorization. Filed October eighth, the complaint seeks damages in excess of two hundred fifty million dollars and a court order blocking the alleged infringement.
+
+ 
+
+The lawsuit involves content published across nineteen publications owned by the digital publisher, including USA Today, The Arizona Republic, the Detroit Free Press, and the Indianapolis Star.
+
+ 
+
+The publishers are also seeking a court order to destroy AI models and training datasets allegedly containing their copyrighted journalism.
+
+ For a media holding company like Firecrown, this case is instructive on both sides: it signals that unlicensed scraping of specialty content carries serious litigation risk for AI companies, and it shows that publishers willing to litigate can put a damages number on the table that forces licensing conversations.
+
+The fourth item is the FTC. 
+
+The agency published an advance notice of proposed rulemaking in late September seeking public comment on whether its existing Impersonation Rule should be updated to hold platforms accountable for ad-optimization tools that scammers exploit to pose as legitimate businesses and government agencies. The agency noted that imposter scams have consistently ranked among the top consumer fraud categories, with consumers reporting nearly three point five billion dollars in losses in twenty twenty-five alone.
+
+ That is a distinct but related signal to the broader ad tech enforcement posture. 
+
+The FTC's five-year strategic plan covers consumer protection, antitrust enforcement, and internal operations, and carries specific implications for digital advertising and data collection. The agency's September twenty twenty-five investigation into media rating companies using Civil Investigative Demands showed that scrutiny extends to the infrastructure layers of the advertising ecosystem — not just the major platform operators.
+
+ For a company that sells advertising across freight, aviation, and marine verticals, that infrastructure framing matters. Your ad measurement partners are inside the regulatory perimeter.
+
+Fifth item: the UK Data Use and Access Act, which completed its phased rollout as of June nineteenth. 
+
+The new law introduced the recognised legitimate interests lawful basis, updated cookie and PECR rules, automated decision-making reform, expanded ICO enforcement powers, and fines now aligned with UK GDPR levels of up to four percent of global annual turnover.
+
+ 
+
+The ICO is continuing a large-scale review of cookie compliance across the United Kingdom's most-visited websites, with particular focus on meaningful choice. It has contacted ninety-three organisations about website cookies, and it has taken enforcement action against a betting provider — Sky Betting and Gaming — which was reprimanded for sharing personal data with ad tech companies before users could accept or reject advertising cookies.
+
+ The Sky Betting action is the template: pre-consent data sharing with ad tech partners is the specific conduct under the microscope. If any Firecrown brand has UK traffic of meaningful scale, that architecture needs review now.
+
+Sixth item: the SEC's Regulation S-K overhaul process. 
+
+On January thirteenth, SEC Chair Paul Atkins announced a comprehensive review of Regulation S-K, the central framework governing qualitative disclosures in public company filings since nineteen eighty-two. According to Atkins, the current regime has grown to include a large amount of information, resulting in filings that increasingly mix material information with extraneous detail that a reasonable investor would not consider material.
+
+ 
+
+The review covers disclosure requirements pertaining to business operations, risk factors such as cybersecurity and data privacy, management's discussion and analysis, and internal controls over financial reporting.
+
+ Firecrown is private, so the direct regulatory obligation does not apply. But if any part of the company's capital structure or a future transaction involves registered securities, the materiality-first philosophy now shaping SEC guidance will affect how legal and finance teams frame disclosure. The broader signal is that privacy and cybersecurity risk factors — which every media company should be disclosing internally regardless of public filing obligations — are the same factors regulators are reconsidering for public companies. That parallel is worth tracking.
+
+[DEEP DIVE]
+
+Today's deep dive is on the AI copyright litigation surge and what it means concretely for a media and publishing holding company. Let us stay with the two cases that defined the past week, then pull back to the landscape.
+
+The Third Circuit's Ross ruling and the USA Today filing arrived within forty-eight hours of each other, and they represent two different but reinforcing legal theories. In the Third Circuit, the court held that 
+
+the Westlaw headnotes were original and protected, and that Ross Intelligence's use of them to train its AI legal research tool was not fair use.
+
+ The market implication is significant because, as one tracker notes, 
+
+the generative model cases turn on whether training is transformative and whether outputs substitute for the originals — Ross is a competitor-product case about a retrieval tool.
+
+ So do not read the Third Circuit ruling as deciding the OpenAI and Anthropic litigation. It does not. But it establishes that appellate courts are willing to hold that training on protected material can constitute infringement, and that the fair-use analysis is fact-intensive rather than a categorical shield.
+
+The USA Today case is the more relevant analog for Firecrown's content portfolio. 
+
+USA Today Co. and affiliated newspapers sued OpenAI in Manhattan, alleging unlicensed training on content from nineteen publications and seeking more than two hundred fifty million dollars. The case tests whether a news publisher can demand payment and restrictions when an AI company uses its reporting for model training without a license, with potential consequences for both training costs and traffic to original outlets.
+
+ The Seattle Times and Newsday have filed similar actions seeking destruction of AI models. 
+
+In the Anthropic authors' case, a court already ruled that AI training on copyrighted books can constitute fair use, but that storing pirated copies does not. That case settled for one point five billion dollars, with an estimated payout of approximately three thousand dollars per work.
+
+
+
+What does this mean for Firecrown operationally? Three distinct risk and opportunity dimensions.
+
+First, on the risk side, every piece of original journalism, analysis, and proprietary data that FreightWaves, FLYING, Boating and Sailing, and Trains dot com produce is potentially being ingested by AI training pipelines without a license. 
+
+As AI-generated answers increasingly keep users on search platforms and within answer engines, publishers are already seeing fewer readers click through to their sites. Google traffic from organic search to more than twenty-five hundred sites was down by a third globally last year, according to Chartbeat data.
+
+ The litigation is partly a response to that traffic erosion — publishers are connecting the dots between training ingestion and audience loss.
+
+Second, on the licensing opportunity side, 
+
+Condé Nast CEO Roger Lynch described Google's AI Overviews as another sort of death blow to search traffic, and the company now assumes very dramatic continued declines in search traffic. Condé Nast is licensing content to OpenAI and Amazon while building subscriptions and direct audience relationships as its primary growth levers.
+
+ 
+
+Sixty-eight percent of surveyed publishers are now partnering with AI companies, and ninety-six percent expect AI to create new revenue streams, though the value of AI licensing remains uncertain.
+
+ For specialty content — freight market analysis, aviation technical reporting, marine economics — the licensing value to an AI company may be higher per word than general news, because the information density and verifiability is greater. That is a negotiating position worth developing.
+
+Third, there is an emerging content standard worth watching. 
+
+Publishers have pushed forward with SPUR, a new standard to track how AI tools use content, and have invited frontier AI labs including OpenAI and Google to join the advisory board.
+
+ If SPUR gains traction, it creates an auditable provenance trail — useful both for licensing enforcement and for demonstrating editorial integrity to subscribers who are increasingly skeptical of AI-generated content.
+
+
+
+Courts are distinguishing between how AI companies acquire copyrighted material, how models use it, and whether their outputs infringe creators' rights or undermine existing markets.
+
+ That three-part framework — acquisition, use, output — is the analytical lens your contracts and legal protocols need to apply when evaluating any AI product partnership or when assessing your own exposure as a content licensor.
+
+Three actions for this week. One: instruct whoever manages your content licenses and terms of service to confirm that your robots dot txt files and crawling permissions are current and defensible. If you have not explicitly blocked AI training crawlers under your terms of use, a court may later find implied permission. Two: open a file on your specialty content assets — SONAR data, FreightWaves market analysis, FLYING technical reports — and document their originality and commercial value. That documentation is the foundation of a licensing demand or a damages calculation. Three: if you do not already have a clause in your contributor and freelancer agreements addressing AI training use of their work, add one before year end, because the USA Today case will prompt AI companies to scrutinize whether publishers actually control the rights they are claiming.
+
+[GC BENCH]
+
+The GC Bench today focuses on what happened in legal technology over the past week, because there were three distinct product announcements that, taken together, illustrate where the in-house legal software market is heading.
+
+The most concrete news was LawVu's launch of Lens on October sixth. 
+
+LawVu announced the launch of LawVu Lens, an AI contract analysis tool that gives in-house legal teams visibility across their entire contract portfolio, surfacing risks and obligations before they become problems. Lens is embedded directly in LawVu LegalOS, the operating system built to run the entire legal function.
+
+ What distinguishes Lens from the prior generation of contract review tools is portfolio-level rather than document-level analysis. 
+
+Lens analyzes the entire contract portfolio at once.
+
+ 
+
+The system uses obligation frameworks developed by legal experts to convert contract language spread across multiple documents into a structured and searchable view. In-house teams can ask questions in plain language and receive responses grounded in their organization's own agreements, with citations back to the underlying source documents.
+
+
+
+The practical filter for a GC at a media holding company with multiple brands and e-commerce operations: the most immediate use case is not contract drafting, it is risk surfacing across a portfolio you already have. 
+
+A survey published alongside the launch found that ninety-eight percent of respondents reported financial or operational consequences associated with lost contract knowledge, while only twenty-six percent said they had a quick and reliable way to query their entire contract portfolio.
+
+ If you have vendor agreements, content licenses, ad tech contracts, and platform distribution deals sitting across different file systems at FreightWaves, FLYING, and Spacestore, that twenty-six percent figure probably resonates.
+
+Also launched this week: Spellbook's Autonomous Contract Management moved to general release, and Ivo launched an open-source contract AI model built on DeepSeek, branded as Sage. The Ivo announcement is notable because open-source models lower the cost floor for contract AI significantly — which will compress margins for premium-priced CLM vendors but also means a legal department with in-house technical resources could run contract analysis without a vendor subscription.
+
+The broader trend: 
+
+LawVu's strategy is to become a much broader and complete system for in-house lawyers, covering legal ops needs, contract management, compliance, and more. The strategic goal for many legal AI companies is to become the center of a lawyer's work environment.
+
+ That consolidation race is good news for buyers in the short term — competitive pricing, faster feature velocity — but it also means the switching costs will rise as teams get embedded in one platform's data model.
+
+One note from the Association of Corporate Counsel annual meeting in Boston last week, which was essentially an AI best practices session. 
+
+Fast-moving changes in artificial intelligence have in-house attorneys scrambling to find the best ways to maximize opportunities and minimize risk. The advice in-house attorneys shared during panels: identify a technology vision early, be selective in using AI to solve specific problems, go slow, and keep your boards constantly in the loop.
+
+ That last point — keep the board informed — is not a nice-to-have, it is a governance obligation given how quickly AI use by legal functions can create liability exposure if not properly governed.
+
+[INDUSTRY ANGLE]
+
+The industry read this morning is dominated by two structural signals: the U.S. trucking market, and the Strait of Hormuz.
+
+On trucking, SONAR data published this week tells a clear story. 
+
+As of October twenty twenty-six, new trucking capacity is not entering the freight market, even after a full year of elevated tender rejections. SONAR data shows tractors in new for-hire fleets fell to nineteen thousand five hundred twenty in August, while the SONAR Truckload Rejection Index held near fourteen percent — about three times its twenty twenty-three through twenty twenty-five range.
+
+ 
+
+Rejections are up two hundred sixty-eight percent over three years. Volume is up nine percent. The market is tight because trucks are leaving, not because freight is surging.
+
+ 
+
+Analysts project tender rejections could reach twenty percent by December as seasonal demand builds against a tightening capacity base.
+
+
+
+For FreightWaves and SONAR as an editorial and data product matter, this is the central story of Q four. 
+
+The freight market is experiencing what analysts are calling an unprecedented capacity crisis, with carriers rejecting loads at four times the normal rate despite stable volumes. Capacity is exiting the market faster than new trucks can enter, driven by escalating costs, driver shortages, and regulatory hurdles.
+
+ 
+
+Diesel set a new weekly record of six dollars and fifty-two point nine cents a gallon for the week of September twenty-first, according to the Energy Information Administration.
+
+ That fuel price is the structural constraint pushing smaller carriers into bankruptcy.
+
+On shipping: the Hormuz situation is no longer a geopolitical sidebar, it is a market event. 
+
+At least twelve tankers were attacked in and around the Strait of Hormuz in a single week, targeting oil, LNG, and LPG vessels. The UK Maritime Trade Operations agency confirmed six vessel strikes on one Sunday alone, including a drone attack near Oman's Sohar anchorage.
+
+ 
+
+The cost of VLSFO — the fuel used by most ships — has risen sixty-two percent to nine hundred fifty-seven dollars a tonne at the port of Fujairah.
+
+ 
+
+Brokers note that even after adjusting for inflation, current shipping rates are the highest since the first supertankers began operating in the nineteen sixties, surpassing the peaks of the nineteen eighties Tanker War between Iran and Iraq.
+
+ For Boating and Sailing and the marine verticals at Firecrown, this is not abstract — it affects fuel pricing coverage, marine insurance editorial, and advertiser categories in the commercial maritime space.
+
+In aviation, 
+
+global passenger demand fell zero point eight percent in August on zero point three percent more capacity, and the entire decline is explained by Middle Eastern carriers. Jet fuel reached nearly one hundred ninety-five dollars a barrel in mid-September and stands at one hundred eighty-seven dollars in the latest weekly reading — about twenty-three percent above the industry's full-year price assumption.
+
+ 
+
+Air cargo demand rose four point four percent on flat capacity, lifting the cargo load factor two points to forty-six percent, as shippers move to short, floating contracts.
+
+ For FLYING's coverage of the commercial aviation business, the cargo surge is the constructive signal. Cargo operators are navigating the same Hormuz dynamics — rerouting, floating contracts, premium rates.
+
+[CLOSING BRIEF]
+
+Three things on the watch list before you get to the office.
+
+First, the SB 923 compliance window. 
+
+The law takes effect January first, twenty twenty-seven.
+
+ You have roughly eleven weeks. The action is operational: map every brand's third-party data ingestion flows, update deletion request handling procedures, and make sure Spacestore and any other online-only direct-to-consumer property has a web portal for privacy requests, not just an email address. The CalPrivacy enforcement machine is running over a hundred active investigations simultaneously right now, and opt-out and deletion mechanism failures are its stated priority.
+
+Second, the Third Circuit's Ross ruling and the USA Today filing together are creating pressure on AI companies to accelerate licensing discussions with content publishers. 
+
+OpenAI has deals with News Corp covering current and archived content from The Wall Street Journal and the New York Post. Those agreements show that licensed access is one route for bringing journalism into AI products.
+
+ If you have not had a conversation with any AI company about licensing FreightWaves' proprietary freight market content or FLYING's aviation editorial archive, that conversation now has a precedent structure and a damages floor. Put it on the agenda.
+
+Third, watch J.B. Hunt Transport Services earnings on Thursday, October fifteenth. 
+
+J.B. Hunt announced it expects to issue third-quarter twenty twenty-six earnings at the close of market on Thursday, October fifteenth.
+
+ J.B. Hunt's intermodal results will be the first major carrier data point on whether the capacity tightening visible in SONAR's rejection index is translating into rate improvement at the contract level. FreightWaves' editorial team will cover it, and SONAR subscribers will see the demand signals in real time. For Firecrown as a media company, strong carrier earnings validate the market intelligence product and drive subscription renewal conversations.
+
+[SIGNOFF]
+
+That is Morning Docket for Tuesday, October thirteenth. The legal ground on AI and copyright moved measurably this week. California's new deletion law requires operational changes before year end. And the freight and maritime markets are sending signals that have editorial, commercial, and risk management implications for every brand in the portfolio. We will be back tomorrow morning. Have a good commute.
+END OF EPISODE.
