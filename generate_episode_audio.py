@@ -1,29 +1,28 @@
-"""
-Morning Docket — local audio generator.
-
-Converts a text script (with [BRACKETED] stage directions and `---` separators
-automatically stripped) into a single MP3.
-
-Default provider is Microsoft edge-tts: free, high-quality neural voice,
-no API key required.
-"""
-
 #!/usr/bin/env python3
+"""
+Morning Docket — audio generator.
+
+Converts a text script into a single MP3.
+
+Primary provider: Microsoft edge-tts (free neural voice, no API key).
+Fallback provider: Piper (free, local, runs on the CI runner). Used automatically
+when Microsoft rejects the edge-tts websocket handshake with HTTP 403, which is
+what broke the build starting Oct 10, 2026 (rany2/edge-tts#490).
+"""
 
 import argparse
 import asyncio
-import os
 import re
 import shutil
 import subprocess
 import sys
 import tempfile
 import time
+import wave
 from pathlib import Path
 
 import edge_tts
 from pydub import AudioSegment
-
 
 DEFAULT_VOICE = "en-AU-WilliamMultilingualNeural"
 DEFAULT_RATE = "+0%"
@@ -31,6 +30,12 @@ DEFAULT_VOLUME = "+0%"
 DEFAULT_MAX_CHARS = 2800
 DEFAULT_RETRIES = 5
 DEFAULT_INITIAL_BACKOFF_SECONDS = 20
+DEFAULT_PIPER_VOICE = "en_GB-alan-medium"
+PIPER_VOICE_DIR = Path.home() / ".cache" / "piper-voices"
+
+
+class EdgeTTSBlocked(RuntimeError):
+    """Microsoft rejected the edge-tts handshake (HTTP 403). Retrying will not help."""
 
 
 def read_script(path: Path) -> str:
@@ -70,7 +75,7 @@ def count_words(text: str) -> int:
 
 def split_text_into_chunks(text: str, max_chars: int = DEFAULT_MAX_CHARS) -> list[str]:
     """
-    Splits text into chunks for edge-tts.
+    Splits text into chunks for TTS.
 
     Tries to split on paragraph boundaries first, then sentence boundaries,
     then hard splits only if absolutely necessary.
@@ -160,6 +165,17 @@ def hard_split(text: str, max_chars: int) -> list[str]:
     return chunks
 
 
+def is_handshake_403(exc: BaseException) -> bool:
+    """True if exc (or its cause chain) is a websocket handshake rejected with 403."""
+    seen = set()
+    while exc is not None and id(exc) not in seen:
+        seen.add(id(exc))
+        if getattr(exc, "status", None) == 403 and "Handshake" in type(exc).__name__:
+            return True
+        exc = exc.__cause__ or exc.__context__
+    return False
+
+
 async def synthesize_chunk_with_retries(
     text: str,
     output_path: Path,
@@ -174,8 +190,9 @@ async def synthesize_chunk_with_retries(
     """
     Synthesizes one chunk with retry/backoff.
 
-    This is the important long-term fix. A transient Microsoft/Bing/edge-tts
-    websocket failure should retry this chunk instead of killing the whole job.
+    A transient websocket failure retries the chunk. An HTTP 403 handshake
+    rejection is NOT transient (Microsoft is refusing the client), so it raises
+    EdgeTTSBlocked immediately instead of burning minutes on backoff.
     """
     last_error: Exception | None = None
 
@@ -210,7 +227,7 @@ async def synthesize_chunk_with_retries(
             last_error = exc
             print(
                 f"[edge-tts] chunk {chunk_number}/{total_chunks} failed on "
-                f"attempt {attempt}/{retries}: {repr(exc)}",
+                f"attempt {attempt}/{retries}: {repr(exc)[:300]}",
                 flush=True,
             )
 
@@ -220,6 +237,11 @@ async def synthesize_chunk_with_retries(
                     output_path.unlink()
             except Exception as cleanup_exc:
                 print(f"Warning: could not remove partial file {output_path}: {cleanup_exc}", flush=True)
+
+            if is_handshake_403(exc):
+                raise EdgeTTSBlocked(
+                    "Microsoft rejected the edge-tts handshake with HTTP 403."
+                ) from exc
 
             if attempt < retries:
                 backoff = initial_backoff_seconds * attempt
@@ -265,7 +287,50 @@ async def synthesize_all_chunks(
     return chunk_files
 
 
-def combine_mp3_chunks_with_pydub(chunk_files: list[Path], output_path: Path) -> None:
+def ensure_piper_voice(voice_name: str) -> Path:
+    """Return the path to the Piper .onnx model, downloading it if needed."""
+    PIPER_VOICE_DIR.mkdir(parents=True, exist_ok=True)
+    model_path = PIPER_VOICE_DIR / f"{voice_name}.onnx"
+
+    if not model_path.exists():
+        print(f"[piper] downloading voice {voice_name} ...", flush=True)
+        subprocess.run(
+            [sys.executable, "-m", "piper.download_voices", voice_name,
+             "--data-dir", str(PIPER_VOICE_DIR)],
+            check=True,
+        )
+
+    if not model_path.exists():
+        raise FileNotFoundError(f"Piper voice model not found after download: {model_path}")
+
+    return model_path
+
+
+def synthesize_all_chunks_piper(chunks: list[str], chunk_dir: Path, voice_name: str) -> list[Path]:
+    from piper import PiperVoice
+
+    model_path = ensure_piper_voice(voice_name)
+    piper_voice = PiperVoice.load(str(model_path))
+
+    chunk_files: list[Path] = []
+    total = len(chunks)
+
+    for index, chunk in enumerate(chunks, start=1):
+        chunk_file = chunk_dir / f"piper_{index:03d}.wav"
+        print(f"[piper] chunk {index}/{total} -> {chunk_file.name}", flush=True)
+
+        with wave.open(str(chunk_file), "wb") as wav_file:
+            piper_voice.synthesize_wav(chunk, wav_file)
+
+        if not chunk_file.exists() or chunk_file.stat().st_size == 0:
+            raise RuntimeError(f"Piper created an empty file: {chunk_file}")
+
+        chunk_files.append(chunk_file)
+
+    return chunk_files
+
+
+def combine_chunks_with_pydub(chunk_files: list[Path], output_path: Path) -> None:
     if not chunk_files:
         raise ValueError("No chunk files to combine.")
 
@@ -279,7 +344,7 @@ def combine_mp3_chunks_with_pydub(chunk_files: list[Path], output_path: Path) ->
             raise RuntimeError(f"Chunk file is empty: {chunk_file}")
 
         print(f"Adding chunk to final MP3: {chunk_file.name}", flush=True)
-        combined += AudioSegment.from_file(chunk_file, format="mp3")
+        combined += AudioSegment.from_file(chunk_file, format=chunk_file.suffix.lstrip("."))
 
     output_path.parent.mkdir(parents=True, exist_ok=True)
 
@@ -312,59 +377,24 @@ def verify_ffmpeg_available() -> None:
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
-        description="Generate a podcast MP3 from a text script using edge-tts."
+        description="Generate a podcast MP3 from a text script (edge-tts, Piper fallback)."
     )
 
-    parser.add_argument(
-        "--script",
-        required=True,
-        help="Path to the input episode script text file.",
-    )
-
-    parser.add_argument(
-        "--out",
-        required=True,
-        help="Path to the output MP3 file.",
-    )
-
-    parser.add_argument(
-        "--voice",
-        default=DEFAULT_VOICE,
-        help=f"TTS voice to use. Default: {DEFAULT_VOICE}",
-    )
-
-    parser.add_argument(
-        "--rate",
-        default=DEFAULT_RATE,
-        help=f"TTS rate adjustment. Default: {DEFAULT_RATE}",
-    )
-
-    parser.add_argument(
-        "--volume",
-        default=DEFAULT_VOLUME,
-        help=f"TTS volume adjustment. Default: {DEFAULT_VOLUME}",
-    )
-
-    parser.add_argument(
-        "--max-chars",
-        type=int,
-        default=DEFAULT_MAX_CHARS,
-        help=f"Maximum characters per TTS chunk. Default: {DEFAULT_MAX_CHARS}",
-    )
-
-    parser.add_argument(
-        "--retries",
-        type=int,
-        default=DEFAULT_RETRIES,
-        help=f"Retries per chunk. Default: {DEFAULT_RETRIES}",
-    )
-
-    parser.add_argument(
-        "--initial-backoff-seconds",
-        type=int,
-        default=DEFAULT_INITIAL_BACKOFF_SECONDS,
-        help=f"Initial retry backoff in seconds. Default: {DEFAULT_INITIAL_BACKOFF_SECONDS}",
-    )
+    parser.add_argument("--script", required=True, help="Path to the input episode script text file.")
+    parser.add_argument("--out", required=True, help="Path to the output MP3 file.")
+    parser.add_argument("--voice", default=DEFAULT_VOICE, help=f"edge-tts voice. Default: {DEFAULT_VOICE}")
+    parser.add_argument("--rate", default=DEFAULT_RATE, help=f"edge-tts rate adjustment. Default: {DEFAULT_RATE}")
+    parser.add_argument("--volume", default=DEFAULT_VOLUME, help=f"edge-tts volume adjustment. Default: {DEFAULT_VOLUME}")
+    parser.add_argument("--max-chars", type=int, default=DEFAULT_MAX_CHARS,
+                        help=f"Maximum characters per TTS chunk. Default: {DEFAULT_MAX_CHARS}")
+    parser.add_argument("--retries", type=int, default=DEFAULT_RETRIES,
+                        help=f"Retries per chunk. Default: {DEFAULT_RETRIES}")
+    parser.add_argument("--initial-backoff-seconds", type=int, default=DEFAULT_INITIAL_BACKOFF_SECONDS,
+                        help=f"Initial retry backoff in seconds. Default: {DEFAULT_INITIAL_BACKOFF_SECONDS}")
+    parser.add_argument("--provider", choices=["auto", "edge", "piper"], default="auto",
+                        help="auto = edge-tts, falling back to Piper on HTTP 403. Default: auto")
+    parser.add_argument("--piper-voice", default=DEFAULT_PIPER_VOICE,
+                        help=f"Piper fallback voice. Default: {DEFAULT_PIPER_VOICE}")
 
     return parser.parse_args()
 
@@ -377,6 +407,7 @@ def main() -> int:
 
     print(f"Script: {script_path}", flush=True)
     print(f"Output: {output_path}", flush=True)
+    print(f"Provider: {args.provider}", flush=True)
     print(f"Voice: {args.voice}", flush=True)
     print(f"Rate: {args.rate}", flush=True)
     print(f"Volume: {args.volume}", flush=True)
@@ -409,20 +440,33 @@ def main() -> int:
         chunk_dir = Path(tmp)
 
         start_time = time.time()
+        chunk_files: list[Path] | None = None
 
-        chunk_files = asyncio.run(
-            synthesize_all_chunks(
-                chunks=chunks,
-                chunk_dir=chunk_dir,
-                voice=args.voice,
-                rate=args.rate,
-                volume=args.volume,
-                retries=args.retries,
-                initial_backoff_seconds=args.initial_backoff_seconds,
-            )
-        )
+        if args.provider in ("auto", "edge"):
+            try:
+                chunk_files = asyncio.run(
+                    synthesize_all_chunks(
+                        chunks=chunks,
+                        chunk_dir=chunk_dir,
+                        voice=args.voice,
+                        rate=args.rate,
+                        volume=args.volume,
+                        retries=args.retries,
+                        initial_backoff_seconds=args.initial_backoff_seconds,
+                    )
+                )
+            except EdgeTTSBlocked as exc:
+                if args.provider == "edge":
+                    raise
+                print(f"::warning::{exc} Falling back to Piper voice {args.piper_voice}.", flush=True)
+                # Discard any partial edge-tts audio so the episode uses one voice throughout.
+                for leftover in chunk_dir.glob("chunk_*.mp3"):
+                    leftover.unlink()
 
-        combine_mp3_chunks_with_pydub(chunk_files, output_path)
+        if chunk_files is None:
+            chunk_files = synthesize_all_chunks_piper(chunks, chunk_dir, args.piper_voice)
+
+        combine_chunks_with_pydub(chunk_files, output_path)
 
         elapsed = time.time() - start_time
         print(f"MP3 generation completed in {elapsed:.1f} seconds.", flush=True)
