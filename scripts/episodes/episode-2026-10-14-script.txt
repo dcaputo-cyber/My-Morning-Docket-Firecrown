@@ -1,0 +1,305 @@
+MORNING DOCKET — Wednesday, October 14, 2026
+A daily brief for the general counsel of a media company.
+
+Now I have comprehensive, well-sourced material across all topic areas. Let me write the full Morning Docket script.
+
+[COLD OPEN]
+
+The week of October fourteenth opens on a legal landscape where AI training, privacy enforcement, and freight market structure are all moving at the same time in the same direction — toward consolidation, toward consequence, and away from the ambiguity that regulated industries spent the last four years hiding behind. The Third Circuit just issued the first federal appellate ruling on AI training and copyright. The United Kingdom's privacy regulator formally reconstituted itself as a board-governed body two weeks ago. And the largest freight brokerage deal in years closed at five point eight billion dollars, placing an explicit bet that artificial intelligence can cure what four years of freight recession could not. That is the week you are walking into.
+
+[INTRO]
+
+Good morning. It is Wednesday, October fourteenth, twenty twenty-six. This is Morning Docket, your briefing for the general counsel's commute. Today we have six headline items followed by a deep dive into the Thomson Reuters and Ross Intelligence Third Circuit ruling — the one your IP outside counsel has almost certainly already emailed you about. After that, the GC Bench covers the Harvey legal AI funding surge and what it means for how you evaluate your own toolstack. The industry angle covers the freight brokerage consolidation and what SONAR data is telling us about Q4 capacity. We close with three items for your watch list. Let us begin.
+
+[HEADLINE ROUNDUP]
+
+Item one. The Third Circuit, on September twenty-ninth, issued what is now the first federal appellate opinion on whether using copyrighted material to train an artificial intelligence system constitutes fair use, and the answer is no — at least on these facts.
+
+
+
+The court ruled for Thomson Reuters, holding that headnotes in the Westlaw platform are sufficiently original and thus protected by copyright, and that ROSS Intelligence's use of those headnotes to train a competing AI product did not qualify as fair use.
+
+ 
+
+The court concluded the use was highly commercial and only minimally transformative. It also found harm to both Westlaw's existing legal-research market and a developing market for licensing headnotes as AI training data.
+
+ 
+
+The decision marks the first federal appellate ruling on fair use in AI training, but the reach of the opinion is limited because the AI technology at the heart of the case was itself relatively limited — ROSS's product used training data to identify and return existing judicial passages rather than generate new expression.
+
+ 
+
+ROSS says it will seek review in the Supreme Court.
+
+ We will unpack the full implications in the deep dive.
+
+Item two. The Department of Justice's own position on AI training copyright sits in direct tension with that ruling — and it sits there on paper, filed in federal court.
+
+
+
+On September first, the United States filed a Statement of Interest applicable to all matters in the multidistrict litigation over OpenAI's use of copyrighted works to train large language models, in the Southern District of New York.
+
+ 
+
+The government advises the court to treat model training — as distinct from the use of AI to generate outputs — as a highly transformative fair use under current law, arguing that the training of AI models on copyrighted material, in and of itself, does not violate copyright laws.
+
+ 
+
+The government warned that if developers were made to license training text, only wealthy corporations would be able to continue making cutting-edge AI. It argued that mandatory licensing could create huge hurdles to entry, bolster incumbent tech firms, and transfer much of the resulting profits to existing publishers with the largest archives.
+
+ For a media holding company with original editorial content across multiple brands, this is not a background legal question. The DOJ's brief and the Third Circuit's opinion now sit in the same federal conversation pointing in opposite directions. The OpenAI MDL summary judgment motions are live.
+
+Item three. California's privacy enforcement machine has not slowed down, and the operating pattern is now consistent enough to function as compliance guidance by example.
+
+
+
+In Q1 twenty twenty-six alone, California regulators issued over four million dollars in fines across three enforcement actions — Disney at two point seventy-five million, PlayOn Sports at one point one million, and Ford at three hundred seventy-five thousand dollars.
+
+ 
+
+The enforcement actions from the first half of twenty twenty-six share a common thread: the public promise did not match the technical reality. Disney honored opt-outs on the device where they were submitted, but not across devices.
+
+ 
+
+California regulators are pursuing hundreds of open investigations, with aggressive audits around Global Privacy Control signals, manual opt-outs, adequate service provider contracts, children's data sales, and vendor contract compliance.
+
+ California has now rebranded the CPPA as CalPrivacy and it is operating with expanded enforcement authority alongside the attorney general. 
+
+Separately, California finalized the next wave of AI and privacy regulation. Senate Bill 690 eliminated the private right of action for certain California pen register violations, even as another new law creates a private right of action for harms to children from AI-powered companion chatbots.
+
+ The pattern for media companies: your opt-out infrastructure will be the first thing audited. Cross-device consistency is not optional.
+
+Item four. The UK data protection regulator is no longer a single-officeholder body. 
+
+On September thirtieth, the Information Commissioner's Office changed its legal structure and became the Information Commission. The organisation will still be known as the ICO, which now stands for the Information Commission's Office.
+
+ 
+
+The DUAA abolished the office of the single Information Commissioner and replaced it with the Information Commission, a corporate body governed by a Board. Seven non-executive members were appointed to the new Information Commission Board in July twenty twenty-six and have now assumed their roles.
+
+ 
+
+The DUAA grants the ICO new powers to strengthen regulatory oversight, including the authority to compel witnesses to attend interviews, require technical reports, and issue substantial fines of up to seventeen point five million pounds or four percent of global turnover under the Privacy and Electronic Communications Regulations.
+
+ 
+
+The ICO is preparing a new corporate strategy focused on AI, cyber resilience, children's privacy, and public services. Whether the new board and new powers lead to tougher enforcement action is likely to take time to appear in published cases, because ICO investigations take a long time to reach a penalty.
+
+ For Firecrown's UK-facing operations, the structural shift matters even if the day-to-day workflow does not change immediately. The board model historically produces more durable institutional priorities.
+
+Item five. The FTC has been busy, but not uniformly in ways that favor enforcement expansion. 
+
+On October thirteenth, the FTC moved against Digital Forensics Corporation.
+
+ 
+
+A federal court granted the FTC's request to temporarily halt the activities of Digital Forensics Corporation and its CEO for allegedly defrauding consumers out of money through a sextortion relief scheme.
+
+ 
+
+Separately, the FTC secured a price transparency settlement with Greenway Auto Group on October eighth, and issued redress payments to consumers impacted by GOAT's deceptive shipping and refund policies on October sixth.
+
+ On the ad tech side, the FTC's posture toward digital advertising has been shaped by a recurring political tension. 
+
+The FTC and a coalition of eight states reached settlements with three advertising agencies over a complaint that the agencies had worked with third parties to anticompetitively boycott conservative online publishers.
+
+ That settlement tracks a broader pattern: 
+
+the Trump administration has reshaped the Commission to enforce its political priorities, and those moves have introduced politicized oversight of the advertising market, which underpins the national media market.
+
+ For a publisher relying on programmatic advertising, this is not an abstract governance observation. It is a counterparty risk issue.
+
+Item six. Publishing subscription economics continue their structural bifurcation. The Reuters Institute's twenty twenty-six journalism trends study found that 
+
+with traffic from search and social more volatile, subscriptions are being positioned as the stabilizing core of some news publishers' businesses. Subscription and membership remain the biggest revenue focus at seventy-six percent for publishers, ahead of both display at sixty-eight percent and native advertising at sixty-four percent.
+
+ 
+
+Upmarket subscription-based publishers with strong direct traffic can see a path to long-term profitability, even as those remaining dependent on advertising and print worry about sharp revenue declines and the potential impact of AI-powered search on the bottom line. News executives also see opportunities to build new revenue from licensing content or a share of advertising revenue within chatbots.
+
+ The Atlantic now has one point four million subscribers — 
+
+half digital-only and half print and digital, up from about one million two years ago.
+
+ The model that works is direct reader revenue, reduced platform dependence, and audience data you actually control. All three of those are legal strategy questions as much as editorial ones.
+
+[DEEP DIVE]
+
+The Thomson Reuters and Ross Intelligence decision from the Third Circuit is worth ten minutes of your time because of what it says, what it does not say, and what it signals for the next twelve months of AI copyright litigation.
+
+Start with the facts. 
+
+ROSS partnered with a company named LegalEASE to create roughly twenty-five thousand training memos that would be used to build its AI legal research model. The lawyers producing those memos were told to access Westlaw but not to copy-paste from it. However, twenty-two hundred forty-three of Thomson Reuters' headnotes were copied regardless.
+
+
+
+The Third Circuit's analysis proceeded through the four fair use factors. 
+
+On the first factor — the purpose and character of the challenged use — the court found it favored Thomson Reuters. ROSS's use of the headnotes was only minimally transformative because its AI product used the headnotes in essentially the same way that Westlaw was using them: to improve a legal research service.
+
+ 
+
+Relying on the Supreme Court's twenty twenty-three Warhol versus Goldsmith decision, the court found that ROSS put the work to the same use as Westlaw and therefore the use was not transformative because it did not have a further purpose or a different character.
+
+
+
+On the fourth factor — market harm — the court identified two distinct markets that ROSS harmed. 
+
+The existing legal research market, where ROSS's AI product was designed to compete directly with Westlaw, and a developing market for licensing headnotes as AI training data.
+
+ That second market finding is the most consequential sentence in this opinion for you as a media company. The court has now validated, at the appellate level, the existence of a licensing market for content used as AI training data. When a publisher negotiates a training data licensing deal with a foundation model company, that deal is no longer commercially eccentric. It is legally grounded.
+
+Now for the limits of the ruling, and they matter. 
+
+The Third Circuit distinguished ROSS Intelligence's AI product from systems that can generate original expression, leaving the central generative-AI debate unresolved.
+
+ The court explicitly said this is an ordinary copyright case — not a referendum on the future of AI. 
+
+As Judge Montgomery-Reeves wrote: the undisputed evidence reflects that Thomson Reuters' materials possess a creative spark and ROSS aspired to be a direct competitor by using them for a highly similar purpose. The court held Thomson Reuters' materials are copyrightable and ROSS's use was not fair.
+
+
+
+The minimum transformation test and the direct-competitor market-harm finding will not automatically apply to a generative AI company that trained on web-scraped journalism and produces summaries, synthetic articles, or chatbot answers. Those are different fact patterns. But the legal logic is directionally unfavorable for the AI developers. When a foundation model company trains on your editorial content and then its product competes with your subscription offering — whether by surfacing answers instead of driving clicks, or by generating aviation content that competes with FLYING, or freight market intelligence that competes with FreightWaves — you now have an appellate court that has at minimum recognized the architecture of that harm claim.
+
+The DOJ's opposing position in the OpenAI MDL complicates the picture further. 
+
+Rather than leaving the AI training question to a broad factual spectrum, the government urges a practical rule: courts should separate internal training from public outputs and should not treat the mere use of copyrighted text to train a large language model as infringement absent a distinct use that substitutes for protected expression.
+
+ The government's brief and the Third Circuit's decision are not necessarily incompatible — they concern different AI architectures — but they create a litigation landscape where outcomes are fact-specific, circuit-specific, and likely to diverge until the Supreme Court intervenes. 
+
+The next major AI fair use hearing is Concord versus Anthropic, currently scheduled for October twenty twenty-six.
+
+
+
+Three concrete actions for your position as GC of a media holding company.
+
+First, conduct a content audit focused on training data exposure. Across FreightWaves, FLYING, Boating and Sailing, and Trains dot com, identify the categories of original editorial content that are most susceptible to scraping: headnotes and analysis, rankings and indices, original data compilations, proprietary photography. The Third Circuit specifically validated copyright in curated editorial expression. Map that exposure now rather than in response to a complaint.
+
+Second, formalize your licensing posture. The court's recognition of an emerging AI training data licensing market means a licensing framework is more enforceable today than it was thirty days ago. If your brands' terms of service do not already prohibit scraping for AI training, update them. If you are approached by a model company seeking a licensing deal, you now have a cleaner negotiating floor. The Bartz versus Anthropic settlement — 
+
+where the court ruled AI training on copyrighted books constitutes fair use, but storing pirated copies does not, leading to a one point five billion dollar settlement with an estimated payout of roughly three thousand dollars per work
+
+ — gives you a directional data point on valuation.
+
+Third, coordinate with outside copyright counsel on the DOJ statement of interest before it becomes a surprise in any proceeding. The government's position that model training is highly transformative fair use is the argument that any AI company will lead with in any licensing negotiation or dispute. Know that argument cold so you can identify where your fact pattern differs from the OpenAI MDL.
+
+[GC BENCH]
+
+On the legal technology and AI tooling side, the capital flows over the last six weeks have been clarifying.
+
+
+
+Harvey announced a five hundred fifty million dollar funding round at a fifteen point five billion dollar valuation, co-led by Diffusion and Lightspeed Venture Partners. The raise follows the introduction of Harvey's first post-trained open-weight model and the launch of Harvey LAB, the Legal Agent Benchmark.
+
+ 
+
+The round, the largest for the company to date, comes as its annual recurring revenue sits at four hundred million dollars, implying a roughly fourteen times ARR multiple on the new valuation.
+
+ That valuation acceleration — from eleven billion dollars in March to fifteen point five billion in September — reflects a competitive dynamic in the enterprise legal AI space that is moving faster than most procurement cycles.
+
+The practical question for an in-house GC at a company your size is not whether Harvey is impressive. It is whether the firm-first AI tools are actually built for the workflows of a corporate legal department. 
+
+Thomson Reuters now sells Westlaw Advantage, the successor to Westlaw Precision. Its CoCounsel plans include CoCounsel Legal, which comes with Westlaw Advantage, Practical Law, and CoCounsel Essentials.
+
+ That is a meaningful bundle for a GC who is already paying for Westlaw and wants AI layered on top of an existing research corpus.
+
+The in-house-first category is building its own evaluation record. 
+
+GC AI scored eighty-six point eight percent on one hundred in-house tasks versus ChatGPT at seventy-nine point eight percent, Claude at sixty-eight point four percent, and Gemini at fifty-seven point five percent
+
+ — scored against an attorney-graded answer key. 
+
+GC AI is used by twenty-two hundred-plus legal teams across fifty-three countries, including over two hundred public companies and twenty-five unicorns, with a net promoter score of seventy-seven.
+
+
+
+The honest evaluation framework for a six-person in-house team at a media holding company is this: your bottlenecks are probably contract review and redlines on vendor and licensing agreements, regulatory research across five states and two international jurisdictions, and workflow management when outside counsel is engaged. Those are different bottlenecks than an AmLaw firm solving partner leverage. 
+
+For general in-house legal work, purpose-built platforms like GC AI, Harvey, Wolters Kluwer, Agiloft, Spellbook, Onit, and Legora consistently receive strong reviews from legal ops professionals. For contract-intensive workflows, a CLM platform with embedded AI is often more valuable than a standalone AI assistant.
+
+ Run a structured pilot on a narrow, high-volume workflow before committing an annual contract. The tool that wins on a benchmark may not win on your actual document types.
+
+[INDUSTRY ANGLE]
+
+Freight, aviation, and marine. Three things this week.
+
+On trucking, the largest deal in freight brokerage in years closed October fifth. 
+
+C.H. Robinson and RXO announced that C.H. Robinson will acquire RXO in a stock-and-cash transaction for an implied value of five point eight billion dollars, creating a combined company with an enterprise value of over twenty-five billion dollars.
+
+ 
+
+The deal is centered around a bet that artificial intelligence can help the companies improve efficiency in a challenging freight market. C.H. Robinson aims to capitalize on RXO's abilities in expedited and last-mile delivery and intends to use its AI system to extract three hundred million dollars of cost savings within two years.
+
+ 
+
+Both boards approved the agreement unanimously. The companies expect to close in the first half of twenty twenty-seven, pending regulatory approval and a vote by RXO stockholders.
+
+ For anyone watching freight market structure through SONAR, brokerage consolidation at this scale reduces the intermediary layer and shifts pricing power. That has rate implications for shippers and capacity implications for carriers, particularly in the spot market.
+
+On the SONAR view of the current market, FreightWaves' October state-of-the-industry report, published in affiliation with Ryder, summarized conditions clearly. 
+
+Freight demand remains steady but the market is still fragile, with post-Labor Day volatility highlighting how quickly capacity and pricing conditions can shift. Import volumes remain strong, with major U.S. ports reporting near-record container activity as shippers continue to carefully manage inventory levels.
+
+ 
+
+SONAR data shows van tender rejections hit fourteen percent, with the Midwest's sustained tightness telling a more meaningful long-term story about capacity than Northwestern harvest-driven compression.
+
+ 
+
+DHL Express joined FedEx in announcing a five point nine percent twenty twenty-seven general rate increase, and peak surcharges are now live at the major carriers. The market is tightening fast.
+
+
+
+On the autonomous trucking front — directly relevant to FreightWaves coverage and to any aviation and transport adjacent editorial planning — 
+
+Kodiak AI and Charger USA launched an autonomous trucking service between Dallas and Laredo, Texas, with plans to eventually remove the safety driver. Trucks equipped with the Kodiak Driver are hauling refrigerated and dry freight on the four hundred thirty-five-mile route between Charger's terminals in Dallas and Laredo.
+
+ 
+
+This marks Kodiak's first route serving Laredo, the highest-volume commercial land port of entry in the United States.
+
+ 
+
+Kodiak's Autonomy Readiness Measure reached ninety-six percent at the end of September, up from ninety-three percent at the end of August and eighty-four percent in February. The company plans to launch long-haul driverless service by the end of twenty twenty-six on its Dallas-Houston lane.
+
+ For the aviation and marine side: 
+
+the Drewry World Container Index fell two percent to four thousand three hundred fifty-one dollars per forty-foot container in the week ending October eighth, driven by a decrease in rates on the transpacific and Asia-Europe routes as demand weakened during China's Golden Week. Shanghai to Los Angeles fell three percent to seven thousand six hundred twenty-four dollars per container, while Shanghai to New York decreased two percent to ten thousand two hundred twenty dollars.
+
+ 
+
+As of October tenth, transpacific rates have remained at very high levels even as Asia-Europe rates have fallen back, widening the gap between the two routes.
+
+ The US-bound rate premium is being sustained by strong import demand, and 
+
+three-week forward import volume into Long Beach is running roughly fifty percent above year-ago levels.
+
+
+
+[CLOSING BRIEF]
+
+Three items for your watch list.
+
+First: the Concord versus Anthropic fair use hearing this month. 
+
+Concord versus Anthropic is currently scheduled for October twenty twenty-six.
+
+ After the Third Circuit's Ross ruling and the DOJ's statement in the OpenAI MDL, this hearing is the next substantive data point on whether training on commercially licensed, legally acquired content is treated differently from other fact patterns. A ruling unfavorable to Anthropic on any factor shifts the licensing calculus for every media company with content in generative training datasets.
+
+Second: the ICO's new enforcement procedural guidance. 
+
+The ICO published draft enforcement procedural guidance setting out the process it intends to follow when carrying out investigations and taking enforcement action, confirming that while it aims to give organisations certainty first, it can, and will, use these powers where necessary for the most serious cases.
+
+ Final guidance is awaited. When it drops, the specific triggers for witness compulsion and mandatory technical reports will need to be mapped against your UK data processing activities — particularly anything touching behavioral advertising, tracking, or cross-border data transfers for your digital brands.
+
+Third: the UP and Norfolk Southern merger review. 
+
+This week, the UP-Norfolk Southern review advanced, and air cargo buyers are shortening commitments ahead of peak season.
+
+ For Trains dot com and rail-adjacent editorial coverage, a combined Union Pacific and Norfolk Southern entity would create a duopoly in Class I rail that reshapes every shipper's modal calculus. The STB review timeline and the antitrust disposition of this administration toward rail consolidation are worth tracking closely. FreightWaves and SONAR will have the earliest signal on rate movement when and if a decision is reached.
+
+[SIGNOFF]
+
+That is Morning Docket for Wednesday, October fourteenth, twenty twenty-six. Today's three headline actions: pull your training data exposure audit onto the agenda in light of the Third Circuit ruling, map your UK data processing activities against the new ICO enforcement toolkit, and brief your editorial leadership at FreightWaves on the C.H. Robinson and RXO deal and what SONAR data is signaling about Q4 capacity. Have a productive morning.
+END OF EPISODE.
