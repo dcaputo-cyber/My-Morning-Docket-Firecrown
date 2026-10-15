@@ -1,0 +1,265 @@
+MORNING DOCKET — Thursday, October 15, 2026
+A daily brief for the general counsel of a media company.
+
+I'll research all these topic areas simultaneously before writing the script.
+
+Now I have all the research I need to write today's Morning Docket script. Let me compose it.
+
+[COLD OPEN]
+
+A week after California's governor signed expanded deletion rights into the consumer privacy act, a federal judge in San Jose is six days away from a summary judgment hearing that could set the most consequential precedent in AI copyright to date. Meanwhile, the FTC opened the door — just barely, and only at the ANPRM stage — to holding platforms financially responsible for the algorithmic machinery that runs scam ads. Three threads, all converging on the same fundamental question: who owns the infrastructure of the information economy, and what does owning it obligate you to do?
+
+[INTRO]
+
+Good morning. It is Thursday, October 15, 2026, and this is Morning Docket. I'm your producer. Today we are covering California's fall privacy package, a fresh FTC ad-tech rulemaking signal, the approaching Concord-Anthropic summary judgment hearing, where publishers are placing their AI bets this week, the UK Information Commissioner's simultaneous carrot and stick on AI data protection, and what Craig Fuller's SONAR data is telling us about diesel prices and Q4 freight capacity. We have a deep dive into California's expanded CCPA deletion rights and what they mean specifically for a media holding company with multiple digital properties, reader-facing e-commerce, and subscription data. We also have new legal technology news that landed yesterday morning from Harvey. A lot to cover. Let us get into it.
+
+[HEADLINE ROUNDUP]
+
+
+
+The first item: California's fall 2026 privacy package. Before the September 30th deadline, Governor Newsom acted on several privacy-related bills. The most significant for publishers is Senate Bill 923, which expands deletion rights under the CCPA to cover third-party-sourced data — meaning data collected about a consumer rather than only data collected directly from that consumer.
+
+ That is a substantive scope expansion. 
+
+The prior regime covered only information the business collected directly from the consumer. Senate Bill 923 now requires businesses to delete personal information collected about the consumer as well.
+
+ For a media company like Firecrown that operates audience data enrichment, syndication, or third-party data partnerships across properties like FreightWaves, FLYING, or Boating and Sailing, this changes the math on your deletion request workflows starting from the law's effective date. Separately, 
+
+Senate Bill 690 eliminates the private right of action under the California Invasion of Privacy Act for certain online activities
+
+ — a partial reprieve from the wave of CIPA wiretapping suits that have hit publishers using session-replay or pixel analytics tools.
+
+Second item: the FTC and ad-tech platform liability. 
+
+On September 24th, the FTC announced an advance notice of proposed rulemaking examining whether online platforms' ad-optimization tools help spread ads that impersonate businesses or government agencies.
+
+ This is early-stage — very early. 
+
+It is an advance notice, the first and most preliminary step in FTC rulemaking. There is no proposed rule text anywhere in the notice. Nothing in it binds any platform today.
+
+ But the theory of liability is worth watching carefully. 
+
+The ANPRM specifically targets the algorithmic ad-optimization tools that amplify fraudulent content, expanding the agency's liability theory upstream from scammers to the platforms that profit from amplifying them.
+
+ 
+
+Across all imposter scam categories, the FTC received more than one million imposter reports in 2025, with consumers reporting nearly three and a half billion dollars in losses.
+
+ 
+
+Comments are due on or before November 30th.
+
+ For a company whose brands include digital advertising inventory, this is a proceeding to monitor even though it is not an immediate compliance obligation.
+
+Third item: the UK ICO's dual moves this week on AI and data protection. 
+
+On October 8th, the UK's Information Commissioner's Office announced that ten major AI foundation model developers had implemented, or committed to implementing, changes to their data protection practices.
+
+ 
+
+The ten companies are Amazon, Anthropic, Apple, Cohere, DeepSeek, Google, Meta, Microsoft, OpenAI and Stability AI. The changes include clearer information about personal data processing, improved mechanisms for individuals to exercise their data protection rights, and more extensive assessments of safeguards.
+
+ Notably, 
+
+one company was not among the ten that made or committed to make changes: Elon Musk's xAI. The regulator paused its engagement and opened a separate formal investigation into the Grok chatbot.
+
+ The message is unmistakable — cooperation gets you negotiated commitments, non-cooperation gets you a formal investigation. Then, this week, 
+
+the ICO issued a reprimand and enforcement notice to the Metropolitan Police Service after finding that its officers and staff shared personal information using an unapproved third-party retail crime intelligence-sharing platform without appropriate data protection safeguards, governance, or oversight.
+
+ Two actions in one week — AI developers and law enforcement both — signals a regulator using its full range under the Data Use and Access Act.
+
+Fourth item: publishers making their AI bets. Two news items landed in quick succession. 
+
+On October 9th, USA Today Company sued OpenAI for the unauthorized use of hundreds of thousands of articles across its nineteen publications, seeking two hundred and fifty million dollars in damages. Alongside USA Today itself, local titles cited in the lawsuit include The Tennessean, Indy Star, Detroit Free Press, and The Des Moines Register.
+
+ That case was filed in the Southern District of New York. On the same day, on the other side of the ledger, 
+
+Reach became the latest publisher to take part in Google's news AI pilot programme, allowing the tech giant enhanced content rights for use of its news content.
+
+ So within forty-eight hours you have a major American publisher suing an AI company and a major British publisher licensing to one. That split strategy is the defining dynamic in publishing right now. 
+
+As AI-generated answers increasingly keep users on search platforms, publishers are already seeing fewer readers click through to their sites. Google traffic from organic search to more than twenty-five hundred sites was down by a third globally last year. Fewer opportunities to reach new audiences make it harder to acquire subscribers — and make the value of existing subscribers soar.
+
+
+
+Fifth item: SEC governance signals. The commission has been active on two governance tracks this month. 
+
+On October 7th, the SEC issued a report of investigation addressing when engagement with multistakeholder initiatives may cause investors to be treated as a group under Section 13(d) of the Securities Exchange Act.
+
+ That report, combined with 
+
+new Corporation Finance interpretations published September 2nd, updates the SEC's guidance on shareholders' eligibility to report beneficial ownership on Schedule 13G, specifically addressing whether certain forms of shareholder engagement are consistent with the requirement that a 13G filer not hold securities for the purpose of changing or influencing the control of the issuer.
+
+ The practical upshot: 
+
+the updated guidance identifies three categories of engagement that will not, by themselves, cause a shareholder to lose 13G eligibility: certain issuer-initiated discussions; certain discussions with persons engaged in a proxy solicitation; and discussions with an issuer to clarify its disclosures or public communications.
+
+ For privately held Firecrown this is background noise, but for any equity holders or future capital partners navigating reporting thresholds, the clarification matters.
+
+[DEEP DIVE]
+
+Today's deep dive: California's expanded deletion rights under Senate Bill 923 and what they require from a media holding company with multiple digital properties, reader e-commerce, and layered subscriber data.
+
+Start with the scope shift. Under the prior CCPA framework, 
+
+California consumers could request deletion of their personal information, but that right covered only information collected directly from the consumer.
+
+ 
+
+Senate Bill 923 — the Expanding Privacy Rights Act — amends the CCPA to require businesses to delete personal information collected from or about a consumer, rather than only information collected directly from that consumer.
+
+ That three-letter preposition swap — from to about — is not cosmetic. It captures data your business obtained from a data broker, a co-registration partner, a list purchase, an audience enrichment service, or inferred from behavioral signals. If your brand enriches subscriber profiles with third-party demographic overlays, every record in that overlay is now potentially subject to a deletion request from a California resident.
+
+Layer in the enforcement picture. 
+
+Early 2026 saw three significant enforcement actions under CCPA, with combined penalties exceeding four point two million dollars. Together, they reveal intensifying regulatory focus on how businesses implement opt-out mechanisms, comply with opt-out preference signals, and facilitate consumer rights requests.
+
+ The cases that matter most for this room are the ones involving media and sports-adjacent digital platforms. 
+
+In Q1 2026 alone, California regulators issued over four million dollars in fines across three enforcement actions — Disney at two point seven five million, PlayOn Sports at one point one million, and Ford at three hundred and seventy-five thousand.
+
+ Disney is directly analogous to a multi-brand digital publisher. They failed to honor opt-outs account-wide across linked services. 
+
+The compliance order requires Disney to implement opt-out choices account-wide on each web property, application, and device used to access Disney services.
+
+ If you run FreightWaves, FLYING, Trains.com, Boating and Sailing, and Spacestore as separate front ends that share a common identity graph or subscriber database, you have a version of the same architecture that got Disney fined.
+
+What does a media holding company specifically need to review after Senate Bill 923?
+
+First, your data inventory. 
+
+CalPrivacy's enforcement orders now require businesses to maintain comprehensive inventories of tracking tools used on their websites and to conduct internal audits and monitoring to ensure that opt-out choices are fully applied to those technologies.
+
+ Do you know every third-party audience segment, every lookalike model, every behavioral dataset that lives in your advertising or editorial stack? If your answer is partial, that is your starting point.
+
+Second, your deletion workflows. A deletion request from a California subscriber now triggers an obligation that runs to data you did not collect directly. That means you need to map your data supply chain upstream. Which data vendors provided enriched records about your subscribers? Do your vendor contracts include data deletion pass-through provisions? Most do not unless you specifically negotiated them, and Senate Bill 923 creates the pressure to address that in your next contract cycle.
+
+Third, 
+
+online-only businesses with direct relationships with consumers previously only had to offer an email address for privacy rights requests. Now they must also offer an online method, such as a web form or an online portal.
+
+ If any Firecrown property is currently honoring requests only by email, that needs to change now.
+
+Fourth, the cookie and analytics intersection. Under the parallel changes from the Data Use and Access Act in the UK, there is a divergence from the US framework worth noting. In the UK, 
+
+the analytics exemption is particularly significant. If your sole purpose is collecting aggregate statistics to improve your website, you can now run analytics without consent — but you must clearly explain the use, offer a simple free way to opt out, and ensure the data cannot be used to identify individual visitors. The ICO has been explicit that advertising-related activities sit outside those exemptions.
+
+ So the UK is loosening on aggregate analytics while remaining strict on advertising. California is tightening on deletion scope while also loosening some CIPA exposure via SB 690. You have a patchwork, and you need jurisdiction-by-jurisdiction mapping of your properties.
+
+Three concrete actions for in-house GC.
+
+One: conduct a deletion request audit. Pull the last ninety days of deletion requests across all Firecrown properties and trace each one through to completion. Identify any request that was fulfilled only as to directly collected data and flag it for remediation under the expanded standard.
+
+Two: add deletion pass-through clauses to your data vendor agreements. The next renewal cycle for any third-party data provider — any enrichment vendor, any co-registration partner, any audience extension platform — should include an explicit obligation on the vendor's part to honor deletion requests that you pass through. Set a deadline for every existing vendor relationship.
+
+Three: commission a cross-property data flow diagram before year-end. Map how subscriber identity, behavioral data, and third-party enrichment data move between FreightWaves, FLYING, Trains.com, Boating and Sailing, and Spacestore. That diagram is your compliance roadmap and your litigation defense. You want it documented, dated, and updated annually.
+
+[GC BENCH]
+
+Legal technology this week, through the in-house filter.
+
+The biggest product news landed yesterday. 
+
+Harvey launched Intake, its new legal front door for the in-house world. It not only helps funnel contracts to the right lawyers but also performs an initial first-pass review via agents of any incoming work. Early access begins this month.
+
+ 
+
+Intake was designed with several major in-house groups, including those at Carvana, GE Aerospace, and Dentsu. Harvey noted it now works with sixteen hundred in-house legal teams, including five of the Fortune Ten.
+
+ The practical pitch is triage automation. 
+
+The system extends Harvey's contract intelligence capability to handle intake and triage, along with initial review outputs. Intake captures requests from the tools people already use, routes each request to the right agent or lawyer, and Harvey resolves routine requests while taking a first pass on the rest, so lawyers can focus on judgment, not triaging.
+
+
+
+That is directly relevant to a lean in-house function covering a multi-brand holding company. When you are the general counsel for FreightWaves editorial contracts, FLYING advertiser agreements, Spacestore vendor terms, and Trains.com licensing simultaneously, the bottleneck is not legal judgment — it is triage. A legal intake layer that categorizes, prioritizes, and does a first-pass review before you open the document has real ROI at that scale.
+
+Separately, on the broader market: 
+
+in-house AI adoption crossed eighty-seven percent in 2026. The General Counsel Report from FTI Consulting and Relativity puts in-house generative AI usage at eighty-seven percent, nearly double the forty-four percent from a year prior.
+
+ The category has crossed the early-adopter line. The conversation now is not whether to deploy, but which workflow to address first and how to govern it. For a holding company GC, the highest-leverage first deployment is almost always contract review — specifically the pattern-matching work of flagging non-standard indemnification, IP ownership, and data licensing clauses against a playbook you have already built from your prior negotiations.
+
+One caution on Harvey specifically: 
+
+there is no self-serve or small-firm tier. Harvey targets AmLaw 200 firms, Big Four professional services firms, and large in-house legal departments.
+
+ If your legal team does not have volume to justify enterprise pricing, the purpose-built in-house platforms with published per-seat pricing and no seat minimum remain the more accessible entry point.
+
+[INDUSTRY ANGLE]
+
+Freight, aviation, and marine — through the FreightWaves and SONAR lens.
+
+
+
+Craig Fuller, diving into the latest SONAR data this week, reveals that contract rates are climbing past recession highs, spot rates are trending up toward peak, and demand is not the primary driver of current market volume. Diesel prices are providing little relief, having topped six dollars and fifty cents per gallon — an all-time record — before pulling back modestly.
+
+ 
+
+Fuller cited uncertainty around a reported Russia supply deal and ongoing drone strikes on Russian refineries as factors muddying the diesel outlook, along with discussions of a potential US export ban.
+
+
+
+The capacity-demand dynamic is equally important to understand. 
+
+SONAR data supports the same broader picture. Tender rejections remained around fourteen percent in late September even as freight volumes stayed uneven. The market is not being supported by booming demand — it is still being supported largely by limited capacity.
+
+ 
+
+Fuller attributed volume softening partly to AI data center-related freight shifts, but also to unusual drag in food and beverage, driven by higher inflation, reduced SNAP benefits, and GLP-1 medications curbing consumption.
+
+ That last item is a genuinely novel freight signal — a pharmaceutical trend producing a measurable tonnage effect in consumer goods.
+
+On the rail side, 
+
+the US Department of Transportation has signed a deal to receive high-frequency freight market data from SONAR
+
+ — a validation that real-time freight intelligence has moved from a niche commodity pricing tool into an instrument of federal market oversight.
+
+For FreightWaves as a media brand, this Q4 freight picture — diesel at record highs, capacity tight but demand patchy, food and beverage dragging — is the story environment heading into the F3 Future of Freight Festival. 
+
+The festival is October 27th and 28th at The Signal in Chattanooga
+
+, two weeks out. That proximity is relevant from a content and commercial planning standpoint.
+
+On aviation: 
+
+aviation posted strong trailing-year numbers, up about twenty point seven percent equity return year over year, though Q1 equity performance pulled back ten point two percent as carriers faced higher costs and uncertain demand.
+
+ 
+
+PwC's midyear deals outlook is direct: the freight recession is over.
+
+ That is the headline for the FLYING audience and for Boating and Sailing readers as well — the discretionary transportation and recreational sectors are recovering, but cost pressure from fuel and crew is squeezing margins at the operator level.
+
+[CLOSING BRIEF]
+
+Three things on the watch list between now and next Thursday.
+
+First: the Concord Music Group versus Anthropic summary judgment hearing. 
+
+The hearing is set for October 21st before Judge Lee in San Jose. This is one of only three copyright cases against AI companies that have completed summary judgment briefing this year.
+
+ 
+
+The questions before the court are whether partial summary judgment on copyright infringement should be granted to the plaintiffs, or whether summary judgment on fair use and non-infringement should be granted to Anthropic.
+
+ This is a music copyright case, not a news publishing case, but the fair use doctrine is not industry-specific. Whatever Judge Lee says about the relationship between AI training and transformativeness will land in every subsequent brief filed in every pending case — including the USA Today case filed last week and the Emmerich Newspapers case filed against Microsoft and OpenAI on October 2nd. Watch this closely.
+
+Second: the FTC's closed commission meeting on October 14th. 
+
+The commission held a meeting closed to the public yesterday for consideration of a nonpublic law enforcement matter. The vote to close the meeting was two to zero.
+
+ We do not know what was authorized. In the context of an agency that has been active on ad-tech, subscription marketing, and AI claims, that closed meeting could produce an action in any of those verticals. Watch for a press release in the coming days.
+
+Third: the FTC's ANPRM comment deadline. 
+
+The commission is soliciting comment on whether ad-optimization services offered by digital marketplace platforms assist impersonation scams, with comments due on or before November 30th.
+
+ If Firecrown's properties sell programmatic advertising or operate an ad network, your ad operations team and your GC should be reading that ANPRM together. The comment window is the moment to shape what the eventual rule looks like — not to wait for a proposed rule and react.
+
+[SIGNOFF]
+
+That is Morning Docket for Thursday, October 15, 2026. Research your deletion workflows, flag the October 21st hearing in your calendar, and look at the Harvey Intake early access program if triage is your bottleneck. We will be back tomorrow morning. Safe travels, Darren.
+END OF EPISODE.
