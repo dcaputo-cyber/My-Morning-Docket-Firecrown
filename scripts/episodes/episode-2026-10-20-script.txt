@@ -1,0 +1,285 @@
+MORNING DOCKET — Tuesday, October 20, 2026
+A daily brief for the general counsel of a media company.
+
+[COLD OPEN]
+
+Three stories landed in the last seven days that pull in the same direction. The Third Circuit became the first federal appeals court to rule on whether using copyrighted material to train an AI is fair use — and the answer was no. USA TODAY and nineteen affiliated newspapers then filed a quarter-billion-dollar lawsuit making precisely that argument against OpenAI. And the FTC, the same morning it cleared a two-point-two-billion-dollar ad tech acquisition, was officially designated by the White House as the lead enforcement agency for AI consumer protection. The legal architecture around artificial intelligence is being built in real time, and it is being built faster than most in-house legal teams anticipated.
+
+[INTRO]
+
+Good morning. It is Tuesday, October 20, 2026. I'm your Morning Docket. This is your briefing, Darren.
+
+Today we have five headline items: the FTC's consent order on Publicis and LiveRamp; California's expanding CCPA deletion rights after Governor Newsom's September bill-signing; the Third Circuit's landmark Thomson Reuters ruling and the USA TODAY lawsuit that followed it; Google's expansion of its paid news AI pilot to more than four hundred publications; and the freight market picture out of FreightWaves and SONAR. After the roundup, the deep dive goes long on the Third Circuit ruling — what it decided, what it did not decide, and what a media GC should do about it before the year is out. Then the GC Bench covers where the in-house legal AI landscape stands right now, and the industry angle covers the aviation and marine freight signals that matter to a company with a FLYING audience and a boating portfolio. We close with three items on the watch list. Let's get into it.
+
+[HEADLINE ROUNDUP]
+
+First item. The FTC cleared the Publicis Groupe acquisition of LiveRamp yesterday — October 19th — but only with significant structural conditions. 
+
+LiveRamp shares rose two percent after the Commission approved the two-point-two-billion-dollar acquisition with conditions designed to preserve competition in the digital advertising market. The FTC issued a consent order requiring Publicis to maintain neutral and nondiscriminatory access to LiveRamp's products and services and establish firewalls to prevent Publicis from accessing LiveRamp customer data.
+
+ 
+
+The Commission's complaint raised concerns that the combination would harm competition in markets for media agency services and audience data services, and alleged that the deal would give Publicis the ability to foreclose customers of competing media agencies by leveraging control of LiveRamp to pressure clients to switch their business to Publicis.
+
+ 
+
+Under the order, Publicis and LiveRamp must provide nondiscriminatory access to LiveRamp's standalone products for five years, and the companies must appoint an independent auditor to verify compliance.
+
+
+
+For a publishing company that relies on programmatic advertising, this is consequential. LiveRamp sits inside the identity resolution stack that many mid-size publishers use to connect first-party audience data with advertiser demand. Five years of enforced neutrality is meaningful — but five years ends, and the auditor arrangement has finite teeth. Watch the compliance filings.
+
+Second item. California Governor Newsom signed a package of privacy bills before the September thirtieth deadline. The one most relevant to media companies is Senate Bill 923. 
+
+California enacted several significant privacy law changes in 2026, including Senate Bill 923, which expands deletion rights under the CCPA to cover third-party-sourced data.
+
+ Previously, a consumer's right to delete applied to data a company collected directly. Now, if a company received that consumer's data from a data broker, a list provider, or a content partner, the deletion obligation follows. 
+
+The governor also signed Senate Bill 690, which eliminates the private right of action under the California Invasion of Privacy Act for certain online activities
+
+ — which is a meaningful narrowing of a statute that had been weaponized in class actions targeting session replay software and chatbot wiretapping claims. The CIPA private right of action rollback is a real win for digital publishers. SB 923's expanded deletion scope is a new compliance burden, particularly if your brands aggregate data from third-party mailing list vendors.
+
+Third item. On October 8th, USA TODAY Co. and nineteen affiliated newspaper publishers filed a copyright infringement lawsuit against OpenAI in the Southern District of New York. 
+
+Filed in the US District Court for the Southern District of New York, the complaint seeks damages in excess of two hundred fifty million dollars and a court order blocking the alleged infringement. The publishers allege that OpenAI copied hundreds of thousands of articles and other materials from their publications to train the technology behind ChatGPT.
+
+ 
+
+The plaintiffs also allege that OpenAI's internal communications show that the company deliberately targeted news content and knew its models could reproduce that material.
+
+ This filing adds to a landscape that now, according to a public tracker updated October 8th, 
+
+counts two hundred forty-eight lawsuits against seventy-six AI companies across fourteen jurisdictions.
+
+ The USA TODAY case is particularly relevant for any publisher with a large archive of journalism. The internal communications allegation, if it survives discovery, could change the willfulness calculus entirely.
+
+Fourth item. Google announced on October 15th that its paid News AI pilot program has grown to more than four hundred publications worldwide. 
+
+Through its licensing program, Google acknowledged it is paying participating news publications for the delivery and use of their content to develop new AI features. The program now partners with more than four hundred publications.
+
+ 
+
+The experiences include in-depth article overviews on publisher pages and customizable audio briefings. The articles include clear attribution and direct links. Axios, CNN, the Financial Times, and Forbes are among the newest partners.
+
+ There is a parallel AI contribution pilot run through Search Console, and the early payment numbers from that program are sobering: 
+
+the payments amount to less than zero-point-one percent of advertising revenue for several small and mid-sized publishers. Around one hundred digital publishers are in that contribution pilot, with wildly uneven results: some small sites have earned under one thousand dollars over several months, while one early participant is on a run rate above one million dollars a year.
+
+ The scale dispersion is enormous. For a specialty publisher like the Firecrown portfolio, the question is whether niche authority translates to disproportionate AI contribution value — or whether the economics favor volume news operations.
+
+Fifth item. California's CCPA enforcement posture continued to intensify. According to the CCPA enforcement tracker updated October 12th, 
+
+CCPA enforcement in 2026 has now produced twelve actions and eighteen-point-one million dollars in total penalties year to date.
+
+ 
+
+The March 2026 PlayOn Sports settlement established that prior remediation is no longer a penalty shield.
+
+ 
+
+And one California investigation can now expand to eight additional states simultaneously, because the nine-state Consortium of Privacy Regulators coordinates investigations, shares evidence, and pursues joint enforcement actions.
+
+ For any company running cross-device advertising that monetizes audience data, the opt-out friction theme continues to be the enforcement tripwire. 
+
+Regulators are specifically targeting excessive verification requirements and ineffective opt-out methods like phone or email forms that do not actually stop web-based tracking technologies.
+
+
+
+[DEEP DIVE]
+
+Now the deep dive. Ten minutes on what the Third Circuit ruling in Thomson Reuters v. ROSS Intelligence actually means, what it does not mean, and what three actions a GC at a media company should take before the end of the fourth quarter.
+
+Start with the facts. 
+
+Thomson Reuters sued the now-defunct AI startup ROSS Intelligence, claiming ROSS took headnotes — short descriptions of important legal issues appearing before judicial opinions — from its Westlaw database, using a third party called LegalEase Solutions to gain access after Westlaw refused direct access. ROSS then used that data to train an AI product designed to compete directly with Westlaw.
+
+
+
+
+
+On September 29th, 2026, a three-judge Third Circuit panel affirmed a district court decision, making this the first federal appellate ruling on fair use in the context of AI training data.
+
+ 
+
+In ruling for Thomson Reuters, the court held that the Westlaw headnotes are sufficiently original and thus protected by copyright, and that use of those headnotes to train a competing product did not qualify as fair use.
+
+
+
+Walk through the four-factor analysis the court applied. 
+
+The court concluded that the use was highly commercial and only minimally transformative, and it found harm to both Westlaw's existing legal-research market and a developing market for licensing headnotes as AI training data.
+
+ 
+
+On the third factor — amount and substantiality — the court found that ROSS copied entire headnotes without sufficiently transformative justification. The court rejected ROSS's argument that the copied material represented only a small fraction of Thomson Reuters' collection, explaining that each headnote was independently copyrightable.
+
+ Three of four factors went against ROSS. 
+
+With three of the four factors weighing against fair use, the Third Circuit affirmed partial summary judgment for Thomson Reuters.
+
+
+
+Now, the limits — and these limits matter enormously for generative AI companies. 
+
+The court emphasized that its holding was limited to the non-generative AI system at issue, leaving broader questions concerning generative AI training unresolved.
+
+ 
+
+The opinion does not establish that every use of copyrighted material in AI training is infringing or that every AI-training fair-use defense must fail. It confirms more specifically that the involvement of machine learning does not displace ordinary copyright analysis where protectable expression is copied and used for a closely similar competitive purpose.
+
+
+
+So what carries forward from this ruling? The most legally durable holding is on market harm. 
+
+Market harm under factor four now has appellate backing for the proposition that a licensing market for training data counts as a market, even where none existed before the defendant's conduct. That reasoning does not care whether the model is generative.
+
+ That is significant. It means that any AI company that trains on a publisher's content is now on notice that a court can recognize a nascent licensing market as a real market for fair use purposes — regardless of whether that licensing market existed at the time of the copying.
+
+Layer on the USA TODAY filing from October 8th. 
+
+The complaint alleges that OpenAI accessed the publishers' copyrighted material to train consumer-facing products such as ChatGPT. The plaintiffs also allege that OpenAI's internal communications show that the company deliberately targeted news content and knew its models could reproduce that material.
+
+ If those internal communications show what the plaintiffs claim, the willfulness analysis in the USA TODAY case will look very different from the ROSS situation, where ROSS was a non-generative system run by a startup that is now defunct. The USA TODAY case involves a well-capitalized generative AI company with extensive contemporaneous records.
+
+The Anthropic settlement from earlier in 2026 adds another data point. 
+
+Even where a court drew a hard line around how training data was obtained and stored — specifically Anthropic's practice of retaining pirated digital copies of books — the case ultimately settled for one-point-five billion dollars, with individual payouts estimated near three thousand dollars per infringed work.
+
+ The settlement arithmetic is clarifying. If you are a publisher with a large archive, you have a rough valuation framework for what the market thinks individual works are worth in this litigation context.
+
+Now, the three concrete actions a media and publishing GC should take before year-end.
+
+Action one: conduct a content asset audit with AI-licensing monetization in mind. The Thomson Reuters ruling confirms that a licensing market for training data is cognizable. The Google News AI pilot confirms that licensing revenue — however uneven at this stage — is real. 
+
+An IAB survey of one hundred ten US publishers found fifty-one percent had signed AI licensing deals, but only twenty percent of small independents had done so.
+
+ If your editorial archives have not been surveyed for their AI-training value, that gap is now a governance deficiency. Identify the highest-specificity, lowest-substitutability content across the Firecrown portfolio — the proprietary freight data analysis at FreightWaves, the technical pilot content at FLYING, the marine market intelligence in the Boating and Sailing titles. That content is the most defensible and the most potentially licensable.
+
+Action two: audit your inbound AI vendor contracts. Every SaaS tool your teams use — editorial workflow software, ad tech platforms, analytics vendors — likely contains provisions about how user-generated or user-uploaded content is used for model training. Post-ROSS, any clause that permits a vendor to use your proprietary content to train a product that competes with your data products carries legal risk that courts are now willing to quantify. That clause review belongs on the Q4 legal calendar.
+
+Action three: build a documented opt-in stance for web crawlers and review your robots.txt implementation. 
+
+For businesses developing AI systems, the decision underscores the importance of examining what training materials contain, how they were obtained, the purpose for which they are used and the relationship between the resulting product and the copyright owner's market.
+
+ The inverse of that analysis applies to a publisher protecting its own content: you want a clear, documented record of what crawlers you have permitted, what you have blocked, and when those decisions were made. If litigation arises, that record is your contemporaneous evidence of the licensing market you intended to create.
+
+[GC BENCH]
+
+The GC Bench. Legal technology and AI tools for in-house counsel.
+
+
+
+The Trump administration has tapped the FTC to lead consumer protection and law enforcement on artificial intelligence. The White House AI task force agreed to have FTC Chairman Andrew Ferguson lead the law enforcement and consumer protection coordination committee, which includes the Justice Department.
+
+ 
+
+The task force follows a document signed by Trump with tech leaders that appears to set in place a light-touch regulatory approach to AI.
+
+ The structural read: FTC takes the enforcement role, the White House signals industry self-regulation. For an in-house GC, that means consumer-facing AI products — anything in your stack that touches readers, subscribers, or advertising targets — carry FTC scrutiny risk, while the product development side enjoys a more permissive federal posture. You need both maps.
+
+On the tools landscape. Thomson Reuters has rebranded its flagship research product. 
+
+Thomson Reuters' Westlaw Precision has been succeeded by Westlaw Advantage, and CoCounsel is now sold as CoCounsel Legal, which includes Westlaw Advantage.
+
+ For any team that runs CoCounsel for legal research, audit your current license tier and confirm whether Westlaw Advantage is included — the successor product carries different data rights and pricing than Precision did.
+
+On purpose-built in-house counsel platforms: the market is maturing rapidly. 
+
+In independent benchmarking across one hundred in-house legal tasks, GC AI scored eighty-six-point-eight percent correct compared to ChatGPT at seventy-nine-point-eight percent, Claude at sixty-eight-point-four percent, and Gemini at fifty-seven-point-five percent.
+
+ The practical filter for a GC at a private media holding company with multiple brands and a small legal team: the most valuable feature in any in-house AI platform is not raw accuracy — it is matter memory, playbook persistence, and the ability to handle regulatory research alongside contract review without switching platforms. 
+
+For general in-house legal work, purpose-built platforms like GC AI, Harvey, Wolters Kluwer, and Legora consistently receive strong reviews. For contract-intensive workflows, a CLM platform with embedded AI is often more valuable than a standalone AI assistant.
+
+ Given Firecrown's mix of brand acquisitions, e-commerce through Spacestore, and cross-border data obligations under both CCPA and the UK DUAA, you want a platform with demonstrated regulatory research depth — not one retrofitted from law firm contract review tools.
+
+[INDUSTRY ANGLE]
+
+The industry angle. Freight, aviation, and marine — the sectors that sit at the core of Firecrown's audience and the economic environment surrounding their readers.
+
+On freight. The SONAR data through mid-October is striking. 
+
+The SONAR Truckload Rejection Index hit fourteen percent in October — a significant development outside normal seasonal patterns. This is not driven by a demand spike, but rather by persistent market imbalance and insufficient supply.
+
+ 
+
+As of the week of October 12th, national spot truckload rates are approximately three dollars and nine cents per mile for dry van and three dollars and sixty-five cents per mile for both reefer and flatbed, all-in including fuel.
+
+ 
+
+Craig Fuller, in a SONAR analysis published October 13th, noted that contract rates are climbing past recession highs and spot rates are trending toward peak. Diesel prices topped six dollars and fifty cents per gallon — an all-time record — before pulling back modestly.
+
+ 
+
+Fuller cited freight market analysis suggesting that the market strength is not primarily demand-driven — it is related to capacity and relative supply dynamics.
+
+
+
+The structural capacity question is Dalilah's Law. 
+
+The Dalilah Law, the Senate bill introduced by Senator Jim Banks of Indiana following President Trump's call during the State of the Union, would trigger a sharp, immediate contraction in trucking capacity if enacted, potentially igniting a trucking super cycle with overnight rate surges amid severely tight supply.
+
+ 
+
+The bill has cleared the House Transportation and Infrastructure Committee and is soon expected to be put to a vote before the full House.
+
+ For FreightWaves readers and SONAR subscribers, the regulatory trajectory here is the rate story for 2027.
+
+On aviation. The NBAA convention is underway this week in Las Vegas, and the business aviation market is sending mixed signals. 
+
+Wheels Up is cutting costs and has switched to a two-type fleet in a bid to boost efficiency and stem losses.
+
+ On the commercial side, 
+
+US airlines are flying more aggressively while passenger traffic struggles to keep pace. Through October 17th, passenger traffic is about zero-point-nine percent below the comparable 2025 period.
+
+ 
+
+Global passenger demand fell zero-point-eight percent in August on zero-point-three percent more capacity, while jet fuel reached one hundred ninety-four dollars and ninety cents per barrel in mid-September and stands at one hundred eighty-seven dollars and thirty-four cents in the latest weekly reading — about twenty-three percent above the industry's full-year price assumption.
+
+ The FLYING audience — pilots, aircraft owners, business aviation executives — will feel fuel cost pressure acutely. Watch for the SAF mandate debate to intensify in Europe, as that cost conversation will migrate to US operators.
+
+On marine. 
+
+International Seaways has agreed to a three hundred seventy million dollar acquisition of Bruton, adding four modern crude tankers as the company reports sharply higher spot earnings entering the fourth quarter.
+
+ At the same time, 
+
+European shipowners are calling for a threefold increase in the carbon allowances earmarked to support shipping's energy transition, arguing that the sector contributes almost twice its share of emissions to EU Emissions Trading System auction revenues.
+
+ The Hormuz situation remains an operational risk: 
+
+maritime piracy in 2026 has fallen to 1992 levels overall, but the waters off the Horn of Africa are now the most dangerous for the merchant shipping industry owing to a resurgence of Somali activity and Houthi operations.
+
+ For the Boating and Sailing audience, the marine fuel cost story and the insurance cost story are the near-term reads.
+
+[CLOSING BRIEF]
+
+Three items on the watch list this week.
+
+One. The Publicis-LiveRamp integration timeline. 
+
+The consent order requires five years of nondiscriminatory access and an independent auditor.
+
+ The deal is expected to close before year-end. Watch whether competing identity resolution providers use the five-year neutrality window to build alternatives or whether they rely on the consent order as a substitute for competitive investment. Publishers negotiating identity and data activation contracts with LiveRamp in the next sixty days should flag the firewall provisions.
+
+Two. Dalilah's Law and SONAR's rejection index. 
+
+The SONAR Truckload Rejection Index hit fourteen percent in October, outside normal seasonal patterns.
+
+ If Dalilah's Law passes the full House and moves to conference, the rejection index will be the leading indicator. FreightWaves is the right publication to be watching that readout.
+
+Three. The ICO's enforcement posture under the Data Use and Access Act. 
+
+The DUAA introduced new lawful bases, updated cookie and PECR rules, automated decision-making reform, expanded ICO enforcement powers, and fines now aligned with UK GDPR levels of up to four percent of global annual turnover.
+
+ 
+
+The ICO is conducting a large-scale review of cookie compliance across the UK's most-visited websites, and has already taken enforcement action against a betting provider for sharing personal data with ad tech companies before users could accept or reject advertising cookies.
+
+ Firecrown brands with UK digital audiences — and those audiences exist across FLYING, Trains.com, and the Boating portfolio — are within scope of a regulator that now has the tools and the stated intention to use them.
+
+[SIGNOFF]
+
+That is Morning Docket for Tuesday, October 20th, 2026. Three critical action items from today's briefing: run the AI content asset audit before December 31st; review inbound SaaS contracts for AI training provisions; and confirm your ICO cookie compliance posture under the DUAA before the regulator's web review reaches your UK-facing domains. I'll be back tomorrow morning. Safe commute.
+END OF EPISODE.
