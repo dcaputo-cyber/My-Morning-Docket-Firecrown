@@ -1,0 +1,275 @@
+MORNING DOCKET — Wednesday, October 21, 2026
+A daily brief for the general counsel of a media company.
+
+Now I have enough material across all topic areas. Let me write the full Morning Docket script.
+
+[COLD OPEN]
+
+Hundreds of authors filed copyright suits against Meta yesterday. USA Today joined the publisher war against OpenAI two weeks ago. And this morning, United Airlines posted record revenue while simultaneously slashing its full-year profit forecast, because jet fuel has become the industry's defining variable. Three storylines, three industries, one common thread: the cost of operating in 2026 is being set not by demand, but by forces that legal teams can either anticipate or absorb.
+
+[INTRO]
+
+It is Wednesday, October 21, 2026. This is Morning Docket. I am your producer. For Barrister Darren Caputo, General Counsel of Firecrown, here is what you need to know before you reach your desk.
+
+Today we work through five headline items, including a landmark ad tech deal with FTC conditions that has direct implications for anyone who buys or sells digital advertising. We go deep on the publisher copyright litigation wave and what it demands of an in-house counsel with brands that both create content and depend on AI tools. We look at legal AI with a practical filter, specifically Harvey's new orchestration layer and what it is actually offering in-house teams. And we close with the freight and aviation signals that matter for your operating companies. Thirty minutes. Let us begin.
+
+[HEADLINE ROUNDUP]
+
+First item. The FTC conditionally cleared Publicis Groupe's acquisition of LiveRamp on Sunday.
+
+
+
+The Federal Trade Commission said it will allow Publicis Groupe to complete the two-point-two-billion-dollar acquisition of LiveRamp Holdings if the French media giant agrees to offer equal access to the digital advertising platform's data connectivity services to rivals.
+
+ 
+
+The FTC's two Republican commissioners voted to accept a consent decree requiring Publicis to ensure LiveRamp can provide non-discriminatory access and support to all clients, including Publicis' rivals, and to establish firewalls to protect competitor data against potential misuse.
+
+
+
+Why does this matter for Firecrown? LiveRamp connects over twenty-five thousand publisher domains with brands and data providers. If any of your titles run programmatic advertising infrastructure that touches LiveRamp's identity resolution services, the structural conditions imposed here — firewalls, neutrality obligations, a five-year fair access window — 
+
+require Publicis to maintain fair, reasonable and non-discriminatory access to LiveRamp's standalone products and services for five years, and establish data firewalls preventing access to or use of customer data and confidential business information received through those services.
+
+ That is a regulator saying, in writing, that publisher first-party data flowing through this platform should not become a weapon for one holding company against another. 
+
+The proposed consent order is subject to a thirty-day public comment period before being finalized.
+
+ If you have concerns about how your ad tech stack connects to this infrastructure, the comment window is where they get lodged.
+
+Second item. California signed Senate Bill 690 on September thirtieth, ending the wave of private CIPA pen-register litigation over website tracking.
+
+
+
+Governor Gavin Newsom signed Senate Bill 690, significantly narrowing the California Invasion of Privacy Act claims private plaintiffs may bring based on tracking technologies used on websites and applications.
+
+ 
+
+The bill eliminates private standing for alleged violations of CIPA's pen-register and trap-and-trace provisions while preserving enforcement authority for the California Attorney General.
+
+ 
+
+The legislation also provides for a two-year retroactive application to qualifying pending claims.
+
+
+
+That last point matters operationally. If any Firecrown brand has pending demand letters or filed cases resting on the section 638.51 theory — that a pixel or analytics tag constitutes a pen register — the retroactivity provision may give you a basis to dispose of those claims before they metastasize. 
+
+Importantly, SB 690 does not eliminate CIPA website litigation more broadly. Claims under section 631 remain available, including claims alleging interception of communications through pixels, session replay, chat tools, SDKs, and other third-party technologies.
+
+ Plaintiff counsel is already pivoting to those remaining theories. The law takes effect January first, 2027. Use the remaining ten weeks to complete your ad-tech cookie and pixel inventory.
+
+Third item. Delaware has become one of the most demanding state privacy regimes in the country, effective January 2027.
+
+
+
+Delaware just became one of the more demanding state privacy regimes, particularly around AI-driven profiling, employment data, inferred sensitive information, and vendor and third-party contracting. House Bill 380 expands sensitive data to include neural data, financial account credentials, government-issued identification numbers, and inferences used to reveal or identify sensitive characteristics, and removes the word "solely" from the profiling opt-out so it reaches automated decisions that include a human step.
+
+ 
+
+The governor's announcement accompanying the bill signing specifically noted the legislation's relevance to AI resume screening, interview scoring, and reports used for hiring, promotion, discipline, and termination.
+
+
+
+Delaware is where most of your corporate entities will be incorporated. The enforcement arm is the Delaware Department of Justice, not a private plaintiff, but 
+
+violations can result in civil penalties up to ten thousand dollars per violation.
+
+ If Firecrown uses any applicant tracking system that ranks or scores candidates, or any HR analytics tool, that workflow may now be within scope. Build this into your January compliance calendar alongside CIPA.
+
+Fourth item. The FTC is moving to position itself as the government's primary AI enforcement body.
+
+
+
+The Trump administration tapped the Federal Trade Commission to lead consumer protection and law enforcement on artificial intelligence. The White House's AI task force met last Thursday and agreed to have FTC Chairman Andrew Ferguson lead the law enforcement and consumer protection coordination committee, which includes the Justice Department.
+
+ Concurrently, 
+
+the FTC is developing a new rule that could hold social media platforms, digital marketplaces, and search engines accountable for enabling and amplifying impersonation fraud. In a Bloomberg Law commentary, FTC Chairman Ferguson and Bureau of Consumer Protection Director Christopher Mufarrige argued that technology platforms have the tools to detect fraudulent advertisers and prevent scams, but lack sufficient financial incentives to act.
+
+
+
+For Firecrown, there are two separate exposure points here. First, your brands that carry advertising need to be aware that the FTC's rulemaking on platform liability for impersonation scams could eventually reach ad networks you depend on, tightening the verification requirements advertisers face when buying inventory. Second, if any of your titles have AI-generated content or AI-enhanced tools deployed publicly, the FTC's expanded AI enforcement mandate signals that consumer-facing AI products will receive scrutiny. This is one to monitor, not panic over, but it belongs on your risk register now.
+
+Fifth item. The Connecticut AI and data landscape changed significantly at the start of this month.
+
+
+
+Connecticut's AI law, the CART Act, along with companion amendments to the Connecticut Data Privacy Act, began phasing in October 1, 2026, adding data-broker oversight, a ban on selling precise geolocation data, consent requirements for direct-to-consumer genetic testing, and restrictions on facial recognition and surveillance pricing.
+
+ Additional Connecticut provisions stagger through January 2028. If any Firecrown brand operates in Connecticut or collects data from Connecticut residents — and your digital titles reach every state — the new geolocation data restrictions and data-broker oversight rules require an assessment of whether any analytics or audience-targeting partners qualify as data brokers under the Connecticut framework. Connecticut has been active in enforcement sweeps alongside California and Colorado. This is not a theoretical concern.
+
+[DEEP DIVE]
+
+The publisher copyright litigation against AI companies is now entering what may be its most consequential phase. Let us spend some real time here, because the decisions being made in these courtrooms over the next six to eighteen months will shape whether content you pay to produce has enforceable economic value in the age of generative AI.
+
+Here is where the litigation landscape sits this week.
+
+
+
+Meta Platforms was hit with hundreds of new AI-related copyright complaints Monday from authors, representing a considerable expansion of an already vast litigation landscape against top artificial intelligence firms. Around three hundred authors signed on to pursue individual claims over allegations the tech giant took copies of their books and used them to train its large language models without permission.
+
+
+
+That lands the same week that news publishers advanced their own case against Microsoft and OpenAI. 
+
+News publishers filed a less redacted version of a motion for summary judgment in their copyright case against Microsoft and OpenAI over their use of publisher content to train artificial intelligence models, arguing that the AI's results substitute for their works.
+
+
+
+And two weeks ago, USA Today moved to the front of the line. 
+
+USA Today Company sued OpenAI for more than two hundred and fifty million dollars in the US District Court for the Southern District of New York.
+
+ 
+
+The publisher and nineteen affiliated outlets allege OpenAI copied hundreds of thousands of articles to build its GPT models.
+
+
+
+The legal framework governing all of these cases shifted in early October when the Third Circuit issued its opinion in the Thomson Reuters versus Ross Intelligence appeal. 
+
+Ross Intelligence's internal use of the headnotes as training data for its legal search AI was not fair use, even though the tool's outputs did not themselves infringe. The ruling is reported as the first federal appellate decision on fair use in AI training.
+
+ That is headline-level. But you need to understand the precise limits of what the Third Circuit actually decided.
+
+
+
+The facts involve a non-generative retrieval tool, trained on a direct competitor's proprietary human-curated editorial product, to perform substantially the same commercial function. Judge Bibas expressly limited his ruling to non-generative AI, and reporting on the unsealed opinion indicates a footnote reserves the generative AI question.
+
+ 
+
+Market harm under factor four now has appellate backing for the proposition that a licensing market for training data counts as a market, even where none existed before the defendant's conduct. That reasoning does not care whether the model is generative.
+
+
+
+That last sentence is the operative one. The Third Circuit has given plaintiffs a citation they did not have a month ago for the argument that the mere existence of a potential licensing market for training data is cognizable market harm. It does not resolve the OpenAI, Anthropic, or Meta cases. But it changes the negotiating posture in every conversation about AI licensing agreements.
+
+Which brings us to what this means, practically, for a media company like Firecrown.
+
+Your titles produce original content daily. FreightWaves, FLYING, Boating and Sailing, Trains.com — these are specialized, authoritative information products. AI companies are hungry for exactly this kind of domain-specific, high-quality training data. You are sitting on an asset, and you should be actively evaluating whether to monetize it through licensing rather than simply tolerating extraction.
+
+
+
+Condé Nast CEO Roger Lynch has described Google's AI Overviews as another sort of death blow to search traffic, and the company now assumes very dramatic continued declines in search traffic. The company is licensing content to OpenAI and Amazon while building subscriptions and direct audience relationships as its primary growth levers.
+
+
+
+That is a strategic posture, not just a legal maneuver. At Firecrown's scale, the question is slightly different from Condé Nast's, but the logic holds. Your freight market data, your aviation editorial, your boating content — they are not fungible. A licensing agreement that compensates you for training use, with appropriate attribution and use restrictions, is preferable to being an unnamed input in a model that then competes with your subscription products.
+
+Three concrete actions for you as GC. First, conduct an IP audit of your content portfolio specifically for AI licensing value. Identify which titles produce content that is verifiably original, domain-specific, and regularly updated — the characteristics that make training data commercially valuable. Second, review any existing vendor agreements with AI tools your teams use internally. Many AI companies' standard terms claim broad rights to improve models using customer inputs. If your editorial teams are using AI writing assistants or summarization tools, you may be inadvertently licensing your own content back to a competitor. Third, do not ignore the summary judgment motion in the news publisher case. When the court rules — likely in the first half of 2027 — that decision will either accelerate settlements across the industry or embolden AI companies to litigate through the appellate process. The outcome determines whether your IP position is vindicated quickly or slowly. Plan your licensing strategy in both scenarios.
+
+[GC BENCH]
+
+Legal technology and AI for the in-house counsel.
+
+Harvey had a busy week. 
+
+On October 15, Harvey launched Legal Work Orchestration, a new way to organize and manage legal matters inside the platform, bringing phases, tasks, documents, AI agents, and review gates into a single workspace.
+
+ The pitch is substantive. 
+
+Over the next six months, Harvey expects agents to take on an additional twenty percent of workflow steps, and within a year expects that share to triple. Lawyers will remain in control through defined review gates, and the work performed by agents will remain transparent and auditable. As agents take on more of the execution, lawyers will be able to focus more attention on directing the matter, reviewing consequential outputs, and exercising judgment.
+
+
+
+
+
+Harvey also launched Intake, its new legal front door for the in-house world, which helps to funnel contracts to the right lawyers and performs an initial first-pass review of any incoming work via its agents.
+
+
+
+The raise earlier this fall provides context for this product velocity. 
+
+Harvey raised five hundred and fifty million dollars at a fifteen-point-five-billion-dollar valuation in September 2026, and now has more than two hundred thousand users.
+
+
+
+On data security, which matters before you deploy any legal AI tool: 
+
+Harvey's trust center lists SOC 2 Type II, ISO 27001, ISO 27701, ISO 42001, GDPR, and CCPA compliance, and Harvey contractually guarantees through its Platform Agreement that customer data is not used for model training.
+
+
+
+That last clause is the one that matters most for in-house use. The primary risk with any legal AI deployment is inadvertent disclosure. If the platform uses your inputs to train its models, every confidential matter summary, every contract you upload, every draft you request becomes a potential training vector. Contractual no-training guarantees need to be in writing and auditable. Harvey has it. Confirm that any other tool in your stack does too.
+
+Thomson Reuters, for its part, has rebranded its research product. 
+
+Thomson Reuters' Westlaw Precision has been succeeded by Westlaw Advantage, and CoCounsel is now sold as CoCounsel Legal, which includes Westlaw Advantage, Practical Law, and CoCounsel Essentials.
+
+ If your team holds Westlaw seats, the bundling change may affect renewal pricing. Worth a conversation with your account manager before the next billing cycle.
+
+For a GC operating with a lean legal team — which describes most of the in-house function at a company Firecrown's scale — the most practical near-term allocation of legal AI budget is a purpose-built in-house platform for contracts and research, not a law-firm tool retooled for corporate use. The workflows are different. The output format needs to be different. Keep that distinction in mind when vendors come knocking.
+
+[INDUSTRY ANGLE]
+
+The freight and aviation signals this week deserve specific attention.
+
+Starting with trucking. SONAR's Truckload Rejection Index hit fourteen percent in October, and Craig Fuller is flagging this as a supply-side story, not a demand story. 
+
+The rejection index is hitting an unexpected fourteen percent in October, a significant development outside normal seasonal patterns. This is not being driven by a demand spike, but rather by persistent market imbalance and insufficient supply across the country. Key regions including Los Angeles, Harrisburg, and Atlanta are showing unusual disruptive activity.
+
+
+
+Fuller's read on the underlying dynamics: 
+
+diesel prices are providing little relief, having topped six dollars and fifty cents per gallon — an all-time record — before pulling back modestly. Fuller cited uncertainty around a reported Russia supply deal and ongoing drone strikes on Russian refineries as factors muddying the outlook.
+
+ 
+
+Contract rates hit a fifty-two-week high and spot rates climbed nearly fifty percent year-over-year in the latest SONAR update.
+
+
+
+For FreightWaves as a business, and for SONAR as a data product, this is an environment where market participants are hungry for exactly what they sell — high-frequency, forward-looking signal in a market sending mixed messages. Fuller has also confirmed that the Department of Transportation signed on as a SONAR customer earlier this year, which validates both the platform's credibility and its pricing power.
+
+The nuclear verdict story intersected with trucking this week in two places. 
+
+A New Mexico jury awarded forty-seven million dollars to Austin Drewry Jackson and his mother following a collision between their pickup truck and a tanker truck near Carlsbad in 2022, in one of the largest reported trucking accident awards in New Mexico in recent years.
+
+ Separately, 
+
+C.H. Robinson's six-hundred-and-four-million-dollar nuclear verdict in a fatal 2021 crash increased to seven hundred and eleven million dollars after a Dallas court confirmed the judgment and interest accrual, establishing that freight brokers can be held liable for accidents caused by carriers they hire, even when the carrier had a satisfactory safety rating.
+
+
+
+The C.H. Robinson confirmation is the one to watch. It extends broker liability into territory that changes the commercial risk calculus for anyone in the freight intermediary chain. FreightWaves has been tracking this litigation trend for years, and Craig Fuller highlighted the New Mexico verdict as another data point in the nuclear verdict accumulation. 
+
+The awards come amid growing concerns about nuclear verdicts — jury awards exceeding ten million dollars — and their impact on trucking companies' insurance costs and financial stability.
+
+
+
+Now aviation, and this matters directly for FLYING magazine's readership and coverage universe. United Airlines reported third-quarter results yesterday evening. 
+
+United reported record operating revenue of seventeen-point-eight-eight billion dollars for the third quarter, a seventeen percent increase year-over-year, primarily driven by higher passenger fares and expanded capacity.
+
+ 
+
+Fuel drove the shortfall: fuel expense surged sixty-two percent year-over-year, compressing the adjusted pre-tax margin to six-point-two percent from eight percent a year ago.
+
+ 
+
+United is cutting its 2026 profit forecast as it expects fuel at four dollars and eighty cents a gallon. The airline expects fourth-quarter adjusted earnings of fifty cents to one dollar and fifty cents a share after giving July guidance of nine to eleven dollars for the year.
+
+
+
+That is a dramatic revision. The fuel wildcard — tied to geopolitical disruption, the same Russia refinery dynamics Fuller flagged in the trucking market — is running through both freight and aviation simultaneously. For your FLYING and aviation-adjacent editorial planning, this is a year in which the business story and the operational story for airlines are the fuel bill, and the fuel bill is being set overseas.
+
+[CLOSING BRIEF]
+
+Three items for your watch list between now and next Wednesday.
+
+First, the Publicis-LiveRamp consent order comment period. Thirty days from Sunday's announcement means it closes around November eighteenth. If Firecrown has concerns about how the conditions will operate in practice — particularly how data firewalls will be monitored and enforced — this is the formal channel to register them. Even if you have no objection, reading the agency's full decision and order is a useful primer on how the FTC currently thinks about data leverage in the advertising ecosystem.
+
+Second, the news publisher summary judgment motion against Microsoft and OpenAI. A less redacted version landed on October sixteenth. When you have time, read the argument that AI outputs substitute for the original works. That substitution theory is the cleanest bridge between copyright infringement and measurable commercial harm, and it is the argument your outside counsel would run if a Firecrown title were in a similar posture. Understanding the theory in the context of a well-resourced plaintiff is a form of preparation.
+
+Third, Delaware HB 380 and its January first, 2027 effective date. You have seventy-two days. If Firecrown uses any automated tool in HR decisions — hiring platforms, performance scoring, workforce analytics — those tools now need a data protection impact assessment, a documented bias-testing regime, and a working opt-out mechanism for Delaware residents. 
+
+Violations can result in civil penalties up to ten thousand dollars per violation.
+
+ Start the inventory now so December is not a scramble.
+
+[SIGNOFF]
+
+That is Morning Docket for Wednesday, October 21, 2026. I will be back tomorrow with the next brief. Have a clear-headed commute and a disciplined day.
+END OF EPISODE.
