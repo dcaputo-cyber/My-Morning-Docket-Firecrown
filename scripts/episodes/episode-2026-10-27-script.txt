@@ -1,0 +1,251 @@
+MORNING DOCKET — Tuesday, October 27, 2026
+A daily brief for the general counsel of a media company.
+
+Now I have enough material to write a fully grounded, cite-supported Morning Docket script. Let me compose it.
+
+[COLD OPEN]
+
+California just handed every media company a new compliance deadline. Governor Newsom signed the Expanding Privacy Rights Act four weeks ago, and on January first, consumer deletion requests will reach data your company bought from a third party — not just data your users gave you directly. At the same time, a federal court is ordering Meta to identify every executive who approved downloading books from pirate libraries to train its AI. The week is telling you something: what your legal team does with data, and what your AI vendors did with someone else's data, are no longer separable questions.
+
+[INTRO]
+
+Good morning. It is Tuesday, October twenty-seventh, twenty twenty-six. I'm your Morning Docket host. Today's briefing covers five headline items, then a deep dive on the FTC's consent order in the Publicis-LiveRamp transaction — a deal that will reshape how publishers like Firecrown think about first-party data infrastructure. After that, we have a GC Bench segment on purpose-built AI tools for in-house legal teams, an industry angle on the freight market where SONAR data is flashing something unusual for mid-October, and we close with three items on your watch list. Let's go.
+
+[HEADLINE ROUNDUP]
+
+First: California's SB 923 and what it requires of you by New Year's Day.
+
+
+
+On September twenty-seventh, Governor Gavin Newsom signed SB 923, the Expanding Privacy Rights Act, authored by Senator Josh Becker and sponsored by the California Privacy Protection Agency.
+
+ 
+
+The law expands the CCPA right to delete so that consumers can ask a business to delete personal information it holds about them, whether the business collected it from the consumer or obtained it from a third party.
+
+ 
+
+It takes effect January first, twenty twenty-seven.
+
+ The practical impact for a media holding company: if any of Firecrown's brands — FreightWaves, FLYING, Boating and Sailing, or Spacestore — uses audience enrichment vendors, purchased list data, or identity-resolution tools to build subscriber or advertiser profiles, all of that third-party data is now reachable by a deletion request. 
+
+SB 923 also updates the CCPA to require online-only businesses with direct consumer relationships to provide both an email address and a web form or portal for consumer requests. Before, the CCPA required only an email address for online-only businesses.
+
+ You have sixty-six days to close both gaps.
+
+Second: The UK's data regulator has a new structure, and its enforcement posture is harder.
+
+
+
+On September thirtieth, the Information Commissioner's Office became the Information Commission's Office, a subtle but important change introduced by the Data Use and Access Act 2025, aimed at providing collective responsibility for regulatory decisions. While the current powers and ongoing enforcement activities will continue without interruption, the shift from a single decision-maker to a seven-person board marks a significant structural change for the UK data protection regulator.
+
+ The practical change for UK-facing operations is that enforcement decisions are now board decisions — harder to negotiate informally, more consistent across investigations. 
+
+The DUAA grants the ICO new powers, including the authority to compel witnesses to attend interviews, require technical reports, and issue substantial fines of up to seventeen and a half million pounds or four percent of global turnover under the Privacy and Electronic Communications Regulations.
+
+ The ICO has also been active on cookie compliance. 
+
+The ICO is continuing a large-scale review of cookie compliance across the UK's most-visited websites, with particular focus on ensuring users are offered meaningful choice. It has contacted ninety-three organisations about website cookies and has taken enforcement action against a betting provider, Sky Betting and Gaming, reprimanding the provider for sharing personal data with ad tech companies before users could accept or reject advertising cookies.
+
+ If your brands have UK traffic — and several Firecrown properties do — that cookie enforcement pattern is directly relevant to ad-tech partners loading before consent.
+
+Third: Meta and the AI training copyright cases are escalating on two fronts simultaneously.
+
+
+
+Meta Platforms was hit with hundreds of new AI-related copyright complaints on October twentieth from authors, representing a considerable expansion of an already vast litigation landscape. Around three hundred authors signed on to pursue individual claims over allegations the tech giant took copies of their books and used them to train its large language models without permission.
+
+ But it's the discovery order that carries the most governance significance for this week. 
+
+US Magistrate Judge Thomas Hixson on October nineteenth ordered Meta to identify every person who decided on or approved obtaining book data from pirate libraries and the use of BitTorrent. He ruled that even where decisions were made by a team, the names of all those involved must be provided. Meta had argued that its early AI training data buildout was informal and that no authorized person made the decisions, but the court rejected this.
+
+ 
+
+The order, together with internal documents cited by plaintiffs indicating prior escalation to CEO Zuckerberg, intensifies scrutiny of management's role in sourcing AI training data.
+
+ And the music industry is moving in parallel. 
+
+Elvis Presley's music rights holders filed a multimillion-dollar lawsuit against Anthropic, accusing it of using two hundred seventy-four copyrighted songs without permission to train its Claude chatbot. The complaint, filed on October twenty-third in the US District Court for the Northern District of California, alleges that Anthropic unlawfully copied song lyrics, incorporated them into its AI systems and enabled users to generate unauthorised versions of protected compositions.
+
+ The takeaway for any GC advising on AI licensing or vendor diligence: the question is no longer just what the model does with content — it is what the training pipeline consumed, and who in the organization approved it.
+
+Fourth: The FTC is reshaping the ad-tech ownership landscape with conditions on the Publicis-LiveRamp deal.
+
+
+
+The US Federal Trade Commission said it will allow Publicis Groupe to complete the two-point-two billion dollar acquisition of LiveRamp Holdings if the French media giant agrees to offer equal access to the digital advertising platform's data connectivity services to rivals.
+
+ 
+
+The FTC on October nineteenth accepted a proposed consent order that lets Publicis buy LiveRamp on condition that LiveRamp keeps serving the clients of rival agencies on neutral terms, that Publicis is walled off from LiveRamp customer data, and that an outside auditor checks compliance every six months for the first two years after closing.
+
+ We will dig into this in the deep dive, because the structural conditions imposed here tell us something important about how the FTC is now thinking about data connectivity in advertising — and what that means for independent publishers who rely on LiveRamp-style tools.
+
+Fifth, briefly: the SEC's Regulation S-K overhaul is moving toward proposed rulemaking this autumn.
+
+
+
+The SEC's Spring 2026 regulatory agenda contemplated a slate of proposals by October of this year, which would likely include the executive compensation disclosure rulemaking. Also slated for October is the Rationalization of Disclosure Practices rulemaking, which analysts read as the Regulation S-K project.
+
+ 
+
+During his remarks at the 2026 Society for Corporate Governance Conference, SEC Chair Atkins suggested the SEC is considering an overarching materiality overlay applicable throughout Regulation S-K that would permit a company to omit information called for by a line item where that information is not material.
+
+ For a private media holding company, direct S-K obligations do not apply, but if any Firecrown entity is contemplating debt financing, a future public offering, or strategic transactions with public company buyers, understanding where disclosure simplification lands — particularly on cybersecurity disclosure under Item 106 — matters. 
+
+As of now, no change has been proposed or adopted. Both requirements remain binding.
+
+
+
+[DEEP DIVE]
+
+The Publicis-LiveRamp FTC Order: What It Means for Independent Publishers and Data Infrastructure Strategy.
+
+Let me set this up properly, because this transaction sits at the intersection of ad tech, first-party data, and competitive dynamics in media — all three of which affect Firecrown's business.
+
+LiveRamp is the company that publishers, advertisers, and agencies use to match audiences across the open web without passing raw personal data between parties. It operates what is called a clean room connectivity layer — a piece of infrastructure that has become load-bearing for the digital advertising ecosystem as third-party cookies have faded. 
+
+LiveRamp is a leading data collaboration technology company, empowering marketers and media owners to deliver and measure marketing performance everywhere it matters.
+
+
+
+
+
+On May seventeenth, Publicis announced that it entered into a definitive agreement to acquire LiveRamp in an all-cash transaction valuing LiveRamp's equity at thirty-eight dollars and fifty cents per share.
+
+ 
+
+LiveRamp shareholders approved the merger in August, with ninety-nine-point-nine percent voting in favour.
+
+
+
+Now, Publicis is not a neutral party. It is one of the four largest advertising holding companies in the world. Its rivals — WPP, Omnicom, IPG, Dentsu — all use LiveRamp's services to build audience segments for their media clients. The FTC's concern was straightforward: if Publicis owns LiveRamp, it could degrade service to rival agencies, peek at competitor campaign data, or favor its own clients in data matching. 
+
+Publicis, one of the biggest ad agency groups, wants to buy LiveRamp, a company that many advertisers, agencies and publishers use to match their data safely, and the US competition regulator has agreed to let the deal go ahead only with rules attached. The worry was that Publicis could use LiveRamp to squeeze clients of rival agencies or peek at their confidential campaign data to win their business.
+
+
+
+The consent decree imposes three structural conditions. First, LiveRamp must continue to provide non-discriminatory access and support to all clients, including Publicis rivals. Second, there must be firewalls preventing Publicis from accessing LiveRamp customer data. Third, an independent auditor verifies compliance twice a year for the first two years, with FTC oversight extending for five years total. 
+
+The Commission vote was two to zero, and a thirty-day public comment period now runs before the order can be made final.
+
+
+
+Now, why does this matter to Firecrown as a media company? Three reasons.
+
+First, LiveRamp's neutrality is currently foundational to how independent publishers use the platform. If you use LiveRamp's Authenticated Traffic Solution, or any clean room product, to match your first-party subscriber data with advertiser audiences, you are operating on the assumption that the platform treats your data confidentially. The consent decree is designed to preserve that assumption. But consent decrees are only as durable as their enforcement. As a practical matter, Darren, your contracts with LiveRamp — and any successor entity — should be reviewed to confirm that contractual data protection obligations run independently of regulatory conditions and survive changes in corporate ownership.
+
+Second, this transaction reflects a broader consolidation in data connectivity infrastructure that every publisher should be tracking. 
+
+Publicis CEO Arthur Sadoun framed the acquisition around a new addressable market — the idea of data co-creation to build smarter AI agents. He drew a line from Publicis's acquisition of Epsilon in 2019 — positioned around cookies and identity — to the next phase of first-party, AI-powered audience targeting.
+
+ If the largest ad holding companies are building vertically integrated data platforms combining agency relationships, identity infrastructure, and AI agents, independent publishers face structural pressure unless they build or maintain their own authenticated first-party data assets.
+
+Third, the FTC's framing of this deal is itself a signal. 
+
+The FTC has taken steps to preserve competition in the digital advertising ecosystem by requiring Publicis to continue providing neutral and nondiscriminatory access to LiveRamp's products and services, and to establish firewalls to prevent Publicis from accessing LiveRamp's customer data.
+
+ The FTC is treating data connectivity infrastructure as a competition issue, not just a privacy issue. That is a meaningful doctrinal development. It suggests that future deals concentrating data matching capabilities in a single agency group — or in a single publisher, for that matter — will draw FTC scrutiny under the same framework.
+
+Three concrete actions for Firecrown's legal team. One: pull your current LiveRamp or equivalent data connectivity agreements and confirm that data isolation and confidentiality protections are contractual, not just assumed from the regulatory environment. Two: map which Firecrown brands have integrated LiveRamp's tools into advertising workflows, and brief the executive team on the transition risk if the platform's neutrality commitments are diluted post-acquisition. Three: engage your outside counsel now to monitor the thirty-day public comment period on the consent order. If rival agencies or publishers submit substantive objections, those comments become part of the record and could affect the final order's terms. Comments are due before Thanksgiving.
+
+[GC BENCH]
+
+The in-house AI tool market has matured quickly, and for a lean legal team at a media holding company, the choice architecture has clarified.
+
+The category has essentially split into two distinct use cases. The first is purpose-built platforms designed end-to-end for in-house legal departments. 
+
+These platforms are designed for in-house legal departments, where one lawyer covers a wide commercial, regulatory, employment, and corporate spread.
+
+ The platform receiving the most consistent favorable analysis in this category this month is GC AI. 
+
+GC AI is used by more than two thousand one hundred legal teams across fifty-three countries, including more than two hundred public companies and twenty-five unicorns, with a net promoter score of seventy-seven.
+
+ 
+
+It is purpose-built for in-house legal teams, priced at five hundred dollars per seat per month, with a fourteen-day free trial and no seat minimum.
+
+
+
+The second category is research-heavy platforms anchored to legal databases. Thomson Reuters has made a product change worth noting. 
+
+Thomson Reuters' Westlaw Precision has been succeeded by Westlaw Advantage, and CoCounsel is now sold as CoCounsel Legal — which includes Westlaw Advantage — CoCounsel Essentials, or Westlaw Advantage with CoCounsel Essentials.
+
+ The bundling reflects a recognition that in-house counsel doing complex regulatory work — privacy law, IP, securities — need research depth attached to their AI layer, not just drafting speed.
+
+The practical filter for a GC at a private media holding company is this: the question is not which tool is most impressive. The question is which tool handles the Monday morning queue — the ad tech vendor contract that needs a quick redline, the privacy policy update triggered by SB 923, the IP licensing question that a brand editor just escalated. 
+
+If in-house counsel is your full job across contracts, regulatory, employment, and corporate work, a purpose-built in-house platform fits.
+
+ For specialized research tasks adjacent to active litigation — say, the AI training copyright cases we discussed this morning — a Westlaw-adjacent tool adds value.
+
+One caution. 
+
+GC AI published a piece this month based on five GC and CLO interviews examining what to keep in-house, when outside counsel helps, and how to test AI contract review.
+
+ The consensus finding was that the highest-risk failure mode is not choosing the wrong tool — it is deploying any tool without a protocol for when the AI analysis needs to be checked by a lawyer. For media companies now managing privacy compliance across multiple state laws plus the UK DUAA, the regulatory surface is too varied to outsource the judgment layer to a model.
+
+[INDUSTRY ANGLE]
+
+The freight market is sending a mixed signal this week, and it is worth understanding the components separately.
+
+
+
+The SONAR Truckload Rejection Index hit an unexpected fourteen percent in October — a significant development outside normal seasonal patterns. This is not driven by a demand spike, but rather by persistent market imbalance and insufficient supply across the country. Key regions like Los Angeles, Harrisburg, and Atlanta are showing unusual disruptive activity, with spot rates rising in critical areas.
+
+
+
+The supply story is primary here. 
+
+Fuel remains the structural constraint for smaller carriers: roughly sixteen carriers have recently filed for bankruptcy or restructuring citing unsustainable fuel costs.
+
+ That capacity exits the system permanently. Diesel is part of the explanation. 
+
+Diesel prices are providing little relief. Prices topped six dollars and fifty cents per gallon — an all-time record — before pulling back modestly. Craig Fuller cited uncertainty around a reported Russia supply deal and ongoing drone strikes on Russian refineries as factors muddying the outlook.
+
+
+
+On the demand side, Fuller's reading of SONAR data is nuanced. 
+
+After strong year-over-year momentum in the first half of twenty twenty-five, the market has since slipped below comparable periods. Fuller attributed the softening partly to AI data center-related freight shifts, but also to unusual drag in food and beverage, driven by higher inflation, reduced SNAP benefits, and GLP-1 medications curbing consumption.
+
+
+
+The rail signal is equally interesting for a publication like Trains.com. 
+
+A thirty-four percent cost discount between intermodal contract rates and truckload contract rates is pushing shippers toward rail, according to SONAR data. Truckload contract rates have risen seven and a half percent over the past three months while intermodal contract rates have remained essentially flat — a spread that is fueling volume gains for domestic intermodal operators and the railroads that support them.
+
+ That is a significant editorial and commercial signal for Trains.com content and event programming going into Q4.
+
+The marine picture rounds out the transport trifecta. On the container side, 
+
+transpacific ocean rates were stable but still highly elevated last week at eight thousand one hundred twenty-six dollars per FEU to the West Coast, with prices up one percent to nine thousand seven hundred dollars per FEU for the East Coast.
+
+ On the tanker side, 
+
+Gulf ship-to-ship transfers are bolstering what one report called astronomical VLCC rates
+
+ — a function of continued Hormuz risk. The ClarkSea Index, which aggregates earnings across vessel types, 
+
+broke its 2008 record to reach an all-time high
+
+ earlier this month. For Boating and Sailing's editorial team, the high-end marine market context matters: fractional and charter demand in leisure boating tends to track with broader wealth effects, and the tightening freight market is generating significant carrier-side earnings.
+
+[CLOSING BRIEF]
+
+Three things on your watch list before you close the car door.
+
+First: the thirty-day public comment window on the FTC's Publicis-LiveRamp consent order closes before Thanksgiving. If you have concerns about how that order's neutrality provisions will be interpreted and enforced, this is the period to engage outside counsel and consider whether a comment letter is warranted on behalf of Firecrown's publisher interests.
+
+Second: the SB 923 January first deadline is sixty-six days away. Your most urgent operational task is a data mapping exercise across all Firecrown brands to identify every source of consumer data that was not collected directly from the consumer — purchased lists, enrichment vendors, identity-resolution providers. The deletion obligation will attach to all of it on New Year's Day. A web form for privacy requests, if you do not already have one on your online-only properties, is also legally required under the same statute.
+
+Third: watch the Meta AI training copyright discovery order for its next development. 
+
+The court has determined that even where decisions were made by a team, the names of all those involved must be provided — making it increasingly likely that judicial scrutiny of how AI training data was sourced will reach management.
+
+ If Firecrown is evaluating any AI content generation, summarization, or search product where the vendor's training data provenance is uncertain, that vendor diligence should be elevated now. The litigation signal is clear: courts are willing to pierce the organizational structure and name individuals. That changes the risk calculus for AI adoption at the procurement level.
+
+[SIGNOFF]
+
+That is your Morning Docket for Tuesday, October twenty-seventh, twenty twenty-six. The briefing runs on a daily cycle — the next episode drops Wednesday morning. If there are topics you want prioritized or transactions you're tracking, route them through your team. Stay measured, stay specific, and have a good commute.
+END OF EPISODE.
