@@ -1,0 +1,269 @@
+MORNING DOCKET — Wednesday, October 28, 2026
+A daily brief for the general counsel of a media company.
+
+Now I have comprehensive research to write the full Morning Docket script. Let me compile it.
+
+[COLD OPEN]
+
+Something quiet happened last Monday that every media company with a Facebook page should have caught. Meta quietly updated its commercial terms to authorize web scraping of any site associated with a business account. By Wednesday, global publisher trade groups were sending letters to Mark Zuckerberg. By Friday, Meta said it needed more time, and pushed the effective date from October thirtieth to November twentieth. The terms are now written in language that legal experts say still permits scraping — with or without the word "train." More on that in a moment.
+
+[INTRO]
+
+Good morning. It is Wednesday, October 28, 2026. I'm your host on Morning Docket, the daily audio briefing for Firecrown's legal function. Today's show covers the Meta scraping dispute in depth, California's busy fall privacy calendar, the FTC's move into AI enforcement, new AI copyright suits from newspaper publishers, the ICO's transition under the Data Use and Access Act, a freight market flashing contradictory signals, and the legal AI funding arms race. Let's move through it.
+
+[HEADLINE ROUNDUP]
+
+First item. California closes the books on a significant legislative session for privacy. Before the September 30th deadline, Governor Newsom signed a pair of bills that matter directly to Firecrown's operations. 
+
+Senate Bill 923 expands deletion rights under the CCPA to cover data sourced from third parties
+
+ — not just information collected directly from consumers. That is a material expansion. If your audience data vendors, your advertising data partners, or your list brokers hold consumer records that your own users never gave you directly, those users now have a path to deletion that runs through you. 
+
+Senate Bill 690, meanwhile, eliminates the private right of action under the California Invasion of Privacy Act for certain online activities
+
+ — a meaningful litigation risk reduction for publishers who have faced a wave of CIPA class actions tied to website session replay tools and chat widgets. The CIPA threat is not entirely gone, but this narrows it.
+
+Second item. The California Privacy Protection Agency, CalPrivacy, and state Attorney General Rob Bonta continue to run parallel enforcement programs. 
+
+Through October 12th of this year, CalPrivacy and the AG have brought twelve enforcement actions with combined penalties reaching eighteen point one million dollars
+
+ — and the year is not over. 
+
+Of the fourteen settlements concluded to date under the CCPA framework, the AG led seven, CalPrivacy brought six, and one was a joint action targeting General Motors
+
+. The pattern to understand is operational: 
+
+third-party tools do not transfer legal accountability under the CCPA, and outsourcing technical functions does not move the compliance obligation off your balance sheet
+
+. Disney learned that specifically, having cited vendor challenges in its own settlement with the AG.
+
+Third item. The FTC is now formally designated as the federal government's lead on AI consumer protection enforcement. 
+
+The Trump administration tapped the FTC to lead consumer protection and law enforcement on artificial intelligence, with the White House's AI task force agreeing to have FTC Chairman Andrew Ferguson lead a law enforcement and consumer protection coordination committee that includes the Justice Department
+
+. Simultaneously, 
+
+the Commission is seeking public comment on whether to update its impersonation rule to prevent online platforms from engaging in ad-optimization practices that may be furthering impersonation scams — noting that search engines, social media, and digital marketplaces profit from optimizing ads regardless of whether the underlying third parties are legitimate
+
+. For ad-supported media companies, that framing is worth monitoring. The FTC is building a theory that platforms bear responsibility for the deceptive content they algorithmically amplify.
+
+Fourth item. The Third Circuit handed down a significant ruling in the AI copyright docket. 
+
+The appeals court affirmed that using copyrighted material as AI training data is not fair use when the AI product directly competes with the source
+
+ — the Thomson Reuters versus Ross Intelligence case. That is the first federal appellate ruling to reject a fair use defense in the AI training context, and it arrives the same week 
+
+Meta was hit with approximately three hundred new AI-related copyright complaints from authors alleging the company used their books to train large language models
+
+. And 
+
+USA Today filed suit against both OpenAI and Microsoft on October 8th, alleging the companies scraped a large volume of articles from 19 affiliated publications without authorization and seeking over two hundred fifty million dollars in damages
+
+. The litigation docket now exceeds one hundred forty active and pending AI copyright cases in federal courts.
+
+Fifth item. On the SEC disclosure reform front, 
+
+the agency's 2026 rulemaking agenda identifies the rationalization of disclosure practices as a rule proposal targeted for October
+
+, meaning something may land in the Federal Register imminently. 
+
+A separate proposal to amend Item 402 of Regulation S-K to rationalize executive compensation disclosure requirements is also scheduled for October 2026
+
+. Chairman Atkins has framed the overall effort around a simple principle: 
+
+Regulation S-K has expanded substantially since 1982, and the resulting filings can bury investors in information that is not clearly material to investment or voting decisions
+
+. For a private company like Firecrown this is background noise for now, but if a capital event or M-and-A puts you in a reporting context, the target rulebook may look different than it does today.
+
+Sixth item. On the marine side, a significant trade policy development landed yesterday. 
+
+The USTR is proposing to extend a pause on port charges for Chinese-linked ships calling at American ports by two months, which would prolong a bilateral truce set to expire in early November through January 9th, 2027
+
+. 
+
+The reciprocal fees, when they were briefly in effect last year, forced shipping companies to rejig global operations and pushed up freight costs
+
+. 
+
+USTR is accepting public comments on the proposal through five p.m. Eastern today, October 30th
+
+ — so today is the last day to weigh in if your supply chain has exposure to China-linked tonnage.
+
+[DEEP DIVE]
+
+Now the deep dive. The Meta commercial terms dispute is the most consequential publisher-platform conflict of the year, and it deserves careful unpacking because it sits at the intersection of three Firecrown risk areas: content licensing, AI training liability, and platform dependency.
+
+Here is what happened. 
+
+Meta updated its commercial terms of use to authorize web scrapers to crawl and collect content from websites associated with business accounts on its platforms — a category that includes news publishers with Facebook pages, Instagram profiles, or WhatsApp channels
+
+. 
+
+The new terms permit Meta to, quote, "access, index, cache, analyze, collect, retrieve, or crawl" domains and web pages connected to a business account, and to periodically pull updates from them
+
+. 
+
+The updated terms explicitly state that Meta can use content it collects to "train" Meta products, and elsewhere in the terms, the company defines "AI at Meta" as one of those products
+
+.
+
+Meta blinked, but only partway. 
+
+Meta removed the word "train" from the terms on October 16th and limited the stated use of scraped content to "advertising and business products"
+
+. But legal experts told Nieman Lab the revision changed little. 
+
+Media attorney Matt Topic said publishers should remain concerned because the revised version still allows Meta to use scraped content to develop any "business product" — a term that is not defined, and that is broad enough to include "train"
+
+.
+
+The industry's response was swift and coordinated. 
+
+On October 22nd, publisher trade bodies around the world sent letters opposing the terms and urged lawmakers to act. The News/Media Alliance, which represents more than two thousand publishers, asked Zuckerberg directly to withdraw the revised terms before the October 30th effective date, arguing the terms could force publishers to choose between allowing Meta to use their content without permission or compensation and losing access to the platform's audience
+
+.
+
+Congress took notice. 
+
+Senator Marsha Blackburn, chair of the Senate Judiciary Subcommittee on Privacy, Technology and the Law, said the updated terms indicate Meta is attempting to exploit American creators and businesses by granting itself sweeping authority to scrape content from any website associated with Facebook and Instagram business accounts
+
+. 
+
+EU and UK antitrust authorities have also received complaints about the new commercial terms
+
+.
+
+The result, as of this morning: 
+
+Meta has extended the effective date from October 30th to November 20th, saying it needs more time to explain to partners and stakeholders what is changing and what is not
+
+. That is a delay, not a withdrawal.
+
+What does this mean for Firecrown specifically? Three things.
+
+First, the opt-out problem is structural. 
+
+There is currently no option to opt out
+
+ while continuing to use Meta's business products. 
+
+The updated terms state that any party that disagrees must stop all access or use of Meta products for business or commercial purposes
+
+. For FreightWaves, FLYING, Trains.com, Boating and Sailing, and your other brands — all of which likely maintain Facebook pages and Instagram profiles as audience channels — this is a take-it-or-leave-it structure. You need to map every Firecrown brand that operates a Meta business account and assess what that means if the November 20th terms go into effect unchanged.
+
+Second, the robots.txt question is unresolved. 
+
+Meta has not included any specific language about respecting robots.txt preferences in its revised terms of service
+
+. That is relevant because robots.txt is the primary technical mechanism publishers use to signal that their content should not be crawled. If Meta is not contractually bound to honor it, the robots.txt file becomes advisory at best.
+
+Third, the parallel copyright litigation strengthens the legal landscape for eventual enforcement. 
+
+The Third Circuit's ruling in the Ross Intelligence case established that AI training does not qualify as fair use when the AI output directly competes with the source material
+
+. Firecrown's brands produce proprietary freight market journalism, aviation content, boating editorial, and rail coverage. That content has commercial value. If Meta's scraped data is used to produce an AI product that answers the kind of questions FreightWaves' journalism answers, the competitive harm argument looks cleaner than it did a year ago.
+
+Concrete actions for in-house counsel. One: conduct an immediate audit of every Firecrown brand that holds a Meta business account. Map which domains are associated with those accounts. Assess whether the content on those domains is competitively sensitive enough to warrant the nuclear option — meaning discontinuing the Meta business account. That is a business decision, not a legal one, but legal needs to frame the risk for the business. Two: document your content licensing posture now, before November 20th. If the terms go into effect and you elect to continue using Meta's platforms, you want a contemporaneous record that says your continued use was commercially coerced, not a knowing grant of license — consistent with the News/Media Alliance's explicit reservation of legal rights. Three: coordinate with external counsel to monitor whether the EU or UK antitrust complaints develop into formal proceedings. The DUAA in the UK and the EU's AI Act create additional leverage points that US-only litigation does not have.
+
+[GC BENCH]
+
+Legal technology. The legal AI market is running at a pace that outstrips most procurement cycles. The headline this month is Harvey. 
+
+Harvey raised five hundred fifty million dollars at a fifteen point five billion dollar valuation in September 2026, serving more than two hundred thousand professionals
+
+. 
+
+Named enterprise clients include NBCUniversal, HSBC, Comcast, and KKR, among others
+
+. For context, that valuation makes Harvey worth more than most mid-cap media holding companies. 
+
+TC Energy deployed Harvey across its legal team in early October
+
+, and the firm is expanding its geographic footprint with new offices in Tokyo and Boston this month.
+
+But the adoption headline may matter more than the valuation. 
+
+In-house generative AI usage has crossed eighty-seven percent, according to the 2026 General Counsel Report from FTI Consulting and Relativity — nearly double the forty-four percent figure from a year prior
+
+. The question for a lean in-house legal function like Firecrown's is not whether to use legal AI, but which tool fits the workload.
+
+
+
+Thomson Reuters has also updated its product stack this month: Westlaw Precision has been succeeded by Westlaw Advantage, and CoCounsel is now sold as CoCounsel Legal, which bundles Westlaw Advantage, Practical Law, and CoCounsel Essentials
+
+. If you are on an existing Westlaw contract, that repackaging warrants a call to your account representative before the next renewal.
+
+The practical filter for a solo or small in-house team: purpose-built platforms like GC AI offer published pricing at five hundred dollars per seat per month with no seat minimum and a fourteen-day trial, which lowers the barrier to evaluation considerably. Harvey, by contrast, carries estimated enterprise pricing in the range of one thousand two hundred dollars per seat per month with a minimum commitment — a product designed for large legal departments with dedicated legal operations staff. Know your workload before you enter a demo.
+
+[INDUSTRY ANGLE]
+
+The freight and transport picture. The SONAR data out of FreightWaves this week confirms what anyone who has tried to tender a contract load in October already knows: the market is tight in a way that defies seasonal expectations.
+
+
+
+The SONAR Truckload Rejection Index hit fourteen percent in mid-October — a significant spike outside normal seasonal patterns that is not driven by a demand surge but rather by persistent market imbalance and insufficient supply
+
+. 
+
+What makes the move notable is what is not behind it: the SONAR Tender Volume Index shows no demand-side surge, meaning the tightening is being driven entirely by a supply shortfall
+
+. Zach Strickland called the breadth of the disruption striking, with elevated rejection readings showing up simultaneously across Knoxville, Harrisburg, Memphis, Atlanta, Green Bay, Des Moines, Los Angeles, and El Paso.
+
+The supply story has a structural explanation. 
+
+As of October 2026, no fresh trucking capacity is flowing into the freight market despite a full year of heightened tender rejections, according to SONAR
+
+. 
+
+The market is tight because trucks are exiting, not because freight is booming
+
+. That distinction matters for how long the cycle lasts.
+
+On the refrigerated side, the numbers are even sharper. 
+
+Refrigerated truckload tender rejections are running at twenty-one point four four percent nationally, meaning roughly one in five reefer loads is being turned down by carriers
+
+. 
+
+Refrigerated spot rates are up twenty-eight percent year to date while contract rates have risen nine percent, with diesel costs adding extra pressure
+
+.
+
+On the marine side, the USTR's proposed extension of the China ship fee truce through January 9th is a stabilizing factor for ocean freight costs — at least through year end. At the same time, 
+
+the Panama Canal will increase Neopanamax transits from nine to ten vessels per day beginning October 15th and is restoring maximum authorized draft to forty-nine feet as water levels recover, while select carriers are returning to the Suez Canal, reducing India-to-US East Coast transit times by up to two weeks
+
+. Capacity is improving on the ocean side even as it tightens on the road.
+
+In general aviation, a data point relevant to FLYING's audience: 
+
+IADA dealers, who primarily handle business jets and turboprops, reported that preowned aircraft market conditions strengthened in the third quarter of 2026, with dealers rating current conditions at three point six two on a five-point scale
+
+ — rising sales, tighter inventory, and increased seller leverage. That is a healthy indicator for the segment FLYING covers.
+
+[CLOSING BRIEF]
+
+Three things on the watch list for the coming ten days.
+
+First: the Meta November 20th commercial terms deadline. The comment period has closed on the October 30th original date, and Meta says it will use the extension to explain its position to publishers and lawmakers. But the terms as written have not been withdrawn. Watch for whether EU or UK regulators move to interim orders, whether the News/Media Alliance files any legal action, and whether Meta produces a revised draft that actually addresses the opt-out objection. If the new terms take effect on November 20th without an opt-out mechanism, every Firecrown brand's Meta business account becomes a legal decision, not just a marketing one.
+
+Second: the SEC's October rulemaking on disclosure rationalization and executive compensation reform. 
+
+The 2026 rulemaking agenda lists the disclosure rationalization rule proposal for October
+
+, and it may drop as early as this week. Separately, the 
+
+SEC finalized the Holding Foreign Insiders Accountable Act disclosure rules in May
+
+ and has a proposed electronic delivery rule pending OIRA review. If you have any publicly traded entities in Firecrown's structure or if the company is approaching a registration event, these moving parts in the disclosure framework are worth a read-through before year end.
+
+Third: the AI copyright hearing calendar. 
+
+The Concord Music Group versus Anthropic case — covering lyric ingestion and reproduction by Claude — had cross-motions for summary judgment fully briefed as of September, with a hearing set for October 21st
+
+. A ruling there could produce the clearest appellate test yet of whether training on commercially licensed creative works constitutes fair use. And the Third Circuit's Ross Intelligence decision is already on appeal. The fair use question for AI training may get its first Supreme Court-ready posture within the next twelve months. Firecrown's brands produce content. The outcome of these cases determines whether that content has a licensing value or whether platforms can train on it for free.
+
+[SIGNOFF]
+
+That is Morning Docket for Wednesday, October 28, 2026. The research underlying today's show reflects events through the close of business yesterday. If something breaks this morning — and on a day when the USTR comment period on China ship fees closes and Meta's original terms deadline was supposed to hit — something may well break — I will flag it in tomorrow's edition. Stay measured. Have a good commute.
+END OF EPISODE.
