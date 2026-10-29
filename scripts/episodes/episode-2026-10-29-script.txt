@@ -1,0 +1,297 @@
+MORNING DOCKET — Thursday, October 29, 2026
+A daily brief for the general counsel of a media company.
+
+Now I have enough sourced material to write the full Morning Docket script. Let me compose it.
+
+[COLD OPEN]
+
+Today is Thursday, October 29, 2026, and Meta's commercial terms of service take effect tomorrow. Starting at midnight, every news publisher with a Facebook, Instagram, or WhatsApp business account will have consented, through continued use alone, to let Meta deploy automated crawlers against their websites. The News/Media Alliance called it "outrageous and probably illegal." The deadline held. And that is just the beginning of a morning that touches the FTC, the UK's Information Commission, a four-hundred-million-dollar legal AI platform, and a truckload market running out of trucks.
+
+[INTRO]
+
+Good morning. It is Thursday, October 29, 2026. This is Morning Docket. I'm your host, and for the next twenty-five minutes or so we are going to work through the week's most consequential legal, regulatory, and market news for a media holding company operating brands across freight intelligence, aviation, rail, and marine, with a e-commerce arm and a publishing portfolio that spans both sides of the Atlantic.
+
+On the agenda today: the Meta scraping deadline lands, and publishers have nowhere to go. The FTC puts its stamp on the Publicis-LiveRamp merger and signals where behavioral remedies are headed. The OpenAI copyright MDL moves to the opposition brief stage, while Anthropic picks up a lawsuit over 274 Elvis compositions, filed just yesterday. California expands CCPA deletion rights and the UK's Information Commission finalizes its post-DUAA identity. We will spend our deep dive on the Meta terms crisis, because it is the story with the most immediate operational implications for Firecrown. Then we will look at Harvey's FedRAMP certification and what it actually means for in-house legal AI procurement. And we will close with the freight numbers that SONAR has been flashing all October, a reefer rejection rate above twenty-one percent and a capacity market that will not respond to signals the way it used to.
+
+Let's get into it.
+
+[HEADLINE ROUNDUP]
+
+First item. 
+
+The FTC and twenty states sued Dollar General on Sunday, October 26, for what regulators described as long-running deceptive pricing practices, alleging that Dollar General routinely charges customers more at the register than advertised prices indicate.
+
+ That case is straightforward consumer protection, but it sits inside a broader FTC pattern worth tracking. 
+
+The Publicis-LiveRamp consent order, issued October 19, is the sixth major FTC enforcement action against the digital advertising ecosystem in 2026 alone.
+
+ 
+
+Under the proposed order, Publicis and LiveRamp must, for five years, provide non-discriminatory access on fair terms to LiveRamp's standalone products and services, and are explicitly prohibited from denying, degrading, delaying, or impairing any customer's access.
+
+ 
+
+The FTC opted for behavioral remedies rather than structural separation, a choice consistent with the trajectory courts and regulators have taken in digital-markets antitrust cases throughout 2025 and 2026, including a September 2026 ruling in which a federal judge rejected Google ad-tech divestiture in favor of behavioral obligations.
+
+ The message for media companies that depend on LiveRamp for identity resolution is nuanced. The platform stays intact, but the order creates a public comment period through November 19th. 
+
+The public has thirty days from October 19 to submit comments via Regulations.gov.
+
+ If you use LiveRamp, that comment window is worth your attention.
+
+Second item. California's fall privacy law package. 
+
+California enacted several significant privacy law changes in 2026, including expanded CCPA deletion rights, limits on certain California Invasion of Privacy Act claims for certain online activities, shorter data broker deletion timelines, and new insurance privacy requirements. Notably, SB 923 expands deletion rights under the CCPA to cover third-party-sourced data.
+
+ That last piece is the one that matters most for publishers. Until now, deletion rights only covered data collected directly from the consumer. Now they reach data a publisher received from a third-party data provider, a list vendor, or an ad-tech partner. 
+
+As of October 12, 2026, the CCPA enforcement tracker shows twelve actions taken in 2026 with combined penalties exceeding eighteen point one million dollars.
+
+ The enforcement infrastructure is clearly operational. Review your third-party data intake and your deletion workflows before the end of Q4.
+
+Third item. AI training litigation is accelerating on multiple fronts simultaneously. 
+
+On October 8, USA Today Company and its affiliated newspaper companies, which publish nineteen titles including USA Today, the Detroit Free Press, and the Arizona Republic, sued seven OpenAI entities in the Southern District of New York, alleging that OpenAI copied their journalism to train its models, stripped identifying information from it, and now uses those models to give ChatGPT users summaries that substitute for the original reporting.
+
+ 
+
+The USA Today case is seeking more than two hundred fifty million dollars in damages and has been paused by agreement until the pending summary judgment motions are decided.
+
+ Those motions, filed in the consolidated MDL before Judge Sidney Stein, have now generated opposition briefs. 
+
+All sides filed summary judgment motions on September 4, 2026. Oppositions were filed October 23. Reply briefs are due November 20.
+
+ And as of yesterday, the music rights world joined the fray. 
+
+Authentic Brands Group filed a lawsuit against AI firm Anthropic, alleging copyright infringement of 274 Elvis Presley songs used to train its Claude AI model without authorization, initiating legal proceedings on Friday, October 23, 2026.
+
+ 
+
+With 274 songs cited in the complaint, total damages sought could reach approximately forty-one million dollars. An Anthropic spokesperson stated the company disagrees with the claims and intends to defend the case fully.
+
+
+
+Fourth item. The UK's Information Commission has formalized its post-DUAA posture. 
+
+The regulator formally transitioned to the Information Commission on September 30, 2026, and still calls itself the ICO.
+
+ 
+
+A call for evidence on agentic AI opened on October 8, 2026, with agentic AI guidance listed for publication in autumn 2026.
+
+ For publishers operating UK brands, two DUAA changes deserve immediate attention. 
+
+The UK's Data Use and Access Act added exceptions to the consent rule for analytics cookies used only to improve a service, and for settings that remember a user's preferences. Advertising still needs consent, and the maximum fine for breaking the rules rose to UK GDPR levels.
+
+ Specifically, 
+
+the Act raised the maximum fine for breaking PECR's rules from five hundred thousand pounds to seventeen point five million pounds or four percent of annual global turnover, in line with the UK GDPR.
+
+ If your analytics stack on UK properties has not been audited since February, that is an overdue task.
+
+Fifth item. The SEC's October rulemaking activity reflects a steady push toward streamlining disclosure requirements. 
+
+The SEC's 2026 rulemaking agenda, published in July, listed October 2026 as the target date for proposed rules on rationalization of disclosure practices, shareholder proposal modernization under Rule 14a-8, and Rule 144 safe harbor amendments.
+
+ 
+
+In a related development, the SEC's Division of Corporation Finance announced it will no longer respond to Rule 14a-8 no-action requests, marking a significant shift in the shareholder proposal process. Companies must still comply with notification requirements, but without staff guidance on exclusion decisions, they will need to rely on existing SEC guidance, precedent, and judicial decisions.
+
+ For a private media holding company like Firecrown, the immediate read-across is limited, but if any of the portfolio brands contemplate a capital raise or if there is any investor-relations function touching public capital, the shifting 14a-8 framework is worth a note to outside securities counsel.
+
+Sixth item. On publishing economics. 
+
+This week's Digiday Media Briefing looks at how publishers are gearing up to turn US midterm election interest into paying subscribers as declining referral traffic raises the stakes for building direct reader relationships.
+
+ That election-driven subscription urgency is a short-term tailwind for news publishers. The longer structural story is more interesting. 
+
+With traffic from search and social more volatile, subscriptions are being positioned as the stabilizing core of some news publishers' businesses. Subscription and membership remain the biggest revenue focus, at seventy-six percent, for publishers, ahead of both display at sixty-eight percent and native advertising at sixty-four percent, according to the Reuters Institute's recent report on journalism trends in 2026.
+
+ 
+
+Of the top ten percent of publishers with subscription businesses, digital subscriber volume has grown by seventy-seven percent, while median publishers have increased digital subscription revenue by about thirty-five percent and the top ten percent has grown subscription revenue by one hundred twenty percent.
+
+ The gap between the top tier and the median is widening fast. The Times of London is, as of today, testing what it is calling macro payments for readers who do not want to subscribe, and Substack now reports five million paid subscriptions at a one-point-one billion dollar valuation.
+
+[DEEP DIVE]
+
+Now the deep dive. The Meta scraping terms crisis, and what it means for a publisher operating business accounts on Meta's platforms, which is to say, nearly every publisher in the country.
+
+Let's reconstruct the timeline. 
+
+On October 16, reports surfaced flagging broad scraping language in Meta's consolidated commercial terms. On October 17, Meta removed the word "train" from the disputed clause and issued a public statement.
+
+ Then the News/Media Alliance weighed in. 
+
+The largest news publishing trade association in the United States called on Meta CEO Mark Zuckerberg to suspend the implementation of the company's new commercial terms of service, set to go into effect on October 30. In an open letter, NMA president and CEO Danielle Coffey wrote that Meta should withdraw these terms and hold discussions with publishers.
+
+
+
+What do the current revised terms actually say? 
+
+The revised terms state that businesses which continue to use Meta's platforms after October 30 authorize Meta to use automated software, including web scrapers, bots, robots, spiders, crawlers, and user agents, to access, index, cache, analyze, collect, retrieve, or crawl the domains, web pages, or URLs associated with their products or services.
+
+
+
+Meta's public position is that the crawling is limited to advertising and business products, and that robots.txt preferences are respected. The legal community is not satisfied with that assurance. 
+
+Meta has not included any specific language about respecting robots.txt preferences in its revised terms of service. The new terms are slated to go into effect on October 30. There is no option for business accounts to opt out before then.
+
+
+
+
+
+According to James Grimmelmann, a professor of digital and information law at Cornell Law School: "For news publishers, this clearly represents permission to Meta to train AI on any content from their sites and possibly to deploy some of that content, even in competition with the publishers themselves. On the broadest possible interpretation, this would be used to develop a comprehensive archive of all content that Meta would then serve as it wanted, directly or through AI."
+
+
+
+The binary that publishers face as of today is stark. 
+
+There is currently no option for business accounts to opt out of these new terms ahead of October 30. The update reads: if you do not agree to the updated terms, please stop all access or use of our products for business or commercial purposes.
+
+
+
+
+
+"This is a remarkable provision to bury in terms of service, given that this would give Meta access to material that would likely cost many millions of dollars in a licensing market," said Matt Topic, a media and intellectual property attorney at Loevy and Loevy.
+
+
+
+Now, European publishers have gone further. 
+
+European publishers and advertising associations are calling for EU intervention because Meta's new terms of service would allow the company to automatically scrape websites belonging to businesses with Facebook or Instagram accounts and use that content for AI purposes without giving affected parties the opportunity to object.
+
+
+
+What should a GC at a media holding company do right now? Three concrete actions.
+
+One. Conduct an immediate robots.txt audit across all Firecrown properties, FreightWaves, Trains.com, FLYING, Boating and Sailing, and Spacestore. Confirm that the meta-crawlers exclusion is explicitly set. Meta says it respects these flags. Lock them in tonight. This is the fastest, most cost-free protection available and you can do it before noon.
+
+Two. Assess your Meta business account footprint. Map every brand that has a Facebook page, Instagram profile, or WhatsApp channel. Determine whether any of those accounts can be deactivated without material commercial harm. If a property generates no measurable revenue from Meta-referred traffic, shutting the business account is a clean opt-out. Make that decision brand by brand, not portfolio-wide.
+
+Three. Preserve your rights and build a paper record. Send a written communication to Meta via your business account management channel formally stating that Firecrown does not consent to the use of its content for AI training or for the development of products competitive with its publishing brands, and that it reserves all rights under applicable copyright law and licensing frameworks. This will not prevent crawling, but it establishes intent on the record. It also positions you favorably if this dispute enters litigation, which the News/Media Alliance's language suggests they are at least contemplating.
+
+The deeper issue is that this is not solely a Meta problem. As the OpenAI, Google Gemini, and Anthropic cases move toward summary judgment, the news publishing industry is discovering that its content was the substrate for a multi-trillion-dollar asset class and received no compensation. The meta-terms crisis is the latest, most visible flashpoint in that same dynamic. It will not be the last.
+
+[GC BENCH]
+
+The GC Bench. Legal technology and AI for in-house counsel.
+
+The headline this morning is Harvey. 
+
+Harvey announced yesterday, October 28, 2026, that its legal AI platform is now FedRAMP Class D certified. The company said the certification allows US federal agencies, federal contractors and partners, international governments, and commercial entities requiring the highest security standards to use Harvey for their legal work.
+
+ This is notable for in-house counsel not because Firecrown is a federal contractor, but because FedRAMP Class D is one of the highest security attestations available to a SaaS legal platform. It signals that Harvey has cleared a security and data-governance bar that removes one of the primary objections that privacy-conscious GC offices raise when evaluating enterprise AI tools.
+
+Harvey's broader October story is one of rapid expansion. 
+
+On October 1, Harvey confirmed in its quarterly recap that it had crossed four hundred million dollars in annual recurring revenue after adding more than one hundred million dollars in the quarter alone, up from approximately one hundred ninety million dollars in January.
+
+ 
+
+As of October 2026, Harvey reports more than two hundred thousand lawyers use the platform.
+
+
+
+The product activity this month is also worth noting. 
+
+Harvey released its Connector Library in general availability on October 21, bringing legal teams' tools and institutional knowledge into one place, delivering context-aware research and drafting with citations that trace answers to sources.
+
+ And in a direct partnership announcement, 
+
+Latham and Watkins announced a partnership with Harvey to develop fund formation-focused AI tools, with the goal of covering limited partnership agreements, side letters, subscription documents, and comment memos.
+
+ 
+
+Harvey intends to sell the technology to other law firms, and Latham will not share in any revenue from the sales.
+
+
+
+The practical filter for a GC at a private media company is this. Harvey, at its current trajectory, is building a legal AI stack that spans the full workflow from research through drafting through matter management. Its security posture has now cleared a rigorous federal bar. If your current legal tech stack is Microsoft Copilot plus a point solution for contract review, you are in a transitional period. 
+
+Thomson Reuters has also restructured its product lineup: Westlaw Precision has been succeeded by Westlaw Advantage, and CoCounsel is now sold as CoCounsel Legal, which includes Westlaw Advantage, or CoCounsel Essentials.
+
+ The market is consolidating around a small number of platforms that can support the full in-house workflow. A two-platform evaluation, Harvey against CoCounsel Legal, is a reasonable next procurement conversation for a legal department of Firecrown's profile and complexity.
+
+[INDUSTRY ANGLE]
+
+The industry angle. Freight, rail, aviation, and marine.
+
+
+
+The SONAR Truckload Rejection Index hit an unexpected fourteen percent in October, a significant development outside normal seasonal patterns. This is not being driven by a demand spike, but rather by persistent market imbalance and insufficient supply across the country.
+
+ 
+
+The SONAR Tender Rejection Index climbed to fourteen point one seven percent, which SONAR's Zach Strickland called a significant and unexpected development. What makes the move notable is what is not behind it: the SONAR Tender Volume Index shows no demand-side surge, meaning the tightening is being driven entirely by a supply shortfall. Strickland noted that mid-October is typically a brief breathing period before the holiday rush, making the breadth of the current disruption all the more striking.
+
+
+
+The reefer segment is running even hotter. 
+
+Refrigerated truckload tender rejections are running at twenty-one point four four percent nationally as of October 20, meaning roughly one in five reefer loads is being turned down by carriers, according to FreightWaves SONAR data. The SONAR Truckload Rejection Index has hovered between thirteen and fourteen percent since August.
+
+ 
+
+SONAR's tender rejection maps show the tightest conditions concentrated in the Pacific Northwest and across parts of the Midwest, with fall harvest commodities, apples, potatoes, and onions moving out of the Pacific Northwest, and poultry and protein products shipping ahead of Thanksgiving demand.
+
+
+
+The structural story underneath these numbers is the one Craig Fuller and SONAR's team have been tracking all year. 
+
+As of October 2026, new trucking capacity is not entering the freight market, even after a full year of elevated tender rejections. SONAR data shows tractors in new for-hire fleets fell to nineteen thousand five hundred twenty in August, while the SONAR Truckload Rejection Index held near fourteen percent, about three times its 2023-to-2025 range.
+
+ 
+
+Over the three years ending October 2026, the SONAR Truckload Volume Index is up nine percent, while the rejection index is up two hundred sixty-eight percent.
+
+ New capacity is simply not responding to the price signal, which SONAR attributes partly to persistently high insurance and compliance costs making entry uneconomic for small carriers.
+
+On the rails, 
+
+a thirty-four percent cost discount between intermodal contract rates and truckload contract rates is pushing shippers toward rail, according to SONAR data. Truckload contract rates have risen seven and a half percent over the past three months while intermodal contract rates have remained essentially flat, up just zero point six percent over the same period.
+
+
+
+In air cargo, 
+
+air cargo tonnages out of Asia quickly rebounded following the Golden Week holiday, while volumes from other origins were under pressure. Boeing was forced to pause production of its 777 and 767 freighters due to a dispute with a parts supplier.
+
+ That Boeing production halt is worth monitoring for the FLYING audience. 
+
+Air cargo executives called for a new midsize freighter at this year's Cargo Facts Symposium in Nashville, with concern focused on what aircraft will replace the aging Boeing 767 freighters that now compose a hefty chunk of the midsize cargo fleet.
+
+
+
+On the marine side, 
+
+one of the strongest signals in the October freight market is the continued deterioration in container schedule reliability. Global schedule reliability fell by five point nine percentage points in August to forty-nine point nine percent, its lowest level since September 2022.
+
+ 
+
+The Panama Canal is increasing Neopanamax transits from nine to ten vessels per day beginning October 15 and restoring the maximum authorized draft to forty-nine feet as water levels recover. At the same time, select carriers are returning to the Suez Canal, reducing India-to-US East Coast transit times by up to two weeks.
+
+
+
+[CLOSING BRIEF]
+
+Three things on the watch list.
+
+Number one. The Meta business terms take effect today. Watch for the first legal challenge. The News/Media Alliance has signaled that tomorrow's terms are "probably illegal" and referenced Meta's market power as the mechanism of coercion. The phrase "abuse of market power" is not accidental. Whether that framing leads to an antitrust complaint, a DMCA argument, or a state-level unfair business practices action in California will tell us a great deal about how publishers intend to fight the next phase of AI training disputes.
+
+Number two. The OpenAI copyright MDL summary judgment clock. 
+
+Reply briefs are due November 20, with no hearing or trial date set.
+
+ When those reply briefs land, they will contain the strongest version of both sides' fair use arguments. Judge Stein's eventual ruling will function as the most authoritative statement on whether AI training constitutes transformative use. It may be the single most consequential copyright decision for media companies since the Sony Betamax case.
+
+Number three. The SONAR capacity signal heading into peak season. 
+
+Over the three years ending October 2026, the SONAR Truckload Volume Index is up nine percent, while the SONAR Truckload Rejection Index is up two hundred sixty-eight percent. At their early-summer 2026 peak, rejections were up more than three hundred fifty percent.
+
+ Freight data is the heartbeat of the FreightWaves media business and of SONAR's subscription product. A carrier-favored market heading into Black Friday is the scenario where SONAR's high-frequency data becomes most valuable to shippers. For Firecrown, this is the business context in which that product earns its premium positioning. Watch the Pricing Power Index for any sharp moves this week.
+
+[SIGNOFF]
+
+That is Morning Docket for Thursday, October 29, 2026. The script, as always, is a starting point. Verify anything that requires a legal position through your own counsel, and if a specific item needs deeper research, flag it and we will pull it forward. Have a clear commute, Barrister Caputo. We will be back tomorrow morning.
+END OF EPISODE.
