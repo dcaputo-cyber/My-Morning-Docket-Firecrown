@@ -1,0 +1,259 @@
+MORNING DOCKET — Friday, October 30, 2026
+A daily brief for the general counsel of a media company.
+
+[COLD OPEN]
+
+A federal judge is being asked, as of this morning, to rule on whether training an artificial intelligence model on copyrighted journalism is just an ordinary copyright case. Three of the largest labor unions in entertainment say it is. Meanwhile, the freight market is flashing two signals at once — contract rates at a fifty-two week high and intermodal capturing a thirty-four percent pricing advantage over truck — and one of the biggest deals in digital advertising history just cleared the Federal Trade Commission with a five-year leash attached. A lot moved this week. Let's put it in order.
+
+[INTRO]
+
+Good morning. It's Friday, October 30, 2026. This is Morning Docket, the briefing for Barrister Darren Caputo, General Counsel at Firecrown. Five major legal and regulatory developments this week, a deep dive on where the AI copyright war stands for media companies right now, a look at what's new in legal technology for in-house teams, the industry signals you need ahead of the weekend, and three things to keep on the watch list. We have a full program. Here we go.
+
+[HEADLINE ROUNDUP]
+
+First: The FTC and the Publicis-LiveRamp deal. On October 19th, the Federal Trade Commission approved Publicis Groupe's two-point-two billion dollar all-cash acquisition of LiveRamp, the largest data connectivity provider in the United States, but not without conditions. 
+
+The proposed consent order addresses the FTC's concerns that Publicis's acquisition of LiveRamp — which provides data connectivity services that help facilitate the secure and confidential movement of data used for digital advertising — would harm competition in the markets for media agency services and audience data services.
+
+ 
+
+The FTC required Publicis to continue providing neutral and nondiscriminatory access to LiveRamp's products and services, and to establish firewalls to prevent Publicis from accessing LiveRamp's customer data.
+
+ 
+
+For five years, Publicis and LiveRamp are required to appoint an independent auditor to audit the company's compliance every six months for the first two years after the transaction closes, and then once a year thereafter.
+
+ Why does this matter to a media company? Because LiveRamp is infrastructure. It is how publishers, brands, and agencies share audience data without passing raw identifiers. If Publicis used that position to advantage its own agency clients over competitors — including independent publishers' ad operations — the competitive harm would be direct. The neutrality firewall is the right call. Watch for compliance reporting as the deal closes before year-end.
+
+Second: The FTC's broader enforcement posture this month. Beyond the LiveRamp matter, the Commission has been busy. 
+
+On October 29th, the FTC and state partners took action against Toast Incorporated over hidden and unauthorized fees, deceptive subscription and cancellation practices; and on October 26th, the FTC joined by twenty states sued Dollar General for engaging in long-running deceptive pricing practices.
+
+ The theme running through October's enforcement calendar is price transparency — what you advertise has to be what consumers can actually get. 
+
+The Commission is also considering whether search engines, social media services, online marketplaces, and other digital platforms should be liable when their advertising or listing tools create, target, or otherwise optimize advertisements that impersonate governments or businesses.
+
+ That advance notice of proposed rulemaking on platform liability for ad optimization is worth a careful read if Firecrown's brands carry any programmatic display. The FTC's emerging theory — that a platform internalizes the benefits of engagement while externalizing the costs of consumer deception — is a structural argument that could reframe how ad-tech vendors are assessed under Section Five.
+
+Third: California's privacy sprint into year-end. Governor Newsom used the September 30th bill-signing deadline to reshape California's privacy framework in several material ways. 
+
+Senate Bill 923 requires businesses to extend CCPA deletion rights to cover third-party-sourced data, and Assembly Bill 883 shortens the data broker DELETE Act response cycle from 45 to 30 days.
+
+ 
+
+Governor Newsom signed Senate Bill 690, ending private CIPA pen-register suits over websites and apps, with his signing message describing the targeted litigation as the vexatious use of CIPA suits and demand letters.
+
+ That last point matters because pen-register class actions — filed over pixels, session replay tools, and chat integrations — have been a rolling litigation exposure for media companies. The private right of action under that specific provision is now gone, but as practitioners note, plaintiffs are expected to repivot to Sections 631 and 632, and the Attorney General retains authority. 
+
+California's AI ad-disclosure rule takes effect January 1st, 2027.
+
+ That gives you exactly two months to audit synthetic content in your advertising pipeline across all Firecrown brands.
+
+Fourth: The UK data protection regulator just restructured itself. 
+
+On September 30th, 2026, the Information Commissioner's Office formally became the Information Commission, a change introduced by the Data Use and Access Act 2025 aimed at providing a new governance structure, shifting regulatory power from a single decision-maker to a seven-person board.
+
+ 
+
+Its functions and powers are unchanged by the transition.
+
+ But the structural shift signals something. A board-governed regulator can move faster on enforcement consensus, build institutional knowledge across sectors, and insulate decisions from single-point accountability. The new board's expanded powers — including the authority to compel witnesses to attend interviews and to require technical reports — have been in force since February. 
+
+Earlier in 2026, the ICO fined Reddit fourteen-point-four-seven million pounds for processing the personal information of children under thirteen without effective age checks.
+
+ For Firecrown's UK-facing editorial properties — and that includes any digital subscription or newsletter product that touches UK users — the obligation to have a formal internal complaints procedure has been live since June 19th. If that process is not documented and tested, it should be.
+
+Fifth: Publishing revenue models are in active flux. 
+
+As of October 29th, the Digiday media briefing reports that publishers are selling more subscriptions to smaller audiences, with news publishers racing to turn election interest in the approaching midterms into paying subscribers.
+
+ The structural pressure underneath that trend is real. 
+
+Declining referral traffic is putting pressure on publishers to build direct, paying relationships with readers.
+
+ The most concrete new experiment reported this week: 
+
+The Times of London, with roughly six hundred eighty thousand loyal digital subscribers behind a hard paywall, is preparing to test what its CEO called macro payments — not micropayments, which charge readers a little for each article, but macro payments that sell something specific, such as one of the Times' annual guides, at the moment a reader wants it.
+
+ That framing matters. Bundled specialist content sold at a moment of intent is exactly the model a brand like FLYING or Boating and Sailing could prototype — a premium annual guide, a seasonal buying edition, sold transactionally to non-subscribers. Watch that test.
+
+[DEEP DIVE]
+
+This week's deep dive is on the AI copyright war, and it has to be, because it moved on several fronts simultaneously and the implications for Firecrown are direct.
+
+Let's start with the litigation landscape as it stands on the morning of October 30th.
+
+
+
+On October 8th, USA Today and its affiliated newspaper companies, which publish nineteen titles, sued seven OpenAI entities in the US District Court for the Southern District of New York, alleging that OpenAI copied their journalism to train its models, stripped identifying information from it, and now uses those models to give ChatGPT users summaries that substitute for the original reporting.
+
+ 
+
+USA Today is seeking more than two hundred fifty million dollars in damages.
+
+ That case has been paused by agreement pending the outcome of summary judgment in the larger consolidated MDL.
+
+The MDL itself — In re OpenAI, Inc. Copyright Infringement Litigation, MDL 3143 — is at a critical procedural moment. 
+
+All sides filed summary judgment motions on September 4th. Oppositions were filed October 23rd. Reply briefs are due November 20th.
+
+ That means the fair use question — whether scraping journalistic content to train a large language model is transformative under the four-factor test — will be fully briefed within three weeks. A ruling is not imminent, but the record is closing.
+
+This morning, a new brief landed. 
+
+SAG-AFTRA, the American Federation of Musicians, and the Writers Guild of America East and West filed with a federal judge calling on the court to reject a fair use exemption for training AI models, arguing that this AI training dispute is, in their words, no more than an ordinary copyright case and should be treated as such.
+
+ The unions are amici, not plaintiffs, but their intervention matters. The WGA and SAG-AFTRA carry political weight and credibility on this question that individual publishers do not, and their framing — ordinary copyright, not novel technology law — is precisely the argument that courts hostile to AI exceptionalism are likely to find persuasive.
+
+On the Meta front: 
+
+US Magistrate Judge Thomas Hixson on October 19th ordered Meta to identify every person who decided on or approved obtaining data from pirate libraries and the use of BitTorrent for training its LLaMA model. Meta had argued that its early AI training data buildout was informal and that no authorized person made the decisions, but the court rejected this. The order, together with internal documents cited by plaintiffs indicating prior escalation to CEO Zuckerberg, intensifies scrutiny of management's role in sourcing AI training data.
+
+ This is a document production order, not a liability ruling, but it signals courts' willingness to pierce the fog of informality that many AI developers have used to describe their data sourcing decisions.
+
+On Anthropic: 
+
+Anthropic has noted in its IPO S-1 prospectus that adverse rulings in litigation involving other AI developers — regardless of the specific facts, data practices, or legal theories at issue in those cases — could establish legal precedents that apply broadly across the industry and limit its ability to train, develop, or deploy AI models.
+
+ That is a company acknowledging that legal risk in this space is systemic, not idiosyncratic.
+
+Also filed this week: 
+
+a lawsuit filed October 23rd by companies holding the rights to Elvis Presley's vast musical catalog accuses Anthropic's Claude AI of using two hundred seventy-four copyrighted compositions for training data without permission.
+
+
+
+Now, what does all of this mean for Firecrown specifically?
+
+FreightWaves, Trains.com, FLYING, and Boating and Sailing all produce original journalism and specialist editorial content — the kind of structured, high-value information that AI developers have systematically sought out for training. The legal theory being tested in these cases — that scraping copyrighted journalism, stripping metadata, and using it to build a substitute product constitutes infringement — is not an abstract one. It applies directly to content produced by your brands.
+
+Three concrete actions for you as GC.
+
+One: Run a terms-of-service and robots.txt audit across all Firecrown editorial properties. The legal strength of any future copyright claim is materially affected by whether you had express prohibitions on automated scraping in place before the scraping occurred. Courts are beginning to weigh contractual and technical signals of non-consent. If your ToS does not explicitly prohibit AI training use and your robots.txt is not updated to reflect current AI crawlers, those are gaps to close this quarter.
+
+Two: Assess your licensing posture. 
+
+The continued growth of licensing arrangements between AI companies, publishers, content owners, and data providers will make this issue increasingly important.
+
+ Several publishers have already negotiated direct licensing agreements with OpenAI and Google. If Firecrown has not been approached, or if approaches have been handled informally, establish a protocol. Any licensing inquiry from an AI developer should route through legal with a written record.
+
+Three: Map CMI — copyright management information. 
+
+Plaintiffs in AI copyright cases have brought claims under Section 1202 of the Digital Millennium Copyright Act involving copyright management information.
+
+ If AI developers are stripping bylines, publication names, or timestamps when ingesting your content, that is a separate and potentially cleaner statutory claim — one that does not require proving market substitution under the fair use four-factor test. Review whether your content metadata is being preserved or stripped in any syndication or licensing agreements you currently have in place.
+
+[GC BENCH]
+
+Legal technology. Two items this week.
+
+Thomson Reuters made a significant product push in October. 
+
+Thomson Reuters announced on October 14th that it is making things simpler for legal professionals working across borders, helping legal teams research cross-border legal and compliance questions without leaving the platform they already trust.
+
+ 
+
+The company introduced the CoCounsel Legal Multinational Profile, bringing cross-border legal research into a single workflow, combining advanced AI with trusted Westlaw and Practical Law content to produce comprehensive legal research reports. The next generation of CoCounsel Legal is available now in the United Kingdom, with general availability expected globally in countries including Australia, Brazil, Canada, Singapore, and the United Arab Emirates by the end of October.
+
+
+
+For a GC at a company with UK-facing operations — and Firecrown's properties reach UK readers in aviation, marine, and transport — this is a practical development. The ability to run a single research query across US and UK data protection, IP, or advertising law without switching platforms reduces the overhead of external counsel for routine cross-border questions. The feature is relevant specifically to your CIPA-versus-PECR comparative work and to any UK GDPR gap analysis you may be running in connection with the DUAA compliance cycle.
+
+The second data point from the legal tech landscape: 
+
+according to the 2026 ACC Chief Legal Officers Survey of one thousand forty-nine CLOs across forty-three countries, fifty-two percent of US in-house counsel started using generative AI tools in 2025, more than double the year before, and over ninety percent of lawyers now use at least one AI tool.
+
+ The adoption rate is no longer a story about early adopters. It is a story about what standard of care looks like for in-house legal functions. One specific caution: 
+
+a federal judge has ruled in US v. Heppner that ChatGPT inputs may not be privileged.
+
+ General-purpose tools used without proper data governance are a privilege waiver risk. If your team is using any AI tool to analyze confidential legal matters, it needs to be running through a SOC 2 compliant platform with a zero-data-retention commitment. Confirm that before the end of the calendar year.
+
+[INDUSTRY ANGLE]
+
+The freight and transport signals this week are worth reading carefully, because they tell two different stories depending on the mode.
+
+On truckload: 
+
+the SONAR Truckload Rejection Index hit an unexpected fourteen percent in October — a significant development outside normal seasonal patterns — not driven by a demand spike, but by persistent market imbalance and insufficient supply across the country.
+
+ 
+
+Craig Fuller's analysis of the latest SONAR data shows contract rates climbing past recession highs, spot rates trending upward, and contract rates having hit a fifty-two week high, with spot rates climbing nearly fifty percent year-over-year.
+
+ 
+
+The truckload market is holding at elevated pricing with supply constraints anchoring rates even as accepted volumes track slightly below last year.
+
+
+
+Rail is telling a different story, and it may be the more durable signal. 
+
+For the week ending October 24th, total rail carloads were up three-point-six percent year-over-year, and intermodal volume was up eleven-point-three percent. For the first forty-two weeks of 2026, US railroads reported cumulative carloads up two-point-seven percent and intermodal units up four-point-seven percent from last year.
+
+ 
+
+Record high fuel prices and tight trucking capacity have pushed freight from the highway to rail.
+
+ SONAR data reviewed on FreightWaves flagged a thirty-four percent cost discount between intermodal contract rates and truckload contract rates — a spread that, as Fuller noted, is hard to ignore from a shipper's perspective. 
+
+SONAR's platform also released a new intermodal API this week covering rates across more than two thousand intermodal lanes.
+
+ That is a product directly relevant to the Trains.com audience.
+
+Craig Fuller hosted the F3: Future of Freight Festival in Chattanooga this week, running October 26th through the 28th. 
+
+FreightWaves announced the winners of its Shipper of Choice awards at the festival, recognizing companies that stand out for their relationships with freight carriers and their approach to shipping operations.
+
+ 
+
+Fuller also kicked off the First Broker Compliance Symposium, with discussions described as covering the most impactful change to the freight broker industry in history.
+
+ That event is worth a follow-up — broker transparency regulation has been moving in Congress, and compliance frameworks for freight intermediaries could become a content story for FreightWaves.
+
+On air cargo: 
+
+global air cargo demand increased seven-point-seven percent year-on-year in September 2026, supported by stronger international trade and manufacturing activity, according to IATA.
+
+ 
+
+North American carriers saw an eleven-point-eight percent year-on-year increase in air cargo demand in September, the strongest performance of all regions.
+
+ 
+
+Jet fuel prices rose by seventeen-point-five percent month on month in September and were one hundred three-point-four percent higher than a year earlier.
+
+ That fuel cost surge is the red flag buried in the strong demand numbers. Strong volume against dramatically higher operating costs means margin compression for carriers — which eventually feeds into rate pressure for shippers, including e-commerce freight. For FLYING's audience, the fuel price trajectory is both an economic story and an editorial one.
+
+On marine: 
+
+Brunswick Corporation raised its full-year earnings guidance after third-quarter sales rose six-point-nine percent to one-point-four-five billion dollars, with sales increasing across all four reporting segments — the fifth consecutive quarter of year-on-year growth in each business. Brunswick now expects adjusted diluted earnings per share of approximately four dollars and sixty-five cents for 2026, with full-year sales of five-point-seven to five-point-eight billion dollars.
+
+ That is a meaningful beat in a category that has been under consumer sentiment pressure all year. 
+
+While consumer sentiment remains pressured by inflation, borrowing costs, and global uncertainty, Brunswick's premium-focused portfolio and recurring-revenue businesses continue to deliver exceptional performance, supported by healthy boating participation trends and low pipeline inventory.
+
+ For Boating and Sailing's editorial and commercial teams, this is a signal that the premium segment of the marine market remains resilient even as unit sales overall are softer.
+
+[CLOSING BRIEF]
+
+Three things on the watch list heading into next week.
+
+First: Reply briefs in the OpenAI MDL are due November 20th. Between now and then, both OpenAI and the publisher plaintiffs will complete the written record on fair use as applied to AI training. The outcome of that ruling — whenever it comes — will either validate or fundamentally alter the licensing negotiation leverage of every media company in the country. Track it closely. If the court rules before year-end, it is the most consequential IP decision for media since the DMCA.
+
+Second: California's AI ad-disclosure rule, Senate Bill 1050, takes effect January 1st, 2027. 
+
+California's AI synthetic-performer ad disclosure rules start January first.
+
+ That is sixty-three days from today. Any advertising creative across Firecrown's brands that uses AI-generated voices, likenesses, or synthetic performers in California-targeted media needs to be reviewed against that rule before the new year. The disclosure obligations are not trivial and the penalties for non-compliance are per violation.
+
+Third: the UK Information Commission's board is newly constituted and signaling intent to use its new enforcement toolkit. 
+
+The ICO's active review of the UK's top one thousand websites for cookie compliance underscores that enforcement in this area is not theoretical.
+
+ If Firecrown's UK-facing properties are in that sweep — and with the brands' audience profiles they plausibly are — you want your PECR consent management platform, your cookie categories, and your legitimate interest assessments refreshed and documented. The DUAA's five new cookie consent exemptions created some relief, but they come with conditions that have to be met correctly.
+
+[SIGNOFF]
+
+That is the Morning Docket for Friday, October 30th, 2026. Have a considered weekend, Darren. We will be back Monday with whatever the week delivers — and in this environment, it always delivers something. Good morning.
+END OF EPISODE.
