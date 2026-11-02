@@ -1,0 +1,263 @@
+MORNING DOCKET — Monday, November 2, 2026
+A daily brief for the general counsel of a media company.
+
+Now I have sufficient material to write the full Morning Docket script. Let me compile it.
+
+[COLD OPEN]
+
+Three stories landed last week that, taken together, draw a single line through the business of running a media company in 2026. California signed a batch of new privacy bills before the end of September, expanding the rights consumers can exercise against your data operations. A federal judge in New York is preparing to rule on whether training a large language model on journalism constitutes fair use — with USA Today now among the plaintiffs seeking more than two hundred fifty million dollars from OpenAI. And the Federal Trade Commission issued a consent order on the Publicis acquisition of LiveRamp that imposes structural conditions on the ad-tech stack your advertising partners use every day. If you think those three threads are separate, this episode will change your mind.
+
+[INTRO]
+
+Good morning. It is Monday, November 2, 2026. I am Morning Docket, and this is your briefing for the week. Today we move through California's fall privacy omnibus, the amicus brief avalanche in the OpenAI copyright multidistrict litigation, the FTC's LiveRamp consent order and its impersonation rulemaking, the SEC's push to modernize Regulation S-K, and what Craig Fuller and the FreightWaves team surfaced at last week's F3 festival in Chattanooga. The deep dive today is the UK Information Commission's expanded enforcement posture under the Data Use and Access Act. The GC Bench covers the state of AI tools for in-house legal teams heading into the fourth quarter. Let's begin.
+
+[HEADLINE ROUNDUP]
+
+First headline. California's fall 2026 privacy omnibus. Before the September 30 deadline, Governor Newsom signed four bills that materially expand CCPA obligations for any company touching California consumers. 
+
+The package includes SB 923, which extends deletion rights under the CCPA to cover data that a business obtained from third-party sources — not just data collected directly — and AB 883, which shortens the timelines within which data brokers must honor deletion requests.
+
+ There is also a restriction on private class actions under the California Invasion of Privacy Act for certain online tracking claims, which closes a litigation pathway that plaintiff's firms had been using aggressively. 
+
+In total, the year's enforcement actions have carried combined penalties exceeding four point two million dollars in the first rounds alone.
+
+ The enforcement machinery has also grown more sophisticated. 
+
+California's enforcement division is now running real-world technical tests across actual technology stacks — connecting to websites, mobile applications, connected televisions, and backend systems — to verify that privacy controls actually function, not merely that they exist on paper.
+
+ For a media holding company managing multiple digital properties across different CMS environments, that is not an abstract risk. The regulator is scanning your sites.
+
+Second headline. The OpenAI copyright multidistrict litigation is entering a critical window. 
+
+USA Today Co. and its affiliated newspaper entities filed suit on October 8 in federal court in New York, alleging that OpenAI trained its GPT models on hundreds of thousands of their copyrighted articles without authorization. The suit seeks damages in excess of two hundred fifty million dollars.
+
+ That filing, combined with the existing New York Times and Ziff Davis cases, has produced a wave of amicus activity. 
+
+On October 30, OpenAI published excerpts from twenty court filings — from authors, librarians, law professors, trade groups, venture capital firms, two former members of Congress, and the United States government — all backing fair use for AI training, accusing The New York Times of pursuing what OpenAI called an undeserved payday.
+
+ On the same day, the Wikimedia Foundation staked out notable middle ground. 
+
+The nonprofit asked the presiding federal judge to divide the fair-use analysis between model training and real-time content generation, arguing that pre-training AI on copyrighted text is likely fair use, but that retrieval-augmented generation features in chatbots are not.
+
+ 
+
+House Judiciary Democrats also filed an amicus brief opposing the Department of Justice's fair-use position in the OpenAI and Microsoft cases, with members Jamie Raskin, Jerry Nadler, and Hank Johnson arguing the DOJ had injected its views contrary to standard practice.
+
+ Reply briefs are due November 20. For publishers with content libraries, every one of those filings is a preview of how courts may eventually calibrate the value of your editorial archive.
+
+Third headline. The FTC and the Publicis acquisition of LiveRamp. 
+
+On October 19, the FTC announced a proposed consent order resolving its concerns over Publicis's two point two billion dollar acquisition of LiveRamp. The case is notable for relying on a purely vertical theory of harm, centered on Publicis's control over previously neutral data pipelines.
+
+ 
+
+The order requires Publicis to continue providing neutral and nondiscriminatory access to LiveRamp's products and services and to establish firewalls preventing Publicis from accessing LiveRamp customer data.
+
+ LiveRamp is, by the FTC's own description, the leading data connectivity provider in the United States. For any publisher running programmatic advertising, LiveRamp is a foundational piece of the plumbing. The FTC's structural remedy signals that it views ad-tech data infrastructure as a competition choke point. 
+
+The agency has made clear that firms should expect deals involving important data infrastructure layers, including AI-related technologies, to face similar scrutiny.
+
+ Watch this order closely if you or your agency partners are building audience activation on top of LiveRamp's clean room tools.
+
+Fourth headline. The FTC's advance notice of proposed rulemaking on platform ad optimization and impersonation scams. 
+
+On October 1, the FTC published a notice in the Federal Register asking whether it should amend its 2024 Impersonation Rule to reach search engines, social media platforms, and other digital marketplaces — naming Google, Facebook, Amazon, the Apple App Store, and LinkedIn as examples — with the stated aim of making platforms internalize the cost of optimizing fraudulent ads.
+
+ 
+
+Since the rule took effect, the FTC has completed fourteen enforcement actions, resulting in over eighty million dollars in consumer redress to date.
+
+ 
+
+Comments are due by November 30.
+
+ For a media company that sells advertising and relies on platform distribution, there is a layered risk here: if the rule expands, your platforms' ad-optimization tools may face new liability frameworks, which could change how they price and deliver inventory.
+
+Fifth headline. SEC proposes to modernize the proxy solicitation rules. 
+
+On September 16, the Securities and Exchange Commission proposed a series of amendments intended to modernize and streamline the federal proxy solicitation rules under Regulation 14A.
+
+ The three biggest operational changes: 
+
+the SEC would eliminate the requirement to deliver a separate annual report to security holders, eliminate the 20-business-day delivery deadline when documents are incorporated by reference into a proxy statement, and shorten the minimum broker search period from 20 business days to 5 business days.
+
+ 
+
+The proposal would also eliminate, for all registrants other than investment companies, the stock performance graph currently required by Item 201 of Regulation S-K.
+
+ This is part of SEC Chair Paul Atkins's larger push. 
+
+Atkins has previewed a possible materiality overlay for Regulation S-K and the agency's October rulemaking agenda includes proposed amendments to rationalize disclosure practices and to reform executive compensation disclosure requirements under Item 402.
+
+ If you serve on the board of a Firecrown affiliate or advise on governance, get those comment letters ready. This is not a rulemaking cycle where passive observation serves you.
+
+Sixth headline. California's AI ad-disclosure law is coming. 
+
+SB 1050, the AI synthetic-performer advertising disclosure law, was signed September 16 and takes effect January 1, 2027, requiring clear disclosure when an advertisement prominently features a realistic AI-generated performer.
+
+ This lands at the same moment that 
+
+California's AI advertising disclosure framework is moving toward effect.
+
+ If any of Firecrown's brands run digital advertising featuring AI-generated imagery or voices — and increasingly that is not an abstract question — California compliance will require disclosure at the ad unit level, not buried in a privacy policy.
+
+[DEEP DIVE]
+
+The deep dive today: the UK's transformed data protection regulator, and what the Data Use and Access Act means for a US media company with UK operations, UK readers, and advertising serving UK audiences.
+
+Start with the basic structure. 
+
+The Data Use and Access Act 2025 commenced on February 5, 2026, and represents the most substantial reform of UK data protection law since the UK left the European Union.
+
+ All data protection provisions are now fully in force. 
+
+As of September 30, 2026, the UK's data protection regulator itself changed legal form. The single-office Information Commissioner has been replaced by a board-led body called the Information Commission — a change made under the Data Use and Access Act.
+
+ The organization continues to be known as the ICO, and its enforcement functions are unchanged, but the governance structure signals a more institutionalized, systematic regulator — not a single person's discretion, but a board.
+
+What changed substantively for businesses? Three areas are most relevant to Firecrown.
+
+First, enforcement power. 
+
+The DUAA grants the ICO new enforcement powers, including the power to compel a witness to attend an interview, to request technical reports, and to issue fines of up to seventeen point five million pounds or four percent of global turnover under the Privacy and Electronic Communications Regulations — PECR — now aligned with UK GDPR levels.
+
+ That PECR escalation matters specifically because PECR governs cookies and electronic marketing. Previously PECR fines were capped at five hundred thousand pounds. That ceiling is gone.
+
+Second, cookies and analytics. 
+
+The Act added exceptions to the consent requirement for cookies covering analytics used only to improve a service and settings that remember a user's preferences. Advertising cookies, however, still require consent, and the maximum fine for breaking those rules rose to UK GDPR levels.
+
+ The practical consequence: analytics-only cookies are now on a legitimate-interest basis in the UK while advertising cookies still require opt-in. If your consent management platform is configured the same way for UK and US audiences, that configuration may now be overinclusive for analytics but still correct for advertising. Worth auditing.
+
+Third, complaints handling. 
+
+New legal requirements on how organizations handle data protection complaints are now in force. All organizations must give people a clear way to raise a data protection complaint, acknowledge it within 30 days, investigate appropriately, and communicate the outcome.
+
+ 
+
+From June 2026, data subjects must first raise complaints with the controller. Only if dissatisfied — or if the controller fails to respond within a reasonable timeframe — can they escalate to the ICO.
+
+ This is a meaningful shift. The ICO's complaint queue now has a buffer, which reduces regulator workload, but it also creates a direct legal duty for your team to respond on defined timelines. Miss the window, and the escalation pathway to the regulator opens automatically.
+
+The enforcement posture context matters. 
+
+The ICO has contacted 93 organizations about website cookies and has taken enforcement action in this space against a betting provider, Sky Betting and Gaming.
+
+ The regulator has been explicit that it is running a review of the UK's top one thousand websites for cookie compliance. That is not a review of only the largest companies by revenue — it is a review of traffic-ranked websites. A media brand with meaningful UK readership could be in that cohort.
+
+What should a GC at a US media company do right now?
+
+Action one: Map which of your brands' digital properties serve meaningful UK traffic. For each one, run a cookie audit that distinguishes analytics cookies from advertising cookies. The analytics exemption is now live, but advertising requires consent. If your CMP is treating them identically, you are either over-consenting or under-consenting, and the PECR maximum has materially changed the financial exposure of getting it wrong.
+
+Action two: Draft or update your internal data protection complaint-handling procedure. It needs to be operational, not aspirational. The 30-day acknowledgment clock is law. Assign ownership. Document the process. The ICO will look for evidence of the procedure in any investigation.
+
+Action three: Review your PECR-governed outbound email marketing list management for UK subscribers. The complaint-handling duty does not exist in isolation. If a UK subscriber exercises a right — deletion, rectification, opt-out of profiling — and your team fails to respond within a reasonable timeframe, that is now a direct ICO escalation pathway. For a publishing brand running subscription email programs, this is operational, not theoretical.
+
+[GC BENCH]
+
+The GC Bench. Legal technology and AI tools for in-house counsel, with a practical filter.
+
+The market for in-house AI tooling is continuing to stratify. The dominant pattern this quarter is a split between purpose-built in-house platforms and law firm tools being adapted for corporate legal departments. 
+
+Thomson Reuters has rebranded its research offering: Westlaw Precision has been succeeded by Westlaw Advantage, and CoCounsel is now sold as CoCounsel Legal, CoCounsel Essentials, or Westlaw Advantage with CoCounsel Essentials, depending on the bundle.
+
+ The repackaging reflects competitive pressure from below.
+
+On the purpose-built side, 
+
+GC AI is the legal AI platform for in-house counsel used by over two thousand one hundred legal teams across 53 countries, including more than two hundred public companies, and was named by Fast Company to its most innovative AI companies of 2026 list.
+
+ The platform is built specifically for in-house work: contract review, drafting, regulatory research, and matter management in a single tool.
+
+What is the practical filter for a solo or lean in-house team at a media holding company?
+
+The honest answer is that the most common failure mode is not choosing the wrong tool — it is deploying a tool without a governance wrapper. If you use an AI platform to draft a licensing agreement or analyze a data processing addendum, and a material error results, you need to know: who reviewed the output, when, and what the review process looked like. That is a legal ops question, not a technology question.
+
+The second issue is data hygiene. Any AI tool processing your commercial contracts, vendor agreements, or GDPR-governed data processing records needs a subprocessor review before it goes live. For a company with UK operations, the tool also needs to fit within your UK GDPR data transfer framework. Ask vendors for their latest data processing addendum and their subprocessor list before onboarding — and specifically ask where inference runs. If it runs in the US on EU or UK personal data, you have a transfer mechanism question.
+
+The third issue is California's SB 1050 and the broader trend toward AI disclosure obligations in advertising. As AI tools make it faster to draft ad copy, native content, and product descriptions, the legal function needs a review checkpoint — ideally before publication — to assess whether the output triggers any of the emerging disclosure obligations in California or elsewhere.
+
+[INDUSTRY ANGLE]
+
+The industry angle. Freight, rail, aviation, and marine, with a lens on what FreightWaves and SONAR surfaced last week.
+
+
+
+FreightWaves' F3: Future of Freight Festival ran October 27 and 28 at The Signal in Chattanooga, bringing together more than a thousand industry leaders and fifty-plus speakers.
+
+ 
+
+Craig Fuller stood alongside Malcolm Harris to present the Shipper of Choice awards at the F3 Awards Dinner, recognizing companies that stand out for their relationships with freight carriers. Fuller, as founder and CEO of FreightWaves and SONAR, presented the awards during the dinner.
+
+
+
+On market conditions: 
+
+Spot rates were running at three dollars and thirty-four cents per mile, about 21 percent above last year's levels and still within range of the all-time record Fuller cited at roughly three dollars and fifty-five cents per mile set in late 2021. Fuller has characterized the current pullback as normal seasonal behavior rather than structural softening.
+
+
+
+The intermodal story is particularly interesting from a cross-modal perspective. 
+
+Fuller noted that a 34 percent discount reflects door-to-door pricing for moving freight by train versus truck.
+
+ And SONAR is expanding its intermodal data. 
+
+FreightWaves' SONAR platform released a new intermodal API covering rates across more than two thousand intermodal lanes.
+
+
+
+The regulatory pressure point that dominated the compliance conversation on October 26 at the adjacent Broker Compliance Symposium was the FMCSA's non-domiciled CDL rules. 
+
+FMCSA has finalized strict new non-domiciled CDL standards, initiating a five-year staggered phase-out for an estimated two hundred thousand drivers affected by the new rule.
+
+ That capacity withdrawal, combined with tightening spot rates, is what Fuller and his colleagues have been flagging as the structural story underneath the seasonal noise. 
+
+The trucking industry is facing an expanding compliance crackdown, with states intensifying safety inspections and enforcing CDL regulations — and local enforcement is driving a tighter freight market, reducing available capacity, and pushing spot rates higher.
+
+
+
+For the aviation and marine segments: 
+
+ocean import bookings surged to their highest pace in three years, with port dwell times remaining stretched.
+
+ 
+
+In aviation, higher ticket prices are pushing some consumers toward car and rail, which could lower load factors and drive further airline consolidation.
+
+ For FreightWaves' FLYING brand in particular, the consolidation pressure in commercial aviation that is reshaping load factors is the same environment affecting general aviation markets — watch fuel costs and regional airport economics as lead indicators.
+
+[CLOSING BRIEF]
+
+Three items on the watch list for the week ahead.
+
+First, the FTC's impersonation rulemaking comment deadline. It is November 30. 
+
+The FTC is soliciting comment on the extent to which ad-optimization services offered by digital marketplace platforms assist efforts by scammers using online ads to impersonate legitimate businesses and government agencies.
+
+ For a media company, this rulemaking could reshape how platforms price and deliver advertising inventory. If the rule extends platform liability for scam ads optimized using their own AI tools, you should expect pricing changes upstream. Get your comment in early, and use it to surface the publishing perspective: ad-supported media is not the same liability profile as a platform.
+
+Second, November 20: reply briefs due in the OpenAI copyright multidistrict litigation. 
+
+Opposition briefs were filed October 23, and reply briefs are due November 20.
+
+ 
+
+The source material reflects a broader split in the litigation landscape, with some courts treating training, source-copy acquisition, retention, and output distribution as separate copyright issues rather than a single category.
+
+ The Wikimedia line between pre-training and RAG is the intellectual framework most likely to survive the summary judgment stage. If courts adopt it, RAG-based features in AI products — the ones that pull and display your content in response to queries — would require licensing. That would restructure the economics of AI licensing negotiations for every publisher.
+
+Third, track the SEC's Regulation S-K rationalization proposals through the comment period. 
+
+On January 13, 2026, the SEC released a statement noting its intent to reform Regulation S-K to elicit material information while avoiding compelling an avalanche of immaterial information that would neither protect investors nor facilitate capital formation.
+
+ The October proposals around executive compensation disclosure reform and proxy modernization are now out for comment. 
+
+The SEC's agenda is ambitious and includes 36 proposed rules overall, so there may be delays.
+
+ But if any Firecrown entity moves toward public markets in the medium term, understanding what the Atkins-era disclosure regime looks like before you have to live inside it is the kind of lead time that earns its keep.
+
+[SIGNOFF]
+
+That is Morning Docket for Monday, November 2, 2026. The show is produced for Barrister Darren Caputo, General Counsel at Firecrown. If a story warrants a follow-up deep dive, send the request through the usual channel. Stay measured, stay specific, and have a good week.
+END OF EPISODE.
