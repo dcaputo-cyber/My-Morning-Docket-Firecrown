@@ -1,0 +1,285 @@
+MORNING DOCKET — Tuesday, November 3, 2026
+A daily brief for the general counsel of a media company.
+
+Now I have enough research to write the complete Morning Docket script. Let me compile it.
+
+[COLD OPEN]
+
+The week opens with a courtroom calendar that should concentrate the mind of every media company general counsel. In New York's federal district court, summary judgment briefs in the consolidated OpenAI copyright case are now fully exchanged, twenty amicus filers have lined up behind OpenAI's fair-use argument — including the United States government — and a Wikimedia brief filed last Thursday is trying to split the baby in a way that matters enormously for how publishers think about AI licensing. Meanwhile, California's privacy regulators didn't wait for courts to settle anything: they quietly crossed two billion dollars in cumulative enforcement actions since twenty twenty-five and just signed four new privacy statutes before the October deadline. The freight market, for its part, is telling a split story that Craig Fuller summed up as "a tale of two economies" — industrial demand at a decade-long high, consumer freight visibly slowing. It is Tuesday, November third, twenty twenty-six. This is Morning Docket.
+
+[INTRO]
+
+Good morning, Darren. Today is Tuesday, November third. This week we are sitting at the intersection of several live regulatory clocks: the FTC's advance rulemaking on ad platform liability for impersonation scams closes in under thirty days, California's fall privacy package is now law, and the UK's restructured Information Commission — yes, the body that used to be the ICO — is finalizing its updated enforcement guidance. In the next twenty-five minutes or so we will move through six headline items, go deep on the OpenAI copyright litigation and what it means for a media holding company with content assets, check in on the legal technology arms race, get the freight and transport picture from the F3 Festival data, and close with three items to keep on your radar. Let us begin.
+
+[HEADLINE ROUNDUP]
+
+First: California's fall twenty twenty-six privacy package is now on the books. 
+
+Before the September thirtieth deadline, Governor Newsom acted on several privacy-related bills passed by the California legislature.
+
+ The three that matter most for a media company: 
+
+Senate Bill nine twenty-three, which expands deletion rights under CCPA to cover third-party-sourced data,
+
+ meaning if you licensed audience data from a third party and a California consumer exercises a deletion right, that deletion obligation now follows the data chain. 
+
+Assembly Bill eight eighty-three shortens data broker deletion cycles,
+
+ which affects any affiliate or data partner that qualifies as a broker under California law. And separately, 
+
+opt-out confirmation requirements have shifted from optional to mandatory — businesses must now provide visible confirmation that opt-out requests have been processed.
+
+ The CPPA's enforcement division is not waiting to see who reads the new statute. 
+
+CalPrivacy's enforcement division is now running real-world technical tests across actual tech stacks — connecting to websites, mobile apps, connected TVs, and backend systems — to verify that privacy controls actually function.
+
+ If you have advertising technology on any of Firecrown's digital properties that relies on a cookie banner and calls it a day, that is an exposure.
+
+Second: the FTC's October was busy, and one action is particularly live for any publisher that sells advertising. 
+
+On October nineteenth, the Federal Trade Commission announced that it had entered a proposed consent order resolving its concerns over Publicis's two-point-two billion dollar acquisition of LiveRamp.
+
+ 
+
+LiveRamp is, according to the FTC, the leading data connectivity provider in the U.S., and the FTC expressed concerns about vertical foreclosure arising specifically from the acquisition of LiveRamp's data connectivity services.
+
+ The FTC's worry: 
+
+the transaction would enable Publicis and Epsilon to obtain competitively sensitive data or use non-Publicis client data to advantage their own clients.
+
+ For publishers that use LiveRamp for audience onboarding or identity resolution — and many do — this consent order means LiveRamp has structural neutrality obligations it must now maintain under FTC supervision. Watch what the final order's firewall provisions say when they are published. Separately, on the impersonation advertising front: 
+
+through an Advance Notice of Proposed Rulemaking, the FTC is soliciting comment on the extent to which ad-optimization services offered by digital marketplace platforms assist efforts by scammers using online ads to impersonate legitimate businesses and government agencies.
+
+ 
+
+Comments are due by November thirtieth, twenty twenty-six.
+
+ If you run programmatic advertising across Firecrown's titles, this rulemaking is worth a response or at minimum a close read.
+
+Third: The UK's Information Commission — which as of September thirtieth has formally replaced the single-office ICO structure under the Data Use and Access Act — is moving into its next enforcement phase. 
+
+On September thirtieth, the UK's data protection regulator changed its legal form. The single office of Information Commissioner was replaced by a board-led body called the Information Commission, a change made under the Data Use and Access Act twenty twenty-five.
+
+ 
+
+The legal entity is now the Information Commission, overseen by a board, but the organization continues to be known as the ICO and keeps its existing regulatory functions and responsibilities.
+
+ What has changed materially for controllers: 
+
+the DUAA grants the ICO new enforcement powers, including the power to compel a witness to attend an interview, request technical reports, and issue fines of up to seventeen-point-five million pounds or four percent of global turnover under PECR.
+
+ For Firecrown's UK-facing brands — FLYING, Boating and Sailing, Trains.com — the cookie and consent landscape under the new PECR rules is meaningfully tighter. 
+
+Updated guidance on the Data Use and Access Act changes is due for publication from the ICO in autumn twenty twenty-six.
+
+ We are in that window now. Check the ICO guidance publication page this month.
+
+Fourth: The publishing subscription model is at an interesting inflection. The data point that stood out this week comes from Digiday's October twenty-ninth briefing. 
+
+Publishers are selling more subscriptions to smaller audiences, and with referral traffic declines, news publishers are racing to turn election interest into paying subscribers
+
+ — today's midterms being the proximate catalyst. The structural read is darker: 
+
+declining referral traffic puts pressure on publishers to build direct, paying relationships with readers.
+
+ On the experimental side, 
+
+The Times of London has spent years behind a hard paywall and with roughly six hundred and eighty thousand loyal digital subscribers. Now it wants the readers who would pay for a single guide or moment but never the whole paper.
+
+ 
+
+It is calling the model "macro payments," a term coined in New York while meeting with News Corp business units. Micropayments charge readers a little for each article. Macro payments sell something specific, such as one of the Times' annual guides, at the moment a reader wants it.
+
+ For a media holding company with specialist titles like FreightWaves, FLYING, and Boating and Sailing, this experiment is worth tracking closely. Your readers have high willingness to pay for specific, deeply vertical content. A macro-payment layer on top of a subscription could reach the professionals who want one data report, not a monthly plan.
+
+Fifth: On AI copyright litigation — a full deep dive follows — but the headline snapshot. 
+
+OpenAI on Friday, October thirtieth published excerpts from twenty court filings by authors, librarians, law professors, trade groups, a venture capital firm, two former members of Congress and the United States government, all backing fair use for AI training, and accused The New York Times of pursuing what it called an undeserved payday in the copyright case the newspaper filed against it in December twenty twenty-three.
+
+ 
+
+Opposition briefs were filed October twenty-third, and reply briefs are due November twentieth.
+
+ The case is not resolved. It is accelerating.
+
+Sixth and finally for the headline round: Craig Fuller and FreightWaves hosted the F3 Future of Freight Festival in Chattanooga last week — October twenty-seventh and twenty-eighth. 
+
+FreightWaves founder and CEO Craig Fuller stood alongside award recipients to present the Shipper of Choice awards. Fuller presented the awards during the F3 Awards Dinner at The Signal in Chattanooga.
+
+ Fuller's read on the broader economy at F3 is worth understanding. 
+
+Fuller describes the economy as a tale of two transportation economies. Freight data shows the consumer slowing while the industrial economy is the strongest he has seen in perhaps a decade. Because today's industrial expansion is driven by forces largely disconnected from the consumer, the two are not pulling each other up or down the way they traditionally would.
+
+ That bifurcation matters for FreightWaves' advertising and data subscription revenues — industrial and carrier clients are spending; consumer-adjacent advertisers may pull back.
+
+[DEEP DIVE]
+
+Now the deep dive. The subject is the OpenAI consolidated copyright litigation and what its current posture means for a media holding company that is, simultaneously, a potential plaintiff class member, a content licensor, and a business that may want to use AI tools trained on text.
+
+Here is where the case stands as of this morning. 
+
+The parties filed competing summary judgment motions on September fourth, twenty twenty-six.
+
+ 
+
+Opposition briefs were filed October twenty-third. Fact and expert discovery closed in the summer of twenty twenty-six.
+
+ The court extended the deadline for amicus briefs to October thirtieth, and what arrived at that deadline changed the shape of the argument considerably.
+
+
+
+The Computer and Communications Industry Association co-filed a joint amicus brief along with NetChoice and TechNet, arguing that the use of copyrighted material for AI training qualifies as permissible fair use under the Copyright Act and the general purposes of copyright as established in the Constitution.
+
+ 
+
+The brief argues that the use of material for AI is highly transformative because it identifies patterns and enables entirely new technology tools. The amici also dismissed concerns about market dilution — the idea that AI creations could flood a market and decrease value — as an unrecognized and unrealistic theory of harm.
+
+
+
+
+
+The excerpts attributed to those filers argue that AI training serves a different purpose from the underlying works, does not provide substitute access to copyrighted material, and does not create the kind of market harm copyright law is designed to prevent. The United States government is quoted as saying that narrowing fair-use doctrine to exclude large language model training would be inconsistent with copyright principles and could hinder scientific and economic progress.
+
+
+
+But the brief that should most interest a media holding company GC came from Wikimedia. 
+
+The Wikimedia Foundation asked a federal judge presiding over the consolidated copyright litigation against OpenAI to divide fair-use questions between model training and real-time generation. The nonprofit behind Wikipedia argued that pre-training artificial intelligence models on copyrighted text is likely fair use, but that retrieval-augmented generation features in chatbots are not.
+
+ Read that again: training is likely fair use; real-time retrieval is not. 
+
+The organization drew a sharp contrast with retrieval-augmented generation, or RAG, in which a chatbot copies material from external websites to answer user prompts. Wikimedia wrote that while the pre-training of ChatGPT's general language model was fair use, OpenAI's use of copies in ChatGPT's RAG feature is not fair, arguing that systems copying and delivering excerpts to users must respect publishers' licensing terms.
+
+
+
+This distinction is not academic. It is the licensing theory on which the next generation of publisher AI deals will rest. If a court adopts the Wikimedia framework — training is fair use, RAG retrieval requires a license — then publishers like FreightWaves, FLYING, and Trains.com have a real licensing claim against any AI service that ingests and then serves up their content in answer to user queries. The content does not have to be reproduced verbatim. The question is whether the retrieval step substitutes for a visit to the publisher.
+
+
+
+The source material also reflects a broader split in the litigation landscape, with some courts and analyses treating training, source-copy acquisition, retention and output distribution as separate copyright issues rather than a single category.
+
+ That atomization of the question is what makes this case so important. If the court treats each stage of the AI pipeline separately, Firecrown may have claims in some stages and not others, depending entirely on how its content ended up in a training set and whether it can be retrieved by a RAG system.
+
+
+
+A consortium of nineteen affiliated papers sued OpenAI and Microsoft on October eighth, twenty twenty-six, seeking more than two hundred and fifty million dollars, and that case has been paused by agreement until the pending summary judgment motions are decided.
+
+ That pause is a tell. It means the industry is watching this case as a price-setter.
+
+What should you do now as general counsel? Three concrete actions.
+
+One: inventory your content. Identify which FreightWaves, FLYING, Trains.com, Boating and Sailing, and Spacestore content is publicly accessible and therefore crawlable. Cross-reference that against your robots.txt files. OpenAI announced last week that it would honor shared robots.txt AI training signals — that is a low-friction way to assert a preference without litigation, but it must actually be implemented and monitored.
+
+Two: review any AI vendor agreements you have in place. If Firecrown uses any AI tool that ingests your internal editorial content or customer data for training purposes, the agreement should have an explicit prohibition on using Firecrown data to train external models and a warranty that the vendor's training data is lawfully licensed. The Wikimedia brief's RAG theory means even query-time retrieval may require a license — which in turn means your AI vendor's indemnification obligations matter.
+
+Three: consider whether Firecrown has affirmative licensing claims that are worth asserting now, before this case settles and before the industry establishes a licensing rate. The New York Times and the nineteen-paper consortium both moved before the litigation resolved. The reply briefs are due November twentieth. The window for publishers to join the narrative, whether by filing, licensing discussions, or public comment, is open but narrowing.
+
+[GC BENCH]
+
+Time for the GC Bench — legal technology and AI tools through a practical filter for the in-house function.
+
+The headline this week: Harvey AI acquired Aida, its fifth company of twenty twenty-six, last Wednesday. 
+
+Harvey bought Aida, an AI-native sales execution platform, which will help with developing ontologies so law firms can leverage their knowledge better with AI.
+
+ 
+
+The deal comes amid a wave of consolidation in legal AI, with rival Legora also completing five acquisitions in twenty twenty-six and Thomson Reuters expanding through acquisitions.
+
+ The strategic logic Harvey is pursuing: 
+
+agents are already capable of far more than they do today. What stops them is that they don't know enough.
+
+ The Aida acquisition is about feeding Harvey's agents deeper knowledge of a firm's or legal department's internal context — deals, documents, prior positions.
+
+For in-house counsel evaluating the Harvey ecosystem versus purpose-built in-house platforms: 
+
+Harvey closed a five hundred and fifty million dollar growth-stage funding round on October first, twenty twenty-six, reaching a fifteen-point-five billion dollar post-money valuation with four hundred million dollars in annual recurring revenue.
+
+ That is a real business with staying power. But Harvey's architecture is still built around law firm billing structures. 
+
+Harvey AI and CoCounsel are primarily designed for law firm attorneys. GC AI is built for in-house counsel — the workflow design, output format, and feature priorities are oriented around corporate legal department needs rather than law firm billing and client matter structures.
+
+
+
+The more relevant news for a solo general counsel at a media company is on the Thomson Reuters side. 
+
+Thomson Reuters' Westlaw Precision has been succeeded by Westlaw Advantage, and CoCounsel is now sold as CoCounsel Legal, which includes Westlaw Advantage.
+
+ If you have a Thomson Reuters contract up for renewal, now is the time to renegotiate: the product suite has been restructured, which means legacy contract terms may not map cleanly to the new offering. And a note on privilege hygiene that bears repeating: 
+
+in U.S. v. Heppner, a federal judge ruled that ChatGPT inputs may not be privileged.
+
+ Generic AI tools have no attorney-client confidentiality wrapper. Purpose-built legal AI platforms with proper data processing agreements do. If Firecrown team members are using general AI tools to draft legal documents or analyze contracts, that is a privilege exposure that should be addressed in your AI usage policy before the next matter goes to litigation.
+
+[INDUSTRY ANGLE]
+
+The industry angle: freight, aviation, and marine.
+
+On trucking: 
+
+the SONAR Truckload Rejection Index spiked to an unexpected fourteen percent in mid-October — a significant development outside normal seasonal patterns. This is not driven by a demand spike, but rather by persistent market imbalance and insufficient supply across the country. Key regions including Los Angeles, Harrisburg, and Atlanta are showing unusual disruptive activity, with spot rates rising in critical areas.
+
+ Context for why this matters: 
+
+over the three years ending October twenty twenty-six, the SONAR Truckload Volume Index is up nine percent, while the Truckload Rejection Index is up two hundred and sixty-eight percent.
+
+ Volume has barely moved. Capacity has not returned. 
+
+Shippers who have reset truckload contracts over the past several months are paying about thirteen percent more than the rates they replaced. That is the reading from SONAR's new Contract Rate Change Direction index, which stood at thirteen-point-eleven percent on October twenty-second, up from three-point-five-three percent a year earlier.
+
+
+
+SONAR also launched new routing guide data this week. 
+
+SONAR released three new truckload dataset groups that measure what shippers pay their transportation providers — brokers and carriers — as freight moves through a routing guide and as contract rates reset.
+
+ 
+
+As of October twentieth, loads accepted on the second tender cost shippers a median twenty-two percent more all-in than first-tender loads.
+
+ That premium is the forensic proof of a tight market.
+
+On air cargo: 
+
+airfreight rates on the transpacific trade lane increased rapidly during October as the air cargo industry headed toward its traditional fourth-quarter peak season. Average airfreight rates on services from Hong Kong started October at seven dollars and sixteen cents per kilogram but ended the month at eight dollars and seventeen cents per kilogram.
+
+ 
+
+Compared with last year, rates on the trade ended the month thirty-eight-point-seven percent above last year's levels.
+
+ That matters to FLYING's commercial audience: aircraft owners and operators, charter operators, and MRO businesses are all pricing parts and logistics in an environment where air cargo is the most expensive it has been since the post-pandemic surge.
+
+On ocean: 
+
+the Drewry World Container Index for October first stood at four thousand, four hundred and thirty-four dollars per forty-foot container, a one percent decline from the previous week
+
+ — but the transpacific lane told a different story. 
+
+Shanghai to New York increased approximately one percent to ten thousand, four hundred and twenty-eight dollars. Shanghai to Los Angeles remained broadly stable at approximately seven thousand, eight hundred and thirty-five dollars.
+
+ Ocean rates are bifurcated by lane, and Boating and Sailing's readers — chandlers, marina operators, boat manufacturers — are sourcing parts and vessels in an environment where Asia-to-US container rates remain elevated.
+
+[CLOSING BRIEF]
+
+Three things on the watch list before we close.
+
+First: the November twentieth reply brief deadline in the OpenAI copyright case. That is the last substantive filing before Judge Stein rules on summary judgment. The ruling will land at some point in the months that follow and will either validate or complicate every AI content licensing negotiation in the industry. If you are not already tracking this docket directly, set up a PACER alert for case number twenty-five-md-three-one-four-three in the Southern District of New York.
+
+Second: the FTC impersonation advertising rulemaking comment deadline of November thirtieth. 
+
+The FTC focuses on platform ad optimization — the AI tools that write ad copy, generate images, assemble headlines and pick audiences
+
+ — and is asking whether platforms should internalize the cost of scam ads their systems generate and distribute. If Firecrown's titles carry programmatic advertising from any major digital marketplace, this rulemaking could restructure the liability relationship between publishers, ad networks, and platforms. A comment filed now, or a coalition comment through a trade body like the Digital Content Next, puts your perspective in the record.
+
+Third: the ICO's autumn twenty twenty-six guidance publication for UK data protection under the Data Use and Access Act. 
+
+The final version of updated guidance covering Data Use and Access Act changes is due for publication in autumn twenty twenty-six.
+
+ That guidance will set out how the ICO interprets the new recognized legitimate interests basis, the reformed cookie rules, and the automated decision-making framework. For any Firecrown brand running behavioral advertising to UK readers, this guidance will either open a lawful basis that was not previously available or confirm that consent remains the only route. Either way, your PECR compliance posture may need to be updated before year end.
+
+[SIGNOFF]
+
+That is Morning Docket for Tuesday, November third, twenty twenty-six. The research behind today's episode draws on court filings, FTC press releases, SONAR data, FreightWaves reporting from the F3 Festival, the ICO and DUAA statutory record, and trade reporting from Digiday, Artificial Lawyer, and Air Cargo News. We will be back tomorrow. Safe travels.
+END OF EPISODE.
