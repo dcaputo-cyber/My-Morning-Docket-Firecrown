@@ -1,0 +1,295 @@
+MORNING DOCKET — Wednesday, November 4, 2026
+A daily brief for the general counsel of a media company.
+
+Now I have comprehensive, current research across all required topic areas. Let me compose the full Morning Docket script.
+
+[COLD OPEN]
+
+The California Attorney General's office just extracted its ninth scalp under the CCPA. Lyft is paying one point eight million dollars because burying an opt-out behind a chain of app links, then redirecting users to a webpage, is not a valid privacy choice. And across the Atlantic, the body that used to be called the ICO is now constitutionally different — board-governed, with new investigatory powers that can compel witnesses and demand technical reports. If you operate on both sides of that ocean, today matters.
+
+[INTRO]
+
+Good morning. It is Wednesday, November 4, 2026. This is Morning Docket. I'm your host, and you are Barrister Darren Caputo, General Counsel of Firecrown. Today we have California's rolling CCPA enforcement machine, fresh motion practice in the New York Times versus OpenAI copyright multidistrict litigation, a governance earthquake from the SEC's proposal to dismantle the shareholder proposal rule, a signal from the UK's newly reconstituted Information Commission, and a full debrief on Craig Fuller's F3 festival in Chattanooga — including what SONAR's latest market data says about where trucking and air cargo go from here. Plus a GC Bench segment on what agentic AI tools are actually doing for in-house legal teams right now. Let's get into it.
+
+[HEADLINE ROUNDUP]
+
+First item. California's CCPA enforcement machine just delivered its most recent warning to mobile app operators. 
+
+On October 29th, California Attorney General Rob Bonta announced a one point eight million dollar settlement with Lyft to resolve alleged violations of the CCPA and the Unfair Competition Law.
+
+ The specific claim is surgical: 
+
+California's settlement resolves allegations that the rideshare app sold or shared personal information for in-app ads without an opt-out inside the app, and Lyft must now offer that opt-out in the app and notify California consumers they can refuse the sale.
+
+ The compliance lesson is granular. 
+
+The only opt-out path ran from the in-app privacy policy through a series of links to a Do Not Sell or Share webpage — and the Attorney General said that process does not meet the CCPA.
+
+ There is a secondary wrinkle worth noting for companies with logged-in mobile products: 
+
+when a consumer who is not logged in opts out, including through the Global Privacy Control, Lyft must tell the consumer that it may be necessary to log in, or ask for the minimal personal information necessary, to fully effectuate the opt-out.
+
+ 
+
+Today's settlement represents the California Department of Justice's ninth enforcement action under the CCPA.
+
+ Firecrown's brands that operate consumer-facing apps — and that includes anything subscription-gated — should run this checklist today.
+
+Second item. The California legislature also handed the governor a bundle of privacy bills before the September 30th deadline, and several of them are now law. 
+
+Governor Newsom signed, among others, SB 923, which expands deletion rights under the CCPA from information collected from a consumer to information collected from or about the consumer.
+
+ That is a meaningful expansion. Currently, deletion requests only reached data you collected directly. Under SB 923, they reach third-party-sourced data as well. 
+
+AB 883 shortens data broker deletion cycles.
+
+ 
+
+Data brokers must now shorten their DROP response cycle from 45 to 30 days.
+
+ And separately, 
+
+SB 690 eliminates the private right of action for CIPA pen-register and trap-and-trace claims based on website and app tracking, though it does not touch Section 631 or 632 claims.
+
+ That last one is a meaningful litigation relief valve — the CIPA pixel tracking wave that battered media companies over the last few years gets partially drained.
+
+Third item. The OpenAI copyright litigation in the Southern District of New York has reached a critical juncture. 
+
+In September 2026, both sides asked Judge Sidney Stein to decide the core fair-use question without a trial, and the Justice Department filed a brief backing the AI companies.
+
+ The amicus docket is extraordinary. 
+
+The Computer and Communications Industry Association co-filed a joint amicus brief with NetChoice and TechNet, arguing that the use of copyrighted material for AI training qualifies as permissible fair use under the Copyright Act and the constitutional purposes of copyright.
+
+ On the other side, 
+
+SAG-AFTRA, the American Federation of Musicians, and the Writers Guild of America East and West filed their own joint brief slamming OpenAI for, in their words, appropriating the work of middle- and working-class people to develop their technology.
+
+ WME took a nuanced position: 
+
+the agency declared its position is not that AI use of creative materials should be stopped, but that it should be licensed, and it seeks to preserve the legal framework that lets creators decide whether, and on what terms, their protected work is used.
+
+ 
+
+Opposition briefs were filed October 23rd, and reply briefs are due November 20th.
+
+ This case touches every content asset Firecrown controls — editorial archives, photography, video, proprietary data journalism. Watch the November 20th filing date carefully.
+
+Fourth item. The SEC's proposed rescission of Rule 14a-8 — the shareholder proposal rule — is the most significant governance restructuring in decades. 
+
+On September 16th, the Securities and Exchange Commission issued a proposal to rescind Rule 14a-8, which requires companies subject to the SEC's proxy rules to include qualifying shareholder proposals in their proxy materials.
+
+ 
+
+The proposed rescission follows the SEC ending the no-action letter process under Rule 14a-8 in August 2026, and comments from Chairman Paul Atkins questioning the statutory basis of Rule 14a-8.
+
+ The rationale the Commission offers: 
+
+many justifications for adopting the rule either have not been substantiated in practice or are less compelling today, and rescinding Rule 14a-8 would leave determinations about the role of shareholder proposals to state law and company governing documents.
+
+ 
+
+The SEC is soliciting comments through November 20th, 2026.
+
+ For private companies like Firecrown's portfolio, the direct operational impact is limited — but if you hold any publicly traded minority positions, or if you're advising on any capital events touching public company governance, this is material. The practical advice from outside counsel is this: 
+
+rescission could result in greater reliance on private ordering with respect to shareholder proposals, meaning the development of governance arrangements by companies and shareholders under applicable state law, rather than through an SEC-imposed uniform federal rule.
+
+
+
+Fifth item. The FTC has issued an Advance Notice of Proposed Rulemaking that directly targets the ad tech stack. 
+
+The FTC is soliciting comment on the extent to which ad-optimization services offered by digital marketplace platforms assist efforts by scammers using online ads to impersonate legitimate businesses and government agencies.
+
+ 
+
+The notice names Google, Facebook, Amazon, the Apple App Store, and LinkedIn as examples, and its stated aim is to make platforms internalize the cost of optimizing fraudulent ads that impersonate government agencies and businesses.
+
+ 
+
+The Commission focuses specifically on platform ad optimization — the AI tools that write ad copy, generate images, assemble headlines, and pick audiences — and quotes Meta's description of Advantage Plus and Google's own account of how its AI finds the best ad combinations.
+
+ 
+
+Comments are due by November 30th, 2026.
+
+ For Firecrown's ad-supported properties — FreightWaves, FLYING, Boating and Sailing — this is a rulemaking to watch. If the Commission extends liability to platforms that optimize scam adjacencies, that changes your exposure calculus around programmatic relationships.
+
+Sixth item. The UK's data protection regulator is no longer technically the ICO. 
+
+On September 30th, 2026, the UK's data protection regulator changed its legal form. The single office of Information Commissioner was replaced by a board-led body called the Information Commission, a change made under the Data Use and Access Act 2025.
+
+ The rebrand is cosmetic in one sense: 
+
+the Act changes the organization's governance structure while keeping its existing regulatory functions and responsibilities, and the organization continues to be known as the ICO.
+
+ But the enforcement posture is not cosmetic. 
+
+The DUAA grants the ICO new enforcement powers, including the power to compel a witness to attend an interview, request technical reports, and issue fines of up to seventeen point five million pounds or four percent of global turnover under PECR.
+
+ The ICO is also drafting updated guidance on data sharing for scams and frauds, exemptions, and personal data breaches — 
+
+all of it targeted for Autumn 2026 publication.
+
+ For Firecrown's UK-touching operations — particularly Trains.com and any FLYING or Boating content served to UK users — the board-governed ICO with fresh powers is a structurally different risk environment.
+
+[DEEP DIVE]
+
+Today's deep dive is the OpenAI multidistrict litigation, and specifically what a media holding company's general counsel needs to understand right now — before the November 20th reply brief deadline, and before this case reaches a ruling that reshapes IP licensing economics for every publisher on the planet.
+
+Here is the structural picture. 
+
+All but one of the most recent filings are amicus briefs submitted on or before the October 30th deadline in the multidistrict litigation that combines copyright lawsuits filed against OpenAI and Microsoft by the New York Times and other news publishers, Ziff Davis, and a group of authors led by the Authors Guild seeking to proceed as a class.
+
+ Both sides filed summary judgment motions on September 4th. 
+
+Opposition briefs were filed October 23rd, and reply briefs are due November 20th.
+
+ Judge Sidney Stein in the Southern District of New York is being asked to resolve the core fair-use question without a trial.
+
+The amicus landscape tells you everything about where the political and economic pressure lines are. On the pro-fair-use side, OpenAI assembled an extraordinary coalition. 
+
+On October 30th, OpenAI published excerpts from twenty court filings by authors, librarians, law professors, trade groups, a venture capital firm, two former members of Congress, and the United States government, all backing fair use for AI training.
+
+ The Justice Department's position is blunt: 
+
+"The United States has a strong interest in this Court rejecting any argument that training LLMs on copyrighted texts violates copyright law."
+
+ The CCIA's theory of the case: 
+
+the use of copyrighted material for AI training qualifies as permissible fair use under the Copyright Act and the constitutional purposes of copyright, and the use of this material for AI is highly transformative because it identifies patterns and enables entirely new technology tools.
+
+
+
+On the other side, the creative economy has shown up in force. SAG-AFTRA, the musicians' federation, and both Writers Guilds filed jointly. WME's position is the most commercially sophisticated: 
+
+"Compensating artists for AI use of their copyrighted material is not a litigation-driven theory; it reflects an economic reality already taking shape."
+
+ The Wikimedia Foundation filed a split brief — backing fair use for training but not for retrieval of web pages. That distinction matters enormously.
+
+What does this mean for Firecrown? Three dimensions.
+
+First, the archives. FreightWaves has a decade of original freight market journalism. FLYING has decades more. Trains.com, Boating and Sailing — the same. That corpus is exactly what large model trainers want. If the court rules against fair use, every AI company that scraped your content without a license is exposed. If the court rules for fair use, the licensing market that WME says is already taking shape becomes voluntary rather than legally compelled. Neither outcome is neutral for you.
+
+Second, the Spacestore and e-commerce side. AI-generated product descriptions, AI-assisted content, synthetic SEO text — if training on copyrighted material is fair use but output that substitutes for the original is not, there is a category distinction here you need to map against your own product pipeline.
+
+Third, the licensing posture. Right now, Firecrown is not in a licensing agreement with any AI foundation model company for its content — or if it is, the terms were probably negotiated before this litigation clarified the stakes. The November 20th reply brief filing is the last substantive input before the court rules. After a ruling, the negotiating dynamic shifts immediately in the direction of whoever won. If you do not have a framework licensing position internally approved before that ruling lands, you will be reacting instead of positioning.
+
+Three concrete actions for this week. One: commission a content audit across all Firecrown brands identifying the highest-value archival assets — the ones that a model trainer would most want. That list becomes your negotiating inventory. Two: review whatever terms of service and robots.txt configurations your brands currently have. Many publishers have amended these; yours should reflect your current licensing posture, not a default. Three: prepare a one-page decision memo for the board on three scenarios — the court rules for fair use, against it, or splits the difference on retrieval versus training — and what each means for Firecrown's licensing strategy and AI product roadmap. That memo should be ready before November 20th.
+
+[GC BENCH]
+
+GC Bench today focuses on what the agentic AI wave means for the general counsel function specifically.
+
+The Association of Corporate Counsel published new research this month that quantifies the shift. 
+
+Nearly two-thirds of in-house legal teams said they expected to rely less on outside legal service providers because of generative AI — an increase from fifty-eight percent of respondents in the 2024 study — and fifty percent of respondents said they expected reduced outside counsel costs.
+
+
+
+
+
+There has been a recent leap in technology with the emerging prevalence of agentic AI, such as AI agents
+
+ — systems that can coordinate multiple tasks autonomously rather than simply responding to a single prompt. The platforms competing for in-house teams are differentiating on exactly this axis. 
+
+Platforms like GC AI run Chat 2.0, which coordinates multiple agents on a single request, a Research agent that deploys simultaneous agents across primary law and the web, and Playbooks, which run agentic multi-step contract review.
+
+
+
+Practically, the most acute workflow impact for a media holding company legal function is contract lifecycle management. 
+
+More than twenty-one hundred in-house legal teams are already writing with AI daily, according to published platform data.
+
+ For a team of Firecrown's size, the realistic near-term ROI is not in AI doing novel legal reasoning — it is in AI handling the high-frequency, low-complexity work: NDA review, standard licensing agreements, rights clearance workflows, employment template generation. That frees you for the CCPA enforcement response, the copyright strategy question, and the governance memo.
+
+One practical filter: when evaluating any legal AI platform, ask specifically whether it is trained on legal data or general web data, whether outputs are sourced and cited so you can verify, and what the data retention terms are. The last question is not trivial — if the platform is storing your contracts and legal research to improve its own model, that is a privilege and confidentiality question, not just a procurement question. The General Counsel Conference East is running November 9th and 10th at the New York Hilton Midtown, 
+
+with a session on November 10th titled "Regulating the Future: AI, Data, and the New Risk Landscape" at nine in the morning
+
+ — worth a delegate slot if your schedule allows.
+
+[INDUSTRY ANGLE]
+
+Craig Fuller and the FreightWaves team held the F3: Future of Freight Festival in Chattanooga on October 27th and 28th. 
+
+The event at The Signal at Chattanooga Choo Choo featured keynote presentations, fireside chats, technology demonstrations, and discussions about how companies are applying new tools to transportation and logistics.
+
+ 
+
+FreightWaves announced the winners of its Shipper of Choice awards at the F3 Awards Dinner, recognizing companies that stand out for their relationships with freight carriers and their approach to shipping operations.
+
+
+
+Fuller's market read heading into November is constructive but supply-driven. 
+
+Fuller characterized any recent softness as normal seasonal behavior rather than structural weakening, and said he expects a pickup beginning in the last week of August heading into Labor Day, followed by peak-season tightening in mid-October through early November as retailers push product into brick-and-mortar supply chains ahead of Black Friday.
+
+ The SONAR data supports that framing. 
+
+The SONAR Truckload Rejection Index hit an unexpected fourteen percent in October — a significant development outside normal seasonal patterns — driven not by a demand spike, but by persistent market imbalance and insufficient supply, with key regions including Los Angeles, Harrisburg, and Atlanta showing unusual disruptive activity.
+
+
+
+DAT's most recent weekly trendline confirms the upward pressure: 
+
+national van and flatbed rates are increasing as of November 2026.
+
+ On the intermodal side, 
+
+Fuller noted that a thirty-four percent discount reflects door-to-door pricing for putting freight on a train versus a truck
+
+ — a spread that has been attracting volume. 
+
+SONAR released a new intermodal API covering rates across more than two thousand intermodal lanes, with broader UI availability described as coming soon.
+
+
+
+The air cargo picture is notably hotter. 
+
+Airfreight rates on the transpacific trade lane increased rapidly during October as the air cargo industry headed toward its traditional fourth-quarter peak season.
+
+ 
+
+TAC Index data shows that average airfreight rates from Hong Kong started October at seven dollars and sixteen cents per kilogram and ended the month at eight dollars and seventeen cents per kilogram — thirty-eight point seven percent above last year's levels.
+
+ 
+
+The Drewry Airfreight Price Index climbed in October to a global average rate of four dollars and twelve cents, rising three percent over September, marking a second consecutive month of increase and its highest level since June.
+
+
+
+For Firecrown's editorial teams — FLYING covers the aviation business, Boating and Sailing tracks marine economics, FreightWaves and SONAR live inside the trucking data — there is a convergent story here: capacity constraints and peak-season demand are compressing all three modes simultaneously. That is both an editorial opportunity and a signal for Spacestore's logistics planning heading into the holiday quarter.
+
+Ocean freight tells a softer story. 
+
+China to US ocean freight rates hold near seven thousand dollars to the West Coast and eight thousand dollars to the East Coast as space improves and demand eases.
+
+ 
+
+Rates are expected to soften into November and December, though carrier blank sailings could limit reductions.
+
+ The divergence between air and ocean is itself a story — electronics and e-commerce shippers moving to air, while ocean handles bulk and slower-turn goods at gradually declining prices.
+
+[CLOSING BRIEF]
+
+Three things on the watch list as we move through November.
+
+First: the November 20th dual deadline. Reply briefs are due in the OpenAI copyright MDL and the comment period closes on the SEC's proposed Rule 14a-8 rescission on the same day. That is a compressed window for two consequential filings. If you have views on either — particularly the copyright question, where Firecrown has real skin in the game — you have sixteen days. Comments to the SEC on shareholder proposals matter less for a private company, but the litigation reply briefs are worth reading the moment they hit the docket.
+
+Second: the ICO's forthcoming guidance under the Data Use and Access Act. 
+
+The ICO is drafting updates on data sharing for scams and frauds, an exemptions guidance update, and a personal data breach guidance update — all targeted for Autumn 2026 publication.
+
+ Given that the ICO is now a board-governed body with expanded powers and that PECR fines are now aligned with UK GDPR levels, the final versions of this guidance will set the operational standard. Watch for publication and loop in your UK data counsel when it lands.
+
+Third: California's AI ad disclosure rule. 
+
+SB 1050's AI ad disclosure requirements start January 1st, 2027.
+
+ That is less than sixty days out. If any of Firecrown's brands use AI to generate ad creative, ad copy, or sponsored content that runs in California — which is essentially everywhere — you need to review whether disclosure obligations attach, and if so, what the disclosure format looks like. This is not a hypothetical compliance exercise. It is a sixty-day runway.
+
+[SIGNOFF]
+
+That is Morning Docket for Wednesday, November 4th, 2026. The research desk is always open. If a development breaks between editions that touches your brands directly — a CPPA action in your sector, a ruling in the OpenAI MDL, a SONAR data spike that reframes the freight story — flag it and we will get it into the next episode. Have a productive morning, Barrister Caputo. Drive safely.
+END OF EPISODE.
