@@ -1,0 +1,295 @@
+MORNING DOCKET — Thursday, November 5, 2026
+A daily brief for the general counsel of a media company.
+
+Now I have comprehensive research to write the full Morning Docket script. Let me compose it.
+
+[COLD OPEN]
+
+Three stories set the frame for your Thursday. In a New York federal courtroom, fifty-one amicus briefs have landed in the OpenAI copyright multidistrict litigation, and the final round of argument papers is due tomorrow — meaning the most consequential intellectual property case in a generation is about to close its record. Across the Atlantic, the UK's data protection regulator finished transforming itself into a board-led body on September thirtieth, and its expanded enforcement toolkit is now fully operational. And in the freight market, SONAR's National Truckload Index sits at three dollars and eight cents per mile — up forty percent from a year ago — with Craig Fuller describing the economy he sees through freight data as a tale of two worlds: the industrial economy the strongest in a decade, the consumer quietly pulling back.
+
+[INTRO]
+
+Good morning. It is Thursday, November fifth, twenty twenty-six. I'm your Morning Docket, the legal and business intelligence briefing for Barrister Darren Caputo, General Counsel at Firecrown. Today's program runs through the OpenAI amicus flood and what it means for your content brands, the FTC's consent order on the Publicis-LiveRamp deal and what it signals for anyone who buys programmatic media, California's accelerating CCPA enforcement posture, the UK Information Commission's new structural identity, and a deep dive into the New York State Bar's just-adopted rules on AI billing — a set of principles that will reshape how every outside counsel invoice you receive should be read going forward. We'll close with SONAR's freight market picture and three items on your watch list. Let's get into it.
+
+[HEADLINE ROUNDUP]
+
+
+
+First: the OpenAI copyright multidistrict litigation in the Southern District of New York — the case combining claims from the New York Times, Ziff Davis, the Authors Guild, and other news and book publishers against OpenAI and Microsoft — is approaching its summary judgment record close. Cross-motions were filed last month, and a final round of briefs is due tomorrow, November sixth, after which oral arguments will be scheduled before Judge Sidney Stein.
+
+ 
+
+This will be, by one legal analyst's account, "the first case to be decided in New York, the first involving OpenAI, and the first involving consolidated claims from both news and book publishers and authors."
+
+
+
+
+
+The Association of American Publishers, the Copyright Clearance Center, the Independent Book Publishers Association, and the International Association of Scientific, Technical and Medical Publishers filed a joint amicus brief on October twenty-ninth arguing squarely against OpenAI's fair use defense. Their central point is straightforward: a market for licensing works to AI developers already exists and is growing.
+
+ 
+
+The brief argues that training generative AI does not warrant special treatment under copyright law, and reply briefs are due November twentieth.
+
+ This case sits directly in Firecrown's risk perimeter. Every brand in the portfolio — FreightWaves, FLYING, Boating and Sailing, Trains dot com — produces proprietary editorial content. The licensing-market argument being advanced by publishers is the strongest card in the deck: if courts accept it, the fair use defense for AI training weakens substantially.
+
+
+
+Also on November second, a New York federal judge refused to toss a proposed class action accusing Runway AI of wrongfully scraping videos posted on YouTube to train its AI system, finding the copyright allegations sufficient to survive at the pleading stage.
+
+ That ruling is a signal that DMCA-based video scraping claims have legs. For any Firecrown brand that produces original video — and several do — it is worth noting.
+
+
+
+Meanwhile, in the Northern District of California, a joint case management statement filed October twenty-seventh in the Kadrey v. Meta litigation set a trial date of May third, twenty twenty-seven, for Meta's use of pirated books to train its Llama models. Entrepreneur Media must file an amended complaint by tomorrow — November sixth — and that complaint is expected to add more than four hundred additional books and more than one hundred forty additional magazine issues to the works at issue.
+
+ The magazine angle matters here. Magazine publishers have skin in this litigation beyond mere sympathy.
+
+Second headline: the FTC and the Publicis-LiveRamp deal. 
+
+On October nineteenth, the Federal Trade Commission took action to preserve competition in the digital advertising ecosystem by conditioning Publicis Groupe's two-point-two-billion-dollar acquisition of LiveRamp, the data connectivity platform that facilitates the secure movement of data used for digital advertising.
+
+ 
+
+The FTC's two Republican commissioners voted unanimously to accept a consent decree requiring Publicis to ensure LiveRamp provides non-discriminatory access and support to all clients including Publicis rivals, with firewalls to protect competitor data, for five years, monitored by an independent auditor.
+
+
+
+
+
+The case is notable for relying on a purely vertical theory of harm centered on Publicis's control over previously neutral data pipelines, and the remedies are designed to ensure that neutrality continues after the acquisition.
+
+ For media companies that buy programmatic advertising — including Firecrown's brands — the practical takeaway is this: LiveRamp must remain a neutral platform accessible to all buyers and agencies on equivalent terms. If you rely on LiveRamp for audience data onboarding or identity resolution, you now have a five-year regulatory backstop against preferential treatment. 
+
+The proposed consent agreement is open to public comment through November nineteenth
+
+, and there is a secondary story worth monitoring: some Publicis competitors are reportedly already pulling back from LiveRamp in anticipation of the consolidation, which could reduce the pool of neutral identity infrastructure regardless of what the order says.
+
+Third headline: California's privacy enforcement trajectory. 
+
+California regulators have announced seventeen-point-one million dollars in CCPA fines across five settlements in twenty twenty-six through September twenty-ninth. General Motors' twelve-point-seven-five-million-dollar settlement is the largest CCPA fine on record.
+
+ 
+
+Twelve of the fourteen CCPA settlements since twenty twenty-two have involved broken, missing, or hard-to-use opt-out mechanisms.
+
+ That number tells you everything you need to know about where your compliance energy should concentrate. 
+
+These enforcement actions have targeted streaming services, digital ticketing platforms, and automotive manufacturers — demonstrating that CCPA enforcement extends across diverse sectors.
+
+ Subscription media companies with behavioral ad targeting and Global Privacy Control opt-out signals are squarely in that enforcement aperture. The pattern from the Disney, PlayOn Sports, Ford, and GM actions is consistent: CalPrivacy tests whether the privacy controls you advertise actually work, technically, across all devices and platforms.
+
+Fourth headline: the UK Information Commission's structural transformation. 
+
+On September thirtieth, twenty twenty-six, the UK's data protection regulator changed its legal form. The single office of Information Commissioner was replaced by a board-led body called the Information Commission — a change made under the Data Use and Access Act twenty twenty-five — though the organization continues to be known by the initials ICO. The shift from a single decision-maker to a seven-person board marks a significant structural change for the regulator.
+
+
+
+
+
+Those who operate UK-facing properties need to understand that the now fully in-force Data Use and Access Act brings a new recognised legitimate interests lawful basis, updated cookie and PECR rules, automated decision-making reform, expanded ICO enforcement powers, and fines now aligned with UK GDPR levels of up to four percent of global annual turnover.
+
+ 
+
+The ICO's recent enforcement activity has included penalty notices under the Children's Code targeting platforms for processing under-thirteen data without a valid lawful basis or verified parental consent.
+
+ For Firecrown's Spacestore e-commerce brand and any consumer-facing digital properties with UK traffic, this matters immediately.
+
+Fifth headline: the New York Times Q3 earnings signal for publishing. 
+
+The New York Times added four hundred and twenty thousand digital subscribers in the third quarter. Revenue came in at seven hundred sixty-eight-point-five million dollars, above analyst expectations. Net income rose nineteen-point-two percent to ninety-seven-point-four million dollars. Digital-only subscription revenue rose fourteen-point-six percent to four hundred twenty-one-point-three million dollars, bringing the total subscriber base to thirteen-point-eight million.
+
+
+
+
+
+Even a strong quarter couldn't free CEO Meredith Kopit Levien from questions about AI-powered agents that could automatically cancel subscriptions or help consumers find cheaper alternatives — potentially threatening the recurring revenue that publishers and other subscription businesses depend on.
+
+ That is the emerging legal and business question for every subscription-dependent brand in the Firecrown portfolio: when an AI agent acts on behalf of a consumer to manage or cancel a subscription, who bears responsibility? This sits at the intersection of contract law, consumer protection, and the FTC's subscription-cancellation enforcement posture.
+
+[DEEP DIVE]
+
+The New York State Bar's AI Billing Rules: What Every GC Needs to Know Before the Next Outside Counsel Invoice.
+
+
+
+The New York State Bar Association, on November second, issued a report calling for restrictions on how much lawyers can bill clients for time saved using artificial intelligence tools or for time spent learning how to use them. The Association's Committee on Artificial Intelligence and Emerging Technologies classified the cost of buying and maintaining AI software as an overhead expense — passable as a disbursement only when tied to a specific client matter and when the basis for the charge has been disclosed to the client.
+
+
+
+
+
+The Association's governing body adopted the report on Saturday, November first.
+
+ This is now formal policy guidance for New York-admitted attorneys, which covers most sophisticated outside counsel that a media holding company would retain.
+
+Let's unpack what this means in practice. 
+
+The report advises that attorneys may charge fees for time spent verifying an AI tool's output, but not for learning how to use it. Acquiring an AI tool is an overhead expense, so its cost may not be billed to a client unless it is for a service specially incurred for that specific case.
+
+
+
+This creates three distinct billing categories that your outside counsel agreements should now explicitly address. First: tool subscription costs. A law firm's enterprise Harvey or CoCounsel subscription is overhead. It cannot appear as a line item on your invoice. If a firm specially procures a bespoke AI tool for a Firecrown matter — say, a document review platform configured to your data room — that arguably crosses into recoverable disbursement territory, but only with upfront disclosure.
+
+Second: learning time. If a junior associate spent forty hours in September learning to prompt an AI contract analysis tool, those hours cannot be billed. This matters because AI learning curves at law firms are real and ongoing, and without explicit guidance, billing partners might absorb those hours into matter files without attribution.
+
+Third: verification time. This one runs the other way. 
+
+The report notes that lawyers generally don't have to tell clients about AI use for administrative tasks — such as word processing, spelling, grammar checks, calendaring, or timekeeping — provided that use doesn't affect fees.
+
+ But if an attorney spends time reviewing AI-generated output for accuracy before filing or submitting a contract, that review time is billable. The logic is sound: the professional judgment and verification step is legal work. The machine generating the first draft is not.
+
+
+
+Context worth noting: in-house AI adoption has crossed into majority territory in ways that are consequential. The twenty twenty-six General Counsel Report from FTI Consulting and Relativity puts in-house generative AI usage at eighty-seven percent — nearly double the forty-four percent from a year prior.
+
+ So we are past the novelty phase. The question is no longer whether to adopt AI; it is how to govern the financial and ethical dimensions of adoption across both internal teams and external counsel relationships.
+
+There is a parallel development in legal tech worth flagging. 
+
+Ross Intelligence has urged the full Third Circuit to revisit a copyright decision concluding it was not protected by fair use when it trained its AI legal research platform on Thomson Reuters' Westlaw headnotes, arguing that "at every turn, the panel asked the wrong question."
+
+ That appeal matters because it could reset the legal framework for training any professional AI tool on commercially licensed legal content — which affects every vendor pitching AI legal research tools to your legal operations team.
+
+
+
+Thomson Reuters' own CoCounsel, meanwhile, published a development note today describing its integration of an agentic harness using the Claude SDK — meaning the system can now plan, delegate, and orchestrate across multiple tools and content sources in real time, with users describing what they want to accomplish and the system determining how to get there.
+
+ That is a meaningful step beyond task execution into autonomous legal workflow management.
+
+Three concrete actions for a GC at a media holding company.
+
+First: audit your outside counsel engagement letters immediately. Add an AI billing clause that specifies tool subscription costs are overhead, that AI learning time is non-billable, and that any AI disbursement requires advance written disclosure of the tool name, its cost, and its application to the specific matter. Many firms are ahead of this, but many are not.
+
+Second: on the internal AI governance side, formalize your legal department's AI tool inventory. 
+
+Contract review tools like Checkbox and Ironclad are replacing work that previously required outside review at four hundred to eight hundred dollars an hour.
+
+ Document what your team uses, what it doesn't send outside the firewall, and what confidentiality representations you have from each vendor.
+
+Third: review your New York-admitted outside counsel's AI disclosure policies before the end of the year. The NYSBA guidance is advisory but signals where bar enforcement is heading. Firms that have not updated their engagement terms to address AI are carrying policy risk on your matters.
+
+[GC BENCH]
+
+Legal technology and AI: what is actually moving this week.
+
+
+
+Anthropic released a set of new interactive tools for legal users called Claude for Legal Artifacts, targeted at both law firms and in-house teams.
+
+ The same week, 
+
+two former heads of the DOJ Antitrust Division under the Biden administration launched an agentic AI litigation platform called FluxCap, raising six-point-four million dollars in seed funding.
+
+ The pattern is consistent: AI legal tools are being built by people who have operated at the highest levels of legal practice, not just by technologists. That should raise your confidence in product judgment and lower your skepticism about institutional adoption.
+
+
+
+Litera's owner, the private equity firm Hg, announced an investment alongside Anthropic in what it described as an AI transformation venture
+
+ — another signal that the law firm software consolidation story and the foundational model story are converging. For a GC managing outside counsel costs, this matters: the firms that are building proprietary AI workflows on top of these platforms will have genuine efficiency advantages, and you should be asking whether those advantages are being passed through to you in pricing.
+
+
+
+At Generative Legal's Cornell Tech conference in New York this week, panelists observed that legal professionals are responding to AI by productizing their work and promoting their specialized legal judgment to set themselves and their organizations apart.
+
+ For an in-house team at a media company, that reframing is useful. The AI handles high-volume document generation and first-pass research. The GC's value is in pattern recognition across legal risk domains — privacy, IP, ad tech, corporate governance — that no individual tool maps cleanly.
+
+One governance note: 
+
+Law360 reported that the federal judiciary remains stuck in an AI rulemaking rut, with both attorneys and judges publicly protesting the pace of guidance on AI use in court proceedings.
+
+ If Firecrown's brands face any litigation — and with the IP environment as active as it is, that exposure is real — your outside counsel should be documenting which courts have adopted formal AI disclosure rules and what those rules require before any AI-generated brief or exhibit is filed.
+
+[INDUSTRY ANGLE]
+
+The freight market through SONAR's lens: Craig Fuller's two economies and what they mean for Firecrown's core audience.
+
+
+
+Craig Fuller, founder and CEO of FreightWaves, told Adam Taggart on the Thoughtful Money podcast that freight data, which typically leads government economic figures by about six months, shows no sign that the AI data-center construction boom is slowing.
+
+ 
+
+Fuller described himself as "lukewarm" on the overall economy, characterizing it as a tale of two transportation economies. The freight data shows the consumer slowing while the industrial economy is the strongest he has seen in perhaps a decade. Because today's industrial expansion is driven by forces largely disconnected from the consumer, the two are not pulling each other up or down the way they traditionally would.
+
+
+
+The market data behind that observation is stark. 
+
+SONAR's current readings show the Truckload Rejection Index at nearly thirteen percent, up two-point-nine percent on the week, and the National Truckload Index at three dollars and eight cents per mile — a forty percent increase from a year ago.
+
+
+
+
+
+Elevated fuel prices, tight capacity, and peak-season fees are pushing freight rates to historic highs. The fourth-quarter TD Cowen and AFS Freight Index projects the highest truckload pricing in more than four years and record-high rates for LTL and parcel.
+
+ 
+
+The LTL rate-per-pound index is projected to reach eighty-two-point-five percent above its January twenty eighteen baseline — the first quarterly reading on record to exceed eighty percent.
+
+
+
+
+
+Fuller has noted that the market came out of a long freight recession in November twenty twenty-five, and capacity is now shrinking faster than demand is growing.
+
+ 
+
+The central warning from SONAR's Zach Strickland is that the current freight cycle is nowhere near its conclusion, and that most cycles run far longer than market participants expect.
+
+
+
+For FreightWaves as a business and for SONAR as a subscription product, this environment is favorable. Shippers and logistics managers who need real-time rate intelligence are paying for it, and 
+
+the U.S. Department of Transportation has officially signed on as a customer of SONAR to harness high-frequency freight market data for monitoring market health.
+
+ A federal agency anchoring the SONAR subscriber base is both a revenue signal and a credibility marker for the platform.
+
+
+
+In LTL specifically, Roadrunner this week announced a new outbound Canada-to-U.S. service alongside a five-point-nine percent general rate increase taking effect November second.
+
+ That rate increase, landing in the same week as the TD Cowen index projections, confirms that carriers have pricing power and are using it.
+
+The marine dimension: 
+
+container freight rates are forecast to decline twenty-nine-point-six percent on average over the near-term forecast period as idle capacity rises, with the orderbook-to-fleet ratio approaching forty percent — materially outpacing TEU-mile demand growth.
+
+ That is a structurally different story from trucking. For Boating and Sailing's audience, the relevant signal is the decarbonization cost curve: 
+
+from twenty twenty-six, shipping companies must account for one hundred percent of applicable emissions on voyages linked to EU ports under the EU Emissions Trading Scheme, up from seventy percent in twenty twenty-five.
+
+ That regulatory step-up is a live editorial and commercial angle for the marine brands.
+
+[CLOSING BRIEF]
+
+Three things on your watch list heading into the week.
+
+One: the OpenAI summary judgment record closes tomorrow. The final amicus briefs are due, and after that, oral argument scheduling begins before Judge Stein in the Southern District of New York. 
+
+If courts side with publishers, AI companies may face retroactive liability for past training and mandatory licensing regimes for future model development.
+
+ This is the most consequential pending decision for any media company with original content. Monitor it closely. When the oral argument date is set, it will warrant a full Morning Docket deep dive.
+
+Two: the SEC's Regulation S-K disclosure reform is moving toward actual rule proposals. 
+
+Multiple rule proposals were released in October twenty twenty-six, with rationalization of disclosure practices among the items now pending OIRA review.
+
+ 
+
+The SEC's proposed amendments to modernize proxy solicitation rules, published in September, have a comment period closing November twentieth.
+
+ If you have views on what disclosures create cost without investor benefit — particularly around governance practices and ESG-adjacent items — the November twentieth comment window is your opportunity to put them on the record.
+
+Three: the FTC's advance notice of proposed rulemaking on AI-driven ad platform optimization. 
+
+Comments are due November thirtieth. The Commission is asking whether platforms whose AI tools write ad copy, generate images, assemble headlines, and pick audiences should bear liability when those tools optimize impersonation scams.
+
+ This is a live rulemaking with consequences for every brand that buys programmatic media through automated platforms. It is also the clearest signal yet that the FTC's next significant ad tech enforcement action will not target individual advertisers — it will target the platforms whose algorithms make the decisions. Firecrown's brands need to understand their exposure as buyers on those platforms and document their own targeting governance.
+
+[SIGNOFF]
+
+That is Morning Docket for Thursday, November fifth. The script is in your inbox if you need to reference any of the citations. We will return tomorrow with Friday's briefing. Safe travels.
+END OF EPISODE.
