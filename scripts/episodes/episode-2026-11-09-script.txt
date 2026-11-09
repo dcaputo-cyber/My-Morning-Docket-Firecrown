@@ -1,0 +1,247 @@
+MORNING DOCKET — Monday, November 9, 2026
+A daily brief for the general counsel of a media company.
+
+Now I have comprehensive research to write the full Morning Docket script. Let me compile it.
+
+[COLD OPEN]
+
+The Federal Trade Commission and twenty-two states just made public what had been hidden in redacted filings: an allegation that Amazon secretly inflated its own ad auction prices by as much as two hundred fifty percent on major shopping days, pocketing an estimated eighty-seven million dollars in a single holiday season while telling advertisers competition was to blame. Meanwhile, the Southern District of New York's most consequential copyright case in a generation is heading toward a summary judgment decision — and this past week alone, Elon Musk's Grok model drew three fresh infringement suits, the New York Times filed against Brave Software over paywall circumvention, and more than fifty amicus briefs landed in the OpenAI multidistrict litigation. And in trucking, spot rates are running forty-four percent above last year as the Dalilah Law moves through Congress. It is Monday, November ninth, twenty twenty-six. Let's get oriented.
+
+[INTRO]
+
+Good morning, Darren. This is Morning Docket. Today's edition covers six distinct stories, a deep dive into the OpenAI copyright MDL and what it means for media companies that have both sued AI companies and license content to them, a GC Bench segment on the legal tech funding arms race between Harvey and Legora and what it actually means for a lean in-house team, and an industry angle covering the freight market conditions that are directly relevant to FreightWaves and SONAR's core business. There is also a fresh SEC governance signal that matters for any private company considering how it structures its board and executive accountability. Let's go.
+
+[HEADLINE ROUNDUP]
+
+First item. The Amazon ad auction case just got significantly more legible. 
+
+The Federal Trade Commission and twenty-two states filed an updated version of their complaint against Amazon containing newly unredacted details about the company's alleged use of deceptive and unfair practices to secretly inflate prices in its online search advertising auction.
+
+ The numbers in the unsealed material are striking. 
+
+The complaint alleges Amazon secretly raised search ad prices by up to fifty percent above auction results on ordinary days and up to two hundred fifty percent on major shopping days such as Prime Day and Black Friday.
+
+ The underlying case was originally filed in August. 
+
+The complaint alleges the practices affected Amazon's Sponsored Products, Sponsored Brands, and Sponsored Display ads, and estimates that Amazon took more than twenty billion dollars from about one point two million advertising customers.
+
+ Why does this matter to Firecrown? Because every brand in your portfolio — FreightWaves, FLYING, Boating and Sailing — competes for programmatic ad dollars in markets where Amazon's pricing behavior sets reference points. If the FTC's theory holds, it means advertisers have been systematically overpaying in what they believed was a neutral second-price auction environment. 
+
+When advertisers asked whether something had changed with respect to the second price auction process, Amazon attributed the higher prices to heavier competition; the FTC calls those answers misleading.
+
+ Amazon denies wrongdoing. The case is in the Western District of Washington and is still being litigated.
+
+Second item. California's privacy enforcement machine added another layer this week. 
+
+In California, CalPrivacy announced data broker enforcement actions. Also, in its first enforcement under both the CCPA and the Delete Act, CalPrivacy issued a decision alleging both failure to timely register as a data broker under the Delete Act and requiring consumers to provide sensitive personal information, including partial Social Security numbers, before allowing them to exercise their right to opt out of sales.
+
+ This is the first time the agency has layered the two statutes in a single action. 
+
+California has announced seventeen point one million dollars in CCPA fines in twenty twenty-six. Twelve of the fourteen CCPA settlements since twenty twenty-two involved broken, missing, or hard-to-use opt-outs.
+
+ The pattern is unambiguous: if your opt-out mechanism creates friction — deliberately or through bad engineering — that is now a primary enforcement target. For Firecrown's portfolio, which runs audience segmentation and third-party ad tech across multiple titles with distinct consent surfaces, this is the kind of enforcement rhythm that warrants a consent flow audit before the new year.
+
+Third item. On the UK side, the Information Commissioner's Office is now operating under a new legal form. 
+
+On September thirtieth, twenty twenty-six, the UK's data protection regulator changed its legal form. The single office of Information Commissioner was replaced by a board-led body called the Information Commission, a change made under the Data Use and Access Act twenty twenty-five.
+
+ The governance restructuring matters less than the enforcement trajectory underneath it. 
+
+The DUAA confers significant new regulatory powers on the ICO, including the ability to compel witnesses to attend interviews, require the production of technical reports, and impose substantial penalties.
+
+ For UK-facing operations — and Firecrown has audience and commercial relationships in the UK through several of its titles — the cookie consent reform question remains genuinely unresolved. 
+
+According to Lewis Silkin, nothing has changed yet with PECR: no regulation six-A instrument had been laid as of November twenty twenty-six.
+
+ That means the promised relaxation of cookie consent rules is still in the pipeline. Do not change your UK consent flows in anticipation of a reform that has not yet arrived by statutory instrument.
+
+Fourth item. The SEC's corporate penalty framework just got its most direct public challenge in twenty years. 
+
+SEC Commissioner Mark T. Uyeda urged the SEC to consider supplementing or revising its Corporate Penalty Statement and to pursue responsible individuals where warranted. In remarks for the Practicing Law Institute's fifty-eighth Annual Institute on Securities Regulation in New York, he said shareholders ultimately pay corporate penalties, which must be justified with that burden in mind.
+
+ 
+
+Uyeda also pointed to the rise of Special Purpose Acquisition Companies, which were not much of a thing when the SEC adopted its corporate penalties framework in two thousand six, and the rise of SEC whistleblower awards, which did not come about until twenty eleven.
+
+ The practical read for private companies like Firecrown is this: the SEC's overall enforcement volume has dropped sharply. 
+
+The Brattle Group's report puts the number of fiscal year twenty twenty-six SEC enforcement actions at three hundred eight, the lowest annual number of SEC enforcement actions since at least fiscal year twenty eighteen. The Covington report describes these as the lowest SEC enforcement stats in over a decade.
+
+ Fewer corporate penalties does not mean fewer individual consequences. The Commission is explicitly redirecting toward executives and directors. That is a governance posture change your board should understand.
+
+Fifth item. Online media pioneer Salon shut down on November fifth. 
+
+Salon, one of the internet's earliest full-blown publications, is shutting down nearly thirty-one years after its launch.
+
+ 
+
+The final post observed: the business realities of independent digital journalism have changed profoundly over the years. After careful consideration, they reached the difficult decision that their publishing model is no longer sustainable.
+
+ This is not an isolated event. It is the latest data point in a structural reckoning that has also seen E&E News folded into Politico Pro and several other verticals consolidated or shuttered this year. For Firecrown, the trajectory points in a productive direction: 
+
+subscription and membership remain the biggest revenue focus, at seventy-six percent, for publishers ahead of both display and native advertising.
+
+ The titles in your portfolio that have strong subscription funnels and audience data ownership are structurally more durable than those relying on programmatic display. Salon's exit is a reminder that "durable" is not guaranteed — it has to be built.
+
+Sixth item. Grok drew three copyright infringement lawsuits filed November sixth. 
+
+The companies behind the artificial intelligence model Grok were hit with three copyright infringement lawsuits from two publishers and a group of authors alleging their books were pirated for use in AI training.
+
+ This came in the same week that 
+
+the New York Times Company filed a seventy-two-page copyright suit against Brave Software in the Southern District of New York
+
+ over what it characterizes as paywall circumvention and verbatim reproduction of paywalled articles through Brave's AI search product. These two actions reinforce a point we will return to in the deep dive: the volume of AI copyright litigation is not slowing. It is broadening to new defendants and new theories.
+
+[DEEP DIVE]
+
+The OpenAI copyright MDL — formally In re OpenAI, Inc. Copyright Infringement Litigation, MDL thirty-one forty-three — is the litigation that matters most to Firecrown in the next twelve months. Here is where it stands and why you need to track it closely.
+
+
+
+In cross-motions for summary judgment, the parties presented familiar arguments: the plaintiffs argue that OpenAI committed copyright infringement in copying works to train its models, including from pirated sources, and that the company's AI outputs can also be infringing.
+
+ Both sides filed their motions on the same day in September. 
+
+On September twenty-fourth, the court approved a schedule under which opposition briefs are due October twenty-third and replies November twentieth, twenty twenty-six.
+
+ There is no hearing date set yet. Judge Sidney Stein in the Southern District of New York will decide whether to send this to trial or grant summary judgment to either side.
+
+The amicus brief landscape is unusually rich and reveals where the real legal fault lines are. More than fifty amicus briefs have been filed. 
+
+The Department of Justice on September fourth filed a Statement of Interest urging the court to find that the use of copyrighted works for AI training is fair use.
+
+ That is a significant intervention by the executive branch. It does not bind the court, but it signals the administration's policy position clearly. On the other side, publishers, the Authors Guild, and several copyright law professors argue that unlicensed training harms book markets and the emerging collective licensing market that is now beginning to develop. 
+
+One expert asked the court to center its analysis on expressive substitution and contended that training qualifies as transformative given that, in ordinary use, the models' outputs are in no relevant way similar to the intermediate copies made during the training process.
+
+ That is OpenAI's core transformative use argument.
+
+There is a distinction emerging in the briefs that matters enormously for media companies. 
+
+At least one brief argues that regular AI training should be fair use, but that RAG training — essentially AI built on top of a specific corpus of data — probably is not fair use.
+
+ This is the retrieval-augmented generation question. If RAG training is treated as a distinct and potentially infringing category, the implications are significant for any AI product that is built on top of a publisher's archives. That could affect licensing deals, the enforceability of terms of service restrictions on scraping, and the value of content libraries.
+
+Meanwhile, the Grok suits and the Times versus Brave filing are expanding the litigation map beyond training data to output behavior and paywall circumvention. 
+
+The Times alleges that Brave's Ask Brave assistant produces verbatim passages of up to four hundred words from paywalled articles, and that an LLM Context endpoint sold to AI developers including Anthropic, Perplexity, and xAI returned up to ninety-nine point seven percent of an article's full text verbatim in the Times's testing.
+
+ This is a different theory than the training data cases. It is about real-time serving of copyrighted content, bypassing the subscription relationship that funds journalism. For Firecrown, that theory is directly relevant to any title operating a paywall.
+
+Three concrete actions follow from all of this.
+
+First, audit your content licensing posture now, before a ruling arrives. The MDL reply briefs are due November twentieth. A summary judgment ruling could come in early twenty twenty-seven. If the court rules in favor of fair use for training, the pressure to license will drop and any licensing revenue you are currently earning or negotiating becomes less secure. If the court rules against fair use, every AI company will be rushing to secure deals, and your negotiating leverage increases. You want to know which direction your exposure runs before that ruling lands.
+
+Second, review your terms of service and robots-dot-txt configurations across all Firecrown titles specifically with respect to RAG and API access. The Times versus Brave theory is about an API endpoint that re-served content. If a third party is building an AI product on top of FreightWaves content through any kind of API or scraping arrangement, you need to understand whether the terms covering that use are enforceable and whether they distinguish between training use and real-time serving.
+
+Third, pay attention to the RAG versus training distinction when evaluating any AI products you are considering building or licensing internally. Spacestore, the e-commerce operation, potentially has different risk exposure than the editorial titles. A product that surfaces freight data from SONAR archives in a generative interface raises different questions than a product that uses AI to summarize trade news. Those distinctions are now legally meaningful and you should be building them into your AI governance framework.
+
+[GC BENCH]
+
+Legal technology. The numbers from the past quarter are striking. 
+
+Harvey raised five hundred fifty million dollars at a fifteen point five billion dollar valuation on September ninth, twenty twenty-six, and Legora raised a five hundred fifty million dollar Series E at eight point eight billion on October twenty-first, six weeks apart.
+
+ 
+
+Harvey and Legora raised almost one point nine billion dollars between them in twenty twenty-six.
+
+
+
+For a solo or lean general counsel, what does this mean practically? Probably less than the headlines suggest. 
+
+Reported ranges put Harvey at twelve hundred to two thousand dollars or more per seat per month and Legora at three hundred to eight hundred, with seat minimums that price out a lean team before the demo ends.
+
+ Those are enterprise tools designed for large law firm deployments and Fortune Five Hundred legal departments. 
+
+GC AI, by contrast, is purpose-built for in-house legal work, used by over twenty-one hundred in-house teams across fifty-three countries, priced at a published five hundred dollars per seat per month with a fourteen-day free trial and no seat minimum, and built by a three-time general counsel.
+
+
+
+The practical filter for Firecrown is this. The legal AI platforms most relevant to a GC managing IP, privacy, ad tech, and commercial contracts across a multi-title media holding company are not the same platforms being marketed to Cravath or Sullivan and Cromwell. 
+
+Contract review and first-pass redlining is where AI earns its budget line fastest. AI tools can review an incoming contract against your playbook, flag non-standard clauses, suggest redlines, and produce a structured issues list in minutes rather than days.
+
+ For a team that is managing vendor agreements, ad tech data processing addenda, licensing deals, and content syndication contracts across multiple brands simultaneously, that is where the ROI shows up concretely.
+
+One thing to watch: 
+
+in April twenty twenty-six, Legora raised a Series D to six hundred million dollars; the same year, Harvey was tagged at eleven billion dollars and Robin AI cut about fifty roles.
+
+ High valuations and workforce reductions in the same quarter are a signal that the consolidation phase is beginning. Some vendors who raised at high valuations in twenty twenty-five and twenty twenty-six will not survive as independent companies. When evaluating any legal AI vendor, assess their contract terms for data portability and service continuity provisions. Those are not hypothetical risks right now.
+
+[INDUSTRY ANGLE]
+
+The freight market that FreightWaves covers and that SONAR measures is in a materially different place than it was twelve months ago, and Craig Fuller's remarks at the Optym Convergence conference last week crystallize the story. 
+
+Small carriers and brokers waiting for Washington to ease up on trucking enforcement should not expect relief, Fuller said, because the industry's largest fleets now want the crackdown.
+
+ 
+
+Fuller described trucking as suffering from a security crisis, a safety crisis, and an economic crisis.
+
+
+
+On rates, the SONAR data is unambiguous. 
+
+For the week of October twenty-sixth to November first, DAT's all-in spot averages were three dollars and fourteen cents per mile for dry van, three sixty-four for flatbed, and three sixty-nine for reefer, up forty-six point six percent, forty-four point two percent, and forty-four point six percent year over year.
+
+ 
+
+With spot running forty percent or more above a year ago and contract up closer to ten percent, many carriers holding older contract lanes are hauling below what the spot market pays.
+
+ That divergence between spot and contract is the market story of this quarter.
+
+The structural driver is regulatory capacity removal, not demand. 
+
+The Dalilah Law would disqualify an estimated six hundred thousand or more CDL holders, approximately sixteen percent of active drivers, through citizenship requirements, visa restrictions, and English-only testing mandates. If enacted, the bill's one-hundred-eighty-day compliance window could trigger the fastest capacity contraction in trucking history, with rate increases of fifty to one hundred percent on exposed lanes.
+
+ 
+
+The Dalilah Law builds on FMCSA's non-domiciled CDL final rule, which took effect March sixteenth, twenty twenty-six, compounding an already tightening driver eligibility environment.
+
+ The bill has cleared the House Transportation Committee and awaits a full House floor vote.
+
+On air freight, 
+
+AI-related goods now account for nearly thirty percent of all U.S. air import volumes by weight, reaching twenty-nine point seven percent in Q2 twenty twenty-six, up from twenty-seven point four percent in Q1.
+
+ 
+
+As AI-related cargo takes up more premium capacity on key Asia to North America trade lanes, companies in automotive, industrial, healthcare, retail, and other industries may face tighter capacity and greater rate volatility.
+
+ That is a significant structural shift in air cargo economics, and it is relevant to both FLYING magazine's coverage territory and to the broader logistics intelligence that SONAR tracks.
+
+On ocean, 
+
+after months of steep increases, the China to US market is showing its first signs of softening.
+
+ Blank sailings remain relatively light on the West Coast. The Port of Los Angeles labor tension is a variable — 
+
+ILWU Local 26, which represents around two hundred fifty watchmen in Southern California, threatened to strike from November first
+
+ — though that situation appears to have stabilized for the moment.
+
+[CLOSING BRIEF]
+
+Three things on the watch list for the week ahead.
+
+First, the OpenAI MDL reply briefs due November twentieth. The briefing closes that day, and once it does, Judge Stein will have the full record before him. The court could move relatively quickly to a ruling on the fair use question for training data. For media companies with content libraries, this is the most consequential pending judicial decision in the copyright space.
+
+Second, the FTC's review of its authority over platforms that carry and optimize impersonation ads. 
+
+The Federal Trade Commission is considering whether digital platforms should be liable when their advertising tools create, target, or optimize advertisements that impersonate governments or businesses.
+
+ That theory, if extended by rulemaking or enforcement action, could reach ad optimization tools embedded in media company ad stacks. Watch for an ANPRM or enforcement action that narrows or expands the scope.
+
+Third, the UK cookie consent reform. 
+
+The Data Use and Access Act received Royal Assent on June nineteenth, twenty twenty-five, and as of November twenty twenty-six almost all of its data protection provisions are in force. However, nothing has changed yet on cookies — no regulation six-A instrument had been laid as of November twenty twenty-six.
+
+ When that statutory instrument eventually arrives, it will change consent requirements for UK users across all Firecrown titles. The timing is not yet announced, but it is a material operational change when it comes. Assign someone to monitor DSIT and ICO publications for the commencement order.
+
+[SIGNOFF]
+
+That is Morning Docket for Monday, November ninth, twenty twenty-six. The script notes and source citations are available in the written version. Tomorrow we will have updates on any movement in the Brave Software copyright case and a look at whether the Dalilah Law is picking up floor scheduling in the House. Have a good commute, Darren.
+END OF EPISODE.
