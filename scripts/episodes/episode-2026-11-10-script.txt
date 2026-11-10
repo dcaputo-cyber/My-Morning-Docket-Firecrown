@@ -1,0 +1,303 @@
+MORNING DOCKET — Tuesday, November 10, 2026
+A daily brief for the general counsel of a media company.
+
+Now I have comprehensive, well-sourced research. Let me write the full Morning Docket script.
+
+[COLD OPEN]
+
+Three stories arrived before dawn that belong on the same desk. The FTC and twenty-two states unsealed the most damaging details yet in their auction-rigging case against Amazon, alleging the company secretly inflated ad prices by as much as two hundred and fifty percent on peak shopping days. Across the Atlantic, the regulator that used to call itself the ICO no longer does — it became the Information Commission on the thirtieth of September, armed with penalty authority that now reaches four percent of global turnover. And in the courts, Grok's artificial intelligence models were hit with three copyright infringement suits in a single day, joining a litigation wave that shows no sign of cresting. It is Tuesday, the tenth of November, twenty twenty-six. A lot happened while you were asleep.
+
+[INTRO]
+
+Good morning, Darren. Today's briefing runs from ad tech enforcement to artificial intelligence copyright, from UK data law to trucking regulation, and from publishing economics to legal technology capital markets. The headline roundup covers six items — the Amazon ad auction case, the Publicis-LiveRamp consent order, California privacy enforcement patterns, the Third Circuit's ruling on AI training data and fair use, the collapse of Salon, and Craig Fuller's remarks on FMCSA and broker liability. The deep dive this morning is the Amazon ad auction matter — it touches every publisher that buys programmatic inventory and every counsel who reviews advertising agreements. The GC Bench looks at the Harvey IPO conversations and what A&O Shearman's one-point-one billion dollar AI commitment signals for the in-house world. The industry angle covers what Fuller said in Frisco last Saturday about the structural transformation of trucking, plus a word on the marine freight picture. We close with three items on the watch list.
+
+[HEADLINE ROUNDUP]
+
+First. The FTC and twenty-two states filed an amended, substantially unredacted complaint against Amazon on the fifth of November. 
+
+The complaint alleges Amazon secretly raised search ad prices by up to fifty percent above auction results on ordinary days and up to two hundred and fifty percent on major shopping days such as Prime Day and Black Friday.
+
+ 
+
+The complaint estimates that Amazon took more than twenty billion dollars from approximately one-point-two million advertising customers.
+
+ 
+
+When advertisers asked why costs jumped, the complaint alleges Amazon's public-relations and legal teams approved a reply blaming shopper and advertiser engagement — an explanation the complaint calls false.
+
+ 
+
+Amazon has rejected the FTC's broader allegations, arguing that regulators misunderstand the operation of its advertising auctions.
+
+ The underlying case was filed in the Western District of Washington in August. This week's unsealing simply removed the redactions from the most damaging internal communications. The case matters enormously to publishers and media companies that depend on the same programmatic supply chain.
+
+Second. Still on ad tech, but earlier in the month. On the nineteenth of October the FTC cleared Publicis Groupe's two-point-two billion dollar acquisition of LiveRamp — but with conditions attached. 
+
+The proposed consent order addresses the FTC's concerns that Publicis's acquisition of LiveRamp, which provides data connectivity services that help facilitate the secure and confidential movement of data used for digital advertising, would harm competition in the markets for media agency services and audience data services.
+
+ 
+
+The FTC's two Republican commissioners voted to accept a consent decree that would require Publicis to ensure LiveRamp can provide non-discriminatory access and support to all clients, including Publicis's rivals, and establish firewalls to protect competitor data against potential misuse — terms that last for five years and require Publicis to appoint an independent auditor to monitor compliance.
+
+ 
+
+The order is a behavioral fix, with no divestiture.
+
+ For Firecrown brands that use LiveRamp as an identity resolution layer, the five-year neutrality obligation is worth documenting in vendor agreements now.
+
+Third. California privacy enforcement. 
+
+California regulators have announced seventeen-point-one million dollars in CCPA fines so far in twenty twenty-six, more than double the seven-point-nine million from every earlier year combined.
+
+ 
+
+General Motors' twelve-point-seven-five million dollar settlement is the largest CCPA fine on record, and twelve of fourteen CCPA settlements since 2022 have involved how businesses handled opt-out requests.
+
+ The pattern is narrow and entirely predictable: broken opt-outs, Global Privacy Control signals that do not propagate across devices, and missing in-app mechanisms on connected TV. 
+
+Throughout twenty twenty-six, CalPrivacy continued its aggressive enforcement campaign against data brokers for alleged violations of the Delete Act, data broker registration obligations, and privacy rights requirements.
+
+ 
+
+California's Delete Act and the DROP platform are operational, creating a centralized deletion mechanism that data brokers must honor.
+
+ Any Firecrown property that runs first-party data programs or shares audiences with third parties is in this enforcement frame.
+
+Fourth. AI and copyright. The legal terrain shifted in two directions simultaneously last week. On the defense side, 
+
+the multidistrict litigation combining copyright lawsuits filed against OpenAI and Microsoft by the New York Times and other news publishers, Ziff Davis, and a group of authors led by the Authors Guild
+
+ remains in the summary judgment phase. 
+
+All sides filed summary judgment motions on the fourth of September; oppositions were filed October twenty-third, and replies are due November twentieth.
+
+ Separately, the Third Circuit issued a significant ruling. 
+
+While ROSS argued that legal headnotes closely mirrored uncopyrightable court rulings and that its AI training methods qualified as fair use, a three-judge panel of the Third Circuit affirmed that the selection and arrangement of the headnotes required sufficient creative effort to warrant copyright protection.
+
+ 
+
+The panel also concluded that unauthorized scraping and training on such data could negatively affect the market value of the copyrighted material, including potential licensing agreements for AI model training.
+
+ And on November sixth, 
+
+the companies behind the AI model Grok were hit with three copyright infringement lawsuits from two publishers and a group of authors alleging their books were pirated for use in AI training.
+
+ The velocity here is accelerating. The MDL reply brief deadline on November twentieth is the next concrete docket event to watch.
+
+Fifth. Publishing economics. 
+
+Salon, one of the internet's earliest full-blown publications, is shutting down nearly thirty-one years after its launch.
+
+ 
+
+As Salon's final post observed: "The business realities of independent digital journalism have changed profoundly over the years. After careful consideration, we have reached the difficult decision that our publishing model is no longer sustainable."
+
+ The closure lands against a backdrop that is more nuanced than it first appears. 
+
+With traffic from search and social more volatile, subscriptions are being positioned as the stabilizing core of some news publishers' businesses — and subscription and membership remain the biggest revenue focus, at seventy-six percent, for publishers, ahead of display and native advertising.
+
+ 
+
+The median digital publisher has seen flat subscriber volume, but of the top ten percent of publishers with subscription businesses, digital subscriber volume has grown by seventy-seven percent, while that cohort has grown subscription revenue by one hundred and twenty percent.
+
+ The divergence between scale players and the long tail is widening in a way that has direct implications for Firecrown's portfolio strategy.
+
+Sixth and finally in the roundup. The UK's regulatory architecture has completed its structural change. 
+
+Under statutory instrument twenty twenty-six stroke ten-fifteen, in force the thirtieth of September twenty twenty-six, the ICO was abolished and its functions moved to the Information Commission.
+
+ 
+
+The Data Use and Access Act twenty twenty-five is now fully in force, with its core provisions having commenced on the fifth of February, introducing the new recognised legitimate interests lawful basis, updated cookie and PECR rules, automated decision-making reform, expanded enforcement powers, and fines now aligned with UK GDPR levels of up to four percent of global annual turnover.
+
+ 
+
+The Information Commission has launched investigations into how social media and video-sharing platforms use UK children's personal information, with the Reddit and Imgur enforcement actions in twenty twenty-six marking the beginning of heightened enforcement in this area.
+
+ For FLYING, Boating and Sailing, and Trains.com, which carry UK readership and run advertising, the new cookie exemption categories and the dramatically higher PECR penalty ceiling are the two items that require legal review before year-end.
+
+[DEEP DIVE]
+
+The Amazon ad auction case deserves more than a headline. Let me unpack it properly.
+
+The fundamental allegation is deceptively simple: Amazon told advertisers they were participating in a second-price auction, where the winner pays just enough to beat the next-highest bidder. 
+
+Amazon says ad prices are set by a second-price auction where the winner pays just enough to beat the next-highest bidder — but the complaint alleges Amazon secretly overrode the auction results and charged more.
+
+ 
+
+The amended complaint alleges Amazon raised ad prices up to fifty percent on normal days and two hundred and fifty percent on peak days.
+
+
+
+What makes the November fifth filing significant is not the theory — the FTC first laid this out in its August complaint — it is the unredacted internal communications. 
+
+Newly unredacted complaint details allege Amazon manipulated search advertising auction results to meet corporate financial targets.
+
+ 
+
+When advertisers asked why costs jumped, the complaint alleges Amazon's public relations and legal teams approved a reply blaming shopper and advertiser engagement.
+
+ That is not a rogue engineer's decision. That is, if the complaint is accurate, an institutional response to protect a revenue line.
+
+The scale of the alleged harm matters for publishers and media buyers alike. 
+
+The Federal Trade Commission and twenty-two states have revealed new allegations including new details alleging Amazon secretly raised advertising prices by as much as two hundred and fifty percent to increase its revenue by eighty-seven million dollars worldwide.
+
+ At the same time, the aggregate customer base allegedly affected — 
+
+about one-point-two million advertising customers
+
+ — includes the small and medium-sized businesses that also buy programmatic display across publisher inventory, pushing up floor prices across the ecosystem.
+
+The Publicis-LiveRamp consent order connects to this same thread. LiveRamp is identity infrastructure. When an advertiser buys a programmatic unit on a FreightWaves property or a Boating and Sailing page, LiveRamp or a competitor is often in the chain, matching audiences and enabling measurement. 
+
+The FTC's action targets a central concern: an advertising holding company would own identity and data infrastructure on which its agency competitors and their clients also depend.
+
+ The neutrality obligation in that consent order is behaviorally defined — 
+
+Publicis must ensure competitors have neutral and nondiscriminatory access to LiveRamp's products and services
+
+ — which means the burden of proving compliance falls on Publicis, monitored by an independent auditor for five years.
+
+Taken together, these two matters describe a digital advertising market under sustained government scrutiny at the infrastructure level. The FTC is now simultaneously litigating auction integrity at the demand layer and imposing behavioral remedies at the data connectivity layer. For a media holding company like Firecrown, the practical questions are three.
+
+First: contractual. When you negotiate with demand-side platforms and exchanges, are your auction mechanics contractually defined? Do your DSP agreements contain representations about how auction results are calculated? The Amazon complaint shows that verbal assurances from account managers — blaming competition for rising CPMs — are insufficient protection when the actual mechanism is undisclosed. You need representations in writing, with a right to audit.
+
+Second: data flow mapping. The LiveRamp neutrality order is currently open for a thirty-day public comment period before it becomes final. If you use LiveRamp as an identity resolution tool across any Firecrown property, now is the right time to map which of your audience data flows through that platform and whether any contractual provisions address how that data would be treated under a combined Publicis-LiveRamp entity. The order has firewalls, but firewalls are only as reliable as enforcement.
+
+Third: pricing transparency in vendor reviews. 
+
+The FTC has completed fourteen enforcement actions resulting in more than eighty million dollars in consumer redress since its Impersonation Rule took effect in twenty twenty-four,
+
+ and 
+
+is currently considering updates to the rule or a new rule to increase accountability for social media, search engines, and other digital marketplace platforms that further impersonation scams,
+
+ with a comment deadline of November thirtieth. The FTC's interest in advertising platform transparency extends beyond Amazon. The comment window is an opportunity to shape the rule.
+
+Three actions for Firecrown before year-end. One: instruct whoever manages your programmatic buying — whether in-house or through an agency — to run a formal pricing audit against your DSP contracts. Document the methodology used to price your media buys and get it in writing. Two: review your LiveRamp data processing agreement in light of the consent order's neutrality provisions — ask specifically what happens to your first-party audience data under the combined entity. Three: submit or monitor the FTC's November thirtieth comment deadline on the digital platforms impersonation rule, because whatever comes out of that rulemaking will define platform obligations that affect how Firecrown's brands appear in search and social ad inventory.
+
+[GC BENCH]
+
+Three things in the legal tech space this week that an in-house counsel at a media holding company should process differently than the trade press will process them.
+
+First, Harvey. 
+
+Harvey has reportedly held preliminary discussions with Latham and Watkins about a potential IPO, though no listing is imminent. The legal AI company was most recently valued at fifteen-point-five billion dollars.
+
+ 
+
+Harvey is expected to wait and see how the next wave of tech IPOs, led by Anthropic, performs before deciding whether to go ahead.
+
+ Competitor Legora — 
+
+which raised five hundred and fifty million dollars at an eight-point-eight billion dollar valuation in October
+
+ — is reportedly having similar conversations. What does an IPO story mean for in-house counsel evaluating these platforms? It means the enterprise sales cycle is about to get more complex. Pre-IPO companies need revenue lock-in. If you are negotiating a Harvey or Legora contract in the next twelve months, you have leverage you will not have after a successful listing. Negotiate multi-year pricing protection and data portability terms now, while the company still needs reference customers more than you need them.
+
+Second, A&O Shearman. 
+
+A&O Shearman is set to divert a chunk of its lawyers' billable hours toward building specialist AI tools as part of a one-point-one billion dollar investment over the next five years, with lawyers across every practice required to set aside at least three percent of their billable time to help develop the technology.
+
+ 
+
+A&O Shearman bets one-point-one billion dollars on AI, paid mostly in lawyer hours.
+
+ The inside-out version of this story matters more than the headline figure. If A&O Shearman is deploying partner time to build bespoke AI tools, those tools will eventually be positioned as a client deliverable — meaning you will be charged for work product that also trains the firm's proprietary system. That is a data use issue in your outside counsel engagement letter. Review it.
+
+Third, the broader adoption picture. 
+
+Eighty-seven percent of general counsel now report using AI within their teams — up from just forty-four percent in twenty twenty-five, according to the FTI Consulting and Relativity General Counsel Report released in March twenty twenty-six.
+
+ 
+
+The twenty twenty-six ACC Generative AI survey of six hundred and fifty-seven in-house legal professionals found the biggest reported benefits are efficiency gains in drafting, at seventy-three percent, and legal research, at fifty-three percent.
+
+ At a lean in-house team like Firecrown's, the case for a purpose-built in-house platform rather than a firm-side tool becomes clearer when you consider privilege. Work product generated inside a firm-licensed Harvey instance raises different privilege questions than work product generated in a platform your legal department controls. 
+
+The question of whether AI-assisted legal work is covered by privilege connects directly to ABA Formal Opinion five-twelve on supervising AI outputs.
+
+ That opinion is now the governing framework. Make sure any AI tool your legal team touches has a supervision protocol attached to it.
+
+[INDUSTRY ANGLE]
+
+Craig Fuller was at Optym's Convergence twenty twenty-six conference in Frisco, Texas last Saturday. 
+
+The largest motor carriers, along with the American Trucking Associations and the Truckload Carriers Association, have concluded that tighter standards for hiring drivers are, in Fuller's words, desperately needed and the only way that they will survive.
+
+ 
+
+Fuller described trucking as suffering from a security crisis, a safety crisis, and an economic crisis.
+
+ And his structural argument: 
+
+together, he said, these forces mark the most transformative period in trucking since deregulation in nineteen eighty — and for brokers and small carriers, that means fewer cheap trucks to hire and more liability for the ones they do.
+
+
+
+On broker liability specifically, 
+
+brokers can now be sued in state court for negligently hiring a trucking company with a bad safety record,
+
+ following the Supreme Court's decision in the Caribe Transport matter. 
+
+The FMCSA Broker Financial Responsibility Rule also took full effect January sixteenth of this year, closing loopholes that let brokers operate with depleted bonds while carriers ate losses.
+
+ These are not abstract regulatory developments. If Firecrown's FreightWaves editorial team is covering the broker liability story — which it should be, because Fuller made it the centerpiece of his keynote — the legal team should be aware that SONAR's data infrastructure itself has regulatory standing. 
+
+The U.S. Department of Transportation officially signed on as a customer of SONAR to harness high-frequency freight market data
+
+ — which makes the data platform a component of federal freight oversight. That is a contract to protect and a relationship to manage carefully.
+
+On the marine side, 
+
+the global containership fleet is heading toward an unprecedented fifty million TEU by twenty thirty.
+
+ 
+
+Post-peak slowdown is adding downward pressure to major east-west routes, but bunker fuel costs, blank sailings, congestion, and changing Red Sea routing decisions can still affect space availability and total landed costs.
+
+ 
+
+The US suspension of port fees targeting Chinese-built vessels, which ran from November tenth twenty twenty-five to November ninth twenty twenty-six, expires today.
+
+ That is not an abstract date. As of this morning, those fees are potentially back in play unless a further extension has been announced. Boating and Sailing's editorial team and Firecrown's e-commerce operation at Spacestore both face supply chain implications if vessel surcharges return to US ports on Chinese-built ships. Worth a call to your logistics contacts today.
+
+On aviation, 
+
+every major US airline reported record revenue for the summer quarter — but half of them still lost money.
+
+ 
+
+Air cargo is earning strongly from a crisis that is hurting the rest of aviation,
+
+ as disruptions around the Strait of Hormuz drive shippers toward air freight and away from Red Sea routing. FLYING's editorial and commercial teams should note that the air cargo premium — the spread between air and ocean shipping costs — is unusually wide right now, which creates advertising and audience context for freight-adjacent content across the portfolio.
+
+[CLOSING BRIEF]
+
+Three things on the watch list this week.
+
+One. The OpenAI copyright MDL reply brief deadline is November twentieth. 
+
+Summary judgment reply briefs are due November twentieth under the schedule reported from the court docket.
+
+ This is the last substantive filing before the court decides whether the fair use question goes to trial. The Third Circuit's ROSS decision this month, rejecting fair use for AI training on copyrighted legal headnotes, gives plaintiffs a circuit-level datapoint to cite. Expect the MDL reply briefs to lean on it heavily.
+
+Two. The FTC's digital platforms impersonation rule comment deadline is November thirtieth. 
+
+The FTC is currently considering updates to the rule or a new rule to increase accountability for social media, search engines, and other digital marketplace platforms, and the public has until November thirtieth to review and comment.
+
+ This rulemaking directly affects how Firecrown brands appear in ad inventory on platforms you do not control. If the rulemaking succeeds in placing due diligence obligations on platforms before ads run, it changes the risk profile of your brand safety exposure. Consider whether Firecrown has a position worth filing.
+
+Three. The Chinese-built vessel port fees. As noted, the one-year suspension expired today. 
+
+The US suspended the port fees for one year from November tenth twenty twenty-five to November ninth twenty twenty-six.
+
+ There has been no publicly announced extension as of this morning. If the fees resume, they add cost to any supply chain touching Chinese-built vessels calling at US ports — which is most transpacific shipping. Monitor this through the USTR and check whether any Spacestore supplier contracts contain force majeure or cost-pass-through provisions tied to port fee changes.
+
+[SIGNOFF]
+
+That is Morning Docket for Tuesday, the tenth of November. The script will be in your inbox with citations. The Amazon ad auction reply brief from the FTC deserves a close read this week — not just for the legal theory, but for what the unredacted internal communications reveal about how programmatic pricing decisions are actually made inside a platform that every publisher depends on. Have a focused morning. We will be back tomorrow.
+END OF EPISODE.
