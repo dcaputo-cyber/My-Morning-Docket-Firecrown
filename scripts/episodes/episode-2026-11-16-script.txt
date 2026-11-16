@@ -1,0 +1,305 @@
+MORNING DOCKET — Monday, November 16, 2026
+A daily brief for the general counsel of a media company.
+
+Now I have comprehensive research across all topic areas. Let me write the full Morning Docket script.
+
+[COLD OPEN]
+
+Three stories set the table for your Monday morning. California's privacy enforcer just landed a nearly three million dollar fine on FedEx for lying about behavioral advertising. Across the Atlantic, the UK's data regulator is now operating under substantially expanded enforcement powers that have been accumulating teeth all year. And in the Southern District of New York, reply briefs in the OpenAI copyright MDL are due this Friday — meaning the most consequential fair-use question in a generation will be fully submitted for decision. The week ahead is not short on material.
+
+[INTRO]
+
+Good morning. It is Monday, November 16, 2026. I'm your Morning Docket producer, and this is your legal and business intelligence briefing. This week we are tracking the FedEx CCPA settlement and what it signals about behavioral advertising risk for media companies. We have the FTC's newly unredacted allegations against Amazon's ad auction system — numbers that will change how you read your own programmatic contracts. We have the OpenAI copyright MDL at a critical briefing deadline, the SEC's proposed overhaul of executive compensation disclosure, a significant move in the legal tech market with Harvey exploring a public offering, and Craig Fuller's read on where trucking goes from here. Let's work through it.
+
+[HEADLINE ROUNDUP]
+
+First item. CalPrivacy, California's dedicated privacy enforcement agency, announced last Monday that FedEx will pay close to three million dollars and change its advertising practices to resolve allegations under the CCPA. 
+
+The agency alleged that FedEx falsely stated that it did not sell or share personal information when, in fact, it participated in cross-context behavioral advertising.
+
+ That framing matters for Firecrown. Every one of your digital properties — FreightWaves, FLYING, Boating and Sailing, Trains dot com — runs some form of interest-based advertising. If a third-party pixel fires before a user exercises a Global Privacy Control opt-out, you are in the same conceptual bucket as FedEx. 
+
+The enforcement division's acting deputy director was direct: "The time for implementing appropriate disclosures and functionality for opt-out preference signals has long passed."
+
+ CalPrivacy also reminded the market that it is 
+
+partnering with the California Attorney General and state district attorneys, including to hold General Motors to a twelve-point-seven-five million dollar penalty, while simultaneously continuing enforcement sweeps against unregistered data brokers with seventeen actions outstanding.
+
+ The year's total CCPA fines, through late September alone, 
+
+reached seventeen-point-one million dollars — more than double every prior year combined.
+
+ That trend line is the story.
+
+Second item. The FTC and twenty-two state attorneys general unsealed previously redacted allegations in their advertising antitrust case against Amazon last week. 
+
+The unredacted material includes new allegations that Amazon secretly raised advertising prices by as much as two hundred fifty percent to increase its revenue by eighty-seven million dollars worldwide.
+
+ 
+
+The updated complaint alleges increases of as much as fifty percent above auction results on ordinary days and two hundred fifty percent on major shopping days like Prime Day and Black Friday.
+
+ Amazon disputes the allegations. But the structural claim — 
+
+that online ad auctions often presented as automated, neutral, and efficiency-enhancing, may instead have been manipulated to inflate advertiser costs — is now a live legal theory that, if enforcers prevail, could become a significant test of how antitrust law applies to algorithmic pricing systems and digital advertising infrastructure.
+
+ For media companies that depend on programmatic revenue, this case matters: it establishes precedent for how auction mechanics are evaluated by regulators.
+
+Third item. The OpenAI copyright multidistrict litigation in the Southern District of New York is at a critical inflection point this week. 
+
+Summary judgment cross-motions were filed September fourth, with the core question being whether training ChatGPT on copyrighted works constitutes infringement or fair use.
+
+ 
+
+Opposition briefs were filed October twenty-third, and reply briefs are due this Thursday, November twentieth.
+
+ The case consolidates claims from the New York Times, Ziff Davis, the Authors Guild, and others against OpenAI and Microsoft. 
+
+All but one of the supporting amicus briefs were filed by the October thirtieth deadline, in a multidistrict litigation that combines copyright lawsuits filed by news publishers and authors alike.
+
+ Separately, and also breaking this weekend, 
+
+Ontario's Court of Appeal ruled Friday, November thirteenth, that OpenAI must defend a copyright lawsuit from five Canadian news organizations in an Ontario courtroom, where the United States fair use doctrine does not apply and the Canadian Copyright Act contains no text-and-data-mining exception for AI training.
+
+ The jurisdictional ruling doesn't decide liability, but it eliminates OpenAI's fallback that only American law governs. For publishers globally, that's a meaningful development.
+
+Fourth item. Last Thursday, the Securities and Exchange Commission proposed what may be the most significant overhaul of executive compensation disclosure since 2006. 
+
+The proposed rule amendments would make executive and director compensation disclosure requirements more principles-based and materiality-driven, providing investors with clearer, more concise, and less complex disclosures.
+
+ In practical terms: 
+
+the primary executive compensation tabular disclosure requirements would collapse from four tables to three — an Earned Compensation Table, a Granted Compensation Table, and a Status of Equity Awards table.
+
+ 
+
+The minimum aggregate reporting threshold for perquisites would rise from ten thousand dollars to one hundred fifty thousand dollars, with a new de minimis tracking exclusion.
+
+ 
+
+The required named executive officers would generally decrease from typically five or more individuals to two in most circumstances, encompassing the principal executive officer and principal financial officer.
+
+ Chair Paul Atkins described this as 
+
+a comprehensive reform of Item 402 rooted in his goal of transforming the SEC's disclosure regime toward materiality.
+
+ For private companies, this doesn't apply directly — but it reshapes the benchmark for what investors will expect from any company considering a capital raise, acquisition, or eventual public listing. The comment period opens this week. Worth watching.
+
+Fifth item. On the publishing economics front, data published last Sunday by the Association of Online Publishers and Deloitte paints a nuanced picture for UK digital publishers. 
+
+Total digital revenue among thirteen publishers surveyed fell by one-point-five percent year on year to one hundred fifty-five million pounds in Q2 2026.
+
+ But the texture beneath that number is instructive: 
+
+subscriptions remained the largest revenue category, up two-point-five percent to fifty-eight million pounds, and display advertising revenue increased by four-point-five percent to fifty-four million pounds.
+
+ The decline came elsewhere — affiliate commerce, sponsored content, other discretionary lines. 
+
+The resilience of recurring subscription revenues alongside growth in display advertising suggests that publishers with strong audience relationships and established advertising propositions are better placed to navigate a more challenging market.
+
+ That is precisely the thesis behind Firecrown's portfolio strategy: B2B audiences, enthusiast loyalty, subscriptions as a base layer.
+
+Sixth item. A brief note on a corporate governance data point from the FTC's conference proceedings earlier this month. 
+
+As of November fourth, state attorney general elections are pointing to increased enforcement in 2027, particularly in consumer protection, antitrust, AI, healthcare, and data centers.
+
+ 
+
+At the federal level, the FTC's current enforcement focus on AI is centered on advertising law rather than bias or discrimination — and behavioral advertising is explicitly deprioritized as a federal concern.
+
+ That split matters: federal heat on ad fraud and AI claims substantiation; state heat on opt-outs and data broker registration. Know which regulator is coming from which direction.
+
+[DEEP DIVE]
+
+Today's deep dive: the FTC and twenty-two states versus Amazon's advertising auction system, and what it means for every media company running programmatic or sponsored-content operations.
+
+Let's establish the facts clearly. 
+
+On August thirty-first, 2026, the FTC and twenty-two state attorneys general sued Amazon in the United States District Court for the Western District of Washington over its online search advertising auction practices.
+
+ 
+
+The FTC and the states then expanded the case in an updated, largely unredacted complaint filed October twenty-eighth and announced November fifth, which put specific numbers and internal descriptions to the alleged scheme.
+
+
+
+Here is the core allegation: 
+
+Amazon is accused of adding undisclosed surcharges to its advertising auctions, pushing prices above the amounts determined by the auction itself.
+
+ 
+
+The FTC alleges that Amazon's reserve prices lifted ad prices by as much as two hundred fifty percent above auction results on days like Prime Day and Black Friday.
+
+ The company trained its own advertisers to expect a second-price auction — where you pay the second-highest bid, not your own. 
+
+Amazon's own training materials told advertisers their cost "may actually be lower than your bid, because Amazon Ads uses a second price auction."
+
+ The unredacted complaint alleges that internally Amazon was aware of the disconnect. 
+
+According to the FTC, Amazon acknowledged internally that its price increases led to decreases in the advertiser's return on ad spend that were described as "destroying campaign performance."
+
+
+
+Amazon disputes the allegations and has called the case misguided. 
+
+The company says no advertiser pays more than its bid, and the case could take years to litigate.
+
+
+
+Why does this matter for a media company general counsel? Three reasons.
+
+First, the contractual question. 
+
+For in-house counsel and compliance teams, the case is a reminder that ad-tech governance is now squarely in the enforcement spotlight. Companies operating digital marketplaces, sponsored-product systems, or bid-based ad tools should expect scrutiny not just of outcomes, but of auction rules, ranking logic, reserve-price decisions, and internal experimentation.
+
+ If you sell advertising inventory through a third-party platform that uses auction mechanics — and virtually every digital publisher does — your contracts need to reflect that you are receiving representations about how that auction works. When those representations are allegedly false, you have a downstream problem: either you passed incorrect information to your own advertisers, or your advertisers suffered losses they will attribute to you.
+
+Second, the revenue accounting question. If the Amazon allegations are proved — again, contested, years away from trial — the question becomes whether publishers who embedded Amazon advertising or affiliate commerce received commissions based on inflated cost-per-click prices. That is an audit question before it becomes a legal question. FreightWaves, FLYING, and the e-commerce properties at Spacestore all carry some form of performance advertising. Now is the time to understand exactly what auction mechanics underlie every revenue stream.
+
+Third, the broader doctrinal signal. 
+
+The case raises doctrinal questions about when platform optimization crosses into exclusionary conduct, what proof is required to show auction manipulation, and how courts will evaluate injury in complex multi-sided digital markets.
+
+ The FTC has previously gone after Cox Media Group this year for allegedly claiming that smart speakers could be used to target ads based on overheard audio. 
+
+That action resulted in an eight-hundred-eighty thousand dollar settlement with Cox Media Group in May 2026.
+
+ The pattern is consistent: ad-tech claims that cannot be substantiated, auction mechanics that do not function as represented, and attribution that cannot be verified are all in the enforcement crosshairs.
+
+Here are three concrete actions for Darren, as general counsel at Firecrown.
+
+Action one. Pull your platform agreements with any auction-based ad network — Google Ad Manager, any Amazon publisher services, any SSP — and require that your counterparties provide written representations that auction mechanics function as described in their standard documentation. That is not an unusual ask. It is now a defensible compliance posture. Build it into your next contract renewal cycle.
+
+Action two. Commission an internal audit of how your properties describe ad pricing to direct advertisers. If you are running a Firecrown-branded advertising product that uses programmatic auction mechanics underneath, your media kit needs to accurately describe what buyers are actually getting. The FTC's attention to auction misrepresentation is not confined to Amazon. It applies to any party making representations about how digital ad pricing is determined.
+
+Action three. Document your internal ad product governance. If you have anyone at FreightWaves or any Firecrown property who has influence over reservation prices, floor prices, or yield management settings, that person should be operating under a written policy with periodic review. When a regulator subpoenas internal communications about pricing decisions — as happened with Amazon — you want those decisions to look considered, not improvised.
+
+[GC BENCH]
+
+The GC Bench this week is dominated by one headline: Harvey, the enterprise legal AI company, is exploring an initial public offering. 
+
+Harvey, a legal AI startup valued at fifteen-point-five billion dollars, has held preliminary talks with Latham and Watkins about an initial public offering, according to people familiar with the matter, though no listing is imminent and the company is expected to watch the reception of upcoming AI listings, including Anthropic's.
+
+
+
+For context on the valuation: 
+
+Harvey raised two hundred million dollars at an eleven billion dollar valuation in March 2026, then announced a five hundred fifty million dollar round at fifteen-point-five billion in September.
+
+ 
+
+That five-hundred-fifty-million-dollar raise accounts for sixteen percent of the three-point-three-five billion dollars invested in legal tech companies globally so far in 2026, according to PitchBook data.
+
+ 
+
+Alongside its latest fundraise, Harvey announced it was buying Guardrails AI, an AI agent security startup, marking its fourth acquisition this year.
+
+
+
+The Harvey story matters for in-house counsel evaluating legal tech procurement, for a specific reason. 
+
+Harvey counts law firms that serve twenty percent of the Fortune 500 among its enterprise clients, with recent wins including CVS Health and Lockheed Martin.
+
+ As the company moves toward public markets, enterprise contracts with large law firms and corporate legal departments become the core of its valuation story. That means pricing pressure — in the near term, Harvey will want to demonstrate ARR growth, which means active selling into corporate legal departments at terms that may look attractive now and shift post-IPO.
+
+
+
+Harvey's competitor Legora also raised six hundred million dollars in a Series D this year, contributing to three mega deals that together took forty percent of all 2026 legal tech capital.
+
+ The legal AI market is consolidating rapidly around a small number of heavily capitalized platforms.
+
+For a solo or small in-house general counsel — which is Firecrown's profile — the practical implication is sequencing. The platforms competing for enterprise contracts are building toward lock-in. 
+
+The in-house legal AI landscape in 2026 breaks into four category groups: purpose-built platforms for in-house counsel, firm-side legal AI, dedicated contract review tools, and general-purpose AI with legal use cases.
+
+ Before committing to any platform, the question for Darren is whether the tool is built for a solo GC managing a multi-brand portfolio — contracts, IP, privacy, employment across five-plus brands — or whether it is built for a large firm and retrofitted for in-house. Those are different products at materially different price points.
+
+One note of caution on tool selection: a federal ruling this year held that inputs into generalized AI tools may not be privileged. That is worth including in any vendor evaluation. Purpose-built in-house tools with clear confidentiality architecture are preferable to consumer-grade alternatives for anything touching privileged matter.
+
+[INDUSTRY ANGLE]
+
+The freight market is sending a signal worth reading carefully, because it speaks directly to the FreightWaves and SONAR audience and to the broader business context in which Firecrown operates.
+
+SONAR data published November ninth shows that truckload freight demand climbed nearly five percent week over week through the week ending November ninth. 
+
+The FreightWaves SONAR Tender Volume Index rose to eleven thousand six hundred from just under eleven thousand on October twenty-second — a level last seen in late spring.
+
+ 
+
+Van spot rates hit three dollars and forty-nine cents per mile on November ninth, while the van contract rate per mile reached a fifty-two-week high of two dollars and eighty-five cents.
+
+
+
+Craig Fuller's read on the moment: 
+
+truckload tender rejections are holding near twelve-point-eight percent — roughly double the six percent recorded at the same point last year — but the market is showing little of the tightening momentum typically expected ahead of peak season, raising questions about whether the freight market can sustain a meaningful holiday surge and what it signals for 2027 contract rates.
+
+ Fuller noted that 
+
+November's Outbound Tender Volume Index is averaging eleven thousand four hundred thirty-four, up twelve percent from November last year and up roughly three percent from October — the first meaningful demand build the market has seen heading into the holidays.
+
+
+
+Fuller's separate keynote at Optym's Convergence conference earlier this month touched on the structural dynamics: 
+
+small carriers and brokers waiting for Washington to ease up on trucking enforcement should not expect relief, because the industry's largest fleets now want the crackdown — FMCSA enforcement and broker liability will outlast any election.
+
+ 
+
+He described trucking as suffering from "a security crisis, a safety crisis, and an economic crisis," with freight theft a persistent daily reality.
+
+
+
+On the multi-modal side, air freight is running hot into the holidays. 
+
+Global airfreight rates reached their highest level of the year this past week as the air cargo peak season continues.
+
+ 
+
+Air freight remains tight and volatile as late holiday shipments compete for limited capacity, with indicative rates reaching eight-fifty to nine dollars per kilogram to the West Coast and nine-fifty to ten dollars to JFK, with daily pricing changes and limited space.
+
+
+
+Ocean freight is moving in the opposite direction. 
+
+Ocean freight rates continue to stabilize with a slight downward drift and minimal volatility across major lanes.
+
+ 
+
+Blank sailings have dropped to four-point-eight percent of capacity from thirteen-point-five percent last month, Asian port congestion is easing, and carriers are starting to return to Red Sea and Suez routings.
+
+
+
+The divergence — tightening truckload and air, softening ocean — is important context for FreightWaves editorial and for SONAR commercial positioning. The story this quarter is not uniform market recovery; it is a bifurcated market where mode choice is becoming a legal and financial decision, not just a logistics one.
+
+[CLOSING BRIEF]
+
+Three things on the watch list as this week progresses.
+
+First. Reply briefs in the OpenAI copyright MDL are due this Thursday, November twentieth. 
+
+Judge Sidney Stein in the Southern District of New York has both sides' summary judgment arguments before him.
+
+ When those reply briefs land, the fair-use question will be fully submitted. Darren, you should read the publishers' reply brief carefully — the arguments the New York Times and Ziff Davis make about how news content is scraped and monetized will be arguments you may need to adopt or distinguish in any licensing discussions your properties have with AI companies seeking access to FreightWaves or FLYING archives.
+
+Second. The FTC's public comment period on the impersonation ad rule closes November thirtieth. 
+
+The existing Impersonation Rule prohibits impersonation of government agencies and businesses; the FTC is considering updates or a new rule to increase accountability for social media, search engines, and other digital marketplace platforms that further impersonation scams.
+
+ If Firecrown brands are running sponsored-content programs or affiliate campaigns on any of those platforms, the pending rule will affect your advertising compliance obligations. The comment period is a low-cost opportunity to shape those obligations before they are finalized.
+
+Third. The SEC's proposed overhaul of Item 402 of Regulation S-K opens for comment this week. 
+
+The proposal draws on over eighty comment letters submitted in response to the SEC's June 2025 roundtable on executive compensation disclosure.
+
+ 
+
+Commission staff is also working toward recommendations for the final phase of Regulation S-K reform — covering business, risk, and governance requirements.
+
+ Even as a private company, Firecrown and Craig Fuller as its founder should understand where the goalposts are moving for public disclosure standards. Those standards set the expectation baseline for private investors, lenders, and acquisition counterparties. The comment period is your window to understand it.
+
+[SIGNOFF]
+
+That is Morning Docket for Monday, November 16, 2026. We will be back tomorrow with follow-on coverage on the OpenAI reply brief filing and anything that develops out of the freight market data midweek. Until then, have a productive week.
+END OF EPISODE.
