@@ -1,0 +1,281 @@
+MORNING DOCKET — Wednesday, November 18, 2026
+A daily brief for the general counsel of a media company.
+
+Now I have comprehensive research. Let me write the full Morning Docket script.
+
+[COLD OPEN]
+
+Two things happened yesterday that belong in the same sentence. The California Privacy Protection Agency issued its eighteenth public CCPA enforcement action — this time against Hertz, one point five million dollars, for failing to honor Global Privacy Control opt-out signals. And twenty-four hours from now, reply briefs are due in the federal court case that may determine whether training a large language model on copyrighted news articles is fair use. For a media company with consumer-facing brands, ad tech infrastructure, and a legal team of one, those two events are not unrelated. This is Morning Docket. Wednesday, November eighteenth, twenty twenty-six.
+
+[INTRO]
+
+Good morning, Darren. It is Wednesday, November eighteenth. We are five weeks from the end of the year and the news cycle for general counsel has not slowed. Today's show covers six headline items including the CCPA Hertz fine that dropped literally yesterday, the OpenAI copyright summary judgment briefing closing this week, the SEC's sweeping new proposed overhaul of executive compensation disclosure under Regulation S-K Item four hundred and two, and what Craig Fuller and SONAR's freight data are showing heading into the holiday season. The deep dive today is the OpenAI copyright MDL and what the summary judgment outcome — whenever it comes — means for a media holding company that licenses content, publishes original work, and is itself evaluating AI tools. The GC Bench covers Harvey's accelerating enterprise rollout and new research on how general counsel are integrating AI into their daily practice. And we close with a snapshot of the air cargo and intermodal markets that your aviation and marine brands should have on their radar. Let's get into it.
+
+[HEADLINE ROUNDUP]
+
+First, California's enforcement machine keeps moving. 
+
+The California Privacy Protection Agency published two new enforcement actions on November seventeenth — the day before this broadcast. Hertz was fined one million five hundred fifty thousand dollars for failures including GPC opt-out noncompliance, a missing privacy policy, and use of dark patterns. Outdoor clothing company C.C. Filson was fined two hundred seventeen thousand nine hundred eighty-seven dollars for opt-out friction and opt-out failures.
+
+ Those two actions follow 
+
+the CalPrivacy board's November tenth decision requiring Federal Express to pay an administrative fine of two million nine hundred seventy-five thousand dollars and adjust its business practices for CCPA violations.
+
+ 
+
+California regulators have now announced seventeen point one million dollars in CCPA fines in twenty twenty-six, more than double the seven point nine million from every earlier year combined.
+
+ The pattern across these cases is consistent: 
+
+twelve of the fourteen CCPA settlements since twenty twenty-two involved broken, missing, or hard-to-use opt-outs.
+
+ For Firecrown brands that run ad tech stacks and subscription cancellation flows, the message is direct: opt-out mechanics are the top enforcement target, full stop.
+
+Second, the FTC is moving on digital advertising platforms in ways that have teeth. 
+
+The existing Impersonation Rule already prohibits impersonation of government agencies and businesses. The FTC is currently considering updates to the rule — or a whole new rule — to increase accountability for social media, search engines, and other digital marketplace platforms that further impersonation scams.
+
+ 
+
+Comments are due November thirtieth, twenty twenty-six.
+
+ Separately, 
+
+the FTC and twenty-two states recently filed an updated complaint against Amazon with unredacted details about Amazon's alleged use of deceptive and unfair practices
+
+ in its advertising auction. 
+
+The FTC's current AI enforcement focus continues to be advertising law rather than bias or discrimination, and the agency has signaled that behavioral advertising is a deprioritized area under the current commission.
+
+ That is a meaningful shift for ad-supported publishing. The practical takeaway: AI performance claims in advertising copy now carry serious enforcement risk; impersonation-related ad placements on third-party platforms are under active scrutiny.
+
+Third, the OpenAI copyright MDL — and this is the item you need to track this week. 
+
+On September twenty-fourth, the court approved a schedule under which opposition briefs were due October twenty-third and reply briefs are due November twentieth.
+
+ That is two days from now. 
+
+The question before the Southern District of New York is whether training large language models on copyrighted works is fair use. The case is a multidistrict litigation combining copyright lawsuits filed against OpenAI and Microsoft by The New York Times and other news publishers, Ziff Davis, and a group of authors led by the Authors Guild.
+
+ Concurrently, 
+
+Getty Images told the Court of Appeal in England last week that Stability AI infringed its copyright by training its AI model on Getty's protected works, in a case with potentially far-reaching consequences for generative models.
+
+ Two jurisdictions, same fundamental question. We will come back to the SDNY case in full in the deep dive.
+
+Fourth, the SEC moved on executive compensation disclosure last Thursday. 
+
+On November thirteenth, the SEC proposed long-awaited amendments to the executive and director compensation disclosure requirements of Item four-oh-two of Regulation S-K. The proposal follows the SEC's June twenty twenty-five roundtable on executive compensation disclosure, which generated more than eighty comment letters from public companies, investors, and other market participants.
+
+ 
+
+Under current law, Regulation S-K Item four-oh-two requires companies to show a comparison of the principal executive officer's total compensation to the total compensation of the company's median compensated employee. The pool of employees generally includes all U.S. and foreign employees and requires the median to be re-determined at least every three years.
+
+ The proposal would simplify pay ratio disclosure and reduce pay-versus-performance burdens. Firecrown is private, so the direct proxy disclosure requirements do not apply — but if any Firecrown brands ever move toward a public structure, or if you're counseling on governance frameworks that benchmark to public company standards, this matters.
+
+Separately on the SEC front, 
+
+the SEC's Division of Enforcement communicated this month that it is actively monitoring corporate AI disclosures for accuracy, and the Division of Examinations released its fiscal year twenty twenty-seven examination priorities with a heightened emphasis on AI and cybersecurity.
+
+ 
+
+As the SEC's enforcement director emphasized, AI-related cases are "really just fraud cases for the most part." The SEC is applying existing disclosure, fraud, compliance, and supervisory rules to AI with increasing vigor.
+
+
+
+Fifth, the UK's data protection regime is now fully live under the Data Use and Access Act. 
+
+The UK Data Use and Access Act twenty twenty-five is now in force, with most provisions commenced on February fifth, twenty twenty-six, the complaints requirement on June nineteenth, twenty twenty-six, and the ICO's governance reforms on September thirtieth, twenty twenty-six.
+
+ 
+
+ICO enforcement has intensified dramatically. A recent record fine of fourteen million pounds against Capita signaled heightened regulatory scrutiny across all sectors.
+
+ And 
+
+the ICO has launched investigations into how social media and video-sharing platforms use UK children's personal information, with the Reddit and Imgur enforcement actions in twenty twenty-six marking the beginning of heightened enforcement in this area.
+
+ For Firecrown brands with UK readership — including FLYING and Boating and Sailing — the complaints-first architecture under the DUAA is now fully operative. As of June nineteenth, 
+
+data subjects must first raise complaints with the controller. Only if dissatisfied — or if controllers fail to respond within reasonable timeframes — can they escalate to the ICO.
+
+ That is a formal process that needs to live in your company's response workflows now, not in a draft policy document.
+
+Sixth, subscriptions are plateauing and publishers are responding with bundles. 
+
+Subscription growth is reaching a shelf, prompting publishers to explore new ways of delivering value, including bundled news and lifestyle content and premium subscription tiers to increase average revenue per user.
+
+ 
+
+With traffic from search and social more volatile, subscriptions are being positioned as the stabilizing core of some news publishers' businesses. Subscription and membership remain the biggest revenue focus — seventy-six percent — for publishers, ahead of both display advertising at sixty-eight percent and native advertising at sixty-four percent, according to the Reuters Institute's recent report on journalism trends in twenty twenty-six.
+
+ 
+
+Upmarket subscription-based publishers with strong direct traffic can see a path to long-term profitability, even as those that remain dependent on advertising and print worry about sharp declines in revenue and the potential impact of AI-powered search on the bottom line.
+
+ That tension — between direct subscription yield and traffic-dependent ad revenue — is exactly the pressure Firecrown's portfolio brands navigate every quarter.
+
+[DEEP DIVE]
+
+Now to the deep dive: the OpenAI copyright multidistrict litigation, MDL three one four three, and what it means for a media holding company in your position.
+
+Here is where the case stands. 
+
+The New York Times and other publishers allege OpenAI and Microsoft copied their work to train ChatGPT. The case is at summary judgment, with cross-motions filed September fourth, twenty twenty-six, briefing running into late November, and no trial date set.
+
+ 
+
+All sides filed summary judgment motions on September fourth. Oppositions were filed October twenty-third, and reply briefs are due November twentieth — this Thursday.
+
+
+
+What makes this case structurally significant is that both sides have asked the judge to decide the central question without a trial. 
+
+On November sixth, U.S. District Judge Sidney Stein in Manhattan allowed fifty-six amicus — friend of the court — briefs in the lawsuit against OpenAI and Microsoft. In September, the parties sought a ruling without a trial on whether training on copyrighted works is fair use. The ruling could change licensing economics and the legal risk profile of the entire tech industry.
+
+
+
+The amicus posture tells you something about the stakes. 
+
+The MDL combines copyright lawsuits from The New York Times and other news publishers, Ziff Davis, and a group of authors led by the Authors Guild. Public Knowledge, in its brief, urged the court to analyze training independently from how data was obtained and what models produce, arguing that training is fair use since models learn uncopyrightable information about language without standing in for the source material.
+
+ On the other side, copyright scholars and publishers argue that the fourth factor — market effect — has been systematically ignored. 
+
+One scholar's brief flagged whether copyright should recognize what he calls indirect expressive substitution: a system designed around a particular source with the goal of supplanting it.
+
+ That framing is specifically pointed at AI systems trained on journalism that then answer questions in a way that reduces the reader's incentive to visit the original publisher.
+
+This is not an abstract legal question for Firecrown. Here are three specific pressure points.
+
+FreightWaves and FLYING both produce original reporting that is high-value, niche, and verifiable. If the court finds that training on copyrighted news content is fair use, your content becomes a freely available training resource for any AI company without negotiation or compensation. The AI licensing agreements that some larger publishers — including several in the MDL — negotiated as settlements or commercial deals become moot as a strategy for smaller publishers, because AI companies would have no legal obligation to license what they can take for free.
+
+Conversely, if the court rules against OpenAI and Microsoft, the precedent could strengthen your negotiating position in any AI content partnership, make third-party scrapers more legally vulnerable, and potentially create an obligation for AI companies to license content retroactively. That is a very different economic environment for a media company that creates original, data-rich journalism.
+
+There is a third scenario that the case structure actually enables. Because both sides asked for summary judgment — no trial — Judge Stein could issue a narrow ruling that decides the fair use question on specific facts of this record without creating the kind of clean appellate precedent that settles the law broadly. Narrowly constructed decisions are more common in novel technology cases. That means even a ruling in the near term may not definitively resolve the question for every type of content or every type of training methodology. 
+
+As of early November, no appellate opinion has decided this question for generative AI. As of November twenty twenty-six, U.S. copyright law requires a human author, and fair use for generative AI training remains undecided on appeal.
+
+
+
+Concurrently in the UK, 
+
+in November twenty twenty-five, the High Court of England and Wales ruled that Stability AI was not guilty of copyright infringement despite using Getty Images as a training set for its image generator
+
+ — but that ruling is now under appeal, with 
+
+Getty telling the Court of Appeal last week that Stability AI did infringe by training on its protected works.
+
+ The UK is heading in a different direction from the U.S. on the same question. For Firecrown brands with UK presence, that divergence matters.
+
+Three concrete actions for you as GC.
+
+One: audit your copyright notices and terms of service on every Firecrown digital property this month. If your ToS does not explicitly prohibit automated scraping and AI training ingestion, you have no contractual claim against an AI company that harvests your content — regardless of how the litigation resolves. Plain, enforceable language in your ToS is the low-cost hedge that works in every legal outcome.
+
+Two: if FreightWaves or any other Firecrown brand receives an inbound inquiry from an AI company about data or content licensing, do not negotiate informally. Treat the first conversation as the opening of a licensing negotiation and document it. The post-ruling value of your content — in either direction — is determined by what paper trail you have now. Companies that locked in licensing agreements before the ruling have a defensible commercial framework. Companies that allowed informal use have neither.
+
+Three: watch the November twentieth docket in MDL three one four three. Reply briefs will be public. Even if there is no immediate ruling, the briefs will tell you which arguments Judge Stein is likely to find compelling based on what each side chose to rebut. That is intelligence worth reviewing with outside copyright counsel before year-end.
+
+[GC BENCH]
+
+Time for the GC Bench — legal tech and AI tools with a practical filter.
+
+The Harvey platform had a notable week. 
+
+Harvey announced multiple new enterprise deployments in the past ten days, including Avianca deploying Harvey across its legal organization on November thirteenth, Wotton Kearney going firmwide across Asia Pacific on November fifteenth, and SK Group rolling out Harvey across more than twenty affiliates on November seventeenth.
+
+ 
+
+Harvey raised five hundred fifty million dollars at a valuation of fifteen point five billion dollars in September twenty twenty-six.
+
+ The platform is now operating at a scale where the question for an in-house team is not whether to evaluate it, but on what terms. 
+
+Harvey's security terms bar model providers from training on customer data
+
+ — that is a structurally important contractual term for a media company concerned about its content being used to train competing AI systems.
+
+The other development worth your attention comes from new research. 
+
+The twenty twenty-six General Counsel Legal Tech Pulse report, conducted by Legal Business in association with Thomson Reuters, drew on responses from more than two hundred fifty senior in-house lawyers across the UK and Europe. It found that eighty-two percent of respondents are already implementing generative AI solutions within their teams.
+
+ 
+
+Almost eighty percent identified increasing workflow efficiency without adding headcount as a priority, while only five percent wanted to reduce the size of their in-house legal team.
+
+ The headline is that capacity — not cuts — is the driving rationale. That reframes the conversation about AI tools for legal departments: you are not automating yourself out of a job, you are building capacity to handle more commercial matters, more compliance obligations, and more cross-border complexity without requesting budget for additional headcount.
+
+
+
+A survey reported this past week found that legal departments have room to grow in their engagement with AI governance — and that "legal doesn't need to own every operational control, but it should play a clearly defined role in AI governance, with a seat at the table early enough to influence critical decisions rather than simply reviewing risks after deployment."
+
+ That framing applies directly to Firecrown. Craig Fuller is building AI-related data products at SONAR; your seat at that governance table is not optional.
+
+Practical note: 
+
+Dentons research published this week flagged that AI-generated complaints, grievances, and data requests are now flooding legal departments
+
+ — volume increasing faster than teams can triage manually. If your intake process still relies on email threads and a shared inbox, you are building a backlog problem. The Harvey Intake product and its competitor from Legora both launched in October specifically to address this workflow. Worth a demo before the end of Q four.
+
+[INDUSTRY ANGLE]
+
+Now to the freight, rail, aviation, and marine angle — this is relevant across nearly every Firecrown brand.
+
+Starting with trucking. 
+
+FreightWaves reported on November tenth that SONAR data shows truckload rejections at twelve point eight percent — roughly double the six percent recorded at the same point last year — yet the market is showing little of the tightening momentum typically expected ahead of peak season.
+
+ 
+
+November's Outbound Tender Volume Index is averaging eleven thousand four hundred thirty-four, up twelve percent from November last year and up roughly three percent from October
+
+ — the first meaningful demand build heading into the holidays. 
+
+At Optym's Convergence twenty twenty-six conference earlier this month, Fuller told the audience that small carriers and brokers should not expect regulatory relief, and that the largest motor carriers, along with the American Trucking Associations and the Truckload Carriers Association, have concluded that tighter driver standards are, as he put it, "desperately needed" and "the only way that they will survive."
+
+
+
+On the intermodal and rail side, 
+
+surging trucking costs and tight capacity are accelerating freight conversion to rail. Shippers are rapidly converting long-haul freight to intermodal rail transport, which offers a twenty-one point one percent discount compared with standard trucking contracts, fueling a five point one percent year-to-date increase in domestic rail volumes.
+
+ That is a meaningful shift that our colleagues at Trains.com are covering in real time. However, 
+
+Southern California shippers are battling rapidly rising base rates and extensive terminal dwell times averaging seven point one nine days, canceling out the expected savings of moving freight by rail.
+
+
+
+On the air cargo side, the peak season is well underway and rates have reached twenty twenty-six highs. 
+
+Global airfreight rates continued to increase in the first week of November and are now at their highest level of the year as the air cargo peak season continues. The Baltic Exchange Airfreight Index was up six point six percent compared with the prior week.
+
+ 
+
+TAC Index confirmed that rates are well above the previous two peak season highs, and compared with last year, rates are up twenty-eight point two percent.
+
+ 
+
+Trends in jet fuel prices, combined with strong demand for semiconductors and other AI-related equipment, point to the possibility of a further surge in rates as peak season reaches its climax.
+
+ That AI-hardware demand signal is specifically worth noting for the FLYING audience — the intersection of private aviation, cargo operations, and the AI infrastructure buildout is a story FreightWaves and FLYING together are uniquely positioned to cover.
+
+[CLOSING BRIEF]
+
+Three things on the watch list as we close.
+
+First: Thursday's deadline in the OpenAI copyright MDL. Reply briefs are due November twentieth. Monitor the Southern District of New York docket. No ruling is expected immediately, but the content of the reply briefs will signal where the court is likely to land on the market substitution argument — the argument most directly relevant to news and specialty publishing.
+
+Second: November thirtieth is the FTC's public comment deadline on potential new rules requiring digital platforms — search engines, social media, ad optimization tools — to screen advertisers, accept impersonation complaint reports, and investigate flagged ads. 
+
+The FTC published the advance notice as part of its impersonation scam ad rulemaking on October first, with comments due November thirtieth, twenty twenty-six.
+
+ This rulemaking, if it moves to a formal rule, would impose new obligations on platforms where Firecrown brands buy programmatic advertising. Worth submitting a comment or at minimum reviewing what your media trade associations file.
+
+Third: the CCPA enforcement rhythm. CalPrivacy has now brought eighteen public actions. 
+
+Throughout twenty twenty-six, CalPrivacy continued its aggressive enforcement campaign against data brokers for alleged violations of the Delete Act, data broker registration obligations, and privacy rights requirements.
+
+ The Hertz and FedEx actions confirm that the agency is no longer restricting itself to data brokers — mainstream consumer-facing brands are in scope. If Firecrown has not completed a GPC opt-out signal audit across all consumer-facing digital properties in the last sixty days, that audit should be on the December calendar.
+
+[SIGNOFF]
+
+That is Morning Docket for Wednesday, November eighteenth, twenty twenty-six. Research anchored in the last eight days. If you want the deeper copyright memo or a draft FTC comment letter on the impersonation ad rulemaking, you know where to find me. Have a good drive, Darren. We are back tomorrow.
+END OF EPISODE.
