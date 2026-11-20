@@ -1,0 +1,335 @@
+MORNING DOCKET — Friday, November 20, 2026
+A daily brief for the general counsel of a media company.
+
+Now I have comprehensive research across all topic areas. Let me write the full Morning Docket script.
+
+[COLD OPEN]
+
+Three deadlines converged this week that every media general counsel should track simultaneously. In San Francisco, reply briefs in the Authors Guild summary judgment fight against OpenAI are due today — the most consequential test yet of whether training large language models on copyrighted books constitutes fair use. In Sacramento, California's privacy regulator closed out the week with two fresh enforcement orders, including a fine against Hertz that crossed the seven-figure mark and came with a stop-sale order against a third company entirely. And in Washington, the SEC issued what securities lawyers are already calling the most significant rewrite of executive compensation disclosure rules since 2006. It is a heavy Friday.
+
+[INTRO]
+
+Good morning. It is Friday, November 20, 2026. This is Morning Docket. I'm your host, and you're listening on behalf of Barrister Darren Caputo, General Counsel at Firecrown. Today's program runs about twenty-seven minutes. We will cover the CPPA's November enforcement surge and what it signals for media companies; the FTC's newly unredacted case against Amazon's ad auction practices; the AI copyright docket — which is unusually active this week; the SEC's proposed overhaul of Regulation S-K Item 402; and the UK Information Commission's posture under the Data Use and Access Act. In the GC Bench we look at the state of legal AI adoption inside in-house departments, following last week's Harvey Forum in Chicago. The industry angle covers the freight market ahead of the holiday peak. And we close with three items for your watch list heading into Thanksgiving week.
+
+[HEADLINE ROUNDUP]
+
+First item. California's privacy regulator, the CPPA, issued two decisions this week that together added nearly two million dollars in new fines to what is already the most aggressive year of CCPA enforcement on record. 
+
+On November 17th, the agency fined the Hertz Corporation one million five hundred fifty thousand dollars for Global Privacy Control failures, missing privacy policy rights, and dark patterns. The same day, apparel retailer C.C. Filson received a two hundred seventeen thousand nine hundred eighty-seven dollar penalty for similar opt-out failures.
+
+ Those two decisions followed 
+
+the November 10th action requiring FedEx to pay an administrative fine of two million nine hundred seventy-five thousand dollars and change its business practices, also for CCPA violations.
+
+ Put those numbers in context: 
+
+California has been on a steady escalation, from a one-point-two-million-dollar Sephora fine in 2022 to a twelve-point-seven-five-million-dollar General Motors penalty in 2026, and the CPPA's own figures have climbed from six-figure decisions in early 2025 to nearly three million dollars by this month.
+
+ 
+
+The most common thread across all of these cases is opt-out failure: Global Privacy Control signals being ignored, opt-outs that do not reach apps or linked devices, and confusing opt-out journeys.
+
+ For a media company with digital subscription products, analytics stacks, and advertising on consumer-facing sites, these decisions are operationally specific. We will come back to the CPPA in the deep dive.
+
+Second item. 
+
+On August 31st, the FTC and twenty-two state attorneys general sued Amazon in federal court in the Western District of Washington over its search advertising auctions. The portions of the complaint unsealed on November 5th put numbers on the alleged markup.
+
+ 
+
+The core allegation is that Amazon added undisclosed surcharges on top of the prices its own ad auctions set, and pushed them hardest on the biggest shopping days. The FTC alleges Amazon described its Sponsored Products auctions as second-price auctions but from 2019 added a mechanism known internally as a soft reserve price.
+
+ 
+
+The FTC and the states allege Amazon secretly raised ad prices by as much as two hundred fifty percent above auction results.
+
+ 
+
+If enforcers can prove that auction design was used to inflate advertiser costs, the case becomes a significant test of how antitrust and consumer protection law apply to algorithmic pricing systems. For in-house counsel and compliance teams, the case is a reminder that ad-tech governance is now squarely in the enforcement spotlight. Companies operating digital marketplaces, sponsored-product systems, or bid-based ad tools should expect scrutiny not just of outcomes, but of auction rules, ranking logic, reserve-price decisions, and internal experimentation.
+
+ Amazon calls the case misguided and it could take years to litigate, but the unredacted detail is now public and the narrative is damaging.
+
+Third item. Today is a procedural milestone in the Authors Guild copyright case against OpenAI. 
+
+All sides filed summary judgment motions on September 4th, 2026. Oppositions were filed October 23rd. Reply briefs are due today, November 20th. The Authors Guild expects a hearing in early 2027.
+
+ That is the central train running through the AI copyright docket, but it is not running alone. 
+
+A US appeals court this past Wednesday grappled with a bid by Elon Musk-owned xAI to block a California law that forces AI companies to disclose information about the data used to train their artificial intelligence models. The case is X.AI LLC v. Bonta, number 26-1591, heard before a Ninth Circuit panel on November 18th.
+
+ 
+
+xAI asked the three-judge panel to block California's AB 2013, the state's AI training data transparency law, arguing it is unconstitutional and exposes trade secrets.
+
+ No ruling date has been set. And separately, 
+
+Elvis rights holders have sued Anthropic over AI training and lyric outputs, with the complaint alleging infringement throughout the development of Anthropic's models and that those models continue to generate outputs reproducing copyrighted lyrics or creating unauthorized adaptations of Presley's songs, framing it as both a training-data and an output-based copyright dispute.
+
+
+
+Fourth item. On November 13th, the SEC issued what it called a comprehensive overhaul of executive compensation disclosure requirements. 
+
+If adopted, the proposed rules would be the most significant executive compensation disclosure reform since 2006.
+
+ 
+
+The proposed amendments are intended to reduce compliance burdens and provide investors with clearer, more concise disclosures through a more principles-based and materiality-driven framework.
+
+ Concretely, 
+
+the amendments would narrow the executive officers who constitute named executive officers, replace the principal compensation tables, and simplify narrative and quantitative disclosure requirements.
+
+ 
+
+The proposal would also eliminate the Pension Benefits Table, the Nonqualified Deferred Compensation Table, and the narrative and tabular disclosure requirements related to grants of equity awards close in time to the release of material nonpublic information.
+
+ For a private media holding company, the direct compliance burden is limited — but if any Firecrown entity is tracking toward a future capital raise or public offering, understanding the new framework now is worthwhile. 
+
+Institutional investors and proxy advisors may still expect some of the disclosure the proposal would eliminate. As a result, additional voluntary disclosures may still be prudent and could remain common practice.
+
+
+
+Fifth item. On the UK side, the picture this week is one of a regulator still settling into its new powers. 
+
+The UK Data Use and Access Act 2025, the DUAA, is now fully in force, with most provisions commenced on February 5th, 2026, the complaints requirement on June 19th, 2026, and the ICO's governance reforms on September 30th, 2026.
+
+ 
+
+The ICO updated its law enforcement processing guidance on November 9th to reflect amendments from the Data Use and Access Act, providing more detail on international transfers and publishing a Part 3 transfer risk assessment template.
+
+ On the enforcement posture, 
+
+the ICO noted that the DUAA grants it new enforcement powers, including the power to compel a witness to attend an interview, request technical reports, and issue fines of up to seventeen-and-a-half million pounds or four percent of global turnover under PECR.
+
+ 
+
+The ICO's new powers, combined with its settlement procedure and recent enforcement track record, suggest a regulator that intends to use what it has been given.
+
+ For Firecrown brands with UK audiences — and that includes at least some digital traffic to FLYING, Trains.com, and Boating — the DUAA is not a future-tense compliance item. It is current law.
+
+Sixth item. On the publishing economics front, the Reuters Institute's Nic Newman offered a candid assessment this week that the subscription growth era may be plateauing. 
+
+Subscription growth is reaching a shelf, prompting publishers to explore new ways of delivering value, including bundled news and lifestyle content and premium subscription tiers to increase average revenue per user.
+
+ 
+
+WAN-IFRA's latest World Press Trends Outlook suggests the industry is moving into a new era shaped by three pillars of revenue: reader revenue, digital advertising, and a fast-growing category of other income streams such as events, B2B services, e-commerce, and partnerships.
+
+ That three-pillar framing maps almost exactly onto what Firecrown already does across FreightWaves, its enthusiast titles, and Spacestore. 
+
+Upmarket subscription-based publishers with strong direct traffic can see a path to long-term profitability, even as those that remain dependent on advertising and print worry about sharp declines in revenue and the potential impact of AI-powered search on the bottom line.
+
+ The challenge is execution discipline across all three revenue lines simultaneously.
+
+[DEEP DIVE]
+
+The deep dive today is the CPPA's November enforcement surge and what it means specifically for a media holding company. Let me work through the operational architecture of what has just happened and what you need to do about it.
+
+The California Privacy Protection Agency issued three enforcement decisions in ten days this month. 
+
+The FedEx decision on November 10th imposed a two-million-nine-hundred-seventy-five-thousand-dollar fine for CCPA violations.
+
+ 
+
+The Hertz decision on November 17th added one-and-a-half million dollars.
+
+ And Filson received a two-hundred-seventeen-thousand-dollar penalty alongside a remarkable additional remedy: 
+
+the Board ordered Filson to stop online sale and sharing activity pending certification.
+
+ That stop-sale order is the detail that should focus your attention. It signals that the CPPA is now willing to impose operational remedies, not just financial ones.
+
+The pattern across all three November cases is the same as it has been all year. 
+
+Twelve of the fourteen CCPA settlements since 2022 have involved broken, missing, or hard-to-use opt-outs.
+
+ The specific failure modes are consistent: 
+
+Global Privacy Control signals being ignored, opt-outs that do not reach apps or linked devices, and confusing opt-out journeys.
+
+
+
+Now, map that to Firecrown. You have multiple consumer-facing digital brands: FreightWaves, FLYING, Trains.com, Boating and Sailing, and Spacestore. Each of those properties has an analytics and advertising stack. Each collects personal information from California residents. Some of them sell or share that data, in the legal sense under CCPA, with advertising partners, data management platforms, and measurement vendors.
+
+The enforcement architecture you are operating inside has two enforcers. 
+
+The California Attorney General brings cases in court, while the California Privacy Protection Agency handles administrative enforcement.
+
+ Both are active. 
+
+The AG partnered with CPPA to hold General Motors accountable for data sharing practices from connected vehicles, resulting in a twelve-point-seven-five-million-dollar civil penalty and injunctive terms.
+
+ And the CPPA is not limiting itself to California: 
+
+the agency has launched the bipartisan Consortium of Privacy Regulators to collaborate with states across the country to implement and enforce privacy laws nationwide.
+
+ That consortium matters because it means a CCPA investigation can quickly surface parallel inquiries in other states.
+
+The legislative pipeline is adding compliance deadlines on top of enforcement. 
+
+California's Opt Me Out Act, Assembly Bill 566, was signed in October of last year and takes effect January 1, 2027. It adds a requirement that browsers include an easy-to-find setting that sends an opt-out preference signal.
+
+ 
+
+And the CPPA has preliminary rulemaking underway on opt-out preference signals, reducing friction in exercising rights, employee data, and notices and disclosures — though no proposed text had been published as of late October.
+
+
+
+For the UK side of the house, the parallel pressure point is the DUAA-expanded PECR regime. 
+
+The DUAA expands the scope of PECR liability to include organizations that instigate the storage of or access to information on devices, not just those who place cookies directly.
+
+ That is a meaningful expansion for a media company whose ad tech stack involves multiple vendors triggering pixels and tags. The question of whether Firecrown instigates that activity — or merely permits it — is now a live legal question under UK law.
+
+Three concrete actions.
+
+First, audit your Global Privacy Control implementation across every Firecrown digital property this month. Not next quarter — this month. The CPPA has been explicit that the time for implementing GPC has long passed, and the November FedEx decision was premised on exactly that failure. The audit should confirm that the GPC signal is received at the server, propagated to every downstream vendor, and applied within twenty-four hours of receipt. Document the audit trail.
+
+Second, run a cross-property data-sharing inventory before January 1st, 2027, when the AB 566 opt-out preference signal requirements take effect for browsers. The inventory should identify every vendor to whom California user data flows — analytics, advertising, measurement, CRM enrichment — and confirm whether each relationship constitutes a sale or share under CCPA. If any Firecrown property does not have a current Data Processing Addendum in place with those vendors, that is a gap that creates dual exposure under CCPA in the US and DUAA in the UK.
+
+Third, revisit the Filson stop-sale order specifically. The CPPA ordered that company to cease online sale and sharing activity pending certification. The lesson is that operational remedies are now on the table alongside fines. For a media holding company, an operational remedy that touches advertising delivery or data-sharing infrastructure could have direct revenue consequences. That risk should be factored into your enterprise risk register, not just your compliance checklist.
+
+[GC BENCH]
+
+The GC Bench this week focuses on legal AI inside in-house departments, following a notable event last week and a data point that deserves more attention than it has received.
+
+At Harvey's FORUM event in Chicago on November 10th, general counsel from several major companies spoke candidly about what AI is doing to their departments — and what it is about to do. 
+
+Robert Rivkin, senior vice president and chief legal officer for United Airlines, said, "I think the notion that you are going to try not to assign matters to outside counsel until you've done the maximum amount possible with AI is likely to be ubiquitous."
+
+ That comment captures a structural shift that is already underway.
+
+The data confirms the direction. 
+
+The 2026 General Counsel Report from FTI Consulting and Relativity puts in-house generative AI usage at eighty-seven percent, nearly double the forty-four percent from a year prior.
+
+ That is a remarkable jump in twelve months. What it means in practice is that the question is no longer whether to adopt legal AI, but which tool for which workflow.
+
+The market has differentiated along two axes. Tools built for law firms — Harvey at the high end, CoCounsel bundled with Westlaw, Lexis-plus with Protégé — and tools built specifically for in-house teams. 
+
+GC AI is an AI platform purpose-built for in-house lawyers and legal teams, with workflows, output style, and pricing designed for corporate counsel.
+
+ The in-house-specific category is growing because the workflow requirements genuinely differ: a GC fielding questions from HR, finance, marketing, and operations in the same afternoon needs different functionality than a litigator doing discovery review.
+
+The ethics framework is now largely settled, which removes one barrier to adoption. 
+
+ABA Opinion 512 holds that lawyers must have a reasonable understanding of the capabilities and limitations of any AI tool they use, without needing to become AI experts themselves.
+
+ 
+
+The opinion makes clear that case citations, factual assertions, and statutory references generated by AI must be checked against primary sources before they leave the firm.
+
+ For an in-house lawyer, that means the verification obligation runs before a contract position goes to a business unit, not just before something goes to a court.
+
+The practical filter for a solo or small-team GC like the Firecrown legal function: purpose-built tools offer something that matters for a media holding company specifically — the ability to load your own documents as the knowledge base. 
+
+GC AI, for example, is built for in-house teams fielding questions from across the business, not only from the contract queue.
+
+ For Firecrown, that means a tool that can be trained on your standard publishing agreements, your data processing addenda, your advertising terms, and your editorial licensing agreements, and then surfaced to answer questions from business units without requiring a full legal review every time.
+
+
+
+GC AI's study found that their in-house customers reclaim an average of fourteen hours per week.
+
+ Even at a fraction of that figure, the efficiency argument for a lean legal operation running multiple brands is compelling. The watch item here: 
+
+specialized agents that can run multi-step legal workflows autonomously — pulling documents, drafting, reviewing, and filing — under human supervision rather than human direction represent the next frontier. The technology is largely here; the firm-level governance, ethics opinions, and malpractice insurance frameworks are not yet.
+
+ That gap is worth monitoring as 2027 approaches.
+
+[INDUSTRY ANGLE]
+
+The freight market is sending a complicated signal heading into the peak season, and Craig Fuller and the SONAR team have been unusually candid about the psychological dynamic at play.
+
+
+
+As Fuller put it on this week's FreightWaves SONAR update: "Is this a strong year or is it a weakening year? I would say we've lost some momentum, but things are actually pretty good."
+
+ The underlying data support that characterization. 
+
+SONAR's spot linehaul index is up about forty-nine percent year over year to two dollars and sixty cents a mile, and dry van contract base rates are up about twenty-five percent to two dollars and eighty-eight cents a mile as of November 13th. SONAR's new Sitrep report shows rates rising far faster than costs, capacity leaving at a record pace, and contract rates with more room to run in 2027.
+
+
+
+But there is a psychological anchor problem. 
+
+Fuller framed it this way: after spot rates crested above three dollars a mile, a retreat to two fifty-eight feels deflating even though the number would have been cause for celebration just twelve months ago.
+
+
+
+On the demand side, 
+
+truckload tender rejections are holding near twelve-point-eight percent — roughly double the six percent recorded at the same point last year — but the market is showing little of the tightening momentum typically expected ahead of peak season.
+
+ 
+
+November's Outbound Tender Volume Index is averaging eleven thousand four hundred thirty-four, up twelve percent from November last year and up roughly three percent from October — the first meaningful demand build the market has seen heading into the holidays.
+
+
+
+Structurally, Fuller's bigger message this month was about the safety and enforcement environment. 
+
+He described trucking as suffering from "a security crisis, a safety crisis, and an economic crisis," noting that at least one major freight theft makes FreightWaves' daily show every day.
+
+ 
+
+The largest motor carriers, along with the American Trucking Associations and the Truckload Carriers Association, have concluded that tighter standards for hiring drivers are, in his words, desperately needed and "the only way that they will survive."
+
+
+
+On the marine side, the story is a split market. 
+
+Ocean container freight rates remained elevated on major east-west trade lanes, even as container carriers' growing return to the Red Sea and an expanding global fleet raised the prospect of downward pressure on prices in 2027. Asia-Europe prices were broadly stable for the week ending November 13th, while trans-Pacific rates edged higher. Congestion, higher fuel costs, and transportation disruptions continued to support prices, but carriers' attempts to secure further increases faced resistance.
+
+ 
+
+Freightos noted that carriers are preparing further price increases for late November and December, with pre-Lunar New Year shipping demand potentially providing stronger support.
+
+
+
+Air cargo is the standout performer this week. 
+
+Air cargo rates to fly goods eastward across the Pacific have hit a more than four-year high and may not peak until mid-December, as solid demand and tight capacity outweigh declining fuel costs.
+
+ 
+
+Air freight rates for goods to North America from China reached nine dollars and twenty-five cents a kilogram last week — up sixty-five percent since the start of October and the highest level since June 2022 — and may keep rising past ten dollars a kilo in the next few weeks.
+
+ 
+
+Air freight entered November with strengthening demand across several major trade lanes, led by technology shipments and the return of general cargo following China's Golden Week holiday.
+
+
+
+For the aviation titles in the Firecrown portfolio — particularly FLYING — the air cargo surge is a meaningful editorial and business development angle. The cargo economics story and the broader capacity-constraint story are live news for your readership right now.
+
+[CLOSING BRIEF]
+
+Three things on the watch list heading into Thanksgiving week.
+
+First: the November 30th comment deadline on the FTC's advance notice of proposed rulemaking on ad platform impersonation accountability. 
+
+The FTC is currently considering updates to its Impersonation Rule or a new rule to increase accountability for social media, search engines, and other digital marketplace platforms that further impersonation scams through ad-optimization tools and services.
+
+ 
+
+Comments are due November 30th.
+
+ If Firecrown brands operate any kind of sponsored-content, native advertising, or programmatic infrastructure, the question of platform duties in this rulemaking is worth a formal review and potentially a comment submission.
+
+Second: watch the Ninth Circuit panel in X.AI LLC v. Bonta for any early indication of how the court is approaching California's AI training data transparency law. 
+
+AB 2013 has been in force since January 1st, and a federal judge has already refused xAI an injunction. Judges Rawlinson, Smith, and Forrest now hold the appeal, with no ruling date set.
+
+ The outcome will determine whether California can require AI developers to post training data summaries — a question that directly affects any publisher negotiating AI licensing deals, because the value of your content in those negotiations depends on how visible training data sourcing becomes.
+
+Third: the Authors Guild summary judgment briefing is now complete as of today. 
+
+The Authors Guild expects a hearing in early 2027.
+
+ Between now and that hearing, watch for the court's ruling on the pending motions to exclude expert testimony. Those Daubert rulings will signal how the court is thinking about the economic harm models and the fair use analysis — and they will come before the summary judgment hearing itself. For a media holding company with a content licensing strategy in the AI space, the expert testimony rulings may give you earlier signal than the final summary judgment decision.
+
+[SIGNOFF]
+
+That is Morning Docket for Friday, November 20, 2026. Research and production for this edition covered the California Privacy Protection Agency's November enforcement docket, the FTC's newly unredacted Amazon ad auction case, the AI copyright docket including today's reply brief deadline in the Authors Guild case, the SEC's proposed Item 402 overhaul, UK ICO enforcement under the Data Use and Access Act, in-house legal AI adoption following Harvey Forum Chicago, and the freight, air cargo, and ocean markets heading into peak season. Have a productive Thanksgiving week, Darren. We'll be back Monday.
+END OF EPISODE.
