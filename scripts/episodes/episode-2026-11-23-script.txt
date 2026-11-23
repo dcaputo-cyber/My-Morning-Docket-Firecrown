@@ -1,0 +1,307 @@
+MORNING DOCKET — Monday, November 23, 2026
+A daily brief for the general counsel of a media company.
+
+Now I have comprehensive research across all topic areas. Let me write the full Morning Docket script.
+
+[COLD OPEN]
+
+Three stories are shaping this Monday morning and they share an unexpected thread. California's privacy regulator just levied its single largest administrative fine in agency history — against a shipper, not a tech platform — for the same set of broken pixel mechanics that now appear in every sector from powersports to rental housing. The FTC, separately, has peeled back redactions in its auction-rigging case against Amazon, revealing alleged surcharges of up to two hundred and fifty percent on peak shopping days. And the SEC proposed the most sweeping overhaul of executive compensation disclosure rules since 2006. All three events land this week as reply briefs close in the multidistrict copyright litigation that may determine whether training an AI on a publisher's content is fair use. This is Morning Docket for Monday, November twenty-third, two thousand twenty-six.
+
+[INTRO]
+
+Good morning, Darren. It is Monday, November twenty-third, and you are heading into Thanksgiving week in the United States — a short week in terms of business days but a dense one in terms of legal and regulatory aftermath. Today's briefing runs five full segments. We cover the CalPrivacy FedEx fine and the Polaris joint enforcement action; the FTC's unsealed Amazon ad auction complaint and its advance notice of proposed rulemaking on platform ad liability; the Third Circuit's Thomson Reuters decision and its ripple into the OpenAI MDL; the SEC's Item four-oh-two Regulation S-K proposal; and what Craig Fuller and SONAR's data are telling us about the freight market right now. The GC Bench section focuses on Claren's new Envoys product and what the Legal Business survey tells us about how in-house teams are actually integrating AI this year. We close with three items for your watch list this week. Let's get to it.
+
+[HEADLINE ROUNDUP]
+
+The first item is the one with the most direct operational exposure for Firecrown. 
+
+On November tenth, the California Privacy Protection Agency announced a two-point-nine-seven-five-million-dollar settlement with FedEx for alleged CCPA violations.
+
+ The underlying facts are instructive. 
+
+The order says FedEx ran advertising trackers on its website while telling visitors it did not sell or share their data, and that the site did not honor opt-out signals, including Global Privacy Control.
+
+ 
+
+According to the agency, FedEx's websites used cookies and tracking pixels that shared visitors' device and user identifiers with ad-tech companies including Meta, LinkedIn, Google, and Adobe for targeted advertising.
+
+ The remedies go beyond the fine. 
+
+FedEx agreed to pay two-point-nine-seven-five million dollars and run a three-year testing and monitoring program to resolve the claims.
+
+ The agency's acting deputy director of enforcement put the posture plainly: 
+
+"The time for implementing appropriate disclosures and functionality for opt-out preference signals has long passed. We will vigorously enforce compliance with this important and long-standing privacy right enjoyed by all Californians."
+
+ One more note on scale: 
+
+the fine is more than double the one-point-three-five million Tractor Supply paid in 2025 and is the largest administrative fine the agency's board has issued so far.
+
+ Then, two weeks later, the same board issued decisions against Hertz and Filson and Polaris. 
+
+In the space of two weeks, the board issued penalties of nine hundred ten thousand dollars against Polaris Industries for GPC opt-out failures on November nineteenth; one-point-five-five million against Hertz on November seventeenth; and two-hundred-seventeen thousand against C.C. Filson on the same date.
+
+ The Polaris case adds a multi-state dimension. 
+
+The California Privacy Protection Agency board issued its decision requiring Polaris Industries to comply after the enforcement division alleged that Polaris violated Californians' privacy rights, including by failing to address opt-out preference signals in its privacy policy or honor them when used by consumers, and by engaging in multiple prohibited sales and shares after consumer opt-outs.
+
+ The Minnesota Attorney General co-investigated the case. For a media holding company running multiple consumer-facing websites with behavioral advertising, the enforcement pattern here maps precisely onto your stack. If your brands are sharing with Meta pixel or LinkedIn Insight while your privacy policy says otherwise, that gap is what this wave of enforcement is targeting.
+
+The second item moves to federal ad tech enforcement. 
+
+The FTC and twenty-two state attorneys general filed an amended complaint on November fifth, unredacting allegations against Amazon's ad auction, with the FTC release alleging Amazon raised ad prices up to fifty percent on normal days and two hundred fifty percent on peak days.
+
+ 
+
+The complaint alleges that starting in late two thousand eighteen for Sponsored Brands and mid two thousand nineteen for Sponsored Products, Amazon began overriding its auction results.
+
+ 
+
+Internally, Amazon acknowledged that its price increases led to decreases in the advertiser's return on ad spend that were, in its own words, destroying campaign performance.
+
+ 
+
+As alleged in the unredacted portions of the complaint, when advertisers facing inflated prices asked if something had changed with the second-price auction process, Amazon falsely reassured them the price increases were the result of increased competition.
+
+ Amazon disputes the characterization. This case matters for a media company because if Amazon's advertising marketplace is ultimately found to have operated a corrupted auction, it reopens questions about what your brands have actually been paying for programmatic reach across any exchange that uses similar reserve-price mechanics. Watch this docket.
+
+Third item is IP and AI training. 
+
+In the In re OpenAI Copyright Infringement Litigation, the multidistrict proceeding in the Southern District of New York, all sides filed summary judgment motions on September fourth, opposition briefs were filed October twenty-third, and reply briefs were due November twentieth.
+
+ Those replies came in last Thursday — this is now fully briefed. The proceeding consolidates the New York Times and other news publishers along with Ziff Davis, the Authors Guild, and others. 
+
+In a related case, Elvis rights holders have sued Anthropic over AI training and lyric outputs, with the complaint alleging infringement throughout the development of Anthropic's models and that those models continue to generate outputs reproducing copyrighted lyrics, framing the case as both a training-data and output-based copyright dispute.
+
+ 
+
+Meta is also facing a raft of new lawsuits accusing it of using copyrighted works to train its artificial intelligence models without the authors' permission, the latest in a series of cases testing the limits of intellectual property law in the AI era.
+
+ And crucially, the Third Circuit handed down what is now the most significant appellate decision on AI training copyright. 
+
+On September twenty-ninth, the US Court of Appeals for the Third Circuit issued its decision in Thomson Reuters v. ROSS Intelligence, and as of today it is the only Circuit Court decision in the US to address AI training.
+
+ 
+
+The court found the headnotes original enough for copyright, ROSS's use only minimally transformative, and found harm to a developing market for licensing headnotes as AI training data.
+
+ For publishers with proprietary content — FLYING archives, Trains.com editorial, FreightWaves data journalism — the direction of travel here matters enormously.
+
+Fourth item: the SEC. 
+
+On November thirteenth, the Securities and Exchange Commission proposed long-awaited amendments to the executive and director compensation disclosure requirements of Item four-oh-two of Regulation S-K, described as the most sweeping overhaul of its executive compensation disclosure rules since two thousand six, aiming to reduce compliance burden for public companies.
+
+ The specific mechanical changes are significant. 
+
+The proposal would require detailed data only for principal executive officers and principal financial officers, replace the Summary Compensation Table and related tables with three new Earned, Granted, and Status of Equity Awards tables, streamline the Compensation Discussion and Analysis to three topics, simplify pay-versus-performance, clawback, and pay-ratio requirements, and raise the perquisite threshold from ten thousand to one hundred fifty thousand dollars.
+
+ 
+
+The release was published in the Federal Register on November nineteenth, with comments due on or before January nineteenth, two thousand twenty-seven.
+
+ Firecrown is private, so this proposal does not create immediate obligations. But if the company moves toward any public market event, understanding the simplified disclosure architecture under Chairman Atkins' materiality-driven framework is a planning input right now.
+
+Fifth item: the UK side of your data jurisdiction. 
+
+The UK's Data Use and Access Act twenty twenty-five is now in force, with most provisions commenced on February fifth, two thousand twenty-six, the complaints requirement on June nineteenth, two thousand twenty-six, and the ICO's governance reforms on September thirtieth.
+
+ The ICO updated its guidance on November ninth to reflect the DUAA's amendments to law enforcement processing. 
+
+The ICO noted that the DUAA grants it new enforcement powers, including the power to compel a witness to attend an interview, request technical reports, and issue fines of up to seventeen-point-five million pounds or four percent of global turnover under PECR.
+
+ 
+
+From June two thousand twenty-six, data subjects must first raise complaints with the controller. Only if dissatisfied with responses or if controllers fail to respond within reasonable timeframes can they escalate the matter to the ICO.
+
+ For UK-facing brands — and Firecrown's brands serve British readers in aviation and marine categories — this tiered complaint funnel is now live and your internal complaint-handling process needs to be designed accordingly.
+
+[DEEP DIVE]
+
+Today's deep dive is the FedEx CCPA case, because it is the most operationally instructive enforcement action published this month for a multi-brand media holding company.
+
+Let's reconstruct what actually happened at FedEx from the public record, because the facts translate almost directly to how publisher websites typically operate.
+
+
+
+The conduct period reviewed by the agency ran from July twenty twenty-three to October twenty twenty-five.
+
+ During that window, 
+
+FedEx's websites used cookies and tracking pixels that shared visitors' device and user identifiers with ad-tech companies including Meta, LinkedIn, Google, and Adobe for targeted advertising. At the same time, FedEx's privacy policy told consumers that it did not sell or share their personal information. The regulator found that statement to be inaccurate.
+
+
+
+That is the first failure mode — the policy statement and the technical reality were contradictory. FedEx told consumers in writing that it did not sell or share. But the trackers on the website were doing exactly that, in the precise sense California defines sharing: transmitting behavioral data to advertising platforms for the purpose of cross-context behavioral advertising. This happens routinely on publisher sites. When a reader visits FreightWaves.com and your ad stack fires a Meta pixel, that is sharing under CCPA. If your privacy policy says you do not share, you have the same gap FedEx had.
+
+The second failure mode is Global Privacy Control. 
+
+Switching off cookies in the preferences window did not stop every tracker.
+
+ This is a cookie-manager implementation failure. Many websites deploy consent management platforms that correctly suppress cookies within the banner interaction but fail to cascade that preference to server-side pixels, tag manager containers, or third-party scripts loaded outside the CMP's scope. The regulator is not interested in the architecture excuse. 
+
+According to the order, FedEx failed to configure its digital properties to properly detect and honor consumers' opt-out preference signals. Visitors who browsed with Global Privacy Control turned on had already opted out, and their data continued to go to ad tech companies. The agency points out that California has required businesses to honor these signals since two thousand twenty.
+
+
+
+The remedial program is itself worth studying. 
+
+FedEx agreed to pay two-point-nine-seven-five million and run a three-year testing and monitoring program.
+
+ The board's framing also addressed a question that sometimes leads media companies to assume they have less exposure: 
+
+"The board's decision confirms that the CCPA protects Californians from online surveillance, even in a business-to-business setting. Businesses must assess whether their B2B operations respect the robust privacy rights of individuals, and we will not hesitate to take action if they don't."
+
+ FreightWaves and SONAR are substantially B2B in their audience and commercial relationships. That language is a direct signal that CalPrivacy does not view B2B orientation as a shield.
+
+Then look at the Polaris decision on the nineteenth, which added joint enforcement with the Minnesota Attorney General and 
+
+the launch of the bipartisan Consortium of Privacy Regulators to collaborate with states across the country to implement and enforce privacy laws nationwide.
+
+ 
+
+One California investigation can expand to eight additional states simultaneously, as the nine-state Consortium of Privacy Regulators coordinates investigations, shares evidence, and pursues joint enforcement actions.
+
+
+
+What this means for a holding company with multiple distinct web properties is that you have multiplied surface area. FreightWaves, Trains.com, FLYING, Boating and Sailing, and Spacestore each have their own technology stacks, their own tag manager containers, potentially their own consent management platform configurations or the absence of one. Each is a separate enforcement target.
+
+Here are three concrete actions to take this week.
+
+First, run a GPC audit across every Firecrown brand's public web properties before the end of this month. Use a browser extension that enables Global Privacy Control and walk through each site while monitoring network traffic in developer tools. If any ad-related requests fire after the GPC signal is sent, you have a compliance gap that is currently the most targeted issue in CalPrivacy enforcement. This does not require outside counsel. It requires thirty minutes per domain and someone who can read a network waterfall.
+
+Second, audit your privacy policy language on every brand site for the specific words sell and share. If any policy states that the company does not sell or share personal information while your advertising stack includes any third-party pixel — Meta, LinkedIn, Google Ads, any DSP — that statement is factually inaccurate under CCPA's definition of sharing. You need either a corrected policy that accurately describes sharing for cross-context behavioral advertising, or you need to remove the trackers. Those are the two available paths. There is no third option.
+
+Third, given the Polaris multi-state action and the Consortium of Privacy Regulators structure, assess whether your brands have website visitors in Minnesota, Colorado, Virginia, Connecticut, Texas, or Oregon in meaningful numbers. Each of those states now has privacy enforcement authorities with active cooperation channels into CalPrivacy. A CalPrivacy investigation of a Firecrown brand is no longer just a California exposure.
+
+[GC BENCH]
+
+The GC Bench this week has two threads worth your attention: a new legal tech product launch, and fresh data on where in-house AI adoption actually stands.
+
+On the product side, 
+
+Claren, which has bases in London and California, launched Envoys on November eleventh: always-on agents that absorb in-house tasks from email or Slack, run the matter against a relevant playbook, and can escalate to lawyers where needed.
+
+ 
+
+The agents can take on legal requests as they come in, use a company's playbooks to deal with them, and escalate matters to lawyers where needed.
+
+ 
+
+Claren says Envoys can handle tasks including contract review, redlining, and research, and they can learn a legal team's past decisions and playbooks over time.
+
+ 
+
+Claren was founded by former Clifford Chance lawyer Gus Neate.
+
+ 
+
+The company is used by in-house lawyers in more than thirty-five countries and has reviewed more than a hundred thousand contracts.
+
+
+
+The practical filter for a lean in-house function at a private media company: Envoys is designed to solve the intake problem — the volume of Slack messages and emails that land in legal asking for quick contract reviews, NDAs, or standard commercial terms questions. For a GC without large team depth, that volume is real. The pitch is that the agent handles the routine triage and redlining before the matter reaches you, with escalation built in. The governance question you would need to answer before deploying something like this is what your playbook actually says on key commercial issues — vendor liability caps, IP assignment, data processing — because the agent's output will be only as good as the playbook it is running against.
+
+On the data side, 
+
+the two thousand twenty-six General Counsel Legal Tech Pulse report, conducted by Legal Business in association with Thomson Reuters drawing on responses from more than two hundred fifty senior in-house lawyers across the UK and Europe, found that eighty-two percent of respondents are already implementing generative AI solutions within their teams.
+
+ The headline from that survey — 
+
+"AI is now the first port of call for in-house teams in many instances," with one GC describing their practice as: "Rather than calling a law firm on a specific issue, we now ask the AI first."
+
+ That phrasing is worth sitting with. The same FTI Consulting and Relativity General Counsel Report found 
+
+in-house AI adoption at eighty-seven percent, nearly double the forty-four percent from a year prior.
+
+ The professional consequence is governance: 
+
+general counsel evaluating platforms should establish a formal legal AI governance framework before scaling adoption across the department.
+
+ For you, that means a written policy on what your brands' employees can submit to AI tools and what must remain behind your firewall — not because AI is dangerous, but because privilege analysis and confidential commercial terms do not belong in a shared model's training corpus.
+
+[INDUSTRY ANGLE]
+
+The freight market is running a paradox that Craig Fuller and the SONAR team have been narrating carefully over the past two weeks, and it matters for FreightWaves editorial positioning and for the broader logistics intelligence business that underpins the SONAR subscription model.
+
+
+
+The latest SONAR data, as of November tenth, shows truckload rejections at twelve-point-eight percent, double last year's rate, yet the market feels unexpectedly soft.
+
+ 
+
+November's Outbound Tender Volume Index is averaging eleven thousand four hundred thirty-four, up twelve percent from November last year and up roughly three percent from October, the first meaningful demand build the market has seen heading into the holidays.
+
+ Fuller's read on the psychological dynamics is worth noting: 
+
+after spot rates crested above three dollars a mile, a retreat to two-fifty-eight feels deflating even though that number would have been cause for celebration just twelve months ago.
+
+ He framed it directly: 
+
+"Is this a strong year or is it a weakening year? I would say we've lost some momentum, but things are actually pretty good."
+
+
+
+On FMCSA enforcement, Fuller made a pointed argument at the Optym Convergence conference on November second: 
+
+small carriers and brokers waiting for Washington to ease up on trucking enforcement should not expect relief from the next administration, Fuller said, because the industry's largest fleets now want the crackdown.
+
+ 
+
+Fuller described trucking as suffering from a security crisis, a safety crisis, and an economic crisis.
+
+ 
+
+TD Cowen, separately, flagged freight brokerage insurance costs up three times in the post-Montgomery legal environment
+
+ — a data point relevant to FreightWaves editorial coverage and to the litigation risk framework for logistics clients.
+
+On the marine side, 
+
+the White House is set to extend a Jones Act shipping waiver allowing some foreign-flagged ships to transport oil and other commodities between US ports, with the extension requiring individual voyages to undergo case-by-case review rather than allowing foreign ships to receive blanket exemptions.
+
+
+
+In aviation, the picture being painted by air cargo economics is striking. 
+
+Xeneta found that sixty percent of new airfreight contracts signed in the third quarter lasted three months or less. Air cargo is earning strongly from a crisis that is hurting the rest of aviation: demand is growing, capacity is tight, and rates are rising.
+
+ 
+
+Expeditors reported that AI hyperscalers and high-value technology customers supported record air tonnage and growth in road freight, warehousing, and distribution.
+
+ 
+
+Asia-Pacific to US spot rates reached seven-sixty-seven per kilogram in late October, with South Korea and Japan exceeding eight dollars per kilogram.
+
+ For FLYING magazine's audience — private aviation owners and operators — the broader aviation freight premium is relevant context for how constrained supply chains are affecting aircraft parts, avionics, and maintenance logistics.
+
+[CLOSING BRIEF]
+
+Three things on your watch list this week.
+
+First: the FTC's comment deadline on its advance notice of proposed rulemaking on ad-platform liability for impersonation scams. 
+
+The FTC is currently considering updates to its Impersonation Rule or a new rule to increase accountability for social media, search engines, and other digital marketplace platforms that further impersonation scams, with comments due November thirtieth.
+
+ 
+
+In the advance notice, the FTC is soliciting comment on the extent to which ad-optimization services offered by digital marketplace platforms assist scammers using online ads to impersonate legitimate businesses and government agencies.
+
+ If this rulemaking advances, it could impose affirmative screening obligations on platforms where your brands advertise. Consider whether Firecrown has a commercial stake in filing a comment or joining an industry comment by next Sunday.
+
+Second: the OpenAI MDL in the Southern District of New York. 
+
+Reply briefs were due November twentieth
+
+ — last Thursday — meaning the case is now fully briefed on summary judgment from all sides. A ruling could come at any point in the first quarter. The court's answer to whether AI training on published content is fair use will determine the architecture of every licensing negotiation your brands will have with AI developers for the next decade.
+
+Third: the SEC Item four-oh-two comment period. 
+
+Comments on the executive compensation disclosure reform proposal are due on or before January nineteenth, two thousand twenty-seven.
+
+ Even as a private company, Firecrown's governance infrastructure — board compensation practices, phantom equity arrangements, any retention structures tied to public-market comparables — benefits from understanding where the public-company disclosure floor will land. The proposal to raise the perquisite disclosure threshold from ten thousand to one hundred fifty thousand dollars is the kind of change that shifts negotiating expectations across private and public markets alike.
+
+[SIGNOFF]
+
+That is Morning Docket for Monday, November twenty-third. Have a measured Thanksgiving week. The next full edition is Monday, November thirtieth. If something material moves before then, we will drop a mid-week brief. Take care.
+END OF EPISODE.
