@@ -1,0 +1,275 @@
+MORNING DOCKET — Wednesday, November 25, 2026
+A daily brief for the general counsel of a media company.
+
+Now I have all the research I need to write a comprehensive, well-grounded Morning Docket script. Let me compose it.
+
+[COLD OPEN]
+
+Three stories set the table this Wednesday. California's privacy regulators just handed FedEx a nearly three million dollar fine for running behavioral advertising while claiming it did not sell personal data. Across the Atlantic, the regulator formerly known as the ICO has quietly become the Information Commission, armed with a materially stronger set of enforcement powers under the Data Use and Access Act. And in the freight lanes, SONAR is reading a trucking market that is tighter the week before Thanksgiving than it was at last December's holiday peak, with tender rejections sitting at thirteen point six eight percent as of Monday. The legal, regulatory, and economic pressure is building simultaneously. That is a Wednesday morning for a general counsel.
+
+[INTRO]
+
+Good morning. It is Wednesday, November 25, 2026. Tomorrow is Thanksgiving in the United States, so this is effectively your last commute of the week, and the week has been genuinely dense. Today on Morning Docket: a surge in California privacy enforcement actions with a clear pattern that matters specifically for media companies running behavioral advertising. A landmark Third Circuit ruling on AI and fair use that arrived yesterday and that every publisher licensing content should read. The FTC's unsealed Amazon ads complaint and what it means for ad platforms broadly. The SEC putting companies on notice over AI disclosures without issuing a single new rule. A deep dive into the UK's newly constituted Information Commission and what the Data Use and Access Act means for a media holding company operating on both sides of the Atlantic. A GC Bench update on where Harvey sits in the legal tech landscape right now, and what an in-house team your size should actually think about. And the SONAR read heading into the holiday week. Let us get into it.
+
+[HEADLINE ROUNDUP]
+
+The first story is California privacy enforcement, and the volume alone is worth your attention. 
+
+In a single week, the California Privacy Protection Agency issued three decisions: Polaris Industries at nine hundred ten thousand dollars on November nineteenth, Hertz Corporation at one point five five million on November seventeenth, and FedEx at two point nine seven five million on November tenth.
+
+ Total CCPA penalties now on the public tracker stand north of thirty two million dollars across nineteen enforcement actions. The pattern across all three of these November cases is consistent and worth reading carefully. 
+
+CalPrivacy's enforcement division alleged that FedEx falsely stated that it did not sell or share personal information when it participated in cross-context behavioral advertising.
+
+ That is the core allegation: not that the opt-out button was broken, but that the company denied doing the very thing that triggered the obligation in the first place. For a media holding company whose brands run programmatic and behavioral advertising, that framing is directly relevant. 
+
+The Polaris matter grew out of a joint investigation with the Minnesota Attorney General's office, a fellow member of the Consortium of Privacy Regulators, and the enforcement division alleged that Polaris engaged in multiple prohibited sales and shares after consumer opt-outs, and required verification of opt-out requests.
+
+ Cross-state coordination is now operational, not theoretical.
+
+The second headline is the Third Circuit's ruling in Thomson Reuters versus ROSS Intelligence, handed down yesterday, November twenty-fourth. 
+
+The Third Circuit found that ROSS Intelligence's use of Westlaw headnotes to build a competing legal research product was not protected fair use because it harmed both the existing market for legal research and the potential market for licensing training data.
+
+ 
+
+The court's framing was notably direct. Writing for the panel, Judge Tamika Montgomery-Reeves stated: "Under ROSS's framing, this case appears to concern the future of AI legal technology. In truth, this is no more than an ordinary copyright case."
+
+ That framing matters strategically. Courts that reject the exceptionalism argument and apply ordinary copyright analysis tend to reach results that favor content owners. For publishers contemplating AI licensing deals or evaluating whether to bring training data claims, the harm-to-the-licensing-market prong is now specifically endorsed at the circuit level.
+
+Third headline: the EU advocate general's opinion in Like Company versus Google. 
+
+On November third, Advocate General Maciej Szpunar delivered the first generative AI opinion to reach the Court of Justice of the European Union, in Like Company versus Google, case C-250/25.
+
+ 
+
+The opinion holds that reproductions made to train large language models may, in principle, qualify for the text-and-data-mining exception under Article Four of the CDSM Directive.
+
+ The CJEU is not bound to follow that opinion, but the direction of travel in Brussels is toward a licensing-based framework with an opt-out mechanism rather than a blanket prohibition. 
+
+With the legality of unlicensed training still unresolved, securing licenses for training content offers AI developers legal certainty that litigation and legislation are unlikely to provide in the near term, and offers rightsholders a means to monetize and control their content.
+
+ That is a direct market signal for your FLYING, Boating and Sailing, and Trains-dot-com editorial archives.
+
+Fourth headline: the FTC and Amazon ad auction case. 
+
+On August thirty-first, the FTC and twenty-two state attorneys general sued Amazon in the Western District of Washington, alleging that the company told advertisers its Sponsored Ads auctions operated as generalized second-price auctions, and that those representations ran through 2026 in materials including Ads Academy courses, developer guides, and decks shown to large advertisers.
+
+ 
+
+On November fifth, newly unredacted portions of the complaint allege that Amazon raised ad prices up to two hundred fifty percent above auction results on days like Prime Day and Black Friday.
+
+ 
+
+Amazon denies the allegations, asserting that the lawsuit mischaracterizes standard auction mechanics and that advertisers always retain control over the maximum bids they set.
+
+ The practical relevance for media companies: any ad platform claiming it runs a second-price auction is now operating in an environment where regulators have specifically litigated what that representation means. If your ad tech stack relies on representations about auction structure, now is a reasonable moment to verify them contractually.
+
+Fifth headline: the SEC and AI disclosure. 
+
+On October thirtieth, SEC Enforcement Director David Woodcock confirmed that the Division of Enforcement is actively scrutinizing public companies' disclosures about artificial intelligence.
+
+ 
+
+Woodcock emphasized that AI-related enforcement cases are, in his framing, "really just fraud cases for the most part," and that the SEC is applying existing disclosure, fraud, compliance, and supervisory rules to AI with increasing vigor.
+
+ The important nuance here: 
+
+as of November 2026, the SEC has no AI-specific disclosure rule for public companies.
+
+ 
+
+What exists is Regulation S-K Item 105, which directs companies to explain how each risk affects them specifically and discourages risk factors that could apply generically to any registrant.
+
+ Firecrown is private, so the direct 10-K obligation does not apply, but lenders, investors, and acquirors increasingly conduct diligence using the same materiality framework.
+
+Sixth and final headline item: publishing economics. 
+
+Subscription growth is reaching a plateau, prompting publishers to explore new ways of delivering value, including bundled news and lifestyle content and premium subscription tiers to increase average revenue per user.
+
+ 
+
+Reuters Institute data shows seventy-six percent of commercial publishers say paid content will be their primary revenue focus, well ahead of native and brand advertising at sixty-four percent and face-to-face events at fifty-four percent.
+
+ The niche specialist model, which describes Firecrown's portfolio precisely, is showing the most resilience. 
+
+Upmarket subscription-based publishers with strong direct traffic can see a path to long-term profitability, even as those dependent on advertising and print worry about sharp declines in revenue and the potential impact of AI-powered search on the bottom line.
+
+
+
+[DEEP DIVE]
+
+Today's deep dive is the UK Information Commission and what the Data Use and Access Act means for a media holding company with UK-facing properties.
+
+Let's start with the institutional change, because it matters as a signal. 
+
+Under Statutory Instrument 2026/1015, in force September thirtieth, 2026, the ICO was abolished as an office and its functions moved to the Information Commission.
+
+ The rebrand is not merely cosmetic. 
+
+The Data Use and Access Act's main provisions commenced on February fifth, 2026, the complaints requirement on June nineteenth, 2026, and the ICO's governance reforms on September thirtieth, 2026.
+
+ What that sequencing means in practice is that the enforcement regime is now fully operational. The regulator has new powers, new procedures, and a new institutional identity, all of which signal an intent to use them.
+
+What are the new enforcement powers specifically? 
+
+The DUAA introduces a new power allowing the Information Commission to compel a person to attend an interview and answer questions if they work, or have worked, for or on behalf of an organization subject to data protection law, and this applies if the Commission suspects that a person or organization has failed to comply.
+
+ That is a materially different investigatory posture from what existed before. The old ICO could request information; the new Commission can compel testimony. 
+
+The Commission had also consulted in late 2025 on new enforcement procedural guidance introducing a structured settlement procedure.
+
+ A structured settlement framework means the regulator has a pathway to resolve matters that stops short of a full public enforcement decision, which may actually accelerate case resolution volume, since the barrier to opening and closing a matter is lower.
+
+What changed in substantive data protection terms? The most practically relevant change for a media company is the cookie consent question. 
+
+As of November 2026, the cookie consent reforms under the DUAA have not yet taken effect, because no commencement instrument for the new Regulation 6A had been laid.
+
+ So your UK properties are still operating under the pre-DUAA PECR cookie framework. The transition to a less burdensome consent regime is coming, but it has not arrived. Do not let your compliance team declare victory on cookies yet.
+
+The other substantive change that is in force is the recognised legitimate interests basis. 
+
+The Act adds a new lawful basis for processing, described as recognised legitimate interests. Processing under this basis is lawful if it is necessary for one of the purposes on a fixed list, with no balancing test. The list covers public interest purposes: disclosures to public bodies, national security and defence, emergencies, crime, and safeguarding. Ordinary commercial data collection is not on it.
+
+ This is a narrower carve-out than many in the ad tech industry hoped for. It does not create a broad commercial legitimate interest basis that could replace consent for behavioral advertising. The consent obligation for UK users running behavioral ad campaigns remains intact.
+
+The enforcement track record going into this new era is worth noting. 
+
+The Information Commission has launched investigations into how social media and video-sharing platforms use UK children's personal information, with the Reddit and Imgur enforcement actions in 2026 marking the beginning of heightened enforcement in this area.
+
+ Children's data is a priority. 
+
+The fine ceiling remains seventeen point five million pounds or four percent of global annual turnover, whichever is higher, as demonstrated when the ICO fined Imgur's owner MediaLab two hundred forty-seven thousand five hundred ninety pounds over children's data earlier in 2026.
+
+
+
+For Firecrown specifically, here are three concrete actions. First, map your UK user data flows against the DUAA's new processing bases now. The structured settlement procedure means enforcement can move faster than it did under the old regime, and an internal audit before a complaint arrives is far cheaper than one conducted under compulsion. Second, do not stand down on UK cookie compliance under the assumption that the reform is coming. It is not yet in force. Your consent management platform for UK users should still be meeting the pre-DUAA PECR standard. Third, if any of your brands have UK users who are or could be under the age of eighteen, specifically FLYING or any motorsports-adjacent Firecrown properties, treat children's data as the enforcement priority it demonstrably is. The Reddit and Imgur actions this year signal that the Information Commission is specifically targeting platforms where children may be present.
+
+[GC BENCH]
+
+The GC Bench this week is about legal AI market structure, and specifically whether the investment trajectory of Harvey changes the calculus for a lean in-house team.
+
+
+
+In September 2026, Harvey raised five hundred fifty million dollars at a fifteen point five billion dollar valuation, co-led by Diffusion and Lightspeed Venture Partners.
+
+ 
+
+That round lifted Harvey's valuation approximately forty-one percent in six months and brought total disclosed funding to roughly one point seven eight billion dollars.
+
+ 
+
+As of November 2026, Harvey has held early talks about an IPO.
+
+ 
+
+That five hundred fifty million dollar raise accounts for sixteen percent of the three point three five billion invested in legal tech companies globally so far in 2026, according to PitchBook data.
+
+
+
+What does this mean practically? Harvey is now enterprise pricing with enterprise scale. 
+
+The company states that more than two hundred thousand professionals at over three thousand five hundred law firms and in-house legal teams in eighty-five plus countries use the platform.
+
+ 
+
+CVS Health, Cozen O'Connor, and Commercial Bank of Dubai announced in October and November 2026 that they had selected or deployed Harvey.
+
+ This is a platform that is pursuing large enterprise contracts and is competing directly with OpenAI and Google's legal vertical products. That is not necessarily the right fit for a solo or small GC office at a mid-sized media holding company.
+
+The more relevant comparison point is the purpose-built in-house market. 
+
+More than twenty-two hundred legal teams are using GC AI as of November 2026, including three hundred-plus public companies.
+
+ 
+
+GC AI positions itself as the only legal AI built end to end for in-house counsel, from web app and Word add-in to agent connectors that bring more than twenty apps into one chat, to a full API that extends playbooks into automated workflows.
+
+ 
+
+Thomson Reuters CoCounsel remains the strongest pick for research-intensive work, and in 2026 the notable characteristic is its bundling: it tends to arrive tied to Westlaw rather than as a clean standalone.
+
+
+
+The honest framing for a GC at a company like Firecrown is this: the question is not which platform is best in an abstract benchmark. It is which workflow actually creates leverage for a small team managing contracts across multiple brands, monitoring privacy and IP regulatory developments across two jurisdictions, and advising a founder-CEO on a mix of M-and-A activity, vendor relationships, and publishing economics. A purpose-built in-house tool that integrates into existing document workflows and can run regulatory monitoring alongside contract review is structurally more useful than a law-firm-grade research assistant that arrives at enterprise pricing. The IPO path for Harvey also matters: a company preparing for a public offering will be tightening its enterprise pricing model, not loosening it.
+
+[INDUSTRY ANGLE]
+
+The freight and transport picture heading into Thanksgiving week is one of the most interesting SONAR reads of 2026. Here is what the data actually says as of Monday.
+
+
+
+National truckload tender rejections have climbed to thirteen point six eight percent, roughly double the level from the same week a year ago, and already exceed last year's December holiday peak, with the seasonal peak still ahead. The tightening is sharpest in refrigerated, where reefer tender rejections reached twenty-two point seven four percent.
+
+ To translate that: more than one in eight contract loads is being rejected by carriers, sending freight to the more expensive spot market at a rate that exceeds last year's peak before we have even reached the peak. 
+
+On the rate side, spot truckload rates are sitting at three dollars and sixty-one cents per mile, roughly seventy-nine cents above the van contract rate of two dollars and eighty-two cents per mile.
+
+
+
+
+
+SONAR's Intermodal Contract Savings Index shows intermodal rates running twenty-nine point six percent below the truckload contract rate, nearly double the sixteen percent gap recorded a year ago.
+
+ That spread is what is driving the rail volume surge FreightWaves reported Tuesday. Shippers are moving eligible freight to rail precisely because the savings advantage over truck has approximately doubled year over year.
+
+Fuller's public comments this month frame the structural context. 
+
+Speaking at Optym's Convergence 2026 conference on November second, Fuller said small carriers and brokers waiting for Washington to ease up on trucking enforcement should not expect relief, because the industry's largest fleets now want the crackdown.
+
+ 
+
+Brokers went from handling six percent of freight in the early two-thousands to, in Fuller's words, probably in excess of thirty percent today.
+
+ 
+
+Fuller described trucking as suffering from "a security crisis, a safety crisis, and an economic crisis."
+
+ The convergence of FMCSA enforcement tightening capacity, broker liability exposure following the Montgomery versus Caribe Transport Supreme Court ruling, and a structurally tighter market ahead of peak season is producing a freight environment where FreightWaves content, SONAR data, and the specialized trade coverage of Trains-dot-com all become more commercially valuable, not less. When the operational stakes are high, readers pay for intelligence.
+
+On the marine side, 
+
+container shipping capacity reached twenty-one point six million TEU in scheduled services worldwide in November, up point eight percent month on month and one point four percent year on year, while analysts forecast the global container fleet will grow by four point six percent in 2026 and nine percent in 2027, with more than fourteen million TEU on order, representing approximately forty-two percent of existing fleet capacity.
+
+ That suggests downward rate pressure in ocean freight ahead of 2027 contract negotiations, which is relevant background for any shipper-side reader in the FreightWaves audience.
+
+On the air cargo side, 
+
+air cargo is earning strongly while Middle East tensions related to Strait of Hormuz disruptions keep demand for urgent airfreight high, with demand growing, capacity tight, and rates rising.
+
+ FLYING's editorial coverage of aviation economics has an unusually rich freight angle right now.
+
+[CLOSING BRIEF]
+
+Three things on the watch list as you head into the Thanksgiving break.
+
+First: the FTC comment deadline on impersonation ads is Sunday, November thirtieth. 
+
+The FTC is currently considering updates to its Impersonation Rule or a new rule to increase accountability for social media, search engines, and other digital marketplace platforms that further impersonation scams.
+
+ 
+
+The advance notice asks whether search, social, and marketplace ad-optimization tools must screen advertisers, with comments due November thirtieth.
+
+ If you buy programmatic advertising, this rulemaking could change what platforms are obligated to verify before accepting your dollars. That is worth a comment submission or at minimum a tracking memo.
+
+Second: watch the Third Circuit's Thomson Reuters ruling for downstream applications in news publishing copyright claims. 
+
+The court found that harm to both the existing market and the potential market for licensing training data was sufficient to defeat fair use, while leaving unresolved whether AI-generated works that compete with but do not copy original content can constitute cognizable harm.
+
+ That unresolved question is where the next wave of publisher-versus-AI litigation will likely land. FreightWaves, as a data journalism operation, has a specific stake in whether AI outputs that substitute for SONAR market intelligence constitute market harm under copyright analysis.
+
+Third: the SONAR Pricing Power Index. 
+
+Rail volume hit a new five-year high this week and the three-month outlook on the SONAR Pricing Power Index slipped one point to seventy-six.
+
+ The underlying market is tightening but the momentum has not yet fully broken into the typical holiday surge pattern. 
+
+With rejections holding at roughly double last year's level but showing little of the momentum typically expected ahead of peak season, the question is whether the market can sustain a meaningful holiday surge and what it signals for 2027 contract rates.
+
+ Given that FreightWaves subscription revenue is directionally tied to shipper and carrier urgency for real-time intelligence, the freight market read is both an editorial story and a business signal.
+
+[SIGNOFF]
+
+That is Morning Docket for Wednesday, November twenty-fifth, 2026. Tomorrow is Thanksgiving. If you are traveling, the data says your freight is probably moving by rail. I will be back Monday. Have a good break.
+END OF EPISODE.
