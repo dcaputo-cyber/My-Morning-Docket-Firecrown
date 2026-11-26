@@ -1,0 +1,285 @@
+MORNING DOCKET — Thursday, November 26, 2026
+A daily brief for the general counsel of a media company.
+
+Now I have all the research I need. Let me write the Morning Docket script.
+
+[COLD OPEN]
+
+Three things are quietly converging this Thanksgiving week that every general counsel at a media company should be watching. California's privacy regulator just hit Polaris Industries and Hertz in the same week, the same week that the SEC proposed its most sweeping executive compensation overhaul in twenty years, and the same week that the freight market SONAR tracks hit a Pricing Power Index reading of seventy-three — a signal the trucking cycle has genuinely turned. The quiet weeks are rarely quiet. Good morning.
+
+[INTRO]
+
+It is Thursday, November twenty-sixth, twenty twenty-six — Thanksgiving Day. This is Morning Docket, your legal and business briefing for the week. Today's edition covers a cluster of CCPA enforcement actions that arrived with unusual speed and coordination, the FTC's unredacted Amazon advertising auction case, the Third Circuit's first appellate word on AI training and copyright, the SEC's Item four-oh-two rewrite, and a close look at what SONAR's new Model Context Protocol product means — both for FreightWaves as a business and for how legal teams think about AI integrations. We'll close with the freight data itself, which is telling a pointed story heading into twenty twenty-seven contract season. Let's go.
+
+[HEADLINE ROUNDUP]
+
+The first item is California privacy enforcement, and the volume is worth noting. 
+
+On November nineteenth, the California Privacy Protection Agency board issued a decision requiring Polaris Industries to change its business practices and pay an administrative fine, in a matter that involved a joint investigation with the Minnesota Attorney General's Office.
+
+ 
+
+The enforcement division alleged that Polaris violated Californians' privacy rights, including by failing to address opt-out preference signals in its privacy policy or honor them when used by consumers, and by engaging in multiple prohibited sales and shares after consumer opt-outs.
+
+ Two days earlier, 
+
+CalPrivacy also announced a one-point-five-five-million-dollar settlement with the Hertz Corporation, also citing GPC opt-out failure and missing privacy policy rights.
+
+ Both cases arrived the same week. 
+
+At its November fifth and sixth board meeting, CalPrivacy voted unanimously to begin formal rulemaking on proposed amendments to the CCPA regulations.
+
+ 
+
+Those amendments address how businesses honor opt-out preference signals and report on consumer requests.
+
+ The pattern here is not subtle. 
+
+California regulators have announced seventeen-point-one million dollars in CCPA fines so far in twenty twenty-six, more than double the seven-point-nine million from every earlier year combined.
+
+ For media companies running behavioral advertising on any of their properties, opt-out signal processing is now the core compliance question — not a checkbox at the edge of the policy.
+
+The second headline: the FTC's Amazon advertising auction-rigging case got a lot more specific. 
+
+The Federal Trade Commission and twenty-two states filed an updated version of their complaint against Amazon with unredacted details about Amazon's alleged use of deceptive and unfair practices to secretly inflate prices in its online search advertising auction.
+
+ 
+
+The unredacted portions allege that Amazon secretly raises advertising prices by as much as fifty percent above auction results on ordinary days, and by as much as two hundred fifty percent on major shopping days like Prime Day or Black Friday.
+
+ 
+
+Internally, Amazon acknowledged that its price increases led to decreases in the advertiser's return on ad spend that were described internally as destroying campaign performance.
+
+ This matters for every publisher that sells advertising inventory and every brand that buys it. If the court accepts the government's theory, the structural integrity of auction-based ad pricing becomes a legal question, not just a competitive one. Comments on a parallel FTC notice about whether ad platforms must screen advertisers for impersonation — 
+
+a separate proceeding — are due by November thirtieth.
+
+ That deadline is tomorrow.
+
+Third: the AI training copyright docket is now moving at appellate speed. The summary judgment briefing in the OpenAI and Microsoft MDL — the consolidated case in the Southern District of New York combining claims from the New York Times, Ziff Davis, the Authors Guild, and others — 
+
+completed its reply brief phase on November twentieth under the schedule the court approved in September.
+
+ 
+
+In that case, the Justice Department filed a brief backing the AI companies' position that training is fair use.
+
+ Meanwhile, 
+
+the New York Times and the Daily News each filed separate copyright claims against Brave Software in the Southern District of New York, extending news publishers' litigation to AI-powered search.
+
+ And just this week, 
+
+a Canadian federal court released its decision in Clare v. Meta Platforms, in which Justice Gagné struck the statement of claim in a proposed class action brought by Canadian authors who alleged that Meta infringed their copyrights by downloading their books and using them to train its Llama large language models.
+
+ 
+
+The court held that copyright claims impugning activities that occurred entirely outside of Canada are beyond the scope of the Canadian Copyright Act.
+
+ A reminder that the jurisdictional layer of this litigation is as contested as the substantive fair use question.
+
+Fourth headline: the SEC issued its most consequential proposed rulemaking in this cycle. 
+
+On November thirteenth, the SEC proposed long-awaited amendments to the executive and director compensation disclosure requirements of Item four-oh-two of Regulation S-K, described as the most sweeping overhaul since two thousand six.
+
+ 
+
+Key elements would require detailed data only for principal executive officers and principal financial officers, replace the Summary Compensation Table with three new tables, narrow the Compensation Discussion and Analysis section to three topics, and raise the perquisite threshold from ten thousand dollars to one hundred fifty thousand dollars.
+
+ 
+
+The proposal is intended to reduce compliance burdens and provide investors with clearer, more concise disclosures through a more principles-based and materiality-driven framework.
+
+ Separately, 
+
+the SEC is proposing to rewrite the rules governing what makes it onto shareholder ballots, in a move that could reset how ESG and DEI proposals reach corporate boards.
+
+ If you have any public companies or publicly traded holdings in your corporate family, the comment period on the Item four-oh-two proposal is worth tracking closely.
+
+Fifth: on the UK side, 
+
+the Data Use and Access Act twenty twenty-five is now fully phased in, with most provisions commenced on February fifth twenty twenty-six, the complaints requirement on June nineteenth twenty twenty-six, and the ICO's governance reforms on September thirtieth twenty twenty-six.
+
+ The ICO, now formally restructured as the Information Commission under that Act, updated its law enforcement processing guidance on November ninth to reflect the new statutory framework. 
+
+The DUAA also expands PECR liability to include organizations that instigate the storage of or access to information on devices, not just those who place cookies directly.
+
+ That is a meaningful change for media companies with third-party advertising and analytics infrastructure on UK-facing properties. 
+
+From June twenty twenty-six, data subjects must first raise complaints with the controller before escalating to the ICO
+
+ — which creates an administrative buffer but also a new process obligation that your team needs to have staffed and documented.
+
+[DEEP DIVE]
+
+Today's deep dive is the Third Circuit's ruling in Thomson Reuters versus ROSS Intelligence, which was handed down on September twenty-ninth and whose full unsealed reasoning has been analyzed extensively in the weeks since. This is the first federal appellate decision to directly address fair use in the AI training context, and its implications for a media company that both creates and licenses content are worth unpacking carefully.
+
+
+
+The Third Circuit issued the first federal appellate decision directly addressing copyright fair use in the AI-training context. In a long-running and closely watched legal battle, the court affirmed a district court's decision that ROSS infringed the copyrights in Thomson Reuters's Westlaw headnotes by using them to train an AI-driven legal research tool.
+
+
+
+Here is what the court actually decided and what it deliberately left open. 
+
+The Third Circuit rejected ROSS's arguments that Westlaw's headnotes lacked sufficient originality for copyright protection and that ROSS's copying was fair use.
+
+ Walking through the four-factor analysis: on the first factor, transformativeness, 
+
+the Third Circuit found that ROSS's use was not sufficiently transformative for fair use purposes.
+
+ On the fourth factor, market harm, 
+
+Thomson Reuters already used headnotes to train its own AI search products, and the court concluded that ROSS Intelligence's unlicensed use deprived Thomson Reuters of the opportunity to license the headnotes for the same purpose.
+
+ 
+
+The court noted that the market for licensing headnotes as text to train AI is rapidly developing.
+
+
+
+Now here is the critical limitation. 
+
+The Third Circuit explicitly distinguished ROSS Intelligence's AI product from systems that can generate original expression, leaving the central generative-AI debate unresolved.
+
+ 
+
+Although the court did not rule on large language model training per se, the footnote suggests that generative AI developers may fare better on the first factor — but would still face the fourth factor, in which the Third Circuit counted the licensing market against ROSS.
+
+
+
+So what does this mean for Firecrown? Three dimensions.
+
+First, your content assets. FreightWaves, Trains.com, FLYING, Boating and Sailing — all of these publish editorial content that carries copyright. The ROSS ruling confirms that if an AI company used that content without a license to train a product that competes in your market, that is not automatically fair use. The court's fourth-factor reasoning — that there is a rapidly developing market for licensing content for AI training — is exactly the argument your team should be making if you are negotiating or litigating around training data use. The existence of an emerging licensing market is now a live factor in the analysis.
+
+Second, your own AI use. If Firecrown or any of its brands is building AI-assisted tools — editorial summarization, ad copy generation, search product features — the licensing provenance of your training data matters. The ROSS court's reasoning on the third factor, the amount and substantiality of the copying, is directly relevant. 
+
+The practical guidance emerging from this litigation is to evaluate acquisition, training, grounding, and output as distinct uses rather than treating all AI-related copying as a single activity.
+
+ That is a framework your legal and product teams should adopt internally.
+
+Third, the MDL in New York. 
+
+The OpenAI and Microsoft MDL combines copyright lawsuits filed by the New York Times, Ziff Davis, the Authors Guild, and others.
+
+ Ziff Davis is a direct peer. The outcome of that summary judgment will establish whether generative AI training on journalism falls on the same side of the line as ROSS's use of Westlaw headnotes. 
+
+The Third Circuit's analysis found harm to both the existing market for legal research and the potential market for licensing training data — but the court left unresolved whether AI-generated works that compete with but don't copy original content can constitute cognizable harm.
+
+ That unresolved question is the center of the generative AI dispute.
+
+Three concrete actions for your team. One: audit the licensing status of any third-party content in AI workflows you currently operate or are building — including data used in any FLYING or FreightWaves editorial AI features. Document that audit. The ROSS court's reasoning makes provenance documentation a litigation asset. Two: if you have not already begun conversations with AI companies about licensing your content for training, the fourth-factor analysis in ROSS gives you legal leverage. The court has now said the licensing market is real and legally cognizable. Three: monitor the MDL docket in New York. Reply briefs were due November twentieth. When the court schedules oral argument, that is a material event for the entire publishing industry's AI strategy.
+
+[GC BENCH]
+
+The GC Bench this week has two items — one specific to FreightWaves and one for the broader legal tech practice.
+
+The FreightWaves-specific development: 
+
+SONAR launched SONAR MCP on November tenth, a connector that puts its freight market intelligence directly inside compatible AI assistants like Claude, Copilot, and others.
+
+ 
+
+SONAR MCP offers twenty-four tools covering spot and contract rates, market conditions, lane intelligence, SONAR index data, ocean freight metrics, and FMCSA carrier safety statistics.
+
+ This is a product launch, yes, but it is also a business model signal. 
+
+Separately, Australia's Nine Entertainment has started a pilot of an authenticated Model Context Protocol service for its publishing business, allowing licensed B2B subscribers to integrate the media group's journalism into their enterprise AI workflows.
+
+ Two publishing companies — FreightWaves in freight intelligence, Nine in general journalism — both moving to MCP-based B2B integrations in the same month is not a coincidence. It is a strategic direction. The question for your corporate team is: what is the IP and data licensing architecture behind that connector? Who owns what flows through it, what are the data handling obligations under CCPA when user queries go to Claude or Copilot and SONAR data comes back, and does the existing subscriber agreement cover that use? Those are contract and privacy questions your team should be working through before this scales.
+
+On the broader legal tech front: 
+
+new research published in Legal Business on November eleventh, drawing on responses from more than two hundred fifty senior in-house lawyers across the UK and Europe, found that eighty-two percent of respondents are already implementing generative AI solutions within their teams.
+
+ 
+
+Almost eighty percent identified increasing workflow efficiency without adding headcount as a priority, while just five percent wanted to reduce the size of their in-house legal team.
+
+ The data point that should concern every GC is the governance gap. 
+
+Dentons research published the same week found that AI-generated complaints, grievances, and data requests are now flooding legal departments
+
+ — which means the volume pressure on your team is rising on both sides: from AI tools you operate and from AI-generated submissions you receive. The practical response is a triage protocol — not just for contract review but for inbound correspondence that may be AI-generated and structurally designed to trigger CCPA or GDPR response obligations.
+
+[INDUSTRY ANGLE]
+
+The freight market is telling a pointed story this Thanksgiving week, and for FreightWaves as a media and data business, it is the story underlying the audience.
+
+
+
+Rail volume hit a new five-year high and the spot-to-contract spread narrowed to its closest level to breakeven since the beginning of October. Rejection rates jumped ninety-one basis points to their highest reading since late October. The three-month outlook slips a point to seventy-six. This week's SONAR Pricing Power Index reading is seventy-three, up from sixty-eight.
+
+
+
+Zoom out to the structural picture. 
+
+Carriers are turning down about twice as many contracted loads as they did a year ago, and that rate has not come back down. SONAR data shows that tender rejections averaged six-point-eight percent in November twenty twenty-five. Through November twenty-fourth of this year, the average is thirteen percent — an increase of six-point-two percentage points.
+
+
+
+
+
+Truckload rates have finally outrun the cost of running a truck. SONAR's spot linehaul index is up about forty-nine percent in a year, and dry van contract base rates about twenty-five percent, while industry non-fuel operating costs rose four-point-two percent.
+
+ Yet 
+
+truckload rates rose far faster than costs in twenty twenty-six, and carriers keep failing
+
+ — the lag effect, as FreightWaves has named it, where the financial damage of the prior downturn is still working through balance sheets even as rates recover.
+
+On the intermodal side: 
+
+SONAR's Intermodal Contract Savings Index shows intermodal rates running twenty-nine-point-six percent below the truckload contract rate — nearly double the sixteen percent gap recorded a year ago.
+
+ 
+
+Rail volume hit a new five-year high at thirty-six thousand six hundred sixty-five loaded containers, reaching the hundredth percentile.
+
+
+
+For the ocean side: 
+
+Drewry's World Container Index sat near four thousand three hundred eighty-nine dollars per forty-foot container on November fifth, drifting down.
+
+ 
+
+Container shipping freight rates face renewed downward pressure heading into twenty twenty-seven contract negotiations as fleet expansion outpaces demand growth. The global container fleet is forecast to grow by four-point-six percent in twenty twenty-six and nine percent in twenty twenty-seven, with more than fourteen million TEU on order.
+
+
+
+For the FLYING and Boating and Sailing audience: 
+
+air cargo is earning strongly from a crisis that is hurting the rest of aviation. Demand is growing, capacity is tight, and rates are rising.
+
+ 
+
+Brent crude touched its highest level in almost six months as attacks on shipping around the Strait of Hormuz intensified. European airlines are paying more than two hundred dollars a barrel for jet fuel.
+
+ 
+
+Xeneta found that sixty percent of new airfreight contracts signed in the third quarter lasted three months or less
+
+ — a sign that buyers are refusing to lock in at elevated rates.
+
+The practical implication for Firecrown: the freight upcycle is real and maturing. That is the tailwind for FreightWaves audience engagement and SONAR subscription revenue. The question entering twenty twenty-seven budget season is whether contract rate negotiations — which SONAR data suggests have more room to run — translate into renewed enterprise spend on market intelligence. The SONAR PPI at seventy-three says carriers have pricing power. That tends to be when shippers spend more on data.
+
+[CLOSING BRIEF]
+
+Three things on the watch list.
+
+First: the FTC's comment period on whether ad platforms must screen advertisers for impersonation scams closes tomorrow, November thirtieth. If you have programmatic advertising running on any Firecrown property — and you do — this proceeding directly concerns your platform obligations and potential liability for fraudulent ads appearing alongside your content. File a comment or at minimum review the notice and brief your compliance team before year-end.
+
+Second: the OpenAI MDL in New York. Reply briefs were due November twentieth. The parties have requested oral argument. When the court schedules that hearing, it will be the most important single event in publishing law since the Google Books decision. Your AI content strategy — for every brand in the portfolio — should have a contingency framework for both outcomes on the fair use question.
+
+Third: the CCPA opt-out preference signal rulemaking that CalPrivacy formally initiated this month. 
+
+California's AB five-sixty-six, the Opt Me Out Act, takes effect January first twenty twenty-seven, requiring browser developers to include an easy-to-find setting that sends an opt-out preference signal.
+
+ That is thirty-six days away. If any Firecrown property's consent management platform is not already configured to recognize and honor GPC signals, that is not a twenty twenty-seven project. It is a right-now project.
+
+[SIGNOFF]
+
+That is Morning Docket for Thursday, November twenty-sixth. Wherever you are today, enjoy Thanksgiving. We'll be back Monday with the week's first look. If something breaks over the long weekend — and something usually does — we will update accordingly. Travel safe.
+END OF EPISODE.
