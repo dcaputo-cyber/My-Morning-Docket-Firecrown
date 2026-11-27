@@ -1,0 +1,253 @@
+MORNING DOCKET — Friday, November 27, 2026
+A daily brief for the general counsel of a media company.
+
+Now I have comprehensive, well-sourced information across all the required topic areas. I will now write the full Morning Docket script.
+
+[COLD OPEN]
+
+Three developments landed on the same week that demanded attention from every general counsel at a media company. California's privacy agency hit FedEx with its largest fine yet for lying about behavioral advertising in its own privacy policy. The Third Circuit handed down an AI copyright ruling that cuts both ways for publishers — affirming traditional fair use analysis while leaving the market harm question open. And the Union Pacific-Norfolk Southern merger, now a seventy-one-and-a-half-billion-dollar deal before the Surface Transportation Board, is drawing opposition from fifty-seven parties and a bipartisan block of eight U.S. senators, with today being one of the STB's own procedural deadlines. These are not theoretical risks. They are the week's actual landscape.
+
+[INTRO]
+
+Good morning. It is Friday, November twenty-seventh, twenty twenty-six. This is Morning Docket. I am your host, and you are commuting into the last working day of Thanksgiving week — a short week with an unusually dense legal calendar. Today we cover five headline items spanning California privacy enforcement, FTC advertising platform scrutiny, the AI copyright litigation front, the SEC's dual move on executive pay disclosure and AI fraud warnings, and the UK's new Information Commission. We then go deep on the Third Circuit's Thomson Reuters v. ROSS Intelligence ruling and what it means for a media company licensing its content. We visit the GC Bench on Harvey's IPO conversations and what the legal tech concentration means for your contract with outside counsel. We close with the freight and transport signals you need heading into the weekend, including this morning's STB deadline on the UP-NS merger. Let's begin.
+
+[HEADLINE ROUNDUP]
+
+First item. California's privacy agency — now formally called CalPrivacy — delivered its heaviest enforcement week since the CCPA took effect. 
+
+The CalPrivacy Board issued a decision requiring Federal Express to pay an administrative fine of two point nine seven five million dollars and adjust its business practices, with the enforcement division alleging that FedEx falsely stated it did not sell or share personal information when it was participating in cross-context behavioral advertising.
+
+ That is the agency's largest single penalty on record. 
+
+In the same stretch, Hertz was ordered to pay one point five five million dollars.
+
+ 
+
+Polaris, the powersports manufacturer, settled for nine hundred ten thousand dollars over Global Privacy Control opt-out failures, unlawful identity verification requirements, and missing privacy policy disclosures.
+
+ 
+
+That Polaris action was notable because it was a joint investigation coordinated with the Minnesota Attorney General — the first publicly confirmed cross-state enforcement collaboration of its kind under the new Consortium of Privacy Regulators.
+
+ For Firecrown and its brands: behavioral advertising is the common thread in every recent case. If your sites run cross-context retargeting and your privacy policy does not say so expressly, you are on the same footing FedEx was before the investigation opened.
+
+Second item. 
+
+At its November fifth and sixth meeting, the CalPrivacy Board voted unanimously to begin formal rulemaking on proposed amendments to the CCPA regulations.
+
+ 
+
+The amendments address how businesses honor opt-out preference signals and report on consumer requests, and separately, staff proposed clarifying that privacy policies must expressly state whether the business sold or shared personal information during the preceding twelve months.
+
+ That second prong is what caught FedEx. This rulemaking is now in a formal comment period, and the agency will be writing rules around obligations that it is simultaneously enforcing. Participation in that comment process is not just civic virtue — it is a chance to shape how those obligations land on digital publishers.
+
+Third item. The FTC is tightening its grip on advertising platforms. 
+
+The agency published an advance notice of proposed rulemaking in the Federal Register on October first asking whether search, social, and marketplace advertising optimization tools must screen advertisers more rigorously for impersonation fraud, with comments due today, November thirtieth.
+
+ 
+
+FTC Deputy Director Katherine White, speaking at the NAD Annual Conference, repeatedly emphasized that advertising platforms have incentives to maximize clicks and engagement without internalizing the costs — describing consumer deception as an externality that needs to be addressed.
+
+ 
+
+Meanwhile, the AI-washing enforcement pattern continued, with August twenty twenty-six final orders against Cox Media Group and two partner firms over exaggerated claims about an AI quote smart listening advertising platform.
+
+ If Firecrown's brands offer advertising products — including programmatic or audience-extension tools — today's FTC comment deadline is worth flagging to any agency or vendor partners who have not yet weighed in.
+
+Fourth item. The SEC delivered two moves in the same week that pull in different directions but carry the same underlying message: accuracy matters. 
+
+On November thirteenth, the SEC proposed broad amendments to the executive and director compensation disclosure requirements in Item 402 of Regulation S-K, with the stated intent to make those requirements more principles-based and materiality-driven, providing investors with clearer and less complex disclosures.
+
+ 
+
+The proposed amendments would narrow the pool of named executive officers, replace the principal compensation tables, and simplify narrative and quantitative disclosure requirements.
+
+ That is deregulatory in intent. But simultaneously, 
+
+on October thirtieth, SEC Enforcement Director David Woodcock confirmed that the Division of Enforcement is actively scrutinizing public companies' disclosures about artificial intelligence.
+
+ 
+
+Woodcock characterized AI-related enforcement cases as, in his words, "really just fraud cases for the most part," and the SEC is applying existing disclosure, fraud, compliance, and supervisory rules to AI with increasing vigor.
+
+ Firecrown is private, so the SEC disclosure rules do not bind you directly. But your investors, your lenders, and any future strategic acquirer will look through the same materiality lens when they evaluate how you characterize your AI use internally.
+
+Fifth item. Across the Atlantic, 
+
+under statutory instrument SI 2026/1015, in force September thirtieth twenty twenty-six, the Information Commissioner's Office was formally abolished and its functions transferred to the new Information Commission.
+
+ The rebrand is structural but the enforcement authority is undiminished. 
+
+The enforcement changes in the Data Use and Access Act are described as the most consequential aspect of that legislation for many businesses, and the new powers generally apply to conduct from February fifth twenty twenty-six onwards.
+
+ 
+
+The Act turned complaint-handling from good practice into a legal duty: a data subject now has a statutory right to complain directly to an organization, and the organization must acknowledge that complaint within thirty days.
+
+ For Firecrown's UK-facing titles, including the content that Trains.com and FLYING publish to British audiences, this complaint-handling timeline is now a hard deadline that belongs in your data protection procedures manual, not just your privacy policy.
+
+[DEEP DIVE]
+
+The ruling that deserves a full ten minutes this morning is the Third Circuit's decision in Thomson Reuters versus ROSS Intelligence, handed down at the end of last week. I want to give you the architecture of the ruling and then work through the implications for a media company that publishes proprietary data and editorial content.
+
+Here is what happened at the case level. ROSS Intelligence built a competing legal research platform by using Westlaw headnotes — editorially curated summaries of judicial holdings — to train its AI model. Thomson Reuters sued for copyright infringement. ROSS argued fair use. 
+
+The Third Circuit's decision found that ROSS's use of those Westlaw headnotes to build a competing legal research product was not protected fair use, because it harmed both the existing market for legal research and the potential market for licensing training data.
+
+ 
+
+The court left unresolved whether AI-generated works that compete with but do not directly copy original content can constitute cognizable harm under copyright law.
+
+
+
+The core of the analysis is the fourth factor of the fair use test — market effect. The court's reasoning was that ROSS was not just learning from Westlaw; it was building a product designed to replace Westlaw. 
+
+The authoring judge, Tamika Montgomery-Reeves, wrote that under ROSS's framing the case might appear to concern the future of AI legal technology, but that appearances can be deceiving, and that in truth this is no more than an ordinary copyright case.
+
+ That framing matters. The court is saying it did not need to resolve the AI-training question as a novel category. It applied conventional fair use factors and found the fourth factor dispositive.
+
+Now put this next to the broader litigation landscape. 
+
+OpenAI published excerpts from twenty amicus filings urging a New York court to find that training large language models on copyrighted works is fair use.
+
+ 
+
+In the consolidated OpenAI copyright litigation in New York, Judge Sidney Stein allowed fifty-six amicus briefs on the cross-motions for summary judgment, and a November twelfth order gave the plaintiffs until November twenty-fifth to seek summary judgment on output claims.
+
+ 
+
+The Trump administration has taken the position in that litigation that AI training may qualify as fair use.
+
+ And just this week, 
+
+a Canadian federal court struck a proposed class action claim by Canadian authors against Meta, with Justice Gagné ruling that activities occurring entirely outside Canada are beyond the scope of that country's Copyright Act.
+
+ 
+
+Separately, the New York Times and the Daily News have each filed copyright claims against Brave Software in the Southern District of New York, extending news publishers' litigation to AI-powered search.
+
+
+
+What does this mean for Firecrown specifically? Three things.
+
+First, the ROSS ruling establishes a market harm framework that is favorable to data publishers. FreightWaves and SONAR generate proprietary, high-frequency freight market data. If an AI model were trained on that data and the resulting tool competed directly with SONAR as a market intelligence product, the ROSS analysis is your friend. The key evidentiary work is documenting: one, that the data is editorially curated or analytically transformed — not raw commodity data; two, that a licensing market for that data exists or is foreseeable; and three, that the infringing use would substitute for, not merely reference, the original product. That documentation should be in your data agreements and your SONAR terms of service today, not in a declaration after a lawsuit is filed.
+
+Second, the ROSS ruling does not resolve the broader training question. The court was explicit that it was ruling on a commercial competitor use case. The SDNY litigation — which involves news publishers and may ultimately reach the Supreme Court — is on a different trajectory, and the Justice Department's position supporting OpenAI adds political complexity. Do not read ROSS as settling the matter.
+
+Third, your existing content licensing structure matters enormously. If your content agreements with wire services, freelancers, or syndication partners do not address AI training rights, you are likely both unprotected as a licensor and potentially exposed as a licensee. A short-form audit of your top twenty content agreements — looking specifically for AI-training clauses and sublicensing restrictions — is the most useful thing your team can do before the SDNY summary judgment arguments get scheduled.
+
+Three concrete actions for the week ahead.
+
+One: direct your IP counsel to review the ROSS decision for specific language on the fourth fair use factor's treatment of training data licensing markets, and map that language onto your SONAR and FreightWaves data licensing agreements. Any agreement that does not restrict AI training use is a gap.
+
+Two: if you have not responded to the FTC's ad platform advance notice — the comment period closes today — flag it for your next regulatory calendar cycle. The question of platform liability for fraudulent impersonation advertising could directly affect any brand-advertising product Firecrown runs.
+
+Three: for FLYING, Boating and Sailing, and Trains.com, review the affirmative coverage those brands produce about AI-powered aircraft systems, autonomous vessels, and rail automation. If you are quoting company executives about AI capabilities in those stories, you have a reputational and potentially a legal interest in accuracy standards that parallel what the SEC is now enforcing in public company disclosures. Editorial accuracy standards and legal risk management are not separate conversations anymore.
+
+[GC BENCH]
+
+The legal tech story this week is Harvey. 
+
+In September twenty twenty-six, Harvey raised five hundred fifty million dollars at a valuation of fifteen point five billion dollars, in a round co-led by Diffusion Capital Partners and Lightspeed Venture Partners.
+
+ 
+
+The round lifted Harvey's annual recurring revenue to four hundred million dollars as law firms doubled down on generative AI.
+
+ And now, 
+
+Harvey has held early talks about an initial public offering.
+
+
+
+
+
+Harvey states that more than two hundred thousand professionals at over thirty-five hundred law firms and in-house legal teams in eighty-five-plus countries use the platform, with CVS Health, Cozen O'Connor, and Commercial Bank of Dubai among those selecting or deploying it in October and November of this year.
+
+
+
+The strategic question for a solo or small in-house team is what this concentration of capital means for your vendor relationships. 
+
+In Q3 twenty twenty-six, the three largest legal AI funding transactions captured eighty-eight percent of all capital deployed — Harvey at five hundred fifty million, Norm AI at a hundred twenty million, and Noxtua at over a hundred seventeen million.
+
+ When capital concentrates that heavily around two or three platforms, the mid-tier tools that served small legal departments adequately may face consolidation or pricing pressure. If you are currently evaluating legal AI tools, the practical implication is that your procurement decision is also a bet on vendor stability.
+
+
+
+The in-house counsel AI software landscape in twenty twenty-six broadly breaks into four groups: purpose-built legal AI for in-house counsel — including GC AI, Ivo, and Legalfly; firm-side tools like Harvey and Spellbook; dedicated contract review platforms; and general-purpose AI with legal use cases.
+
+ For a media GC managing contracts across five or six distinct brands — each with its own advertiser agreements, syndication deals, e-commerce vendor contracts, and data licenses — the highest return on a legal AI investment is probably in a contract review and clause extraction tool that can flag non-standard risk provisions across the portfolio automatically. That is a workflow justification you can take to the CFO with a concrete time estimate.
+
+One note: Harvey's IPO conversations are early and unconfirmed. But if that deal materializes in twenty twenty-seven, enterprise pricing and customer terms tend to change post-IPO as companies optimize for revenue recognition. If you are negotiating or renewing a legal AI contract, adding a price stability clause for the first renewal period is worth doing now.
+
+[INDUSTRY ANGLE]
+
+The freight and transport picture this week is defined by two signals that point in different directions, and the rail story that is literally on the STB's docket this morning.
+
+On trucking: 
+
+truckload tender rejections are holding near twelve point eight percent — roughly double the six percent recorded at the same point last year — but the market is showing little of the tightening momentum typically expected ahead of peak season, raising questions about whether the freight market can sustain a meaningful holiday surge and what it signals for twenty twenty-seven contract rates.
+
+ 
+
+Truckload tender rejections jumped nearly a full point ahead of Thanksgiving, and reefer rejections hit about twenty-three percent.
+
+ 
+
+November's Outbound Tender Volume Index averaged eleven thousand four hundred thirty-four, up twelve percent from November last year and up roughly three percent from October — the first meaningful demand build the market has seen heading into the holidays, according to Craig Fuller.
+
+ SONAR's data is telling two stories simultaneously: demand is building, but the momentum is not translating into the tight market that carriers had expected. Contract rate negotiations heading into twenty twenty-seven will be contested.
+
+On marine: 
+
+UNCTAD projects global seaborne trade to stall in twenty twenty-six as Strait of Hormuz traffic collapsed following the conflict that broke out in February.
+
+ 
+
+Marine fuel costs have climbed nearly eighty percent from pre-disruption levels, and vessels are traveling longer distances to avoid the strait, with many continuing around the Cape of Good Hope, although some carriers have begun resuming Red Sea operations.
+
+ 
+
+Drewry's World Container Index sat near four thousand three hundred eighty-nine dollars per forty-foot container on November fifth, drifting downward
+
+ — which suggests that the rerouting premium is slowly unwinding, but the base cost structure has not normalized.
+
+On air freight: 
+
+transpacific air freight rates continued to strengthen through October and into early November, supported by sustained peak-season demand, with the Baltic Air Freight Index for the Shanghai-to-North America lane up seven point one percent entering November, reflecting demand from electronics, semiconductor, AI hardware, and e-commerce sectors.
+
+ For the FLYING audience, the air freight picture is one of structural tightness driven by technology demand — a storyline with direct editorial relevance to coverage of cargo aviation economics.
+
+And on rail — the story is this morning's STB deadline. 
+
+The proposed Union Pacific-Norfolk Southern merger would create what the companies describe as the first single-line transcontinental railway in the United States, covering more than fifty thousand route miles across forty-three states, and the companies estimate the merger could shift approximately two point one million truckloads annually from road to rail.
+
+ 
+
+A bipartisan group of eight U.S. senators called on the Surface Transportation Board to reject the merger, which is structured as a seventy-one-and-a-half-billion-dollar acquisition of Norfolk Southern stock.
+
+ 
+
+Opposition widened this week as fifty-seven additional parties formally challenged the transaction in the latest round of STB comments.
+
+ 
+
+Today, November twenty-seventh, is the deadline for comments on whether responsive applications are complete, at noon Eastern.
+
+ FreightWaves and Trains.com are both covering this story, and the regulatory outcome will shape North American rail economics for a generation. The STB's review of the revised application is now fully active.
+
+[CLOSING BRIEF]
+
+Three things on the watch list heading into next week.
+
+First: the SDNY OpenAI summary judgment briefing. Reply briefs were due November twentieth. The parties have requested oral argument. When Judge Sidney Stein schedules that argument, it will be the most consequential copyright hearing in a decade for media companies. When a date is announced, clear your calendar and read the briefs directly.
+
+Second: the CalPrivacy formal rulemaking on opt-out signals and privacy policy disclosure. The agency is simultaneously enforcing and writing rules. The comment period on the November rulemaking will open in the coming weeks. Any digital publisher that runs behavioral advertising — which includes contextual ad targeting tied to audience data — should have counsel participate in that process.
+
+Third: the Information Commission in the UK. As of September thirtieth, the ICO is gone as a legal entity, and the Information Commission is enforcing the Data Use and Access Act's new complaint-handling duties. If you have not updated your data subject rights workflows to include the statutory thirty-day acknowledgment obligation for UK data subjects, that is a compliance gap that is now live and actively enforceable. Firecrown's UK-visible brands should have this in place before the new year.
+
+[SIGNOFF]
+
+That is Morning Docket for Friday, November twenty-seventh, twenty twenty-six. Have a measured long weekend. If you are using the time to review contracts, the ROSS decision is worth forty-five minutes of your attention. It is a short opinion with practical implications that extend well beyond legal research software. We will be back Monday. Safe travels.
+END OF EPISODE.
